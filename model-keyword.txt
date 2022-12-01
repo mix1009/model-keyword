@@ -59,4 +59,31 @@ a2a802b2, 16-bit-landscape pixel art style, pixelLandscapes_v1.ckpt
 e6184e6b, sks woman|(sks woman)|((sks woman)), sandraBullock_v1.ckpt
 98891ea9, an illustration of an isometric city, digital art, highly detailed, isometricCities_v1.ckpt
 26621fc2, tdst style, stylizR_v1.ckpt
-
+a2a802b2, microworld render style, microWorlds_v1.ckpt
+fdbb23ad, D&D character, dungeonsAndDiffusion_model30000.ckpt
+b47ad8fe, D&D character, dungeonsAndDiffusion_model16000.ckpt
+2e6bbced, vectorartz, vectorartzDiffusion_v1.ckpt
+3f095502, mdjrny-shttr, midjourneyShatter_v1.ckpt
+e0a3ab60, xivcine person, finalFantasyXivPe..._personV1.ckpt
+66b4c45e, archer style, archerDiffusion_v1.ckpt
+e02601f3, guohua style, guohaDiffusion_v1.ckpt
+101d2d78, barbieworld, barbieWorld_v1.ckpt
+e4d945bf, origtron, tron1982Style_theOneAndOnly.ckpt
+50444ca2, trnlgcy, tronLegacyDiffusion_v1.ckpt
+8a648075, sks jinx|jinx, jinxFromArcane_v1.ckpt
+643afbd9, Microscopic, microscopic_v1.ckpt
+ed87e89c, tchnclr style, technicolor50SDif..._v1.ckpt
+a2a802b2, spiderverse style, spiderVerse_v1.ckpt
+aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS, pixelArtSpriteDif..._v1.ckpt
+69389227, borderlands, borderlands_v1.ckpt
+a2a802b2, SKSKS art style, pixelArt_v1.ckpt
+645a42cf, newstl, jojoSBizarreDiffu..._v1.ckpt
+e93cb7f3, hrrzg, fredHerzogPhotogr..._v1.ckpt
+a6428756, holliemengert artstyle, hollieMengertIllu..._v1.ckpt
+d80ad84b, mdjrny-grfft, midjourneyGraffiti_v1.ckpt
+a2a802b2, discoelysium style, discoElysium_v1.ckpt
+a41a2496, gigachad, gigachadDiffusion_v1.ckpt
+b4cba599, Mona woman|Mona, mona_v1.ckpt
+674e38cf, Mtg art, artOfMagicTheGath..._16.ckpt
+48d0f413, Mtg art, artOfMagicTheGath..._32.ckpt
+12c978ba, Shigenori Style, persona5Shigenori..._v1.ckpt
