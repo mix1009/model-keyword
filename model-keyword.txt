@@ -8,5 +8,55 @@ c5943e55, mdjrny-pprct
 59724734, IconsMi
 a2a802b2, SKSKS app icon, App_Icons_V1_PublicPrompts.ckpt
 a2a802b2, 16-bit-landscape pixel art style, 16-bit-landscape_PublicPrompts.ckpt
-4d5cca44, TinyPlanet|TinyCityPlanet
-e516b6bd, SamDoesArt
+4d5cca44, TinyPlanet|TinyCityPlanet, tinyPlanets_tinyPlanetsV1.ckpt
+b3276bb9, Umbreon|Vaporeon|Glaceon|Sylveon|Espeon|Jolteon|Flareon|Eevee, eeveelutions_eeveelutionsV1.ckpt
+74f4c61c, redshift style, redshiftDiffusion_v1.ckpt
+2a3e365b, arcane style, arcaneDiffusion_v1.ckpt
+94674f07, nvinkpunk, inkpunkDiffusion_v1.ckpt
+9571b2c7, nvinkpunk, inkpunkDiffusion_v2.ckpt
+ccf3615f, modern disney style, modernDisney_v1.ckpt
+d9aa872b, food_crit, jaksCreepyCritter..._v1.ckpt
+8b3c8f11, comicmay artsyle, comicDiffusion_v2.ckpt
+234cc409, comicmay artsyle, comicDiffusion_v1.ckpt
+be4652f1, samdoesarts, jhSSamdoesarts_v5.ckpt
+e0d019bb, samdoesarts, jhSSamdoesarts_v2.ckpt
+4449cdac, samdoesarts, jhSSamdoesarts_v3.ckpt
+c0e7c884, snthwve style|nvinkpunk, synthwavePunk_v1.ckpt
+27ea8c02, snthwve style|nvinkpunk, synthwavePunk_v2.ckpt
+edf5c25b, sks woman, gillianAnderson_v1.ckpt
+4aef3692, sks woman, feliciaDay_v1.ckpt
+08f7a22d, Papercut, papercut_v1.ckpt
+5dbcf115, feralplmr, feralplmerModel_v1.ckpt
+916ea38c, pixelsprite|16bitscene, allInOnePixelModel_v1.ckpt
+f6ca0e2b, comicmay, superheroDiffusion_v1.ckpt
+5e107da3, ComplexLA style, complexLineart_v1.ckpt
+3ee7d195, yoshin style, yoShinDiffusion_yoShin10.ckpt
+a2a802b2, JWST, deepSpaceDiffusion_v1.ckpt
+ebc4e0a9, RottingZombie person, theWalkingDeadZom..._10.ckpt
+6bb23006, elden ring style, eldenRingStyle_v3.ckpt
+a2a802b2, elden ring style, eldenRingStyle_v1.ckpt
+16d77205, elden ring style, eldenRingStyle_v2.ckpt
+caea14ad, lvngvncnt, vanGoghDiffusion_v1.ckpt
+f5d9c703, snthwve style, synthwave_v1.ckpt
+6b4ca475, knollingcase, knollingcase_v1.ckpt
+68b463ba, clazy style, clazy_clazy2600.ckpt
+5c720792, serphm, seraphm_v1.ckpt
+64e73fcb, dbz style, diffusionballZ_v1.ckpt
+99af29f7, archer style|arcane style|modern disney style, nitroDiffusion_v1.ckpt
+57b149de, voxel-ish, jakSVoxelIshImage..._v1.ckpt
+521893a1, voxel-ish, jakSVoxelIshImage..._v12.ckpt
+2fd6057b, Batman_the_animated_series , dcAnimatedUniverse_v1.ckpt
+8687d7a5, samdoesarts style, samdoesartsUltmerge_v1.ckpt
+85b77ff9, samdoesarts style, samdoesartsHomage_v1.ckpt
+a9e3e060, ChromaV5, chromaV5_chromaV5.ckpt
+be7ddafc, classic disney style, classicAnimationD..._v1.ckpt
+e516b6bd, samdoesarts, samdoesartsV2_v2.ckpt
+a48a2a1b, ghibli style, ghibliDiffusion_v1.ckpt
+a2a802b2, SKSKS app icon, appIconsGenerator_v1.ckpt
+2bb2342e, rotoscopee, rotoscopee_v1.ckpt
+a2a802b2, 16-bit-landscape pixel art style, pixelLandscapes_v1.ckpt
+7b8aff9d, Pokemon, pokemonStyle_v1.ckpt
+e6184e6b, sks woman|(sks woman)|((sks woman)), sandraBullock_v1.ckpt
+98891ea9, an illustration of an isometric city, digital art, highly detailed, isometricCities_v1.ckpt
+26621fc2, tdst style, stylizR_v1.ckpt
+
