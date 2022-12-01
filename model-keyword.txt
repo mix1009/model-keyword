@@ -1,0 +1,12 @@
+# Do NOT update this file. It can be overwritten when updating.
+# add new entry to model-keyword-user.txt
+# 
+#model_hash,keyword,filename.ckpt
+41fef4bd, nousr robot
+ddc6edf2, mdjrny-v4 style
+c5943e55, mdjrny-pprct
+59724734, IconsMi
+a2a802b2, SKSKS app icon, App_Icons_V1_PublicPrompts.ckpt
+a2a802b2, 16-bit-landscape pixel art style, 16-bit-landscape_PublicPrompts.ckpt
+4d5cca44, TinyPlanet|TinyCityPlanet
+e516b6bd, SamDoesArt

@@ -1,0 +1,12 @@
+# csv file for adding custom model_hash to keyword mapping
+# line starting with # is ignored.
+#
+# model_hash, keyword
+#41fef4bd, nousr robot
+#
+# model provides multiple keywords
+#4d5cca44, TinyPlanet|TinyCityPlanet
+#
+# in case there is a hash collision. it will use the closest matching filename.ckpt
+# model_hash, keyword, filename.ckpt
+#a2a802b2, SKSKS app icon, App_Icons_V1_PublicPrompts.ckpt
