@@ -11,6 +11,8 @@ import difflib
 import random
 
 kw_idx = 0
+hash_dict = None
+hash_dict_modified = None
 
 def str_simularity(a, b):
     return difflib.SequenceMatcher(None, a, b).ratio()
@@ -32,33 +34,47 @@ class Script(scripts.Script):
 
         return [info, keyword_placement, multiple_keywords]
 
+    def load_hash_dict(self):
+        global hash_dict, hash_dict_modified, scripts_dir
+
+        default_file = f'{scripts_dir}/model-keyword.txt'
+        user_file = f'{scripts_dir}/model-keyword-user.txt'
+        modified = str(os.stat(default_file).st_mtime) + '_' + str(os.stat(user_file).st_mtime)
+
+        if hash_dict is None or hash_dict_modified != modified:
+            hash_dict = {}
+            def parse_file(path):
+                with open(path, newline='') as csvfile:
+                    csvreader = csv.reader(csvfile)
+                    for row in csvreader:
+                        try:
+                            mhash = row[0].strip(' ')
+                            kw = row[1].strip(' ')
+                            if mhash.startswith('#'):
+                                continue
+                            ckptname = 'default' if len(row)<=2 else row[2].strip(' ')
+                            if mhash in hash_dict:
+                                lst = hash_dict[mhash]
+                                lst.append((kw, ckptname))
+                                hash_dict[mhash] = lst
+                            else:
+                                hash_dict[mhash] = [(kw, ckptname)]
+                        except:
+                            pass
+
+            parse_file(default_file)
+            parse_file(user_file)
+
+            hash_dict_modified = modified
+
+        return hash_dict
+
     def run(self, p, _, keyword_placement, multiple_keywords):
 
         # hash -> [ (keyword, ckptname) ]
-        mp_dict = {}
-        def parse_file(filename):
-            with open(f'{scripts_dir}/{filename}', newline='') as csvfile:
-                csvreader = csv.reader(csvfile)
-                for row in csvreader:
-                    try:
-                        mhash = row[0].strip(' ')
-                        kw = row[1].strip(' ')
-                        if mhash.startswith('#'):
-                            continue
-                        ckptname = 'default' if len(row)<=2 else row[2].strip(' ')
-                        if mhash in mp_dict:
-                            lst = mp_dict[mhash]
-                            lst.append((kw, ckptname))
-                            mp_dict[mhash] = lst
-                        else:
-                            mp_dict[mhash] = [(kw, ckptname)]
-                    except:
-                        pass
+        hash_dict = self.load_hash_dict()
 
-        parse_file('model-keyword.txt')
-        parse_file('model-keyword-user.txt')
-
-        # print(mp_dict)
+        # print(hash_dict)
 
         model_ckpt = os.path.basename(shared.sd_model.sd_checkpoint_info.filename)
         model_hash = shared.sd_model.sd_model_hash
@@ -79,8 +95,7 @@ class Script(scripts.Script):
                     kw = kws[0]
                 elif multiple_keywords=="keyword2":
                     kw = kws[1]
-
-
+                    
             if keyword_placement == 'keyword prompt':
                 return kw + ' ' + prompt
             elif keyword_placement == 'keyword, prompt':
@@ -91,8 +106,8 @@ class Script(scripts.Script):
                 return prompt + ', ' + kw
             return kw + ' ' + prompt
 
-        if model_hash in mp_dict:
-            lst = mp_dict[model_hash]
+        if model_hash in hash_dict:
+            lst = hash_dict[model_hash]
             if len(lst) == 1:
                 kw = lst[0][0]
                 p.prompt = new_prompt(p.prompt, kw)
@@ -106,6 +121,4 @@ class Script(scripts.Script):
                         kw = kw_ckpt[0]
                 p.prompt = new_prompt(p.prompt, kw)
 
-
         return process_images(p)
-
