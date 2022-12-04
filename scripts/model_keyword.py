@@ -3,13 +3,11 @@ import gradio as gr
 import csv
 import os
 
-scripts_dir = scripts.basedir()
-
-from modules.processing import process_images
 import modules.shared as shared
 import difflib
 import random
 
+scripts_dir = scripts.basedir()
 kw_idx = 0
 hash_dict = None
 hash_dict_modified = None
@@ -21,18 +19,24 @@ class Script(scripts.Script):
     def title(self):
         return "Model keyword"
 
+    def show(self, is_img2img):
+        return scripts.AlwaysVisible
+
     def ui(self, is_img2img):
-        info = gr.HTML("<p style=\"margin-bottom:0.75em\">You can edit extensions/model-keyword/model-keyword-user.txt to add custom mappings</p>")
+        with gr.Group():
+            with gr.Accordion('Model Keyword', open=False):
+                is_enabled = gr.Checkbox(label='Model Keyword Enabled', value=True)
+                info = gr.HTML("<p style=\"margin-bottom:0.75em\">You can edit extensions/model-keyword/model-keyword-user.txt to add custom mappings</p>")
 
-        keyword_placement = gr.Dropdown(choices=["keyword prompt", "prompt keyword", "keyword, prompt", "prompt, keyword"],
-                                 value='keyword prompt',
-                                 label='Keyword placement:')
+                keyword_placement = gr.Dropdown(choices=["keyword prompt", "prompt keyword", "keyword, prompt", "prompt, keyword"], 
+                                value='keyword prompt',
+                                label='Keyword placement:')
 
-        multiple_keywords = gr.Dropdown(choices=["keyword1, keyword2", "random", "iterate", "keyword1", "keyword2"],
+                multiple_keywords = gr.Dropdown(choices=["keyword1, keyword2", "random", "iterate", "keyword1", "keyword2"],
                                  value='keyword1, keyword2',
                                  label='Multiple keywords:')
 
-        return [info, keyword_placement, multiple_keywords]
+        return [is_enabled, info, keyword_placement, multiple_keywords]
 
     def load_hash_dict(self):
         global hash_dict, hash_dict_modified, scripts_dir
@@ -69,7 +73,12 @@ class Script(scripts.Script):
 
         return hash_dict
 
-    def run(self, p, _, keyword_placement, multiple_keywords):
+    def process(self, p, is_enabled, _, keyword_placement, multiple_keywords):
+
+        if not is_enabled:
+            global hash_dict
+            hash_dict = None
+            return
 
         # hash -> [ (keyword, ckptname) ]
         hash_dict = self.load_hash_dict()
@@ -79,7 +88,7 @@ class Script(scripts.Script):
         model_ckpt = os.path.basename(shared.sd_model.sd_checkpoint_info.filename)
         model_hash = shared.sd_model.sd_model_hash
 
-        def new_prompt(prompt, kw):
+        def new_prompt(prompt, kw, no_iter=False):
             global kw_idx
             kws = kw.split('|')
             if len(kws) > 1:
@@ -90,7 +99,8 @@ class Script(scripts.Script):
                     kw = random.choice(kws)
                 elif multiple_keywords=="iterate":
                     kw = kws[kw_idx%len(kws)]
-                    kw_idx += 1
+                    if not no_iter:
+                        kw_idx += 1
                 elif multiple_keywords=="keyword1":
                     kw = kws[0]
                 elif multiple_keywords=="keyword2":
@@ -108,9 +118,9 @@ class Script(scripts.Script):
 
         if model_hash in hash_dict:
             lst = hash_dict[model_hash]
+            kw = None
             if len(lst) == 1:
                 kw = lst[0][0]
-                p.prompt = new_prompt(p.prompt, kw)
             elif len(lst) > 1:
                 max_sim = 0.0
                 kw = lst[0][0]
@@ -119,6 +129,6 @@ class Script(scripts.Script):
                     if sim >= max_sim:
                         max_sim = sim
                         kw = kw_ckpt[0]
-                p.prompt = new_prompt(p.prompt, kw)
-
-        return process_images(p)
+            if kw is not None:
+                p.prompt = new_prompt(p.prompt, kw, no_iter=True)
+                p.all_prompts = [new_prompt(prompt, kw) for prompt in p.all_prompts]
