@@ -40,7 +40,8 @@
 4192fc16, kurzgesagt style
 41fef4bd, nousr robot
 4326c062, ppllnnn
-439f64ec, angel |model |realistic
+439f64ec, angel |model |realistic, modelRealisticStable_angelModel.ckpt
+439f64ec, midjourney model 1.5v|model v1.5, warriorGirlOfArmorSd_armorGirlWarrior.ckpt
 4449cdac, samdoesarts
 4470c325, temp
 4859814c, TransX
@@ -74,6 +75,7 @@
 64afe6d2, CALARTS
 64e73fcb, dbz style
 6606d2db, ttw style
+6648a62e, gGWoman
 66b4c45e, archer style
 674e38cf, Mtg art
 6873ad1a, neonHorror style
@@ -93,6 +95,7 @@
 80cd965d, sphnx
 81369a90, supermarionation
 822b8799, pepestyle person
+82780037, tpkify
 83295fd6, mdjrny-pntrt
 8381f785, jclnhbe style
 84692140, temp
@@ -159,6 +162,7 @@ ca682192, sjh style, minIllustBackground_2250.ckpt
 caea14ad, lvngvncnt
 ccf3615f, modern disney style
 ce21b743, sjh style
+d1c6e030, SamDoesArt
 d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairstyle|taio hairstyle|foha hairstyle|okch hairstyle
 d80ad84b, mdjrny-grfft
 d9aa872b, food_crit
