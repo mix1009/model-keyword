@@ -5,7 +5,7 @@ Automatic1111 WEBUI extension to autofill keyword for custom stable diffusion mo
 
 ## Installation
 
-Copy the url of that repository into the extension tab and press "Install"
+Copy the url of the repository ( https://github.com/mix1009/model-keyword ) into the extension tab and press "Install"
 
 <img width="936" alt="Screenshot 2022-12-01 at 12 14 25 PM" src="https://user-images.githubusercontent.com/1288793/204957471-63712085-783b-437b-9925-ee8f935093f7.png">
 
