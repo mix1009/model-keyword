@@ -13,8 +13,9 @@ From "Extensions/Installed" tab press "Apply and restart UI".
 <img width="925" alt="Screenshot 2022-12-01 at 12 18 43 PM" src="https://user-images.githubusercontent.com/1288793/204958071-357d1c9b-22aa-47fc-98b4-582349b1b0cd.png">
 
 ## Usage
-From txt2img, img2img tab, select "Model keyword" from Script:
-<img width="604" alt="Screenshot 2022-12-01 at 12 18 04 PM" src="https://user-images.githubusercontent.com/1288793/204958140-581a40c9-be99-48ce-95f6-01fad74e7760.png">
+From txt2img, img2img tab, "Model Keyword" section is added. Model keyword extension is enabled by default. Click Model Keyword or triangle to reveal options.
+
+![reveal](https://user-images.githubusercontent.com/1288793/205526835-fd95274b-a0db-423a-a2ca-20c0057bab02.png)
 
 When generating image, the extension will try to figure out which model is used and insert matching keyword to the prompt:
 <img width="1246" alt="model-keyword-usage" src="https://user-images.githubusercontent.com/1288793/205525854-9a4f90a7-6547-4fab-b49b-ab31b37707d6.png">
