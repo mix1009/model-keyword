@@ -172,6 +172,7 @@ d1c6e030, SamDoesArt
 d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairstyle|taio hairstyle|foha hairstyle|okch hairstyle
 d80ad84b, mdjrny-grfft
 d9aa872b, food_crit
+daecbd84, FleischerStyle
 ddc6edf2, mdjrny-v4 style
 e02601f3, guohua style, guohaDiffusion_v1.ckpt
 e02601f3, midjourneytestp style, midjourneyTestP_v1.ckpt
@@ -184,6 +185,7 @@ e494d7b5, takeON
 e4d945bf, origtron
 e516b6bd, samdoesarts
 e54968cb, clone wars style|ahsoka tano|Anakin Skywalker|Bo-Katan|Captain Rex|Count Dooku|Darth Maul|Mace Windu|Obi-Wan Kenobi|Padme Amidala|Palpatine|Yoda
+e5e811ce, pixelart|#pixelart
 e6184e6b, sks woman|(sks woman)|((sks woman))
 e93cb7f3, hrrzg
 e96904c7, juri
