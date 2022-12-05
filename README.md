@@ -1,7 +1,7 @@
 # model-keyword
 Automatic1111 WEBUI extension to autofill keyword for custom stable diffusion models.
 
-[model-keyword-github.webm](https://user-images.githubusercontent.com/1288793/205202597-efe30ce6-8073-493c-8fc2-1eb818f96d3e.webm)
+[model-keyword-github.webm](https://user-images.githubusercontent.com/1288793/205525862-a8eaebfe-1860-41d1-bc66-335896b467dd.webm)
 
 ## Installation
 
@@ -17,7 +17,8 @@ From txt2img, img2img tab, select "Model keyword" from Script:
 <img width="604" alt="Screenshot 2022-12-01 at 12 18 04 PM" src="https://user-images.githubusercontent.com/1288793/204958140-581a40c9-be99-48ce-95f6-01fad74e7760.png">
 
 When generating image, the extension will try to figure out which model is used and insert matching keyword to the prompt:
-<img width="1143" alt="Screenshot 2022-12-01 at 12 22 33 PM" src="https://user-images.githubusercontent.com/1288793/204958740-112badfe-f140-4e3a-aed7-55376cd9f41b.png">
+<img width="1246" alt="model-keyword-usage" src="https://user-images.githubusercontent.com/1288793/205525854-9a4f90a7-6547-4fab-b49b-ab31b37707d6.png">
+
 
 
 ### Keyword placement
