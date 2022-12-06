@@ -10,6 +10,7 @@
 0b09ad3b, ctsmscl
 101d2d78, barbieworld
 10c6aa67, studio_ghibli_anime_style style
+116d5535, coralchar
 12c978ba, Shigenori Style
 15540f03, gigafractal artstyle
 16d77205, elden ring style
@@ -27,7 +28,7 @@
 2cd4cf48, sjh style
 2e6bbced, vectorartz
 2f7b2f79, mj-sphere
-2fd6057b, Batman_the_animated_series 
+2fd6057b, Batman_the_animated_series
 30833d87, luffy man|zoro man|nami woman|sanji man|nico woman|chopper boy|franky man|usopp man|brook man|jimbei man
 318a302e, arcane style
 333ecf3c, sks woman|(sks woman)|((sks woman))
@@ -46,6 +47,7 @@
 4449cdac, samdoesarts
 4470c325, temp
 4859814c, TransX
+48823be0, coralchar
 48d0f413, Mtg art
 4a0c37d8, supermarionation
 4aef3692, sks woman
@@ -60,8 +62,8 @@
 538d7157, pcrc style
 55537280, temp
 57b149de, voxel-ish
-59724734, IconsMi, appIcons_v1.ckpt
-59724734, IconsMi, appIcons_v2.ckpt
+59724734, IconsMi
+5a1e4b93, coralchar
 5bcd62ae, megapals|megapals style
 5c720792, serphm
 5c7e6e88, 80sFashionRobot
@@ -86,13 +88,14 @@
 6ac8f9dc, sks person|(sks person)
 6b4ca475, knollingcase
 6bb23006, elden ring style
+6c0b3fc5, coralchar
 74f4c61c, redshift style
-751059ed, prfns, pieroDellaDiffusion_2500Steps.ckpt
-751059ed, prfns, pieroDellaDiffusion_4000Steps.ckpt
+751059ed, prfns
 75555781, Batfleck
 77342b4b, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 7a8244c2, mtompunk
 7b8aff9d, Pokemon
+7e8d1b0b, coralchar
 7f62d94b, VoxelArt
 80cd965d, sphnx
 81369a90, supermarionation
@@ -117,7 +120,7 @@
 94674f07, nvinkpunk
 9474c34f, bdgr
 9571b2c7, nvinkpunk
-98891ea9, an illustration of an isometric city, digital art, highly detailed
+98891ea9, an illustration of an isometric city|digital art|highly detailed
 98d131ff, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 99af29f7, archer style|arcane style|modern disney style
 9c55fd12, mirrormask
@@ -161,10 +164,9 @@ c0e7c884, snthwve style|nvinkpunk
 c32814de, hellraiser
 c5943e55, mdjrny-pprct
 c8e3bfca, AnimeChan Style
-c91be480, Dloz, Dloz style
+c91be480, Dloz|Dloz style
 ca4fcc12, snnmrn|snnmrn woman
-ca682192, sjh style, minIllustBackgrou..._v1Iter2250.ckpt
-ca682192, sjh style, minIllustBackground_2250.ckpt
+ca682192, sjh style
 caea14ad, lvngvncnt
 ccf3615f, modern disney style
 ce21b743, sjh style
