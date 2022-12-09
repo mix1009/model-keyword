@@ -14,6 +14,7 @@
 116d5535, coralchar
 12c978ba, Shigenori Style
 15540f03, gigafractal artstyle
+168f95ca, asim style
 16d77205, elden ring style
 17b7e1de, romerorzeternos
 1b51225c, dronelightshow
@@ -37,6 +38,7 @@
 35a0bad3, starsectorportrait
 390d2cdf, FluidArt
 39fcd9e7, PoW Style|Rick Roll|fullbody shot
+3a030c52, cloud strife|tifa lockhart|aerith gainsborough
 3b214cf8, style
 3d28e095, 3D Style|Rick Roll|fullbody shot|bad cosplay man
 3ee7d195, yoshin style
@@ -72,6 +74,7 @@
 5dbcf115, feralplmr
 5e081326, Matchapix
 5e107da3, ComplexLA style
+5f06aa6f, ttdddd
 5fc312dd, newvegaschar
 60fe3f35, ricknmorty style
 61d9038b, takeON
@@ -87,16 +90,21 @@
 6873ad1a, neonHorror style
 68b463ba, clazy style
 69389227, borderlands
+697c8786, orna santa
+6ab06e33, Tifa Lockhart|Cloud Strife|Barret Wallace|aerith gainsborough|midgar city|midgar city business district|midgar city slums district|biggs ff7r|wedge ff7r|jessie rasberry|inside seventh heaven bar|shinra security officer|in the style of midgar city, finalFantasyViiRe..._51.ckpt
+6ab06e33, cloud strife|tifa lockhart|aerith gainsborough, ff7RStableDiffusion_v51.ckpt
 6ac8f9dc, sks person|(sks person)
 6b4ca475, knollingcase
 6bb23006, elden ring style
 6c0b3fc5, coralchar
+700b1fd2, |stylized game icon
 74f4c61c, redshift style
 751059ed, prfns
 75555781, Batfleck
 77342b4b, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 7a8244c2, mtompunk
 7b8aff9d, Pokemon
+7de82588, cloud strife|tifa lockhart|aerith gainsborough
 7e8d1b0b, coralchar
 7f62d94b, VoxelArt
 80cd965d, sphnx
@@ -107,6 +115,7 @@
 833060ae, mdjrny-v4 style|nousr robot
 835e7dc1, gigafractal artstyle
 8381f785, jclnhbe style
+84597c2e, style of joemadureira
 84692140, temp
 8469c1b7, in WKHW1 Beautiful Art Style
 84768f33, dublex
@@ -127,7 +136,9 @@
 98891ea9, an illustration of an isometric city|digital art|highly detailed
 98d131ff, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 99af29f7, archer style|arcane style|modern disney style
+99e78387, SinCityMovie Style
 9b5251e8, Papercutcraft style
+9ba8ee98, lisafrankstyle
 9c55fd12, mirrormask
 9e12b5d1, JennaO
 9e8a16f7, Macro_Bug
@@ -150,6 +161,7 @@ a6428756, holliemengert artstyle
 a9e3e060, ChromaV5
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 ab4941a7, fantasticmrfox
+ac25001a, fwatch style
 ac6c89d0, dublex
 ac87c248, abstractswirls
 ae998e33, DarkSouls Style
@@ -161,12 +173,14 @@ b47ad8fe, D&D character
 b482163d, xivcine style
 b4cba599, Mona woman|Mona
 b7010dfe, Mosaic Art
+b7ba5b22, orna santa
 bb029452, kindigitstyle
 be4652f1, samdoesarts
 be7ddafc, classic disney style
 bff9c2fc, POW Style
 c0302f10, Gllltchy style|Gllltchy
 c0e7c884, snthwve style|nvinkpunk
+c230a4e3, AK-47-Asiimov|AK-47-Gold-Arabesque|AK-47-Hydroponic|AK-47-Neon-Rider|AK-47-Vulcan|AK-47-X-Ray
 c32814de, hellraiser
 c5943e55, mdjrny-pprct
 c8e3bfca, AnimeChan Style
@@ -204,6 +218,7 @@ ec9f8c2e, CharacterChan Style
 ed87e89c, tchnclr style
 edf5c25b, sks woman
 ef36e488, romerorzlucy
+f05f9963, lisafrankstyle
 f0803e20, sjh style
 f22ff389, trixiemattel drag queen
 f2635ceb, mhdolls
@@ -217,5 +232,7 @@ f6239527, brtdrpp
 f6ca0e2b, comicmay
 f8fb379d, a photo of a sks woman with white hair
 fa5e4f28, (tokki girl)
+fbf5d1b5, sks place
+fc83c5ad, civsix
 fd7a0fd0, wltzwthbshr
 fdbb23ad, D&D character
