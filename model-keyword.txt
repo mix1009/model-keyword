@@ -4,6 +4,7 @@
 #model_hash,keyword,filename.ckpt
 01f61612, clonewars style
 03f434be, MTG card art
+0655784d, gtav style
 06a9d223, mengersponge|sierpsponge
 079b172e, illustration style kurzgesagtish
 08f7a22d, Papercut
@@ -20,7 +21,8 @@
 16d77205, elden ring style
 17b7e1de, romerorzeternos
 1b30cc76, eva123xyzmendes
-1b51225c, dronelightshow
+1b51225c, ClaymationXmas, claymationXMas_10.ckpt
+1b51225c, dronelightshow, dronelightshow_v1.ckpt
 1c254752, vulcan
 1f258730, dbluth
 219cbfe8, RKart style
@@ -202,6 +204,7 @@ d1c6e030, SamDoesArt
 d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairstyle|taio hairstyle|foha hairstyle|okch hairstyle
 d80ad84b, mdjrny-grfft
 d9aa872b, food_crit
+dab3bb51, marblesh|marblee|marblee style
 daecbd84, FleischerStyle
 ddc6edf2, mdjrny-v4 style
 e02601f3, guohua style, guohaDiffusion_v1.ckpt
