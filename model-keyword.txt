@@ -42,7 +42,9 @@
 318a302e, arcane style
 333ecf3c, sks woman|(sks woman)|((sks woman))
 35a0bad3, starsectorportrait
+38e89fda, itojunji style
 390d2cdf, FluidArt
+39c38163, itojunji style
 39fcd9e7, PoW Style|Rick Roll|fullbody shot
 3a030c52, cloud strife|tifa lockhart|aerith gainsborough
 3b214cf8, style
@@ -113,6 +115,7 @@
 7de82588, cloud strife|tifa lockhart|aerith gainsborough
 7e8d1b0b, coralchar
 7f62d94b, VoxelArt
+80a1b237, itojunji style
 80cd965d, sphnx
 81369a90, supermarionation
 822b8799, pepestyle person
@@ -130,6 +133,7 @@
 86ac0981, CreatureChan Style
 8a648075, sks jinx|jinx
 8b3c8f11, comicmay artsyle
+8c7efd5f, itojunji style
 8f89e96b, anime pencil concept style
 910fb637, btdmnky
 915383b6, AbstrAnm spritesheet
@@ -164,6 +168,7 @@ a2a802b2, starsectorportrait, starsectorPortraits_20.ckpt
 a41a2496, gigachad
 a48a2a1b, ghibli style
 a4dbc300, pikachu
+a60545fc, itojunji style
 a6428756, holliemengert artstyle
 a9e3e060, ChromaV5
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
@@ -193,6 +198,7 @@ c0e7c884, snthwve style|nvinkpunk
 c230a4e3, AK-47-Asiimov|AK-47-Gold-Arabesque|AK-47-Hydroponic|AK-47-Neon-Rider|AK-47-Vulcan|AK-47-X-Ray
 c32814de, hellraiser
 c5943e55, mdjrny-pprct
+c86334f5, itojunji style
 c8e3bfca, AnimeChan Style
 c91be480, Dloz|Dloz style
 ca4fcc12, snnmrn|snnmrn woman
