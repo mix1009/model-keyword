@@ -24,6 +24,7 @@
 187550ac, 80sanimestyle
 1b30cc76, eva123xyzmendes
 1b51225c, ClaymationXmas, claymationXMas_10.ckpt
+1b51225c, Mobian, sonicDiffusion_v2.ckpt
 1b51225c, dronelightshow, dronelightshow_v1.ckpt
 1c254752, vulcan
 1f258730, dbluth
@@ -125,6 +126,7 @@
 7f62d94b, VoxelArt
 80a1b237, itojunji style
 80cd965d, sphnx
+8114a3ed, sks style
 81369a90, supermarionation
 822b8799, pepestyle person
 82780037, tpkify
@@ -264,6 +266,7 @@ f6239527, brtdrpp
 f6ca0e2b, comicmay
 f8fb379d, a photo of a sks woman with white hair
 fa5e4f28, (tokki girl)
+fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
 fbf5d1b5, sks place
 fc83c5ad, civsix
 fd7a0fd0, wltzwthbshr
