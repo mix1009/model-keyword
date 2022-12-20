@@ -14,6 +14,7 @@
 0e828029, sks woman|(sks woman)
 101d2d78, barbieworld
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
+10a66fa5, romcom style
 10c6aa67, studio_ghibli_anime_style style
 116d5535, coralchar
 12c978ba, Shigenori Style
@@ -98,6 +99,7 @@
 5e107da3, ComplexLA style
 5f06aa6f, ttdddd
 5fc312dd, newvegaschar
+6076842b, nvinkpunk|dreamlikeart|samdoesart|kuvshinov
 60fe3f35, ricknmorty style
 61d9038b, takeON
 633a553c, dwdrp
@@ -166,7 +168,8 @@
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
 99af29f7, archer style|arcane style|modern disney style
 99e78387, SinCityMovie Style
-9b5251e8, Papercutcraft style
+9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
+9b5251e8, muppet|kermit|cookie monster, muppets_sd15MuppetBlip.ckpt
 9ba8ee98, lisafrankstyle
 9c55fd12, mirrormask
 9ca13f02, analog style
@@ -192,11 +195,13 @@ a6428756, holliemengert artstyle
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 a9e3e060, ChromaV5
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
+aa366209, romcom style
 aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime
 ab4941a7, fantasticmrfox
 ac25001a, fwatch style
 ac6c89d0, dublex
 ac87c248, abstractswirls
+acdcf3cb, aucv
 ae998e33, DarkSouls Style
 aef3d307, zukki_style
 b047abbc, cmodel
@@ -281,3 +286,4 @@ fbf5d1b5, sks place
 fc83c5ad, civsix
 fd7a0fd0, wltzwthbshr
 fdbb23ad, D&D character
+fe5aae36, telltale style
