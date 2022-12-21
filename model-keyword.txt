@@ -193,10 +193,12 @@ a4dbc300, pikachu
 a60545fc, itojunji style
 a6428756, holliemengert artstyle
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
+a8372572, wooditize
 a9e3e060, ChromaV5
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 aa366209, romcom style
-aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime
+aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charHelper_v1.ckpt
+aa7001cf, wooditize, jakSWooditizeImagePa_wooditizeSd21768Px.ckpt
 ab4941a7, fantasticmrfox
 ac25001a, fwatch style
 ac6c89d0, dublex
