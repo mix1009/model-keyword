@@ -2,6 +2,7 @@ import modules.scripts as scripts
 import gradio as gr
 import csv
 import os
+from collections import defaultdict
 
 import modules.shared as shared
 import difflib
@@ -46,7 +47,7 @@ class Script(scripts.Script):
         modified = str(os.stat(default_file).st_mtime) + '_' + str(os.stat(user_file).st_mtime)
 
         if hash_dict is None or hash_dict_modified != modified:
-            hash_dict = {}
+            hash_dict = defaultdict(list)
             def parse_file(path):
                 with open(path, newline='') as csvfile:
                     csvreader = csv.reader(csvfile)
@@ -57,12 +58,7 @@ class Script(scripts.Script):
                             if mhash.startswith('#'):
                                 continue
                             ckptname = 'default' if len(row)<=2 else row[2].strip(' ')
-                            if mhash in hash_dict:
-                                lst = hash_dict[mhash]
-                                lst.append((kw, ckptname))
-                                hash_dict[mhash] = lst
-                            else:
-                                hash_dict[mhash] = [(kw, ckptname)]
+                            hash_dict[mhash].append((kw, ckptname))
                         except:
                             pass
 
