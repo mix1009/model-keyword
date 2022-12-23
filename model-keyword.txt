@@ -43,6 +43,7 @@
 2bb2342e, rotoscopee
 2cd4cf48, sjh style
 2e6bbced, vectorartz
+2f4e14a4, litebrite
 2f7b2f79, mj-sphere
 2fd6057b, Batman_the_animated_series
 3031dfb2, marsattacks
@@ -155,6 +156,7 @@
 8469c1b7, in WKHW1 Beautiful Art Style
 84768f33, dublex
 85b77ff9, samdoesarts style
+85c66939, csalpha artstyle
 8687d7a5, samdoesarts style
 86ac0981, CreatureChan Style
 8a648075, sks jinx|jinx
@@ -162,7 +164,8 @@
 8c7efd5f, itojunji style
 8ec9d746, amongus man
 8f89e96b, anime pencil concept style
-910fb637, btdmnky
+910fb637, btdmnky, stableBtd6_btd6.ckpt
+910fb637, btdmnky|primary|military|magic|support|hero, stableBtd6_v10.ckpt
 915383b6, AbstrAnm spritesheet
 916ea38c, pixelsprite|16bitscene
 92c083af, redshift|nvinkpunk|lndskp
@@ -204,6 +207,7 @@ a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 a8372572, wooditize
 a9e3e060, ChromaV5
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
+aa2b4089, modelshoot style
 aa366209, romcom style
 aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charHelper_v1.ckpt
 aa7001cf, wooditize, jakSWooditizeImagePa_wooditizeSd21768Px.ckpt
