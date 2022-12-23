@@ -195,15 +195,11 @@ a2a802b2, 16-bit-landscape pixel art style, pixelLandscapes_v1.ckpt
 a2a802b2, JWST, deepSpaceDiffusion_v1.ckpt
 a2a802b2, SKSKS app icon, appIconsGenerator_v1.ckpt
 a2a802b2, SKSKS art style, pixelArt_v1.ckpt
-a2a802b2, arcane style, arcane-diffusion-v2.ckpt
 a2a802b2, arcane style, arcaneDiffusion_v2.ckpt
-a2a802b2, discoelysium style, discoElysium-pruned.ckpt
 a2a802b2, discoelysium style, discoElysium_v1.ckpt
 a2a802b2, elden ring style, eldenRingStyle_v1.ckpt
-a2a802b2, elden ring style, eldenring-v1-pruned.ckpt
 a2a802b2, microworld render style, microWorlds_v1.ckpt
 a2a802b2, spiderverse style, spiderVerse_v1.ckpt
-a2a802b2, spiderverse style, spiderverse-v1-pruned.ckpt
 a2a802b2, starsectorportrait, starsectorPortraits_20.ckpt
 a41a2496, gigachad
 a48a2a1b, ghibli style
