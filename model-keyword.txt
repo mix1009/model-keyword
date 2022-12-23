@@ -60,6 +60,7 @@
 39fcd9e7, PoW Style|Rick Roll|fullbody shot
 3a030c52, cloud strife|tifa lockhart|aerith gainsborough
 3b214cf8, style
+3c401697, redshift style
 3cfa0b2c, polygonal style
 3d28e095, 3D Style|Rick Roll|fullbody shot|bad cosplay man
 3ee7d195, yoshin style
@@ -127,6 +128,7 @@
 6b4ca475, knollingcase
 6bb23006, elden ring style
 6c0b3fc5, coralchar
+6d5c9271, funko style
 700b1fd2, |stylized game icon
 74f4c61c, redshift style
 751059ed, prfns
@@ -135,6 +137,7 @@
 7a8244c2, mtompunk
 7b62be5f, empress
 7b8aff9d, Pokemon
+7cb76003, poolsuite style
 7de82588, cloud strife|tifa lockhart|aerith gainsborough
 7e8d1b0b, coralchar
 7f62d94b, VoxelArt
@@ -192,11 +195,15 @@ a2a802b2, 16-bit-landscape pixel art style, pixelLandscapes_v1.ckpt
 a2a802b2, JWST, deepSpaceDiffusion_v1.ckpt
 a2a802b2, SKSKS app icon, appIconsGenerator_v1.ckpt
 a2a802b2, SKSKS art style, pixelArt_v1.ckpt
+a2a802b2, arcane style, arcane-diffusion-v2.ckpt
 a2a802b2, arcane style, arcaneDiffusion_v2.ckpt
+a2a802b2, discoelysium style, discoElysium-pruned.ckpt
 a2a802b2, discoelysium style, discoElysium_v1.ckpt
 a2a802b2, elden ring style, eldenRingStyle_v1.ckpt
+a2a802b2, elden ring style, eldenring-v1-pruned.ckpt
 a2a802b2, microworld render style, microWorlds_v1.ckpt
 a2a802b2, spiderverse style, spiderVerse_v1.ckpt
+a2a802b2, spiderverse style, spiderverse-v1-pruned.ckpt
 a2a802b2, starsectorportrait, starsectorPortraits_20.ckpt
 a41a2496, gigachad
 a48a2a1b, ghibli style
@@ -216,6 +223,7 @@ ac25001a, fwatch style
 ac6c89d0, dublex
 ac87c248, abstractswirls
 acdcf3cb, aucv
+acfa8753, future style
 ae998e33, DarkSouls Style
 aef3d307, zukki_style
 b047abbc, cmodel
@@ -227,6 +235,7 @@ b482163d, xivcine style
 b4cba599, Mona woman|Mona
 b7010dfe, Mosaic Art
 b7ba5b22, orna santa
+b895edc4, mdjrny-v4 style
 bb029452, kindigitstyle
 be4652f1, samdoesarts
 be7ddafc, classic disney style
@@ -252,6 +261,7 @@ ce21b743, sjh style
 d023e7a8, stbtc|stbcf
 d1c6e030, SamDoesArt
 d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairstyle|taio hairstyle|foha hairstyle|okch hairstyle
+d7149094, lnkdn photography
 d80ad84b, mdjrny-grfft
 d9aa872b, food_crit
 dab3bb51, marblesh|marblee|marblee style
@@ -270,6 +280,7 @@ e4d945bf, origtron
 e516b6bd, samdoesarts
 e54968cb, clone wars style|ahsoka tano|Anakin Skywalker|Bo-Katan|Captain Rex|Count Dooku|Darth Maul|Mace Windu|Obi-Wan Kenobi|Padme Amidala|Palpatine|Yoda
 e5e811ce, pixelart|#pixelart
+e5ed66c6, mdjrny-v4 style
 e6184e6b, sks woman|(sks woman)|((sks woman))
 e93cb7f3, hrrzg
 e952eaf1, Riko|shift dress|cold outfit|Reg|aubade helmet|aubade cape|arm extended|Shiggy|Nat|Kiyui|bell|Jiruo|child|moon whistle|Habo|black whistle|Marulk|maid outfit|Ozen|ozen white whistle|ozen armor|Lyza|lyza white whistle|Bondrewd|bondrewd white whistle|Nanachi|abyssal hat|young|human Nanachi|Mitty|human Mitty|delver outfit|delver helmet|red whistle|blue whistle|backpack|blaze reap|bleeding curse|Orth town|the abyss|windmill|gondola platform|orphanage|the first layer|gondola|eternal fortunes|cliffs|upper second layer|lower second layer|seeker camp|the third layer|the fourth layer|garden of eternal fortunes|nanachi's hideout|exterior|backyard|the fifth layer|ido front|playroom|crimson splitjaw|corpse weeperorb piercer|narehate|Meinya|dreamlikeart
