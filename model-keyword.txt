@@ -233,7 +233,8 @@ b47ad8fe, D&D character
 b482163d, xivcine style
 b4cba599, Mona woman|Mona
 b7010dfe, Mosaic Art
-b7ba5b22, orna santa
+b7ba5b22, effeff9 woman|effeff9 man|effeff9 creature|effeff9 architecture, effeffIxConceptDiffu_main.ckpt
+b7ba5b22, orna santa, ornamentalSantaDiffu_default10.ckpt
 b895edc4, mdjrny-v4 style
 bb029452, kindigitstyle
 be4652f1, samdoesarts
