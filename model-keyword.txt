@@ -5,6 +5,7 @@
 007edaa3, clayitization
 01f61612, clonewars style
 03f434be, MTG card art
+04baab99, a 3d render of|a 3d cartoon of
 0655784d, gtav style
 06a9d223, mengersponge|sierpsponge
 079b172e, illustration style kurzgesagtish
@@ -169,6 +170,7 @@
 8c7efd5f, itojunji style
 8ec9d746, amongus man
 8f89e96b, anime pencil concept style
+8fb523e8, newworld
 910fb637, btdmnky, stableBtd6_btd6.ckpt
 910fb637, btdmnky|primary|military|magic|support|hero, stableBtd6_v10.ckpt
 915383b6, AbstrAnm spritesheet
@@ -269,6 +271,7 @@ d9aa872b, food_crit
 dab3bb51, marblesh|marblee|marblee style
 daecbd84, FleischerStyle
 db5960c1, OOKZA Vampire Style
+dc05355d, sksi object|sksi
 ddc6edf2, mdjrny-v4 style
 e02601f3, guohua style, guohaDiffusion_v1.ckpt
 e02601f3, midjourneytestp style, midjourneyTestP_v1.ckpt
