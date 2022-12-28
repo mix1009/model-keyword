@@ -113,6 +113,7 @@
 6076842b, nvinkpunk|dreamlikeart|samdoesart|kuvshinov
 60fe3f35, ricknmorty style
 61d9038b, takeON
+6329328a, lds
 633a553c, dwdrp
 643afbd9, Microscopic
 645a42cf, newstl
@@ -187,6 +188,7 @@
 98891ea9, an illustration of an isometric city|digital art|highly detailed
 98d131ff, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
+993f2358, G2FFace
 99af29f7, archer style|arcane style|modern disney style
 99e78387, SinCityMovie Style
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
@@ -288,6 +290,7 @@ e494d7b5, takeON
 e4d945bf, origtron
 e516b6bd, samdoesarts
 e54968cb, clone wars style|ahsoka tano|Anakin Skywalker|Bo-Katan|Captain Rex|Count Dooku|Darth Maul|Mace Windu|Obi-Wan Kenobi|Padme Amidala|Palpatine|Yoda
+e5541f03, midjourneyi
 e5e811ce, pixelart|#pixelart
 e5ed66c6, mdjrny-v4 style
 e6184e6b, sks woman|(sks woman)|((sks woman))
@@ -311,6 +314,7 @@ f2635ceb, mhdolls
 f287b25e, agp
 f2b82853, junobirch drag queen
 f2ca12bd, zombie_vector
+f32626be, estilovintedois
 f588c09f, cloud
 f59c31c9, SouthPark Style|Rick Roll|FullBody Shot
 f5d9c703, snthwve style
