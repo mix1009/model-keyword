@@ -23,6 +23,7 @@
 12c978ba, Shigenori Style
 1400e684, analog style
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
+14e1ef5d, sksi, csgoMaps_v1.ckpt
 14e1ef5d, swpunk|synthwave|paint splatters, synthPunkSearch_raw.ckpt
 15540f03, gigafractal artstyle
 168f95ca, asim style
@@ -172,6 +173,7 @@
 85c66939, csalpha artstyle
 8687d7a5, samdoesarts style
 86ac0981, CreatureChan Style
+883f759a, jwl watercolor
 8a648075, sks jinx|jinx
 8b3c8f11, comicmay artsyle
 8c7efd5f, itojunji style
