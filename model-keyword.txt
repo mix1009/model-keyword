@@ -22,7 +22,8 @@
 116d5535, coralchar
 12c978ba, Shigenori Style
 1400e684, analog style
-14e1ef5d, dreamlikeart
+14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
+14e1ef5d, swpunk|synthwave|paint splatters, synthPunkSearch_raw.ckpt
 15540f03, gigafractal artstyle
 168f95ca, asim style
 16d77205, elden ring style
@@ -54,6 +55,7 @@
 318a302e, arcane style
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
 333ecf3c, sks woman|(sks woman)|((sks woman))
+33c549f1, swpunk|synthwave|paint splatters
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
 35a0bad3, starsectorportrait
 37910104, youngja
@@ -307,6 +309,7 @@ ed87e89c, tchnclr style
 edf5c25b, sks woman
 ee624815, xmascookie
 ef36e488, romerorzlucy
+ef4be3fb, swpunk|synthwave|paint splatters
 f05f9963, lisafrankstyle
 f0803e20, sjh style
 f22ff389, trixiemattel drag queen
