@@ -177,8 +177,7 @@
 86ac0981, CreatureChan Style
 883f759a, jwl watercolor
 8a648075, sks jinx|jinx
-8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle, comic-diffusion-V2.ckpt
-8b3c8f11, comicmay artsyle, comicDiffusion_v2.ckpt
+8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle
 8c7efd5f, itojunji style
 8ec9d746, amongus man
 8f89e96b, anime pencil concept style
