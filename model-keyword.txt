@@ -229,6 +229,7 @@ aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 aa2b4089, modelshoot style
 aa366209, romcom style
 aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charHelper_v1.ckpt
+aa7001cf, oldpt, oldPortraits_oldPortraits.ckpt
 aa7001cf, wooditize, jakSWooditizeImagePa_wooditizeSd21768Px.ckpt
 ab4941a7, fantasticmrfox
 ac25001a, fwatch style
@@ -335,3 +336,4 @@ fc83c5ad, civsix
 fd7a0fd0, wltzwthbshr
 fdbb23ad, D&D character
 fe5aae36, telltale style
+ffc0c1fd, FilFigari
