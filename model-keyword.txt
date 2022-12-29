@@ -25,6 +25,7 @@
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
 14e1ef5d, sksi, csgoMaps_v1.ckpt
 14e1ef5d, swpunk|synthwave|paint splatters, synthPunkSearch_raw.ckpt
+14fe5bd7, nousr robot
 15540f03, gigafractal artstyle
 168f95ca, asim style
 16d77205, elden ring style
@@ -38,7 +39,8 @@
 1f258730, dbluth
 219cbfe8, RKart style
 2258c119, CNDigitalArt Style
-234cc409, comicmay artsyle
+234cc409, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle, comic-diffusion.ckpt
+234cc409, comicmay artsyle, comicDiffusion_v1.ckpt
 254fb5cd, hasanpiker person
 265e757d, Sidon|Sidon style
 26621fc2, tdst style
@@ -100,6 +102,7 @@
 538d7157, pcrc style
 55537280, temp
 557350e1, modern|artnouveau|artdeco|atompunk
+5714e58c, woolitize
 57b149de, voxel-ish
 585879fc, portrait+ style
 59724734, IconsMi
@@ -175,7 +178,8 @@
 86ac0981, CreatureChan Style
 883f759a, jwl watercolor
 8a648075, sks jinx|jinx
-8b3c8f11, comicmay artsyle
+8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle, comic-diffusion-V2.ckpt
+8b3c8f11, comicmay artsyle, comicDiffusion_v2.ckpt
 8c7efd5f, itojunji style
 8ec9d746, amongus man
 8f89e96b, anime pencil concept style
@@ -190,6 +194,7 @@
 9474c34f, bdgr
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
+97db9b40, woolitize
 98891ea9, an illustration of an isometric city|digital art|highly detailed
 98d131ff, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
@@ -218,7 +223,8 @@ a2a802b2, starsectorportrait, starsectorPortraits_20.ckpt
 a41a2496, gigachad
 a48a2a1b, ghibli style
 a4dbc300, pikachu
-a5c134f5, naturitize
+a5c134f5, naturitize, jakSNaturitizeImageP_naturitizeSd21768Px.ckpt
+a5c134f5, vntgcrm style, VintageCream.ckpt
 a60545fc, itojunji style
 a6428756, holliemengert artstyle
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
@@ -292,6 +298,7 @@ e02601f3, sks lucy, lucyFromCpEdgerun..._v1.ckpt
 e02601f3, sks vi|vi, viFromArcane_v1.ckpt
 e0a3ab60, xivcine person
 e0d019bb, samdoesarts
+e1b7c805, woolitize
 e35930da, rachelwalker style
 e494d7b5, takeON
 e4d945bf, origtron
