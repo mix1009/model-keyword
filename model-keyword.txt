@@ -39,8 +39,7 @@
 1f258730, dbluth
 219cbfe8, RKart style
 2258c119, CNDigitalArt Style
-234cc409, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle, comic-diffusion.ckpt
-234cc409, comicmay artsyle, comicDiffusion_v1.ckpt
+234cc409, comicmay artsyle
 254fb5cd, hasanpiker person
 265e757d, Sidon|Sidon style
 26621fc2, tdst style
