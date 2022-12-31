@@ -35,6 +35,7 @@
 1b51225c, ClaymationXmas, claymationXMas_10.ckpt
 1b51225c, Mobian, sonicDiffusion_v2.ckpt
 1b51225c, dronelightshow, dronelightshow_v1.ckpt
+1b51225c, rckrll, rickRollStyle_v1.ckpt
 1c254752, vulcan
 1f258730, dbluth
 219cbfe8, RKart style
@@ -233,6 +234,7 @@ aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 aa2b4089, modelshoot style
 aa366209, romcom style
 aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charHelper_v1.ckpt
+aa7001cf, facesakimiboy, facesakimiboySakimic_v1.ckpt
 aa7001cf, oldpt, oldPortraits_oldPortraits.ckpt
 aa7001cf, wooditize, jakSWooditizeImagePa_wooditizeSd21768Px.ckpt
 ab4941a7, fantasticmrfox
