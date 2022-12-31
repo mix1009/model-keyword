@@ -15,6 +15,7 @@
 0b09ad3b, ctsmscl
 0c93a576, (name)|(oumeifeng style)|(redshift style)
 0e828029, sks woman|(sks woman)
+0eb3318b, ultraskin|twenties|twenty year old|thirties|thirty year old|eighties|eighty year old|elderly|wrinkles|pores|skin detail|freckles|moles|scar
 101d2d78, barbieworld
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
 10a66fa5, romcom style
@@ -294,6 +295,7 @@ daecbd84, FleischerStyle
 db5960c1, OOKZA Vampire Style
 dc05355d, sksi object|sksi
 ddc6edf2, mdjrny-v4 style
+df9e36bd, leagueofstyle
 e02601f3, guohua style, guohaDiffusion_v1.ckpt
 e02601f3, midjourneytestp style, midjourneyTestP_v1.ckpt
 e02601f3, sks lucy, lucyFromCpEdgerun..._v1.ckpt
