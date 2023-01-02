@@ -240,6 +240,7 @@
 99af29f7, archer style|arcane style|modern disney style
 99e78387, SinCityMovie Style
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
+9b5251e8, flat|high contrast|color, sd15FluentUiEmoji_sd15.ckpt
 9b5251e8, muppet|kermit|cookie monster, muppets_sd15MuppetBlip.ckpt
 9ba8ee98, lisafrankstyle
 9c55fd12, mirrormask
