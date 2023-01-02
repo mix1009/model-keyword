@@ -15,7 +15,17 @@
 0b09ad3b, ctsmscl
 0c93a576, (name)|(oumeifeng style)|(redshift style)
 0e828029, sks woman|(sks woman)
-0eb3318b, ultraskin|twenties|twenty year old|thirties|thirty year old|eighties|eighty year old|elderly|wrinkles|pores|skin detail|freckles|moles|scar
+0eb3318b, Apocalypso, djzApocalypsoV21_0.safetensors
+0eb3318b, BlackOpsLadies, djzBlackOpsLadiesV21_0.safetensors
+0eb3318b, ChaoticSpheres, djzChaoticSpheresV21_0.safetensors
+0eb3318b, CosmicGate, djzCosmicGateV21_0.safetensors
+0eb3318b, CyberAngels, djzCyberAngelsV21_0.safetensors
+0eb3318b, DivineStatue, djzDivineStatueV21_0.safetensors
+0eb3318b, GrimKnights, djzGrimKnightsV21_0.safetensors
+0eb3318b, HeavenlyLord, djzHeavenlyLordV21_0.safetensors
+0eb3318b, HellBeast, djzHellBeastV21_0.safetensors
+0eb3318b, monochrome, djzMonochromeV21_0.safetensors
+0eb3318b, ultraskin|twenties|twenty year old|thirties|thirty year old|eighties|eighty year old|elderly|wrinkles|pores|skin detail|freckles|moles|scar, ultraskin_09.safetensors
 101d2d78, barbieworld
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
 10a66fa5, romcom style
@@ -211,6 +221,7 @@
 9e12b5d1, JennaO
 9e8a16f7, Macro_Bug
 9ef9f138, gigafractal artstyle
+a0b3a1c3, sphx weapon
 a184fedc, gigafractal artstyle
 a2a802b2, 16-bit-landscape pixel art style, pixelLandscapes_v1.ckpt
 a2a802b2, JWST, deepSpaceDiffusion_v1.ckpt
@@ -230,6 +241,7 @@ a5c134f5, vntgcrm style, VintageCream.ckpt
 a60545fc, itojunji style
 a6428756, holliemengert artstyle
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
+a7694188, sks woman
 a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 a8372572, wooditize
 a9e3e060, ChromaV5
@@ -293,6 +305,7 @@ d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairs
 d7149094, lnkdn photography
 d80ad84b, mdjrny-grfft
 d9aa872b, food_crit
+da1b42e0, sks woman|(sks woman)
 dab3bb51, marblesh|marblee|marblee style
 daecbd84, FleischerStyle
 db5960c1, OOKZA Vampire Style
@@ -342,6 +355,7 @@ f2ea5e14, woolitize
 f32626be, estilovintedois
 f588c09f, cloud
 f59c31c9, SouthPark Style|Rick Roll|FullBody Shot
+f5b84ac3, Shataki
 f5d9c703, snthwve style
 f6239527, brtdrpp
 f6ca0e2b, comicmay
