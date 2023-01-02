@@ -16,14 +16,38 @@
 0c93a576, (name)|(oumeifeng style)|(redshift style)
 0e828029, sks woman|(sks woman)
 0eb3318b, Apocalypso, djzApocalypsoV21_0.safetensors
+0eb3318b, AssassinKahb, djzAssassinKahbV21_0.safetensors
+0eb3318b, AssassinMihq, djzAssassinMihqV21_0.safetensors
+0eb3318b, AssassinXuhk, djzAssassinXuhkV21_0.safetensors
+0eb3318b, AssassinZohc, djzAssassinZohcV21_0.safetensors
 0eb3318b, BlackOpsLadies, djzBlackOpsLadiesV21_0.safetensors
 0eb3318b, ChaoticSpheres, djzChaoticSpheresV21_0.safetensors
 0eb3318b, CosmicGate, djzCosmicGateV21_0.safetensors
+0eb3318b, CthuluBishop|NeonMutation, djzCthuluBishopNeonM_0.safetensors
 0eb3318b, CyberAngels, djzCyberAngelsV21_0.safetensors
+0eb3318b, CyberRonin, djzCyberRoninV21_0.safetensors
 0eb3318b, DivineStatue, djzDivineStatueV21_0.safetensors
 0eb3318b, GrimKnights, djzGrimKnightsV21_0.safetensors
+0eb3318b, GrimKnights|ChaosSpheres, djzGrimKnightsChaoti_0.safetensors
+0eb3318b, GrimKnights|ChaoticSpheres|NeonMutation, djzGrimKnightsChaoti_0.safetensors
+0eb3318b, GrimKnights|NeonMutation, djzGrimKnightsNeonMu_0.safetensors
 0eb3318b, HeavenlyLord, djzHeavenlyLordV21_0.safetensors
+0eb3318b, HeavenlyWar, djzHeavenlyWarV21_0.safetensors
 0eb3318b, HellBeast, djzHellBeastV21_0.safetensors
+0eb3318b, JovianSkyship, djzJovianSkyshipV21_0.safetensors
+0eb3318b, NeonMutation|character|enhancement|lighting|convolution, djzNeonMutationV21_0.safetensors
+0eb3318b, OmniConfusion, djzOmniConfusionV21_0.safetensors
+0eb3318b, PromptEater, djzPromptEaterV21_0.safetensors
+0eb3318b, PromptHeist, djzPromptHeistV21_0.safetensors
+0eb3318b, PurgatorySquad, djzPurgatorySquadV21_0.safetensors
+0eb3318b, SakuraFestival, djzSakuraFestivalV21_0.safetensors
+0eb3318b, SamuraiNqrd, djzSamuraiNqrdV21_0.safetensors
+0eb3318b, SeventhHeaven, djzSeventhHeavenV21_0.safetensors
+0eb3318b, SeventhHell, djzSeventhHellV21_0.safetensors
+0eb3318b, SixthHell, djzSixthHellV21_0.safetensors
+0eb3318b, SkeletalCyborg, djzSkeletalCyborgV21_0.safetensors
+0eb3318b, TwinRealms, djzTwinRealmsV21_0.safetensors
+0eb3318b, TwistedDomain, djzTwistedDomainV21_0.safetensors
 0eb3318b, monochrome, djzMonochromeV21_0.safetensors
 0eb3318b, ultraskin|twenties|twenty year old|thirties|thirty year old|eighties|eighty year old|elderly|wrinkles|pores|skin detail|freckles|moles|scar, ultraskin_09.safetensors
 101d2d78, barbieworld
@@ -42,6 +66,7 @@
 16d77205, elden ring style
 17b7e1de, romerorzeternos
 187550ac, 80sanimestyle
+19d911b0, djct woman|djct
 1b30cc76, eva123xyzmendes
 1b51225c, ClaymationXmas, claymationXMas_10.ckpt
 1b51225c, Mobian, sonicDiffusion_v2.ckpt
@@ -93,6 +118,7 @@
 439f64ec, midjourney model 1.5v|model v1.5, warriorGirlOfArmorSd_armorGirlWarrior.ckpt
 4449cdac, samdoesarts
 4470c325, temp
+4507a9f0, Makima
 457435c3, blue skin
 4583e79e, samdoesarts
 4859814c, TransX
