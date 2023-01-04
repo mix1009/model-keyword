@@ -3,6 +3,7 @@
 # 
 #model_hash,keyword,filename.ckpt
 007edaa3, clayitization
+0149de1f, linus sebastian person
 01f61612, clonewars style
 03f434be, MTG card art
 04baab99, a 3d render of|a 3d cartoon of
@@ -105,6 +106,7 @@
 39c38163, itojunji style
 39fcd9e7, PoW Style|Rick Roll|fullbody shot
 3a030c52, cloud strife|tifa lockhart|aerith gainsborough
+3a41ce5b, rlmrcs gem
 3b214cf8, style
 3c401697, redshift style
 3cfa0b2c, polygonal style
@@ -203,6 +205,7 @@
 81b48e41, akiratoriyama art style
 822b8799, pepestyle person
 82780037, tpkify
+82cb7b65, germy
 82cbe3e7, sks woman|(sks woman)
 83295fd6, mdjrny-pntrt
 833060ae, mdjrny-v4 style|nousr robot
@@ -304,6 +307,7 @@ b7ba5b22, effeff9 woman|effeff9 man|effeff9 creature|effeff9 architecture, effef
 b7ba5b22, orna santa, ornamentalSantaDiffu_default10.ckpt
 b895edc4, mdjrny-v4 style
 bb029452, kindigitstyle
+bcbe94c2, frutigeraero
 be4652f1, samdoesarts
 be7ddafc, classic disney style
 be82dca2, Altira|Altira style
