@@ -29,6 +29,13 @@ When generating image, the extension will try to figure out which model is used 
 ### Multiple keywords 
 <img width="577" alt="Screenshot 2022-12-01 at 12 27 00 PM" src="https://user-images.githubusercontent.com/1288793/204959221-66ae2e7f-5fd0-4896-9dc3-402f0db60dba.png">
 
+1) keyword1, keyword2 - use all keywords separated by comma
+2) random - choose one random keyword 
+3) iterate - iterate through each keyword for each image generation
+   * If sd-dynamic-prompts extension is installed, iterate will not work properly. Please disable Dynamic Prompts.
+4) keyword1 - use first keyword
+5) keyword2 - use second keyword (if it exists)
+
 ## Adding custom mappings
 
 Edit extensions/model-keyword/model-keyword-user.txt . model-keyword-user.txt is a csv file.
