@@ -33,6 +33,7 @@ When generating image, the extension will try to figure out which model is used 
 2) random - choose one random keyword 
 3) iterate - iterate through each keyword for each image generation
    * If sd-dynamic-prompts extension is installed, iterate will not work properly. Please disable Dynamic Prompts.
+   * Alternatively, you can rename model-keyword to sd-model-keyword in the extensions folder. It will change the order of the extension and fix the bug.
 4) keyword1 - use first keyword
 5) keyword2 - use second keyword (if it exists)
 
