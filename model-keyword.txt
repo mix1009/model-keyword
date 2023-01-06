@@ -18,6 +18,9 @@
 0c93a576, (name)|(oumeifeng style)|(redshift style)
 0e828029, sks woman|(sks woman)
 0eb3318b, Apocalypso, djzApocalypsoV21_0.safetensors
+0eb3318b, AscendentKnights, djzAscendentKnightsV_0.safetensors
+0eb3318b, AscendentSoldiers, djzAscendentSoldiers_0.safetensors
+0eb3318b, Ascendents, djzAscendentsV21_0.safetensors
 0eb3318b, AssassinKahb, djzAssassinKahbV21_0.safetensors
 0eb3318b, AssassinMihq, djzAssassinMihqV21_0.safetensors
 0eb3318b, AssassinXuhk, djzAssassinXuhkV21_0.safetensors
@@ -78,6 +81,7 @@
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
 1f258730, dbluth
 219cbfe8, RKart style
+223531c6, angel
 2258c119, CNDigitalArt Style
 234cc409, comicmay artsyle
 254fb5cd, hasanpiker person
@@ -168,6 +172,7 @@
 61d9038b, takeON
 6329328a, lds
 633a553c, dwdrp
+6360ab7c, angel
 643afbd9, Microscopic
 645a42cf, newstl
 64afe6d2, CALARTS
