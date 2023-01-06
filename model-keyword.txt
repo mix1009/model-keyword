@@ -144,7 +144,8 @@
 536a8e48, mdjrny-v4 style|dreamlikeart
 538d7157, pcrc style
 55537280, temp
-557350e1, modern|artnouveau|artdeco|atompunk
+557350e1, flrmrbl, floralMarblesModel15_copiaDeFloralMarbleS.ckpt
+557350e1, modern|artnouveau|artdeco|atompunk, architectures_archV1.ckpt
 5714e58c, woolitize
 57b149de, voxel-ish
 585879fc, portrait+ style
@@ -340,6 +341,7 @@ ccf3615f, modern disney style
 cd22968e, whatif style
 ce21b743, sjh style
 d023e7a8, stbtc|stbcf
+d1b93ddb, flrmrbl
 d1c6e030, SamDoesArt
 d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairstyle|taio hairstyle|foha hairstyle|okch hairstyle
 d30ea522, battle bunny miss fortune
