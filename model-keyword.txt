@@ -62,6 +62,7 @@
 0eb3318b, MechaFootball, djzMechaFootballV21_0.safetensors
 0eb3318b, MegaStadium, djzMegaStadiumV21_0.safetensors
 0eb3318b, MidnightBurnout, djzMidnightBurnoutV2_0.safetensors
+0eb3318b, MushroomLove, djzMushroomLoveV21_0.safetensors
 0eb3318b, NeonMutation|character|enhancement|lighting|convolution, djzNeonMutationV21_0.safetensors
 0eb3318b, OmniConfusion, djzOmniConfusionV21_0.safetensors
 0eb3318b, ParadiseGirl, djzParadiseGirlV21_0.safetensors
@@ -212,6 +213,7 @@
 64afe6d2, CALARTS
 64e73fcb, dbz style
 6606d2db, ttw style
+66473eff, rpgicondiff
 6648a62e, gGWoman
 66b4c45e, archer style
 674e38cf, Mtg art
