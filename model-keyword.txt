@@ -25,13 +25,22 @@
 0eb3318b, AssassinMihq, djzAssassinMihqV21_0.safetensors
 0eb3318b, AssassinXuhk, djzAssassinXuhkV21_0.safetensors
 0eb3318b, AssassinZohc, djzAssassinZohcV21_0.safetensors
+0eb3318b, AutosFantasy, djzAutosFantasyV21_0.safetensors
 0eb3318b, BlackOpsLadies, djzBlackOpsLadiesV21_0.safetensors
 0eb3318b, ChaoticSpheres, djzChaoticSpheresV21_0.safetensors
 0eb3318b, CosmicGate, djzCosmicGateV21_0.safetensors
+0eb3318b, CosmicSpiders, djzCosmicSpiderV21_0.safetensors
+0eb3318b, CthuluBishop, djzCthuluBishopV21_0.safetensors
 0eb3318b, CthuluBishop|NeonMutation, djzCthuluBishopNeonM_0.safetensors
 0eb3318b, CyberAngels, djzCyberAngelsV21_0.safetensors
+0eb3318b, CyberCity, djzCyberCityV21Resid_0.safetensors
 0eb3318b, CyberRonin, djzCyberRoninV21_0.safetensors
+0eb3318b, DarkExecutioner, djzDarkExecutionerV2_0.safetensors
+0eb3318b, DieselpunkCity, djzDieselpunkCityV21_0.safetensors
 0eb3318b, DivineStatue, djzDivineStatueV21_0.safetensors
+0eb3318b, DriftMeetShibuya, djzDriftMeetShibuyaV_0.safetensors
+0eb3318b, FightingBirds, djzFightingBirdsV21_0.safetensors
+0eb3318b, FusionpunkReactor, djzFusionpunkReactor_0.safetensors
 0eb3318b, GrimKnights, djzGrimKnightsV21_0.safetensors
 0eb3318b, GrimKnights|ChaosSpheres, djzGrimKnightsChaoti_0.safetensors
 0eb3318b, GrimKnights|ChaoticSpheres|NeonMutation, djzGrimKnightsChaoti_0.safetensors
@@ -61,6 +70,7 @@
 10c6aa67, studio_ghibli_anime_style style
 116d5535, coralchar
 12c978ba, Shigenori Style
+1351eaf1, cgi|cgi style
 1400e684, analog style
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
 14e1ef5d, sksi, csgoMaps_v1.ckpt
