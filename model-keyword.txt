@@ -17,6 +17,7 @@
 0b09ad3b, ctsmscl
 0c93a576, (name)|(oumeifeng style)|(redshift style)
 0e828029, sks woman|(sks woman)
+0eb3318b, Airlock, djzAirlockV21_0.safetensors
 0eb3318b, Apocalypso, djzApocalypsoV21_0.safetensors
 0eb3318b, AscendentKnights, djzAscendentKnightsV_0.safetensors
 0eb3318b, AscendentSoldiers, djzAscendentSoldiers_0.safetensors
@@ -139,7 +140,8 @@
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
 35a0bad3, starsectorportrait
 37910104, youngja
-38c1ebe3, base lux skin
+38c1ebe3, base lux skin, luxannaCrownguardFro_luxannaCrownguardLol.ckpt
+38c1ebe3, star guardian neeko, starGuardianNeeko_sgNeekoAnythingv3.ckpt
 38e89fda, itojunji style
 390d2cdf, FluidArt
 39c38163, itojunji style
@@ -307,6 +309,7 @@ a2a802b2, discoelysium style, discoElysium_v1.ckpt
 a2a802b2, elden ring style, eldenRingStyle_v1.ckpt
 a2a802b2, microworld render style, microWorlds_v1.ckpt
 a2a802b2, spiderverse style, spiderVerse_v1.ckpt
+a2a802b2, star guardian neeko, starGuardianNeeko_sgNeekoPvc.ckpt
 a2a802b2, starsectorportrait, starsectorPortraits_20.ckpt
 a41a2496, gigachad
 a48a2a1b, ghibli style
@@ -387,6 +390,7 @@ d6e9d2b1, dvMJv4
 d7149094, lnkdn photography
 d793079e, k/da all out akali
 d80ad84b, mdjrny-grfft
+d843660f, star guardian neeko
 d9aa872b, food_crit
 da1b42e0, sks woman|(sks woman)
 dab3bb51, marblesh|marblee|marblee style
