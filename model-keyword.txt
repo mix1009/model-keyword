@@ -144,6 +144,7 @@
 35a0bad3, starsectorportrait
 37910104, youngja
 38c1ebe3, base lux skin, luxannaCrownguardFro_luxannaCrownguardLol.ckpt
+38c1ebe3, k/da all out ahri, kDAAllOutAhri_kdaAllOutAhriPvc.ckpt
 38c1ebe3, star guardian neeko, starGuardianNeeko_sgNeekoAnythingv3.ckpt
 38e89fda, itojunji style
 390d2cdf, FluidArt
@@ -231,6 +232,7 @@
 6bb23006, elden ring style
 6c0b3fc5, coralchar
 6d5c9271, funko style
+6eff939c, sks person
 700b1fd2, |stylized game icon
 73aebb03, rammstein
 74f4c61c, redshift style
@@ -280,6 +282,7 @@
 915383b6, AbstrAnm spritesheet
 916ea38c, pixelsprite|16bitscene
 92c083af, redshift|nvinkpunk|lndskp
+92e4c246, sks person
 93423a00, jaggy|ps_game_screenshot|pc_game_screenshot|gamecube_game_screenshot|blood_and_gore|intense_violence|zotov_game_screenshot|eroge_game_screenshot|life_sim_game_screenshot|alter_echo
 94674f07, nvinkpunk
 9474c34f, bdgr
@@ -298,12 +301,14 @@
 9ba8ee98, lisafrankstyle
 9c55fd12, mirrormask
 9ca13f02, analog style
+9dfcd7c6, tarsilagg123
 9e12b5d1, JennaO
 9e86175c, MJv4
 9e8a16f7, Macro_Bug
 9ef9f138, gigafractal artstyle
 a0b3a1c3, sphx weapon
 a184fedc, gigafractal artstyle
+a25e79ba, Neytiriblueskinbabe
 a2a802b2, 16-bit-landscape pixel art style, pixelLandscapes_v1.ckpt
 a2a802b2, JWST, deepSpaceDiffusion_v1.ckpt
 a2a802b2, SKSKS app icon, appIconsGenerator_v1.ckpt
@@ -311,6 +316,7 @@ a2a802b2, SKSKS art style, pixelArt_v1.ckpt
 a2a802b2, arcane style, arcaneDiffusion_v2.ckpt
 a2a802b2, discoelysium style, discoElysium_v1.ckpt
 a2a802b2, elden ring style, eldenRingStyle_v1.ckpt
+a2a802b2, k/da all out ahri, kDAAllOutAhri_kdaAllOutAhriGeneral.ckpt
 a2a802b2, microworld render style, microWorlds_v1.ckpt
 a2a802b2, spiderverse style, spiderVerse_v1.ckpt
 a2a802b2, star guardian neeko, starGuardianNeeko_sgNeekoPvc.ckpt
@@ -319,6 +325,7 @@ a41a2496, gigachad
 a48a2a1b, ghibli style
 a4dbc300, pikachu
 a55d4071, wgz style
+a5c134f5, Blck_Mrbl, floralmarbleWOKEEDITIONSD2X_floralmarbleWOKEEDITION.ckpt
 a5c134f5, naturitize, jakSNaturitizeImageP_naturitizeSd21768Px.ckpt
 a5c134f5, vntgcrm style, VintageCream.ckpt
 a60545fc, itojunji style
@@ -395,7 +402,8 @@ d6e9d2b1, dvMJv4
 d7149094, lnkdn photography
 d793079e, k/da all out akali
 d80ad84b, mdjrny-grfft
-d843660f, star guardian neeko
+d843660f, k/da all out ahri, kDAAllOutAhri_kdaAllOutAhriNAIWD.ckpt
+d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
 d9aa872b, food_crit
 da1b42e0, sks woman|(sks woman)
