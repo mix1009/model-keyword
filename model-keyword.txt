@@ -116,7 +116,8 @@
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
 1f258730, dbluth
 219cbfe8, RKart style
-223531c6, angel
+223531c6, angel, sd_mse_840k.vae.pt
+223531c6, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans, vae-ft-mse-840000-ema-pruned.vae.pt
 2258c119, CNDigitalArt Style
 234cc409, comicmay artsyle
 254fb5cd, hasanpiker person
@@ -394,6 +395,7 @@ d7149094, lnkdn photography
 d793079e, k/da all out akali
 d80ad84b, mdjrny-grfft
 d843660f, star guardian neeko
+d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
 d9aa872b, food_crit
 da1b42e0, sks woman|(sks woman)
 dab3bb51, marblesh|marblee|marblee style
