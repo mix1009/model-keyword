@@ -61,6 +61,7 @@
 0eb3318b, MassiveAtomicTrains, djzMassiveAtomicTrai_0.safetensors
 0eb3318b, MechaFootball, djzMechaFootballV21_0.safetensors
 0eb3318b, MegaStadium, djzMegaStadiumV21_0.safetensors
+0eb3318b, MicroFusion, djzMicroFusionV21_0.safetensors
 0eb3318b, MidnightBurnout, djzMidnightBurnoutV2_0.safetensors
 0eb3318b, MushroomLove, djzMushroomLoveV21_0.safetensors
 0eb3318b, NeonMutation|character|enhancement|lighting|convolution, djzNeonMutationV21_0.safetensors
