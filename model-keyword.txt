@@ -177,6 +177,7 @@
 4cac193b, sks person|(sks person)
 4d5cca44, TinyPlanet|TinyCityPlanet
 4dcd8191, FFT
+4ddd5d17, JhnsT
 4ef65125, warrior
 4f3ec643, rlcrtn
 4fb1bbf3, padoru
@@ -392,6 +393,7 @@ ca682192, sjh style
 caea14ad, lvngvncnt
 ccf3615f, modern disney style
 cd22968e, whatif style
+cd72665c, sks person
 ce21b743, sjh style
 d023e7a8, stbtc|stbcf
 d1b93ddb, flrmrbl
