@@ -94,6 +94,7 @@
 10a66fa5, romcom style
 10c6aa67, studio_ghibli_anime_style style
 116d5535, coralchar
+126f21de, Zwxthej
 12c978ba, Shigenori Style
 1351eaf1, cgi|cgi style
 1400e684, analog style
@@ -293,6 +294,7 @@
 93423a00, jaggy|ps_game_screenshot|pc_game_screenshot|gamecube_game_screenshot|blood_and_gore|intense_violence|zotov_game_screenshot|eroge_game_screenshot|life_sim_game_screenshot|alter_echo
 94674f07, nvinkpunk
 9474c34f, bdgr
+94e7371c, f_brooke
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
 97db9b40, woolitize
@@ -479,5 +481,6 @@ fbf5d1b5, sks place
 fc83c5ad, civsix
 fd7a0fd0, wltzwthbshr
 fdbb23ad, D&D character
+fe2101d3, f_nikki
 fe5aae36, telltale style
 ffc0c1fd, FilFigari
