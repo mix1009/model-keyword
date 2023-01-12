@@ -356,8 +356,10 @@ aa2b4089, modelshoot style
 aa366209, romcom style
 aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charHelper_v1.ckpt
 aa7001cf, facesakimiboy, facesakimiboySakimic_v1.ckpt
+aa7001cf, ggg, gggStep1600_gggStep1600.ckpt
 aa7001cf, oldpt, oldPortraits_oldPortraits.ckpt
 aa7001cf, wooditize, jakSWooditizeImagePa_wooditizeSd21768Px.ckpt
+aae14d50, sci-fi|caspian sci-fi|star atlas|star citizen|render
 ab4941a7, fantasticmrfox
 ac25001a, fwatch style
 ac6c89d0, dublex
@@ -371,6 +373,7 @@ b047abbc, cmodel
 b1c32576, anime pencil concept style
 b2066f4d, laracroftsd
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
+b27b9a2a, sport|animal|techno|modern
 b3276bb9, Umbreon|Vaporeon|Glaceon|Sylveon|Espeon|Jolteon|Flareon|Eevee
 b47ad8fe, D&D character
 b482163d, xivcine style
