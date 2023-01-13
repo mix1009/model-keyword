@@ -117,6 +117,9 @@
 1c254752, vulcan
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
 1f258730, dbluth
+202360be, by chon, chonModel_chonV19k.safetensors
+202360be, by mochizuki kei, mochizukiKeiModel_mochizukikeiV115k.safetensors
+202360be, by t6, t6Model_t6V13k.safetensors
 219cbfe8, RKart style
 223531c6, angel, sd_mse_840k.vae.pt
 223531c6, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans, vae-ft-mse-840000-ema-pruned.vae.pt
@@ -303,6 +306,9 @@
 94e7371c, f_brooke
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
+975b2546, by chon, wd1.3.vae.pt
+975b2546, by mochizuki kei, wd1.3.vae.pt
+975b2546, by t6, wd1.3.vae.pt
 97db9b40, woolitize
 98891ea9, an illustration of an isometric city|digital art|highly detailed
 98d131ff, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
@@ -363,6 +369,7 @@ aa7001cf, oldpt, oldPortraits_oldPortraits.ckpt
 aa7001cf, wooditize, jakSWooditizeImagePa_wooditizeSd21768Px.ckpt
 aae14d50, sci-fi|caspian sci-fi|star atlas|star citizen|render
 ab4941a7, fantasticmrfox
+ab9d9647, sks man
 ac25001a, fwatch style
 ac6c89d0, dublex
 ac7a27ad, john walker lee
@@ -426,6 +433,7 @@ d7149094, lnkdn photography
 d793079e, k/da all out akali
 d80ad84b, mdjrny-grfft
 d843660f, k/da all out ahri, kDAAllOutAhri_kdaAllOutAhriNAIWD.ckpt
+d843660f, quinn \(league of legends\), quinnFromLeagueOf_quinnNaiMix.ckpt
 d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
 d9aa872b, food_crit
