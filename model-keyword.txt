@@ -295,6 +295,7 @@
 8c7efd5f, itojunji style
 8ea93b04, girl
 8ec9d746, amongus man
+8f32b8df, classicnegative
 8f89e96b, anime pencil concept style
 8fb523e8, newworld
 910fb637, btdmnky, stableBtd6_btd6.ckpt
@@ -411,6 +412,7 @@ c1a72459, girl
 c230a4e3, AK-47-Asiimov|AK-47-Gold-Arabesque|AK-47-Hydroponic|AK-47-Neon-Rider|AK-47-Vulcan|AK-47-X-Ray
 c32814de, hellraiser
 c45e4304, genesis
+c4b23842, albumcover
 c5943e55, mdjrny-pprct
 c76b8b8e, sks woman
 c79ac359, lqt
@@ -449,6 +451,7 @@ ddc6edf2, mdjrny-v4 style
 df9e36bd, leagueofstyle
 e02601f3, guohua style, guohaDiffusion_v1.ckpt
 e02601f3, midjourneytestp style, midjourneyTestP_v1.ckpt
+e02601f3, photo of ohwx woman, janLevinsonMeloraHardin_6kSteps.ckpt
 e02601f3, sks lucy, lucyFromCpEdgerun..._v1.ckpt
 e02601f3, sks vi|vi, viFromArcane_v1.ckpt
 e0a3ab60, xivcine person
