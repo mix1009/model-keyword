@@ -12,9 +12,27 @@ scripts_dir = scripts.basedir()
 kw_idx = 0
 hash_dict = None
 hash_dict_modified = None
+model_hash_dict = {}
 
 def str_simularity(a, b):
     return difflib.SequenceMatcher(None, a, b).ratio()
+
+def get_old_model_hash(filename):
+    if filename in model_hash_dict:
+        return model_hash_dict[filename]
+    try:
+        with open(filename, "rb") as file:
+            import hashlib
+            m = hashlib.sha256()
+
+            file.seek(0x100000)
+            m.update(file.read(0x10000))
+            hash = m.hexdigest()[0:8]
+            model_hash_dict[filename] = hash
+            return hash
+    except FileNotFoundError:
+        return 'NOFILE'
+
 
 class Script(scripts.Script):
     def title(self):
@@ -82,7 +100,8 @@ class Script(scripts.Script):
         # print(hash_dict)
 
         model_ckpt = os.path.basename(shared.sd_model.sd_checkpoint_info.filename)
-        model_hash = shared.sd_model.sd_model_hash
+        model_hash = get_old_model_hash(shared.sd_model.sd_checkpoint_info.filename)
+        # print(f'model_hash = {model_hash}')
 
         def new_prompt(prompt, kw, no_iter=False):
             global kw_idx
