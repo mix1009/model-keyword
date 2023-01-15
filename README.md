@@ -37,7 +37,7 @@ When generating image, the extension will try to figure out which model is used 
 4) keyword1 - use first keyword
 5) keyword2 - use second keyword (if it exists)
 
-## Adding custom mappings
+## Adding custom mappings - (NOT WORKING: due to change of hash algorithm of webui)
 
 Edit extensions/model-keyword/model-keyword-user.txt . model-keyword-user.txt is a csv file.
 * Format is model_hash, keyword_or_keywords, optional_ckpt_filename for each line.
