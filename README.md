@@ -42,9 +42,11 @@ When generating image, the extension will try to figure out which model is used 
 <img width="690" alt="custom-mapping" src="https://user-images.githubusercontent.com/1288793/212699521-3582c469-58a5-4865-a99a-b95dc73f4f6b.png">
 
 * Click "Set Keyword for Model" without filling 'Keyword' field -> outputs model name and model_hash in result.
-* Fill keyword(trigger word) or keywords separated by pipe character |
-* results are saved in model-keyword-user.txt
+* Fill keyword(trigger word) or keywords separated by pipe character |.
+* Click "Set Keyword for Model" to save mapping. Mappings are saved in model-keyword-user.txt
+* If previous mapping is found, it overwrites the mapping.
 * To delete an entry, edit model-keyword-user.txt in extensions/model-keyword.
 * do NOT edit model-keyword.txt . It can be overwritten or cause conflict while upgrading.
+* hash value for model has been changed in webui(2023-01-14), this extension uses old hash value. Old hash value is not displayed in webui.
 
 
