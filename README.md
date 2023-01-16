@@ -37,26 +37,14 @@ When generating image, the extension will try to figure out which model is used 
 4) keyword1 - use first keyword
 5) keyword2 - use second keyword (if it exists)
 
-## Adding custom mappings - (NOT WORKING: due to change of hash algorithm of webui)
+## Add Custom Mappings
 
-Edit extensions/model-keyword/model-keyword-user.txt . model-keyword-user.txt is a csv file.
-* Format is model_hash, keyword_or_keywords, optional_ckpt_filename for each line.
-* keywords are separated by pipe character |.
+<img width="690" alt="custom-mapping" src="https://user-images.githubusercontent.com/1288793/212699521-3582c469-58a5-4865-a99a-b95dc73f4f6b.png">
+
+* Click "Set Keyword for Model" without filling 'Keyword' field, output model name and model_hash in result.
+* Fill keyword(trigger word) or keywords separated by pipe character |
+* results are saved in model-keyword-user.txt
+* To delete an entry, edit model-keyword-user.txt in extensions/model-keyword.
 * do NOT edit model-keyword.txt . It can be overwritten or cause conflict while upgrading.
 
-```
-# csv file for adding custom model_hash to keyword mapping
-# line starting with # is ignored.
-
-# model_hash, keyword
-41fef4bd, nousr robot
-
-# model provides multiple keywords
-4d5cca44, TinyPlanet|TinyCityPlanet
-
-# in case there is a hash collision. it will use the closest matching filename.ckpt
-# model_hash, keyword, filename.ckpt
-a2a802b2, SKSKS app icon, App_Icons_V1_PublicPrompts.ckpt
-a2a802b2, 16-bit-landscape pixel art style, 16-bit-landscape_PublicPrompts.ckpt
-```
 
