@@ -50,6 +50,7 @@
 0eb3318b, HeavenlyLord, djzHeavenlyLordV21_0.safetensors
 0eb3318b, HeavenlyWar, djzHeavenlyWarV21_0.safetensors
 0eb3318b, HellBeast, djzHellBeastV21_0.safetensors
+0eb3318b, Hyperdrive, djzHyperdriveV21_0.safetensors
 0eb3318b, InkFacePunk, djzInkFacePunkV21_0.safetensors
 0eb3318b, InkPunk, djzInkPunkV21_0.safetensors
 0eb3318b, InkSamaFantasy, djzInkSamaFantasyV21_0.safetensors
@@ -377,6 +378,7 @@ aa7001cf, charhelper|character art|close-up character portrait|mid-range charact
 aa7001cf, facesakimiboy, facesakimiboySakimic_v1.ckpt
 aa7001cf, ggg, gggStep1600_gggStep1600.ckpt
 aa7001cf, oldpt, oldPortraits_oldPortraits.ckpt
+aa7001cf, vector-art, vectorArt_vectorArtBeta.ckpt
 aa7001cf, wooditize, jakSWooditizeImagePa_wooditizeSd21768Px.ckpt
 aae14d50, sci-fi|caspian sci-fi|star atlas|star citizen|render
 ab4941a7, fantasticmrfox
