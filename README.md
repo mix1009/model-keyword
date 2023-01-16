@@ -41,7 +41,7 @@ When generating image, the extension will try to figure out which model is used 
 
 <img width="690" alt="custom-mapping" src="https://user-images.githubusercontent.com/1288793/212699521-3582c469-58a5-4865-a99a-b95dc73f4f6b.png">
 
-* Click "Set Keyword for Model" without filling 'Keyword' field, output model name and model_hash in result.
+* Click "Set Keyword for Model" without filling 'Keyword' field -> outputs model name and model_hash in result.
 * Fill keyword(trigger word) or keywords separated by pipe character |
 * results are saved in model-keyword-user.txt
 * To delete an entry, edit model-keyword-user.txt in extensions/model-keyword.
