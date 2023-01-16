@@ -151,10 +151,12 @@
 33c549f1, swpunk|synthwave|paint splatters
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
 35a0bad3, starsectorportrait
-35f68884, k/da all out seraphine
+35f68884, k/da all out evelynn, kDAAllOutEvelynn_kdaAllOutEvelynnAom.ckpt
+35f68884, k/da all out seraphine, kDAAllOutSeraphine_kdaAllOutSeraphine.ckpt
 37910104, youngja
 38c1ebe3, base lux skin, luxannaCrownguardFro_luxannaCrownguardLol.ckpt
 38c1ebe3, k/da all out ahri, kDAAllOutAhri_kdaAllOutAhriPvc.ckpt
+38c1ebe3, k/da all out evelynn, kDAAllOutEvelynn_kdaAllOutEvelynn.ckpt
 38c1ebe3, star guardian neeko, starGuardianNeeko_sgNeekoAnythingv3.ckpt
 38e89fda, itojunji style
 390d2cdf, FluidArt
@@ -447,6 +449,7 @@ d7149094, lnkdn photography
 d793079e, k/da all out akali
 d80ad84b, mdjrny-grfft
 d843660f, k/da all out ahri, kDAAllOutAhri_kdaAllOutAhriNAIWD.ckpt
+d843660f, k/da all out evelynn, kDAAllOutEvelynn_kdaAllOutEvelynnNai.ckpt
 d843660f, k/da all out seraphine, kDAAllOutSeraphine_kdaAllOutSeraphineNai.ckpt
 d843660f, quinn \(league of legends\), quinnFromLeagueOf_quinnNaiMix.ckpt
 d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
