@@ -43,6 +43,7 @@
 0eb3318b, DriftMeetShibuya, djzDriftMeetShibuyaV_0.safetensors
 0eb3318b, FightingBirds, djzFightingBirdsV21_0.safetensors
 0eb3318b, FusionpunkReactor, djzFusionpunkReactor_0.safetensors
+0eb3318b, GingerTomCat, djzGingertomcatV21_0.safetensors
 0eb3318b, GrimKnights, djzGrimKnightsV21_0.safetensors
 0eb3318b, GrimKnights|ChaosSpheres, djzGrimKnightsChaoti_0.safetensors
 0eb3318b, GrimKnights|ChaoticSpheres|NeonMutation, djzGrimKnightsChaoti_0.safetensors
@@ -252,6 +253,7 @@
 6b4ca475, knollingcase
 6bb23006, elden ring style
 6c0b3fc5, coralchar
+6c7102ea, botw style
 6d5c9271, funko style
 6eff939c, sks person
 700b1fd2, |stylized game icon
