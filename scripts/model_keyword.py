@@ -43,6 +43,17 @@ class Script(scripts.Script):
 
     def ui(self, is_img2img):
 
+        def get_keywords():
+            model_ckpt = os.path.basename(shared.sd_model.sd_checkpoint_info.filename)
+            model_hash = get_old_model_hash(shared.sd_model.sd_checkpoint_info.filename)
+            kws = self.get_keyword(model_hash, model_ckpt)
+            mk_choices = ["keyword1, keyword2", "random", "iterate"]
+            if kws:
+                mk_choices.extend([x.strip() for x in kws.split('|')])
+            else:
+                mk_choices.extend(["keyword1", "keyword2"])
+            return gr.Dropdown.update(choices=mk_choices)
+
         def check_keyword():
             model_ckpt = os.path.basename(shared.sd_model.sd_checkpoint_info.filename)
             model_hash = get_old_model_hash(shared.sd_model.sd_checkpoint_info.filename)
@@ -145,9 +156,17 @@ class Script(scripts.Script):
                                 value='keyword prompt',
                                 label='Keyword placement:')
 
-                multiple_keywords = gr.Dropdown(choices=["keyword1, keyword2", "random", "iterate", "keyword1", "keyword2"],
-                                value='keyword1, keyword2',
-                                label='Multiple keywords:')
+                mk_choices = ["keyword1, keyword2", "random", "iterate"]
+                mk_choices.extend(["keyword1", "keyword2"])
+
+                # css = '#mk_refresh_btn { min-width: 2.3em; height: 2.5em; flex-grow: 0; margin-top: 0.4em; margin-right: 1em; padding-left: 0.25em; padding-right: 0.25em;}'
+                # with gr.Blocks(css=css):
+                with gr.Row(equal_height=True):
+                    multiple_keywords = gr.Dropdown(choices=mk_choices,
+                                    value='keyword1, keyword2',
+                                    label='Multiple keywords:')
+                    refresh_btn = gr.Button(value='\U0001f504', elem_id='mk_refresh_btn_random_seed')
+                refresh_btn.click(get_keywords, inputs=None, outputs=multiple_keywords)
 
                 with gr.Accordion('Add Custom Mappings', open=False):
                     info = gr.HTML("<p style=\"margin-bottom:0.75em\">Add custom keyword(trigger word) mapping for current model. Custom mappings are saved to extensions/model-keyword/custom-mappings.txt</p>")
@@ -162,8 +181,6 @@ class Script(scripts.Script):
                     add_mappings.click(add_custom, inputs=text_input, outputs=text_output)
                     check_mappings.click(check_keyword, inputs=None, outputs=text_output)
                     delete_mappings.click(delete_keyword, inputs=None, outputs=text_output)
-
-
 
 
         return [is_enabled, keyword_placement, multiple_keywords]
@@ -253,6 +270,10 @@ class Script(scripts.Script):
                     kw = kws[0]
                 elif multiple_keywords=="keyword2":
                     kw = kws[1]
+                elif multiple_keywords in kws:
+                    kw = multiple_keywords
+                else:
+                    kw = kws[0]
                     
             if keyword_placement == 'keyword prompt':
                 return kw + ' ' + prompt
