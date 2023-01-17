@@ -53,29 +53,33 @@ class Script(scripts.Script):
             insert_line = f'{model_hash}, {txt}, {model_ckpt}'
             global scripts_dir
 
-            user_file = f'{scripts_dir}/model-keyword-user.txt'
-            user_backup_file = f'{scripts_dir}/model-keyword-user-backup.txt'
+            user_file = f'{scripts_dir}/custom-mappings.txt'
+            user_backup_file = f'{scripts_dir}/custom-mappings-backup.txt'
             lines = []
 
-            with open(user_file, newline='') as csvfile:
-                csvreader = csv.reader(csvfile)
-                for row in csvreader:
-                    try:
-                        mhash = row[0]
-                        if mhash.startswith('#'):
+            if os.path.exists(user_file):
+                with open(user_file, newline='') as csvfile:
+                    csvreader = csv.reader(csvfile)
+                    for row in csvreader:
+                        try:
+                            mhash = row[0]
+                            if mhash.startswith('#'):
+                                lines.append(','.join(row))
+                                continue
+                            # kw = row[1]
+                            ckptname = None if len(row)<=2 else row[2].strip(' ')
+                            if mhash==model_hash and ckptname==model_ckpt:
+                                continue
                             lines.append(','.join(row))
-                            continue
-                        # kw = row[1]
-                        ckptname = None if len(row)<=2 else row[2].strip(' ')
-                        if mhash==model_hash and ckptname==model_ckpt:
-                            continue
-                        lines.append(','.join(row))
-                    except:
-                        pass
+                        except:
+                            pass
             lines.append(insert_line)
             csvtxt = '\n'.join(lines) + '\n'
             import shutil
-            shutil.copy(user_file, user_backup_file)
+            try:
+                shutil.copy(user_file, user_backup_file)
+            except:
+                pass
             open(user_file, 'w').write(csvtxt)
 
             return 'added: ' + insert_line
@@ -83,18 +87,17 @@ class Script(scripts.Script):
         with gr.Group():
             with gr.Accordion('Model Keyword', open=False):
                 is_enabled = gr.Checkbox(label='Model Keyword Enabled', value=True)
-                info = gr.HTML("<p style=\"margin-bottom:0.75em\">You can edit extensions/model-keyword/model-keyword-user.txt to add custom mappings</p>")
 
                 keyword_placement = gr.Dropdown(choices=["keyword prompt", "prompt keyword", "keyword, prompt", "prompt, keyword"], 
                                 value='keyword prompt',
                                 label='Keyword placement:')
 
                 multiple_keywords = gr.Dropdown(choices=["keyword1, keyword2", "random", "iterate", "keyword1", "keyword2"],
-                                 value='keyword1, keyword2',
-                                 label='Multiple keywords:')
+                                value='keyword1, keyword2',
+                                label='Multiple keywords:')
 
                 with gr.Accordion('Add Custom Mappings', open=False):
-                    info = gr.HTML("<p style=\"margin-bottom:0.75em\">Add custom keyword(trigger word) mapping for current model. Custom mappings are saved to extensions/model-keyword/model-keyword-user.txt</p>")
+                    info = gr.HTML("<p style=\"margin-bottom:0.75em\">Add custom keyword(trigger word) mapping for current model. Custom mappings are saved to extensions/model-keyword/custom-mappings.txt</p>")
                     text_input = gr.Textbox(placeholder="Keyword or keywords separated by |", label="Keyword(trigger word)")
                     add_custom_mappings = gr.Button(value='Set Keyword for Model')
                     text_output = gr.Textbox(interactive=False, label='result')
@@ -102,30 +105,31 @@ class Script(scripts.Script):
                     add_custom_mappings.click(add_custom, inputs=text_input, outputs=text_output)
 
 
-        return [is_enabled, info, keyword_placement, multiple_keywords]
+        return [is_enabled, keyword_placement, multiple_keywords]
 
     def load_hash_dict(self):
         global hash_dict, hash_dict_modified, scripts_dir
 
         default_file = f'{scripts_dir}/model-keyword.txt'
-        user_file = f'{scripts_dir}/model-keyword-user.txt'
+        user_file = f'{scripts_dir}/custom-mappings.txt'
         modified = str(os.stat(default_file).st_mtime) + '_' + str(os.stat(user_file).st_mtime)
 
         if hash_dict is None or hash_dict_modified != modified:
             hash_dict = defaultdict(list)
             def parse_file(path):
-                with open(path, newline='') as csvfile:
-                    csvreader = csv.reader(csvfile)
-                    for row in csvreader:
-                        try:
-                            mhash = row[0].strip(' ')
-                            kw = row[1].strip(' ')
-                            if mhash.startswith('#'):
-                                continue
-                            ckptname = 'default' if len(row)<=2 else row[2].strip(' ')
-                            hash_dict[mhash].append((kw, ckptname))
-                        except:
-                            pass
+                if os.path.exists(path):
+                    with open(path, newline='') as csvfile:
+                        csvreader = csv.reader(csvfile)
+                        for row in csvreader:
+                            try:
+                                mhash = row[0].strip(' ')
+                                kw = row[1].strip(' ')
+                                if mhash.startswith('#'):
+                                    continue
+                                ckptname = 'default' if len(row)<=2 else row[2].strip(' ')
+                                hash_dict[mhash].append((kw, ckptname))
+                            except:
+                                pass
 
             parse_file(default_file)
             parse_file(user_file)
@@ -134,7 +138,7 @@ class Script(scripts.Script):
 
         return hash_dict
 
-    def process(self, p, is_enabled, _, keyword_placement, multiple_keywords):
+    def process(self, p, is_enabled, keyword_placement, multiple_keywords):
 
         if not is_enabled:
             global hash_dict
