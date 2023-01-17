@@ -328,7 +328,8 @@
 98d131ff, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
 9912cb8d, danmumford style
-993f2358, G2FFace
+993f2358, G2FFace, g2FFace_01.ckpt
+993f2358, cbzbb, cuteRichstyle15_cuteRichstyle.ckpt
 99af29f7, archer style|arcane style|modern disney style
 99e78387, SinCityMovie Style
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
@@ -379,6 +380,7 @@ a9e3e060, ChromaV5
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 aa2b4089, modelshoot style
 aa366209, romcom style
+aa7001cf, cbzbb, cuteRichstyle21_cuteRichstyle.ckpt
 aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charHelper_v1.ckpt
 aa7001cf, facesakimiboy, facesakimiboySakimic_v1.ckpt
 aa7001cf, ggg, gggStep1600_gggStep1600.ckpt
