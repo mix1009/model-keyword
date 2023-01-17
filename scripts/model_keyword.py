@@ -178,6 +178,9 @@ class Script(scripts.Script):
                 return prompt + ', ' + kw
             return kw + ' ' + prompt
 
+        if shared.sd_model.sd_model_hash in hash_dict:
+            model_hash = shared.sd_model.sd_model_hash
+
         if model_hash in hash_dict:
             lst = hash_dict[model_hash]
             kw = None
