@@ -48,6 +48,7 @@ class Script(scripts.Script):
             txt = txt.strip()
             model_ckpt = os.path.basename(shared.sd_model.sd_checkpoint_info.filename)
             model_hash = get_old_model_hash(shared.sd_model.sd_checkpoint_info.filename)
+            model_hash_new = shared.sd_model.sd_model_hash
             if len(txt) == 0:
                 return f"Enter keyword(trigger word) or keywords separated by |\n\nmodel={model_ckpt}\nmodel_hash={model_hash}"
             insert_line = f'{model_hash}, {txt}, {model_ckpt}'
@@ -67,7 +68,7 @@ class Script(scripts.Script):
                             continue
                         # kw = row[1]
                         ckptname = None if len(row)<=2 else row[2].strip(' ')
-                        if mhash==model_hash and ckptname==model_ckpt:
+                        if (mhash==model_hash or mhash==model_hash_new) and ckptname==model_ckpt:
                             continue
                         lines.append(','.join(row))
                     except:
@@ -148,6 +149,9 @@ class Script(scripts.Script):
 
         model_ckpt = os.path.basename(shared.sd_model.sd_checkpoint_info.filename)
         model_hash = get_old_model_hash(shared.sd_model.sd_checkpoint_info.filename)
+        model_hash_new = shared.sd_model.sd_model_hash
+        if model_hash_new in hash_dict:
+            model_hash = model_hash_new
         # print(f'model_hash = {model_hash}')
 
         def new_prompt(prompt, kw, no_iter=False):
@@ -177,9 +181,6 @@ class Script(scripts.Script):
             elif keyword_placement == 'prompt, keyword':
                 return prompt + ', ' + kw
             return kw + ' ' + prompt
-
-        if shared.sd_model.sd_model_hash in hash_dict:
-            model_hash = shared.sd_model.sd_model_hash
 
         if model_hash in hash_dict:
             lst = hash_dict[model_hash]
