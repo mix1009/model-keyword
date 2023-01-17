@@ -15,7 +15,7 @@ From "Extensions/Installed" tab press "Apply and restart UI".
 ## Usage
 From txt2img, img2img tab, "Model Keyword" section is added. Model keyword extension is enabled by default. Click Model Keyword or triangle to reveal options.
 
-![reveal](https://user-images.githubusercontent.com/1288793/205526835-fd95274b-a0db-423a-a2ca-20c0057bab02.png)
+![model-keyword-open](https://user-images.githubusercontent.com/1288793/212831258-0eea1dc8-9b67-4395-9368-fd69eebe4fb0.png)
 
 When generating image, the extension will try to figure out which model is used and insert matching keyword to the prompt:
 <img width="1246" alt="model-keyword-usage" src="https://user-images.githubusercontent.com/1288793/205525854-9a4f90a7-6547-4fab-b49b-ab31b37707d6.png">
@@ -38,8 +38,7 @@ When generating image, the extension will try to figure out which model is used 
 5) keyword2 - use second keyword (if it exists)
 
 ## Add Custom Mappings
-
-<img width="690" alt="custom-mapping" src="https://user-images.githubusercontent.com/1288793/212699521-3582c469-58a5-4865-a99a-b95dc73f4f6b.png">
+<img width="793" alt="Screenshot 2023-01-17 at 3 58 15 PM" src="https://user-images.githubusercontent.com/1288793/212830714-e51c6d99-72a6-4bf3-9c1a-2aa8aa686dd4.png">
 
 * Click "Set Keyword for Model" without filling 'Keyword' field -> outputs model name and model_hash in result.
 * Fill keyword(trigger word) or keywords separated by pipe character |.
