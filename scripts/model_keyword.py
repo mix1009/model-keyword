@@ -210,6 +210,8 @@ class Script(scripts.Script):
 
         default_file = f'{scripts_dir}/model-keyword.txt'
         user_file = f'{scripts_dir}/custom-mappings.txt'
+        if not os.path.exists(user_file):
+            open(user_file, 'w').write('\n')
         modified = str(os.stat(default_file).st_mtime) + '_' + str(os.stat(user_file).st_mtime)
 
         if hash_dict is None or hash_dict_modified != modified:
