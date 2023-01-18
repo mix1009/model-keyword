@@ -62,7 +62,7 @@ class Script(scripts.Script):
 
             if entry:
                 kw = entry[0]
-                src = 'user-mappings.txt' if entry[2]==1 else 'user-keyword.txt (default database)'
+                src = 'custom-mappings.txt' if entry[2]==1 else 'model-keyword.txt (default database)'
                 return f"filename={model_ckpt}\nhash={model_hash}\nkeyword={kw}\nmatch from {src}"
             else:
                 return f"filename={model_ckpt}\nhash={model_hash}\nno match"
@@ -165,7 +165,7 @@ class Script(scripts.Script):
                     multiple_keywords = gr.Dropdown(choices=mk_choices,
                                     value='keyword1, keyword2',
                                     label='Multiple keywords:')
-                    refresh_btn = gr.Button(value='\U0001f504', elem_id='mk_refresh_btn_random_seed')
+                    refresh_btn = gr.Button(value='\U0001f504', elem_id='mk_refresh_btn_random_seed') # XXX _random_seed workaround.
                 refresh_btn.click(get_keywords, inputs=None, outputs=multiple_keywords)
 
                 with gr.Accordion('Add Custom Mappings', open=False):
