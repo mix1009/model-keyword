@@ -184,7 +184,7 @@ class Script(scripts.Script):
                     refresh_btn = gr.Button(value='\U0001f504', elem_id='ti_refresh_btn_random_seed') # XXX _random_seed workaround.
                 refresh_btn.click(update_embeddings, inputs=None, outputs=ti_keywords)
 
-                keyword_order = gr.Dropdown(choices=["textual embedding first", "model keyword first"], 
+                keyword_order = gr.Dropdown(choices=["textual inversion first", "model keyword first"], 
                                 value='textual inversion first',
                                 label='Keyword order:')
 
