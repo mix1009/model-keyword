@@ -42,8 +42,11 @@ class Script(scripts.Script):
         return scripts.AlwaysVisible
 
     def ui(self, is_img2img):
+        def get_embeddings():
+            import glob
+            return [os.path.basename(x) for x in glob.glob(f'{shared.cmd_opts.embeddings_dir}/*.pt')]
 
-        def get_keywords():
+        def update_keywords():
             model_ckpt = os.path.basename(shared.sd_model.sd_checkpoint_info.filename)
             model_hash = get_old_model_hash(shared.sd_model.sd_checkpoint_info.filename)
             kws = self.get_keyword(model_hash, model_ckpt)
@@ -53,6 +56,10 @@ class Script(scripts.Script):
             else:
                 mk_choices.extend(["keyword1", "keyword2"])
             return gr.Dropdown.update(choices=mk_choices)
+        def update_embeddings():
+            ti_choices = ["None"]
+            ti_choices.extend(get_embeddings())
+            return gr.Dropdown.update(choices=ti_choices)
 
         def check_keyword():
             model_ckpt = os.path.basename(shared.sd_model.sd_checkpoint_info.filename)
@@ -166,7 +173,20 @@ class Script(scripts.Script):
                                     value='keyword1, keyword2',
                                     label='Multiple keywords:')
                     refresh_btn = gr.Button(value='\U0001f504', elem_id='mk_refresh_btn_random_seed') # XXX _random_seed workaround.
-                refresh_btn.click(get_keywords, inputs=None, outputs=multiple_keywords)
+                refresh_btn.click(update_keywords, inputs=None, outputs=multiple_keywords)
+
+                ti_choices = ["None"]
+                ti_choices.extend(get_embeddings())
+                with gr.Row(equal_height=True):
+                    ti_keywords = gr.Dropdown(choices=ti_choices,
+                                    value='None',
+                                    label='Textual Inversion (Embedding):')
+                    refresh_btn = gr.Button(value='\U0001f504', elem_id='ti_refresh_btn_random_seed') # XXX _random_seed workaround.
+                refresh_btn.click(update_embeddings, inputs=None, outputs=ti_keywords)
+
+                keyword_order = gr.Dropdown(choices=["textual embedding first", "model keyword first"], 
+                                value='textual inversion first',
+                                label='Keyword order:')
 
                 with gr.Accordion('Add Custom Mappings', open=False):
                     info = gr.HTML("<p style=\"margin-bottom:0.75em\">Add custom keyword(trigger word) mapping for current model. Custom mappings are saved to extensions/model-keyword/custom-mappings.txt</p>")
@@ -183,7 +203,7 @@ class Script(scripts.Script):
                     delete_mappings.click(delete_keyword, inputs=None, outputs=text_output)
 
 
-        return [is_enabled, keyword_placement, multiple_keywords]
+        return [is_enabled, keyword_placement, multiple_keywords, ti_keywords, keyword_order]
 
     def load_hash_dict(self):
         global hash_dict, hash_dict_modified, scripts_dir
@@ -242,7 +262,7 @@ class Script(scripts.Script):
         return found[0] if found else None
             
 
-    def process(self, p, is_enabled, keyword_placement, multiple_keywords):
+    def process(self, p, is_enabled, keyword_placement, multiple_keywords, ti_keywords, keyword_order):
 
         if not is_enabled:
             global hash_dict
@@ -255,38 +275,57 @@ class Script(scripts.Script):
 
         def new_prompt(prompt, kw, no_iter=False):
             global kw_idx
-            kws = kw.split('|')
-            if len(kws) > 1:
-                kws = [x.strip(' ') for x in kws]
-                if multiple_keywords=="keyword1, keyword2":
-                    kw = ', '.join(kws)
-                elif multiple_keywords=="random":
-                    kw = random.choice(kws)
-                elif multiple_keywords=="iterate":
-                    kw = kws[kw_idx%len(kws)]
-                    if not no_iter:
-                        kw_idx += 1
-                elif multiple_keywords=="keyword1":
-                    kw = kws[0]
-                elif multiple_keywords=="keyword2":
-                    kw = kws[1]
-                elif multiple_keywords in kws:
-                    kw = multiple_keywords
+            if kw:
+                kws = kw.split('|')
+                if len(kws) > 1:
+                    kws = [x.strip(' ') for x in kws]
+                    if multiple_keywords=="keyword1, keyword2":
+                        kw = ', '.join(kws)
+                    elif multiple_keywords=="random":
+                        kw = random.choice(kws)
+                    elif multiple_keywords=="iterate":
+                        kw = kws[kw_idx%len(kws)]
+                        if not no_iter:
+                            kw_idx += 1
+                    elif multiple_keywords=="keyword1":
+                        kw = kws[0]
+                    elif multiple_keywords=="keyword2":
+                        kw = kws[1]
+                    elif multiple_keywords in kws:
+                        kw = multiple_keywords
+                    else:
+                        kw = kws[0]
+
+            if ti_keywords == 'None':
+                arr = [kw]
+            else:
+                ti = ti_keywords[:ti_keywords.rfind('.')]
+                if keyword_order == 'model keyword first':
+                    arr = [kw, ti]
                 else:
-                    kw = kws[0]
-                    
-            if keyword_placement == 'keyword prompt':
-                return kw + ' ' + prompt
-            elif keyword_placement == 'keyword, prompt':
-                return kw + ', ' + prompt
-            elif keyword_placement == 'prompt keyword':
-                return prompt + ' ' + kw
-            elif keyword_placement == 'prompt, keyword':
-                return prompt + ', ' + kw
-            return kw + ' ' + prompt
+                    arr = [ti, kw]
+
+                if None in arr:
+                    arr.remove(None)
+
+                if ',' in keyword_placement:
+                    kw = ', '.join(arr)
+                else:
+                    kw = ' '.join(arr)
+
+            if keyword_placement.startswith('keyword'):
+                arr.append(prompt)
+            else:
+                arr.insert(0, prompt)
+
+            if ',' in keyword_placement:
+                return ', '.join(arr)
+            else:
+                return ' '.join(arr)
+
 
         kw = self.get_keyword(model_hash, model_ckpt)
 
-        if kw is not None:
+        if kw is not None or ti_keywords != 'None':
             p.prompt = new_prompt(p.prompt, kw, no_iter=True)
             p.all_prompts = [new_prompt(prompt, kw) for prompt in p.all_prompts]
