@@ -122,6 +122,12 @@
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
 1f258730, dbluth
 202360be, by chon, chonModel_chonV19k.safetensors
+202360be, by hanaarare, hanaarareModel_hanaarareV15k.safetensors
+202360be, by kokuto, kokutoModel_kokutoV14k.safetensors
+202360be, by kurige, kurigeModel_kurigeV14k.safetensors
+202360be, by kuroume, kuroumeModel_kuroumeV16k.safetensors
+202360be, by michihasu, michihasuModel_michihasuV14k.safetensors
+202360be, by mika pikazo, mikaPikazoModel_mikapikazoV110k.safetensors
 202360be, by mochizuki kei, mochizukiKeiModel_mochizukikeiV115k.safetensors
 202360be, by t6, t6Model_t6V13k.safetensors
 219cbfe8, RKart style
@@ -172,6 +178,7 @@
 3c401697, redshift style
 3cfa0b2c, polygonal style
 3d28e095, 3D Style|Rick Roll|fullbody shot|bad cosplay man
+3e008b4d, bethharmon
 3ee44953, lwmn man
 3ee7d195, yoshin style
 3f095502, mdjrny-shttr
@@ -186,6 +193,7 @@
 4507a9f0, Makima
 457435c3, blue skin
 4583e79e, samdoesarts
+47bcfb66, goldengalss
 4859814c, TransX
 48823be0, coralchar
 48d0f413, Mtg art
@@ -269,6 +277,7 @@
 751059ed, prfns
 75555781, Batfleck
 7606f40e, scrbackrooms
+7665f8c3, itrobo2022
 77342b4b, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 7746fc20, marongcheng art
 7a182a74, wjqarnpomo
@@ -327,6 +336,12 @@
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
 975b2546, by chon, wd1.3.vae.pt
+975b2546, by hanaarare, wd1.3.vae.pt
+975b2546, by kokuto, wd1.3.vae.pt
+975b2546, by kurige, wd1.3.vae.pt
+975b2546, by kuroume, wd1.3.vae.pt
+975b2546, by michihasu, wd1.3.vae.pt
+975b2546, by mika pikazo, wd1.3.vae.pt
 975b2546, by mochizuki kei, wd1.3.vae.pt
 975b2546, by t6, wd1.3.vae.pt
 97db9b40, woolitize
