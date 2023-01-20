@@ -361,6 +361,7 @@ a2a802b2, spiderverse style, spiderVerse_v1.ckpt
 a2a802b2, star guardian neeko, starGuardianNeeko_sgNeekoPvc.ckpt
 a2a802b2, starsectorportrait, starsectorPortraits_20.ckpt
 a41a2496, gigachad
+a457aeea, FlonixApterus
 a48a2a1b, ghibli style
 a4dbc300, pikachu
 a55d4071, wgz style
@@ -381,7 +382,8 @@ a940803e, modelshoot style
 a9e3e060, ChromaV5
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 aa2b4089, modelshoot style
-aa366209, romcom style
+aa366209, maxwell the cat, maxwellTheCat_10.safetensors
+aa366209, romcom style, romComDiffusion_10.safetensors
 aa7001cf, cbzbb, cuteRichstyle21_cuteRichstyle.ckpt
 aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charHelper_v1.ckpt
 aa7001cf, facesakimiboy, facesakimiboySakimic_v1.ckpt
@@ -453,6 +455,7 @@ d1b93ddb, flrmrbl
 d1c6e030, SamDoesArt
 d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairstyle|taio hairstyle|foha hairstyle|okch hairstyle
 d30ea522, battle bunny miss fortune
+d4cee16a, ratatatat74
 d6e9d2b1, dvMJv4
 d7149094, lnkdn photography
 d793079e, k/da all out akali
@@ -489,6 +492,7 @@ e4d945bf, origtron
 e516b6bd, samdoesarts
 e54968cb, clone wars style|ahsoka tano|Anakin Skywalker|Bo-Katan|Captain Rex|Count Dooku|Darth Maul|Mace Windu|Obi-Wan Kenobi|Padme Amidala|Palpatine|Yoda
 e5541f03, midjourneyi
+e5787969, ratatatat74
 e5e811ce, pixelart|#pixelart
 e5ed66c6, mdjrny-v4 style
 e6184e6b, sks woman|(sks woman)|((sks woman))
@@ -526,6 +530,7 @@ f5d9c703, snthwve style
 f6239527, brtdrpp
 f6ca0e2b, comicmay
 f8fb379d, a photo of a sks woman with white hair
+f97ba63a, phse
 fa5e4f28, (tokki girl)
 fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
 fbf5d1b5, sks place
