@@ -328,7 +328,7 @@ class Script(scripts.Script):
 
 
 from fastapi import FastAPI, Response, Query, Body
-from fastapi.responses import JSONResponse, StreamingResponse, FileResponse
+from fastapi.responses import JSONResponse
 
 
 def model_keyword_api(_: gr.Blocks, app: FastAPI):
@@ -336,8 +336,12 @@ def model_keyword_api(_: gr.Blocks, app: FastAPI):
     async def get_keywords():
         model_ckpt = os.path.basename(shared.sd_model.sd_checkpoint_info.filename)
         model_hash = get_old_model_hash(shared.sd_model.sd_checkpoint_info.filename)
-        kws = [x.strip() for x in get_keyword_for_model(model_hash, model_ckpt).split('|')]
-        return {"keywords": kws, "model": model_ckpt, "hash": model_hash}
+        r = get_keyword_for_model(model_hash, model_ckpt, return_entry=True)
+        if r is None:
+            return {"keywords": [], "model": model_ckpt, "hash": model_hash, "match_source": "no match"}
+        kws = [x.strip() for x in r[0].split('|')]
+        match_source = "model-keyword.txt" if r[2]==0 else "custom-mappings.txt"
+        return {"keywords": kws, "model": model_ckpt, "hash": model_hash, "match_source": match_source}
 
     # @app.get("/model_keyword/get_raw_keywords")
     # async def get_raw_keywords():
