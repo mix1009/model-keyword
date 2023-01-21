@@ -101,7 +101,8 @@
 126f21de, Zwxthej
 12c978ba, Shigenori Style
 1351eaf1, cgi|cgi style
-1400e684, analog style
+1400e684, MCSkin, minecraftskin_10.safetensors
+1400e684, analog style, analogDiffusion_10Safetensors.safetensors
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
 14e1ef5d, sksi, csgoMaps_v1.ckpt
 14e1ef5d, swpunk|synthwave|paint splatters, synthPunkSearch_raw.ckpt
@@ -203,6 +204,7 @@
 4cac193b, sks person|(sks person)
 4d5cca44, TinyPlanet|TinyCityPlanet
 4d63cb83, mbb
+4dc372a6, art by yaguru magiku
 4dcd8191, FFT
 4ddd5d17, JhnsT
 4ef65125, warrior
@@ -331,6 +333,7 @@
 916ea38c, pixelsprite|16bitscene
 92c083af, redshift|nvinkpunk|lndskp
 92e4c246, sks person
+92e61297, art by yaguru magiku
 93423a00, jaggy|ps_game_screenshot|pc_game_screenshot|gamecube_game_screenshot|blood_and_gore|intense_violence|zotov_game_screenshot|eroge_game_screenshot|life_sim_game_screenshot|alter_echo
 94674f07, nvinkpunk
 9474c34f, bdgr
@@ -441,6 +444,7 @@ b7ba5b22, orna santa, ornamentalSantaDiffu_default10.ckpt
 b895edc4, mdjrny-v4 style
 bb029452, kindigitstyle
 bcbe94c2, frutigeraero
+bde477d2, junemodel
 be4652f1, samdoesarts
 be7ddafc, classic disney style
 be82dca2, Altira|Altira style
