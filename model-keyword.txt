@@ -93,6 +93,7 @@
 0eb3318b, monochrome, djzMonochromeV21_0.safetensors
 0eb3318b, ultraskin|twenties|twenty year old|thirties|thirty year old|eighties|eighty year old|elderly|wrinkles|pores|skin detail|freckles|moles|scar, ultraskin_09.safetensors
 0eb3318b, wwone, djzWwoneV21_0.safetensors
+0ed9b4a6, embroidery by embarg
 101d2d78, barbieworld
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
 10a66fa5, romcom style
@@ -441,6 +442,7 @@ b47ad8fe, D&D character
 b482163d, xivcine style
 b4cba599, Mona woman|Mona
 b7010dfe, Mosaic Art
+b725e575, wtrcolor style
 b78b4650, filfigari
 b7ba5b22, effeff9 woman|effeff9 man|effeff9 creature|effeff9 architecture, effeffIxConceptDiffu_main.ckpt
 b7ba5b22, orna santa, ornamentalSantaDiffu_default10.ckpt
