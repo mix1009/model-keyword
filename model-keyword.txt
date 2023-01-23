@@ -18,6 +18,7 @@
 096596d8, PoW ArtStyle
 09f027c7, hgear
 0b09ad3b, ctsmscl
+0b84672b, gtechstyle|art by gtechstyle|in the style of getchstyle
 0c93a576, (name)|(oumeifeng style)|(redshift style)
 0e828029, sks woman|(sks woman)
 0eb3318b, Airlock, djzAirlockV21_0.safetensors
@@ -381,6 +382,7 @@
 9ef9f138, gigafractal artstyle
 a0b3a1c3, sphx weapon
 a184fedc, gigafractal artstyle
+a22399ba, nvinkpunk|analog style|chromav5
 a25e79ba, Neytiriblueskinbabe
 a2a802b2, 16-bit-landscape pixel art style, pixelLandscapes_v1.ckpt
 a2a802b2, JWST, deepSpaceDiffusion_v1.ckpt
@@ -531,7 +533,8 @@ e494d7b5, takeON
 e4d945bf, origtron
 e516b6bd, samdoesarts
 e54968cb, clone wars style|ahsoka tano|Anakin Skywalker|Bo-Katan|Captain Rex|Count Dooku|Darth Maul|Mace Windu|Obi-Wan Kenobi|Padme Amidala|Palpatine|Yoda
-e5541f03, midjourneyi
+e5541f03, by Jean Leon|oil painting, jeanLeon0Ckpt_jeanLeon0Ckpt.ckpt
+e5541f03, midjourneyi, 21SdModernBuildingsS_midjourneyBuildingsS.ckpt
 e5787969, ratatatat74
 e5e811ce, pixelart|#pixelart
 e5ed66c6, mdjrny-v4 style
@@ -549,6 +552,7 @@ ec9f8c2e, CharacterChan Style
 ecd908cb, sks woman|(sks woman)
 ecf98c5e, valorant style
 ed87e89c, tchnclr style
+ed977a93, natpok
 edf5c25b, sks woman
 ee5b91da, ligne claire
 ee624815, xmascookie
