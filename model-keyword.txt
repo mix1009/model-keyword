@@ -6,7 +6,8 @@
 007edaa3, clayitization
 0149de1f, linus sebastian person
 01f61612, clonewars style
-0248da5c, nghtmre
+0248da5c, nghtmre, nightmareDiffusionV1_nightmareDiffusionV1.safetensors
+0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_genshin01.safetensors
 030933d0, l4lisa
 03f434be, MTG card art
 04baab99, a 3d render of|a 3d cartoon of
@@ -200,6 +201,7 @@
 457435c3, blue skin
 4583e79e, samdoesarts
 4689ff28, nvinkpunk|samdoesarts
+475eae91, vintage polaroid analog portrait photography of
 47bcfb66, goldengalss
 4859814c, TransX
 48823be0, coralchar
