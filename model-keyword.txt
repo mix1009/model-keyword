@@ -107,6 +107,7 @@
 1351eaf1, cgi|cgi style
 1400e684, MCSkin, minecraftskin_10.safetensors
 1400e684, analog style, analogDiffusion_10Safetensors.safetensors
+1400e684, rfktrstyle, rfktrsDarkdream_rfktrsDarkdream.safetensors
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
 14e1ef5d, sksi, csgoMaps_v1.ckpt
 14e1ef5d, swpunk|synthwave|paint splatters, synthPunkSearch_raw.ckpt
@@ -297,6 +298,7 @@
 7746fc20, marongcheng art
 7a182a74, wjqarnpomo
 7a8244c2, mtompunk
+7a8b830f, sks woman|#sd1.5_vibs1#|woman
 7b62be5f, empress
 7b8aff9d, Pokemon
 7c4971d4, timeless style
@@ -368,6 +370,7 @@
 9912cb8d, danmumford style
 993f2358, G2FFace, g2FFace_01.ckpt
 993f2358, PokeModel, pokemodelBETABy_pokemodelBETA.ckpt
+993f2358, PrintDesign, tShirtPrintDesignsTest_v01.ckpt
 993f2358, cbzbb, cuteRichstyle15_cuteRichstyle.ckpt
 99af29f7, archer style|arcane style|modern disney style
 99e78387, SinCityMovie Style
@@ -410,6 +413,7 @@ a5c134f5, naturitize, jakSNaturitizeImageP_naturitizeSd21768Px.ckpt
 a5c134f5, vntgcrm style, VintageCream.ckpt
 a60545fc, itojunji style
 a6428756, holliemengert artstyle
+a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 a6f96d80, BelleDelphine|woman
 a7694188, sks woman
@@ -512,6 +516,7 @@ d843660f, k/da all out seraphine, kDAAllOutSeraphine_kdaAllOutSeraphineNai.ckpt
 d843660f, quinn \(league of legends\), quinnFromLeagueOf_quinnNaiMix.ckpt
 d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
+d947f2cd, jisoo
 d9aa872b, food_crit
 d9d42da0, fantassified icon
 da1b42e0, sks woman|(sks woman)
