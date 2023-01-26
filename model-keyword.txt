@@ -318,6 +318,7 @@
 82780037, tpkify
 82cb7b65, germy
 82cbe3e7, sks woman|(sks woman)
+8300ecaa, artificial-journey style
 83295fd6, mdjrny-pntrt
 833060ae, mdjrny-v4 style|nousr robot
 835e7dc1, gigafractal artstyle
@@ -332,6 +333,7 @@
 8687d7a5, samdoesarts style
 86ac0981, CreatureChan Style
 87654cf4, kai'sa
+877244cc, havavawaw
 883f759a, jwl watercolor
 8a648075, sks jinx|jinx
 8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle
@@ -372,6 +374,7 @@
 993f2358, PokeModel, pokemodelBETABy_pokemodelBETA.ckpt
 993f2358, PrintDesign, tShirtPrintDesignsTest_v01.ckpt
 993f2358, cbzbb, cuteRichstyle15_cuteRichstyle.ckpt
+993f2358, miniwool, miniwool_miniwool1.ckpt
 99af29f7, archer style|arcane style|modern disney style
 99e78387, SinCityMovie Style
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
