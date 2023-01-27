@@ -359,6 +359,7 @@
 94e7371c, f_brooke
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
+96e9bd73, art by yaguru magiku|(001glitch-core|dreamcore)|8sconception|alberto-mielgo|anime-background-style-v2|Super Quality|Vaporwave|Synth Wave|weirdcore|dreamy|full body
 975b2546, by chon, wd1.3.vae.pt
 975b2546, by hanaarare, wd1.3.vae.pt
 975b2546, by kokuto, wd1.3.vae.pt
@@ -587,7 +588,8 @@ f2b82853, junobirch drag queen
 f2ca12bd, zombie_vector
 f2ea5e14, woolitize
 f32626be, estilovintedois
-f458b5c6, HarryPotterStyle
+f458b5c6, HarryPotterStyle, HarryPotterStyleByMaryGrandPres.vae.pt
+f458b5c6, art by yaguru magiku|(001glitch-core|dreamcore)|8sconception|alberto-mielgo|anime-background-style-v2|Super Quality|Vaporwave|Synth Wave|weirdcore|dreamy|full body, orangemix.vae.pt
 f588c09f, cloud
 f59c31c9, SouthPark Style|Rick Roll|FullBody Shot
 f5b84ac3, Shataki
