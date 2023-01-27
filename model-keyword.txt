@@ -501,6 +501,7 @@ caea14ad, lvngvncnt
 ccf3615f, modern disney style
 cd22968e, whatif style
 cd72665c, sks person
+cde643bb, dalcefo
 ce21b743, sjh style
 cfc1e734, mina|momo|jeongyeon|chaer|sana|tzuyu|naeyeon|dahyun|jihyo
 d023e7a8, stbtc|stbcf
@@ -590,7 +591,8 @@ f458b5c6, HarryPotterStyle
 f588c09f, cloud
 f59c31c9, SouthPark Style|Rick Roll|FullBody Shot
 f5b84ac3, Shataki
-f5d9c703, snthwve style
+f5d9c703, snthwve style, synthwave_v1.ckpt
+f5d9c703, snthwve, synthwaveBy_v10.ckpt
 f6239527, brtdrpp
 f6ca0e2b, comicmay
 f8fb379d, a photo of a sks woman with white hair
