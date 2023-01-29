@@ -136,6 +136,7 @@
 14fe5bd7, nousr robot
 151f0afb, @Spirited, spiritedAwayGeneralModel_Spirited.ckpt
 151f0afb, mobian, sonicdiffusion_v2Anything.ckpt
+15254b92, Analog style|Chromav5|nvinkpunk
 15540f03, gigafractal artstyle
 1578af98, bigbadejo alien_monster
 168f95ca, asim style
@@ -397,6 +398,7 @@
 7e8d1b0b, coralchar
 7edc8e08, mksks style
 7f62d94b, VoxelArt
+80391624, Analog style|Chromav5|Nvinkpunk
 80a1b237, itojunji style
 80bb424c, sks woman|(sks woman)
 80ccbfb5, sks woman
@@ -469,6 +471,7 @@
 993f2358, PrintDesign, tShirtPrintDesignsTest_v01.ckpt
 993f2358, cbzbb, cuteRichstyle15_cuteRichstyle.ckpt
 993f2358, chibiSJstyle, chibiSJStyle_BETA.ckpt
+993f2358, jlryst, goldArmorPortraits15_.ckpt
 993f2358, microworld, microworldsRemake_10Alpha.ckpt
 993f2358, miniwool, miniwool_1.ckpt
 99af29f7, archer style|arcane style|modern disney style
@@ -499,6 +502,7 @@ a149572b, vector-art, vectorArt_Beta.safetensors
 a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a184fedc, gigafractal artstyle
 a2073f09, by mika pikazo
+a22399ba, Analog style|Chromav5|Nvinkpunk
 a25e79ba, Neytiriblueskinbabe
 a2a802b2, 16-bit-landscape pixel art style, pixelLandscapes_v1.ckpt
 a2a802b2, DBfantasyart style, fantasyArtStyle_V1.ckpt
@@ -725,6 +729,7 @@ e79c8e1c, jckmn person
 e93cb7f3, hrrzg
 e952eaf1, Riko|shift dress|cold outfit|Reg|aubade helmet|aubade cape|arm extended|Shiggy|Nat|Kiyui|bell|Jiruo|child|moon whistle|Habo|black whistle|Marulk|maid outfit|Ozen|ozen white whistle|ozen armor|Lyza|lyza white whistle|Bondrewd|bondrewd white whistle|Nanachi|abyssal hat|young|human Nanachi|Mitty|human Mitty|delver outfit|delver helmet|red whistle|blue whistle|backpack|blaze reap|bleeding curse|Orth town|the abyss|windmill|gondola platform|orphanage|the first layer|gondola|eternal fortunes|cliffs|upper second layer|lower second layer|seeker camp|the third layer|the fourth layer|garden of eternal fortunes|nanachi's hideout|exterior|backyard|the fifth layer|ido front|playroom|crimson splitjaw|corpse weeperorb piercer|narehate|Meinya|dreamlikeart
 e96904c7, sks juri
+e9caaf6a, Analog style|Chromav5|nvinkpunk
 ea1e7cc7, FlonixMatyukhinft|FlonixApterus|Danmumford style
 ea2dccc5, tracerx
 eae95c5e, cardassian
