@@ -565,6 +565,7 @@ aa7001cf, cmodel, syntheticCmodel_v1.ckpt
 aa7001cf, facesakimiboy, facesakimiboy_v1.ckpt
 aa7001cf, food_crit, jaksCreepyCritter_sd21768px.ckpt
 aa7001cf, ggg, gggStep1600_.ckpt
+aa7001cf, jlryst, goldArmorPortraits21_.ckpt
 aa7001cf, oldpt, oldPortraits_.ckpt
 aa7001cf, vector-art, vectorArt_Beta.ckpt
 aa7001cf, wooditize, jaksWooditizeImage_wooditizeSD21768px.ckpt
