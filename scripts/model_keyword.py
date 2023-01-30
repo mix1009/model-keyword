@@ -93,6 +93,51 @@ def get_keyword_for_model(model_hash, model_ckpt, return_entry=False):
         return found
     return found[0] if found else None
 
+settings = None
+
+def save_settings(m):
+    global scripts_dir, settings
+    
+    if settings is None:
+        settigns = get_settings()
+    
+    for k in m.keys():
+        settings[k] = m[k]
+
+    settings_file = f'{scripts_dir}/settings.txt'
+
+    lines = []
+    for k in settings.keys():
+        lines.append(f'{k}={settings[k]}')
+    csvtxt = '\n'.join(lines)+'\n'
+    open(settings_file, 'w').write(csvtxt)
+    
+def get_settings():
+    global scripts_dir, settings
+    if settings:
+        return settings
+
+    settings = {}
+
+    settings['is_enabled'] = 'True'
+    settings['keyword_placement'] = 'keyword prompt'
+    settings['multiple_keywords'] = 'keyword1, keyword2'
+    settings['ti_keywords'] = 'None'
+    settings['keyword_order'] = 'textual inversion first'
+
+    settings_file = f'{scripts_dir}/settings.txt'
+
+    if os.path.exists(settings_file):    
+        with open(settings_file, newline='') as file:
+            for line in file.read().split('\n'):
+                pos = line.find('=')
+                if pos == -1: continue
+                k = line[:pos]
+                v = line[pos+1:].strip()
+                settings[k] = v
+
+    return settings
+
 class Script(scripts.Script):
     def title(self):
         return "Model keyword"
@@ -212,13 +257,30 @@ class Script(scripts.Script):
 
             return 'added: ' + insert_line
 
+        settings = get_settings()
+
+        def cb_enabled():
+            return True if settings['is_enabled']=='True' else False
+        def cb_keyword_placement():
+            return settings['keyword_placement']
+        def cb_multiple_keywords():
+            return settings['multiple_keywords']
+        def cb_ti_keywords():
+            return settings['ti_keywords']
+        def cb_keyword_order():
+            return settings['keyword_order']
+
         with gr.Group():
             with gr.Accordion('Model Keyword', open=False):
-                is_enabled = gr.Checkbox(label='Model Keyword Enabled', value=True)
 
-                keyword_placement = gr.Dropdown(choices=["keyword prompt", "prompt keyword", "keyword, prompt", "prompt, keyword"], 
-                                value='keyword prompt',
-                                label='Keyword placement:')
+                is_enabled = gr.Checkbox(label='Model Keyword Enabled ', value=cb_enabled)
+                setattr(is_enabled,"do_not_save_to_config",True)
+
+                placement_choices = ["keyword prompt", "prompt keyword", "keyword, prompt", "prompt, keyword"]
+                keyword_placement = gr.Dropdown(choices=placement_choices,
+                                value=cb_keyword_placement,
+                                label='Keyword placement: ')
+                setattr(keyword_placement,"do_not_save_to_config",True)
 
                 mk_choices = ["keyword1, keyword2", "random", "iterate"]
                 mk_choices.extend(["keyword1", "keyword2"])
@@ -227,8 +289,10 @@ class Script(scripts.Script):
                 # with gr.Blocks(css=css):
                 with gr.Row(equal_height=True):
                     multiple_keywords = gr.Dropdown(choices=mk_choices,
-                                    value='keyword1, keyword2',
-                                    label='Multiple keywords:')
+                                    value=cb_multiple_keywords,
+                                    label='Multiple keywords: ')
+                    setattr(multiple_keywords,"do_not_save_to_config",True)
+
                     refresh_btn = gr.Button(value='\U0001f504', elem_id='mk_refresh_btn_random_seed') # XXX _random_seed workaround.
                 refresh_btn.click(update_keywords, inputs=None, outputs=multiple_keywords)
 
@@ -236,14 +300,16 @@ class Script(scripts.Script):
                 ti_choices.extend(get_embeddings())
                 with gr.Row(equal_height=True):
                     ti_keywords = gr.Dropdown(choices=ti_choices,
-                                    value='None',
-                                    label='Textual Inversion (Embedding):')
+                                    value=cb_ti_keywords,
+                                    label='Textual Inversion (Embedding): ')
+                    setattr(ti_keywords,"do_not_save_to_config",True)
                     refresh_btn = gr.Button(value='\U0001f504', elem_id='ti_refresh_btn_random_seed') # XXX _random_seed workaround.
                 refresh_btn.click(update_embeddings, inputs=None, outputs=ti_keywords)
 
                 keyword_order = gr.Dropdown(choices=["textual inversion first", "model keyword first"], 
-                                value='textual inversion first',
-                                label='Keyword order:')
+                                value=cb_keyword_order,
+                                label='Keyword order: ')
+                setattr(keyword_order,"do_not_save_to_config",True)
 
                 with gr.Accordion('Add Custom Mappings', open=False):
                     info = gr.HTML("<p style=\"margin-bottom:0.75em\">Add custom keyword(trigger word) mapping for current model. Custom mappings are saved to extensions/model-keyword/custom-mappings.txt</p>")
@@ -263,6 +329,16 @@ class Script(scripts.Script):
         return [is_enabled, keyword_placement, multiple_keywords, ti_keywords, keyword_order]
 
     def process(self, p, is_enabled, keyword_placement, multiple_keywords, ti_keywords, keyword_order):
+        save_settings({
+            'is_enabled': f'{is_enabled}',
+            'keyword_placement': keyword_placement,
+            'multiple_keywords': multiple_keywords,
+            'ti_keywords': ti_keywords,
+            'keyword_order': keyword_order,
+        })
+        settings = get_settings()
+        print(f'settings2 = {settings}')
+
 
         if not is_enabled:
             global hash_dict
