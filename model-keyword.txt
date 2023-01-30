@@ -416,6 +416,7 @@
 83295fd6, mdjrny-pntrt
 833060ae, mdjrny-v4 style|nousr robot
 835e7dc1, gigafractal artstyle
+8371a0bf, spicto
 8381f785, jclnhbe style
 84597c2e, style of joemadureira
 8469c1b7, in WKHW1 Beautiful Art Style
@@ -442,6 +443,7 @@
 8ea93b04, girl
 8ec9d746, amongus man
 8f32b8df, classicnegative
+8f488fb6, seconddusk
 8f7d98c0, by mon
 8f89e96b, anime pencil concept style
 910fb637, btdmnky, stableBTD6_btd6.ckpt
@@ -669,6 +671,7 @@ d1c6e030, SamDoesArt
 d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairstyle|taio hairstyle|foha hairstyle|okch hairstyle
 d2089202, modelshoot style|nousr robot
 d21c153e, ChromaV5|nvinkpunk
+d31b3d50, abysssorange2|pastelmix|cheeseday 30|merged model
 d4a6454e, elden ring style|postapocalypse|knollingcase|analog style|dreamlikeart|swpunk|synthwave|modelshoot style|cyborgdiffusion
 d4cee16a, ratatatat74
 d57fa787, by hanaarare
