@@ -31,7 +31,7 @@
 0b071c53, bilsh21
 0b09ad3b, ctsmscl
 0b84672b, gtechstyle|art by gtechstyle|in the style of getchstyle
-0c93a576, (name)
+0c93a576, name|oumeifeng style|redshift style
 0e828029, sks woman|(sks woman)
 0eb3318b, AbstractChaos, djzAbstractChaosV21_0.safetensors
 0eb3318b, Airlock, djzAirlockV21768_21512Inpainting-inpainting.safetensors
@@ -45,7 +45,7 @@
 0eb3318b, AssassinZohc, djzAssassinZohcV21_0.safetensors
 0eb3318b, AutosFantasy, djzAutosFantasyV21_0.safetensors
 0eb3318b, BlackOpsLadies, djzBlackOpsLadiesV21_0.safetensors
-0eb3318b, CHV3CZombie, CHV3CAlien
+0eb3318b, CHV3CZombie|CHV3CAlien|CHV3CBird|CHV3SLighthouse|CHV3SCute|CHV3SMacro, charhelperSd2X768_charhelperV4.safetensors
 0eb3318b, ChaoticSpheres, djzChaoticSpheresV21_0.safetensors
 0eb3318b, CosmicGate, djzCosmicGateV21_0.safetensors
 0eb3318b, CosmicSpiders, djzCosmicSpiderV21_0.safetensors
@@ -214,7 +214,7 @@
 33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime
 333ecf3c, sks woman|(sks woman)|((sks woman))
 33c549f1, swpunk|synthwave|paint splatters
-3460aae9, a photo of pxyz woman
+3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
 35035503, putinclown
 35a0bad3, starsectorportrait
 382d6ed3, sks person
@@ -303,6 +303,7 @@
 5896f8d5, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 59139221, man s4ntos
 59724734, IconsMi
+5998441b, redshift style|seconddusk
 5a1e4b93, coralchar
 5a747794, mechanical parts|mechanical 'body part or object|cyberware style
 5ad07226, art by yaguru magiku
@@ -311,7 +312,7 @@
 5bba7f87, as a t-shirt logo in the style of <MAGIFACTORY> art
 5bcbb8a5, sks person
 5bcd62ae, megapals|megapals style
-5c3af880, ai protest|ai protest
+5c3af880, ai protest|ai protest|3d logo
 5c7e6e88, 80sFashionRobot
 5cc9b7ba, modelshoot style
 5d39b377, rainey|rainey style
@@ -358,6 +359,7 @@
 6b7b4735, Danmumford style
 6baa48b3, modelshoot style
 6bb23006, elden ring style
+6bb855f1, modelshoot style
 6c0b3fc5, coralchar
 6c481f5c, mksks style
 6c7102ea, botw style
@@ -368,7 +370,7 @@
 6d9fa060, 2d dnd battlemap
 6eff939c, sks person
 6f5fc35d, 3d render of|3d cartoon of
-700b1fd2, 
+700b1fd2, |stylized game icon
 705ae506, None
 71d46dd0, Bocchi|KitaIkuyo|IjichiNijika|YamadaRyo|IjichiSeika|PAsan|HiroiKikuri|ShimizuEliza|IwashitaShima|Bfan1|BoFa2|GotoFutari
 727f0812, modelshoot style
@@ -383,6 +385,7 @@
 7614fc55, PBOldRifRPGStyle
 7665f8c3, itrobo2022
 7675f1a1, stilovintedois
+76c86ec0, modelshoot style|swpunk|synthwave|paint splatters
 77342b4b, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 7746fc20, marongcheng art
 77c6d270, by narae
@@ -402,10 +405,11 @@
 80a1b237, itojunji style
 80bb424c, sks woman|(sks woman)
 80ccbfb5, sks woman
-80d84c30, (((by Atey Ghailan and Emmanuel Shiu
+80d84c30, by Atey Ghailan and Emmanuel Shiu|SamDoesArt1
 8114a3ed, sks style
 812aab2b, yae miko from genshin impact|ei from genshin impact
 81369a90, supermarionation
+81b68188, tk_env|tk_char
 81da0383, dvOldWorld
 820c4a3e, by sy4
 822b8799, pepestyle person
@@ -437,6 +441,7 @@
 8c7efd5f, itojunji style
 8ca5c5a1, zero_two_101
 8cc017a0, vector-art|pulp-diffusion
+8cce742c, modelshoot style
 8cf4478f, sks girl
 8d9aaa54, nvinkpunk
 8e194b43, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
@@ -455,7 +460,9 @@
 92e4c246, sks person
 92e61297, art by yaguru magiku
 93423a00, jaggy|ps_game_screenshot|pc_game_screenshot|gamecube_game_screenshot|blood_and_gore|intense_violence|zotov_game_screenshot|eroge_game_screenshot|life_sim_game_screenshot|alter_echo
+93f72c18, sks woman
 9422abbc, manyakis art style|rabbit girl
+942395af, modelshoot style|swpunk|synthwave|paint splatters
 94674f07, nvinkpunk
 9518faa2, luna
 9571b2c7, nvinkpunk
@@ -464,7 +471,7 @@
 97777800, swpunk|synthwave|paint splatters
 979de0ab, 2xdrdisrespect
 97db9b40, woolitize
-98891ea9, an illustration of an isometric city
+98891ea9, an illustration of an isometric city|digital art|highly detailed
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
 9912cb8d, danmumford style
 993f2358, G2FFace, g2fface_01.ckpt
@@ -483,7 +490,7 @@
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
 9b5251e8, flat|high contrast|color, fluentuiEmoji_sd15.ckpt
 9b5251e8, muppet|kermit|cookie monster|drummer muppet|Miss. Piggy|sesame street|Elmo, muppets_sd15MuppetBlip.ckpt
-9b83a557, cmodel
+9b83a557, cmodel|clayitization|cbzbb|Oldjourney|classicnegative|concept-art|redshift style|by vector-art|pulp-diffusion|CHV3CZombie|CHV3CAlien|CHV3CBird|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3MTroll|CHV3MDeath|CHV3CRogue|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SWorld|CHV3SSciFi|CHV3MDragon|CHV3CVehicle
 9ba8ee98, lisafrankstyle
 9c55fd12, mirrormask
 9ca13f02, analog style
@@ -498,7 +505,7 @@
 a06436da, wtrcolor style
 a0b3a1c3, sphx weapon
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
-a149572b, CHV3CKnight, CHV3CWizard
+a149572b, CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3MTroll|CHV3MDeath|CHV3CRogue|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3SWorld|CHV3SSciFi|CHV3MDragon|CHV3CVehicle, charhelperSd2X768_charhelperV3.safetensors
 a149572b, concept-art, conceptSheet_Alpha.safetensors
 a149572b, vector-art, vectorArt_Beta.safetensors
 a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
@@ -541,13 +548,14 @@ a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 a6f96d80, BelleDelphine|woman
 a73b3094, 3d render of|3d cartoon of
 a7694188, sks woman
-a7722732, (SEMI-SILHOUETTE light:1.1)
+a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1|photrealistic:1.1
 a7e848cb, Syrdrin|Syrdrin style, syrdrinSciFi_syrdrinV1.ckpt
 a7e848cb, analog style|a photo of mary elizabeth winstead, maryElizabeth_v1.ckpt
 a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 a8372572, wooditize
 a8e2a894, no trigger words
 a919edc0, MechBattleTechClassicTR3025
+a940803e, modelshoot style
 a9e3e060, ChromaV5
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 aa2b4089, modelshoot style
@@ -557,7 +565,7 @@ aa366209, maxwell the cat, maxwellTheCat_10.safetensors
 aa366209, romcom style, romcomDiffusion_10.safetensors
 aa366209, source4 style, source4V10_v1Safetensors.safetensors
 aa49e01c, anime pencil concept style
-aa7001cf, CHARHELPER, CHARACTER ART
+aa7001cf, CHARHELPER|CHARACTER ART|CLOSE-UP CHARACTER PORTRAIT|MID-RANGE|CHARACTER PORTRAIT|DIGITAL PAINTING|DIGITAL ILLUSTRATION|STYLIZED|ANIME, charhelperSd2X768_charhelperV2.ckpt
 aa7001cf, COLR_001, coloringBook_.ckpt
 aa7001cf, cbzbb, cuteRichstyle21_cuteRichstyle.ckpt
 aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charhelperSd2X768_v1.ckpt
@@ -611,6 +619,7 @@ b7ba5b22, orna santa, ornamentalSanta_default10.ckpt
 b7c86dad, scrpoolrooms|scrbackrooms
 b81c4a6d, source4 style
 b895edc4, mdjrny-v4 style
+b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
 ba158946, goldenglass
 bb029452, kindigitstyle
@@ -644,13 +653,14 @@ c5c54e28, dreamlikeart
 c76b8b8e, sks woman
 c79ac359, lqt
 c86334f5, itojunji style
+c8796e4b, tk_char|tk_env
 c88e730a, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 c8e3bfca, AnimeChan Style
-c91be480, Dloz
+c91be480, Dloz|Dloz style
 ca4fcc12, snnmrn|snnmrn woman
 ca682192, sjh style
 caea14ad, lvngvncnt
-cba4df56, CHV3CKnight
+cba4df56, CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3MTroll|CHV3MDeath|CHV3CRogue|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3SWorld|CHV3SSciFi|CHV3MDragon|CHV3CVehicle
 cc5b68d0, lndskp|nvinkpunk|redshift
 ccf3615f, modern disney style
 cd22968e, whatif style
@@ -658,6 +668,7 @@ cd72665c, sks person
 cde643bb, dalcefo
 ce21b743, sjh style
 ce6d2934, masterpiece|best quality
+cebf8122, modelshoot style
 cf5ed516, @Spirited
 cfc1e734, mina|momo|jeongyeon|chaer|sana|tzuyu|naeyeon|dahyun|jihyo
 cfc5de0e, modelshoot style|analog style|mdjrny-v4 style
@@ -698,7 +709,8 @@ dc05355d, sksi object|sksi
 dcdf0425, dgs illustration style
 dd47c9f1, nabongs|jeongie|hiraimomo|minatozaki sana|godjihyo|myouimina|dubu|chaengie|choutzuyu
 ddc6edf2, mdjrny-v4 style
-de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style
+de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
+de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 df2df325, googiearch
 df9e36bd, leagueofstyle
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
@@ -740,6 +752,7 @@ eae95c5e, cardassian
 eb70ff01, concept-art
 ebc4e0a9, RottingZombie person
 ebd5057f, photo of a potion
+ec74414b, tk-char|tk-env
 ec8cd4c8, BalloonArt
 ec9f8c2e, CharacterChan Style
 ecd908cb, sks woman|(sks woman)
@@ -775,14 +788,14 @@ f8fb379d, a photo of a sks woman with white hair
 f97ba63a, phse
 fa5e4f28, (tokki girl)
 fab2577c, modelshoot style|analog style|mdjrny-v4 style
-fae962e2, ComplexLA style
+fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
 fbf5d1b5, sks place
 fc41b940, evgenii-ponasenkov
 fc83c5ad, civsix style
 fd496cc1, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 fd7a0fd0, wltzwthbshr
 fdbb23ad, D&D character
-fdcf65e7, DREAMLIKE
+fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
 fe3c6142, TheOldShadowrunStyles
 fe5aae36, telltale style
 ff7616f1, FRPGFaceGen
