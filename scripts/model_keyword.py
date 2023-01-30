@@ -99,7 +99,7 @@ def save_settings(m):
     global scripts_dir, settings
     
     if settings is None:
-        settigns = get_settings()
+        settings = get_settings()
     
     for k in m.keys():
         settings[k] = m[k]
