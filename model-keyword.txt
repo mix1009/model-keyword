@@ -133,6 +133,7 @@
 1400e684, rfktrstyle, rfktrsDarkdream_.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+14d36354, duskz1
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
 14e1ef5d, phse, prettyHouseSo_v1.ckpt
 14e1ef5d, sksi, csGOMapGenerator_v1.ckpt
@@ -551,6 +552,7 @@ a5e6f199, color|flat|high contrast, fluentuiEmoji_sd21.ckpt
 a60545fc, itojunji style
 a6428756, holliemengert artstyle
 a69bb214, Oldjourney
+a6b8de9e, ANALOG STYLE|MODELSHOOT STYLE|NSFW|NUDITY
 a6dbd500, tchnclr
 a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
@@ -671,6 +673,7 @@ ca682192, sjh style
 caea14ad, lvngvncnt
 cba4df56, CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3MTroll|CHV3MDeath|CHV3CRogue|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3SWorld|CHV3SSciFi|CHV3MDragon|CHV3CVehicle
 cc5b68d0, lndskp|nvinkpunk|redshift
+cceb87e1, ANALOG STYLE|MODELSHOOT STYLE|NSFW|NUDITY
 ccf3615f, modern disney style
 cd22968e, whatif style
 cd72665c, sks person
@@ -691,10 +694,12 @@ d1c6e030, SamDoesArt
 d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairstyle|taio hairstyle|foha hairstyle|okch hairstyle
 d2089202, modelshoot style|nousr robot
 d21c153e, ChromaV5|nvinkpunk
+d312ed1c, TheRPGCharGenEsAFArt
 d31b3d50, abysssorange2|pastelmix|cheeseday 30|merged model
 d4a6454e, elden ring style|postapocalypse|knollingcase|analog style|dreamlikeart|swpunk|synthwave|modelshoot style|cyborgdiffusion
 d4cee16a, ratatatat74
 d57fa787, by hanaarare
+d676dd55, deetz1
 d6e9d2b1, dvMJv4
 d7149094, lnkdn photography
 d7cc8710, manyakis art style|rabbit girl
@@ -719,6 +724,7 @@ dc05355d, sksi object|sksi
 dcdf0425, dgs illustration style
 dd47c9f1, nabongs|jeongie|hiraimomo|minatozaki sana|godjihyo|myouimina|dubu|chaengie|choutzuyu
 ddc6edf2, mdjrny-v4 style
+de2f2560, ANALOG STYLE|MODELSHOOT STYLE|NSFW|NUDITY, realisticVisionV13_v13VAEIncluded.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 df2df325, googiearch
@@ -806,7 +812,8 @@ fd496cc1, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 fd7a0fd0, wltzwthbshr
 fdbb23ad, D&D character
 fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
-fe3c6142, TheOldShadowrunStyles
+fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_theoldshadowrunstyles.safetensors
+fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_.safetensors
 fe5aae36, telltale style
 ff7616f1, FRPGFaceGen
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
