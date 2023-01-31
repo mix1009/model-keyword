@@ -34,7 +34,7 @@
 0c93a576, name|oumeifeng style|redshift style
 0e828029, sks woman|(sks woman)
 0eb3318b, AbstractChaos, djzAbstractChaosV21_0.safetensors
-0eb3318b, Airlock, djzAirlockV21768_21512Inpainting-inpainting.safetensors
+0eb3318b, Airlock, djzAirlockV21768V21512_21768.safetensors
 0eb3318b, Apocalypso, djzApocalypsoV21_0.safetensors
 0eb3318b, AscendentKnights, djzAscendentKnights_0.safetensors
 0eb3318b, AscendentSoldiers, djzAscendentSoldiers_0.safetensors
@@ -49,7 +49,7 @@
 0eb3318b, ChaoticSpheres, djzChaoticSpheresV21_0.safetensors
 0eb3318b, CosmicGate, djzCosmicGateV21_0.safetensors
 0eb3318b, CosmicSpiders, djzCosmicSpiderV21_0.safetensors
-0eb3318b, CthuluBishop, djzCthuluBishopV21_0.safetensors
+0eb3318b, CthuluBishop, djzCthuluBishopV21_v21768.safetensors
 0eb3318b, CthuluBishop|NeonMutation, djzCthulubishop_0.safetensors
 0eb3318b, CyberAngels, djzCyberAngelsV21_0.safetensors
 0eb3318b, CyberCity, djzCyberCityV21_0.safetensors
@@ -88,6 +88,7 @@
 0eb3318b, OmniConfusion, djzOmniConfusionV21_0.safetensors
 0eb3318b, ParadiseGirl, djzParadiseGirlV21_0.safetensors
 0eb3318b, PlagueKnight, djzPlagueKnightV21_0.safetensors
+0eb3318b, PongoAbelii, djzPongoAbeliiV21_v21768.safetensors
 0eb3318b, PromptEater, djzPromptEaterV21_0.safetensors
 0eb3318b, PromptHeist, djzPromptHeistV21_0.safetensors
 0eb3318b, PurgatorySquad, djzPurgatorySquadV21_0.safetensors
@@ -116,11 +117,14 @@
 10c6aa67, studio_ghibli_anime_style style
 1108cf15, by miyase mahiro
 116d5535, coralchar
+1194073d, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON|knollingcase|elden ring style|Cyborgdiffusion|Cyborgdiffusion style|artificial-journey style|analog style|sks person
 1249edb0, by michihasu
 126f21de, Zwxthej
 12c978ba, Shigenori Style
 1351eaf1, cgi|cgi style
 13a6777c, modelshoot style|nousr robot
+1400e684, Airlock, djzAirlockV21768V21512_v15.safetensors
+1400e684, CthuluBishop, djzCthuluBishopV21_v15.safetensors
 1400e684, DBfantasyart style, fantasyArtStyle_V13.safetensors
 1400e684, DBlinebrush style, linebrushStyle_V21.safetensors
 1400e684, MCSkin, minecraftskin_v11.safetensors
@@ -208,6 +212,7 @@
 3031dfb2, marsattacks
 3061461b, analog style
 30833d87, luffy man|zoro man|nami woman|sanji man|nico woman|chopper boy|franky man|usopp man|brook man|jimbei man
+3087797c, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON|knollingcase|elden ring style|Cyborgdiffusion|Cyborgdiffusion style|artificial-journey style|analog style|sks person
 30fbd8bc, sks person
 318a302e, arcane style
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
@@ -483,6 +488,7 @@
 993f2358, PrintDesign, tShirtPrintDesignsTest_v01.ckpt
 993f2358, cbzbb, cuteRichstyle15_cuteRichstyle.ckpt
 993f2358, chibiSJstyle, chibiSJStyle_BETA.ckpt
+993f2358, crovira, crovira_10.ckpt
 993f2358, jlryst, goldArmorPortraits15_.ckpt
 993f2358, microworld, microworldsRemake_10Alpha.ckpt
 993f2358, miniwool, miniwool_1.ckpt
@@ -703,7 +709,8 @@ d9d42da0, fantassified icon
 da02d76b, HarryPotterStyle
 da1b42e0, sks woman|(sks woman)
 da3d89ca, sks
-dab15164, wawavawa
+dab15164, BLoMDress, model1_ver2.ckpt
+dab15164, wawavawa, model1_ver1.ckpt
 dab3bb51, marblesh|marblee|marblee style
 daecbd84, FleischerStyle
 db10a0ee, sks woman
