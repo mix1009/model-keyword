@@ -490,8 +490,8 @@
 993f2358, cbzbb, cuteRichstyle15_cuteRichstyle.ckpt
 993f2358, chibiSJstyle, chibiSJStyle_BETA.ckpt
 993f2358, crovira, crovira_10.ckpt
-993f2358, jlryst, goldArmorPortraits15_.ckpt
-993f2358, microworld, microworldsRemake_10Alpha.ckpt
+993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
+993f2358, microworld, microworldsRemake_version10Alpha.ckpt
 993f2358, miniwool, miniwool_1.ckpt
 99af29f7, archer style|arcane style|modern disney style
 99b46941, yae miko from genshin impact|ei from genshin impact
@@ -586,7 +586,7 @@ aa7001cf, cmodel, syntheticCmodel_v1.ckpt
 aa7001cf, facesakimiboy, facesakimiboy_v1.ckpt
 aa7001cf, food_crit, jaksCreepyCritter_sd21768px.ckpt
 aa7001cf, ggg, gggStep1600_.ckpt
-aa7001cf, jlryst, goldArmorPortraits21_.ckpt
+aa7001cf, jlryst, goldArmorPortraits21_goldArmorPortraits21.ckpt
 aa7001cf, oldpt, oldPortraits_.ckpt
 aa7001cf, vector-art, vectorArt_Beta.ckpt
 aa7001cf, wooditize, jaksWooditizeImage_wooditizeSD21768px.ckpt
@@ -715,6 +715,7 @@ da02d76b, HarryPotterStyle
 da1b42e0, sks woman|(sks woman)
 da3d89ca, sks
 dab15164, BLoMDress, model1_ver2.ckpt
+dab15164, microworld, microworldsRemake_version2.ckpt
 dab15164, wawavawa, model1_ver1.ckpt
 dab3bb51, marblesh|marblee|marblee style
 daecbd84, FleischerStyle
@@ -813,7 +814,7 @@ fd7a0fd0, wltzwthbshr
 fdbb23ad, D&D character
 fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
 fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_theoldshadowrunstyles.safetensors
-fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_.safetensors
+fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
 fe5aae36, telltale style
 ff7616f1, FRPGFaceGen
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
