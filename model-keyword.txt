@@ -76,6 +76,7 @@
 0eb3318b, InkPunk, djzInkPunkV21_0.safetensors
 0eb3318b, InkSamaFantasy, djzInkSamaFantasyV21_0.safetensors
 0eb3318b, JohnsonsCyberpunk, djzJohnsonsCyberpunk_0.safetensors
+0eb3318b, JovianSkies, djzJovianSkies_v21768Light.safetensors
 0eb3318b, JovianSkyship, djzJovianSkyshipV21_0.safetensors
 0eb3318b, Junglepunk, djzJunglepunkV21_0.safetensors
 0eb3318b, Junglepunk-House, djzJunglepunkHouse_0.safetensors
@@ -498,7 +499,7 @@
 993f2358, chibiSJstyle, chibiSJStyle_BETA.ckpt
 993f2358, crovira, crovira_10.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
-993f2358, microworld, microworldsRemake_version10Alpha.ckpt
+993f2358, microworld, microworldsRemake_version3.ckpt
 993f2358, miniwool, miniwool_1.ckpt
 99af29f7, archer style|arcane style|modern disney style
 99b46941, yae miko from genshin impact|ei from genshin impact
@@ -529,6 +530,7 @@ a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a184fedc, gigafractal artstyle
 a2073f09, by mika pikazo
 a22399ba, Analog style|Chromav5|Nvinkpunk
+a23afa51, dvMech
 a25e79ba, Neytiriblueskinbabe
 a2a802b2, 16-bit-landscape pixel art style, pixelLandscapes_v1.ckpt
 a2a802b2, DBfantasyart style, fantasyArtStyle_V1.ckpt
@@ -782,7 +784,7 @@ ec9f8c2e, CharacterChan Style
 ecd908cb, sks woman|(sks woman)
 ecf98c5e, valorant style
 ed87e89c, tchnclr style
-ed977a93, dvMech, dvmech_.ckpt
+ed977a93, dvMech, dvmech100_dvmech100.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v1.ckpt
 edf5c25b, sks woman
 ee5b91da, ligne claire
@@ -822,7 +824,7 @@ fd496cc1, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 fd7a0fd0, wltzwthbshr
 fdbb23ad, D&D character
 fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
-fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_theoldshadowrunstyles.safetensors
+fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_1990sV10.safetensors
 fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
 fe5aae36, telltale style
 ff7616f1, FRPGFaceGen
