@@ -336,9 +336,6 @@ class Script(scripts.Script):
             'ti_keywords': ti_keywords,
             'keyword_order': keyword_order,
         })
-        settings = get_settings()
-        print(f'settings2 = {settings}')
-
 
         if not is_enabled:
             global hash_dict
