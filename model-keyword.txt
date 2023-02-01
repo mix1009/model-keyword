@@ -44,9 +44,12 @@
 0eb3318b, AssassinXuhk, djzAssassinXuhkV21_0.safetensors
 0eb3318b, AssassinZohc, djzAssassinZohcV21_0.safetensors
 0eb3318b, AutosFantasy, djzAutosFantasyV21_0.safetensors
+0eb3318b, BlackHole, djzBlackHole_v21768.safetensors
 0eb3318b, BlackOpsLadies, djzBlackOpsLadiesV21_0.safetensors
 0eb3318b, CHV3CZombie|CHV3CAlien|CHV3CBird|CHV3SLighthouse|CHV3SCute|CHV3SMacro, charhelperSd2X768_charhelperV4.safetensors
+0eb3318b, CarXjohnson|day|night, djzCarxjohnson_v21768.safetensors
 0eb3318b, ChaoticSpheres, djzChaoticSpheresV21_0.safetensors
+0eb3318b, Consoles, djzConsoles_v21768.safetensors
 0eb3318b, CosmicGate, djzCosmicGateV21_0.safetensors
 0eb3318b, CosmicSpiders, djzCosmicSpiderV21_0.safetensors
 0eb3318b, CthuluBishop, djzCthuluBishopV21_v21768.safetensors
@@ -85,6 +88,7 @@
 0eb3318b, MidnightBurnout, djzMidnightBurnout_0.safetensors
 0eb3318b, MushroomLove, djzMushroomLoveV21_0.safetensors
 0eb3318b, NeonMutation|character|enhancement|lighting|convolution, djzNeonMutationV21_0.safetensors
+0eb3318b, NoodleNinja, djzNoodleninja_v21768.safetensors
 0eb3318b, OmniConfusion, djzOmniConfusionV21_0.safetensors
 0eb3318b, ParadiseGirl, djzParadiseGirlV21_0.safetensors
 0eb3318b, PlagueKnight, djzPlagueKnightV21_0.safetensors
@@ -192,6 +196,7 @@
 258f79e3, stylized game icon|sci-fi|steampunk|spell
 265e757d, Sidon|Sidon style
 26621fc2, tdst style
+27d7d4a1, vapodusk1
 27ea8c02, snthwve style|nvinkpunk
 28c385a0, Bloodborne Style
 291b67b8, maxwell the cat
@@ -553,7 +558,6 @@ a5e6f199, color|flat|high contrast, fluentuiEmoji_sd21.ckpt
 a60545fc, itojunji style
 a6428756, holliemengert artstyle
 a69bb214, Oldjourney
-a6b8de9e, ANALOG STYLE|MODELSHOOT STYLE|NSFW|NUDITY
 a6dbd500, tchnclr
 a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
