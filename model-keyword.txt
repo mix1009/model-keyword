@@ -478,6 +478,7 @@
 9577782b, fking_scifi_v2
 96e9bd73, art by yaguru magiku
 97777800, swpunk|synthwave|paint splatters
+978e9ff8, h4zza
 979de0ab, 2xdrdisrespect
 97db9b40, woolitize
 98891ea9, an illustration of an isometric city|digital art|highly detailed
@@ -560,6 +561,7 @@ a6f96d80, BelleDelphine|woman
 a73b3094, 3d render of|3d cartoon of
 a7694188, sks woman
 a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1|photrealistic:1.1
+a7e848cb, SJstyle, createASJStyleMask_beta.ckpt
 a7e848cb, Syrdrin|Syrdrin style, syrdrinSciFi_syrdrinV1.ckpt
 a7e848cb, analog style|a photo of mary elizabeth winstead, maryElizabeth_v1.ckpt
 a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
@@ -774,7 +776,8 @@ ec9f8c2e, CharacterChan Style
 ecd908cb, sks woman|(sks woman)
 ecf98c5e, valorant style
 ed87e89c, tchnclr style
-ed977a93, natpok
+ed977a93, dvMech, dvmech_.ckpt
+ed977a93, natpok, nataliaPoklonskaya_v1.ckpt
 edf5c25b, sks woman
 ee5b91da, ligne claire
 ee624815, xmascookie
