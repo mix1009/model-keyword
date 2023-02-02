@@ -348,6 +348,7 @@
 5f06aa6f, ttdddd
 5fb8c5f9, sks man
 5fc312dd, newvegaschar
+5fd78ac3, laolei style
 6076842b, nvinkpunk|dreamlikeart|samdoesart|kuvshinov
 60851177, dgs illustration style
 60fe2f34, modelshoot style|analog style|mdjrny-v4 style|nousr robot
@@ -469,7 +470,6 @@
 8e194b43, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 8ea93b04, girl
 8ec9d746, amongus man
-8f32b8df, classicnegative
 8f488fb6, seconddusk
 8f7d98c0, by mon
 8f89e96b, anime pencil concept style
@@ -561,6 +561,7 @@ a4dbc300, pikachu
 a5183478, art by better with salt|kipteitei|woot
 a55d4071, wgz style
 a5c134f5, Blck_Mrbl, floralmarbleWOKE_EDITION.ckpt
+a5c134f5, classicnegative, classicNegativeSD21_classicNegative768px.ckpt
 a5c134f5, clayitization, jaksClayitization_clayitizationSd21.ckpt
 a5c134f5, naturitize, jaksNaturitizeImage_naturitizeSD21768px.ckpt
 a5c134f5, vntgcrm style, VintageCream.ckpt
@@ -598,7 +599,7 @@ aa7001cf, COLR_001, coloringBook_.ckpt
 aa7001cf, cbzbb, cuteRichstyle21_cuteRichstyle.ckpt
 aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charhelperSd2X768_v1.ckpt
 aa7001cf, chloeben, chloeBennet_v1.ckpt
-aa7001cf, classicnegative, classicNegative1521_classicNegative768px.ckpt
+aa7001cf, classicnegative, classicNegativeSD21_classicNegative768px.ckpt
 aa7001cf, cmodel, syntheticCmodel_v1.ckpt
 aa7001cf, facesakimiboy, facesakimiboy_v1.ckpt
 aa7001cf, food_crit, jaksCreepyCritter_sd21768px.ckpt
