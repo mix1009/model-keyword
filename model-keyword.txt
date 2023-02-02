@@ -11,6 +11,11 @@
 01a35826, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 01f61612, clonewars style
 0248da5c, Rainbowpatch, rainbowpatch12_rainbowpatchV12.safetensors
+0248da5c, anipoma1, duskfallsManga_15Final.safetensors
+0248da5c, deetz1, duskfallsSlime_10.safetensors
+0248da5c, duskz1, duskfallsIllustration_10.safetensors
+0248da5c, mangadusk1, duskfallsManga_10.safetensors
+0248da5c, manwha1, duskfallsManga_05.safetensors
 0248da5c, nghtmre, nightmareDiffusionV1_.safetensors
 0248da5c, seconddusk, duskfallVirtual3D_10.safetensors
 0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_01.safetensors
@@ -512,6 +517,7 @@
 9b69308b, mangadusk1
 9b83a557, cmodel|clayitization|cbzbb|Oldjourney|classicnegative|concept-art|redshift style|by vector-art|pulp-diffusion|CHV3CZombie|CHV3CAlien|CHV3CBird|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3MTroll|CHV3MDeath|CHV3CRogue|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SWorld|CHV3SSciFi|CHV3MDragon|CHV3CVehicle
 9ba8ee98, lisafrankstyle
+9c3572e7, realistic|best quality|masterpiece
 9c55fd12, mirrormask
 9ca13f02, analog style
 9ce5cea2, nvinkpunk|snthwve style|style of joemadureira
@@ -622,6 +628,7 @@ b047abbc, cmodel
 b078aa3e, by greatmosu
 b1c32576, anime pencil concept style
 b2066f4d, laracroftsd
+b245152f, powercolor.v1|Drippy watercolor|Vivid watercolor
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
 b2fb8eba, m_robutts|illustration style|art by cutesexyrobutts
 b3276bb9, Umbreon|Vaporeon|Glaceon|Sylveon|Espeon|Jolteon|Flareon|Eevee
@@ -670,6 +677,7 @@ c32814de, hellraiser
 c3466734, by t6
 c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 c4b23842, albumcover
+c4e365bf, lightroom red:34% blue:53% green:43% filmgrain_minimal|texture:+25%|clarity: +40%|Contrast:+4%|shadows: +11%|sharpen:70%
 c5943e55, mdjrny-pprct
 c5c54e28, dreamlikeart
 c76b8b8e, sks woman
@@ -739,6 +747,7 @@ dcdf0425, dgs illustration style
 dd47c9f1, nabongs|jeongie|hiraimomo|minatozaki sana|godjihyo|myouimina|dubu|chaengie|choutzuyu
 ddc6edf2, mdjrny-v4 style
 de2f2560, ANALOG STYLE|MODELSHOOT STYLE|NSFW|NUDITY, realisticVisionV13_v13VAEIncluded.safetensors
+de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 df2df325, googiearch
