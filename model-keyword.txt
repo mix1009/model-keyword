@@ -413,6 +413,7 @@
 77342b4b, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 7746fc20, marongcheng art
 77c6d270, by narae
+7867176b, Laura Pausini|Ela Weber Sellerona|Barbara d'Urso Barbarona|Claudia Pandolfi|Paola Cortellesi|Maria Elena Boschi MEB|Michela Vittoria Brambilla|Lorena Bianchetti|Sabrina Ferilli|Chiara Francini|Zia Mara Venier|Virginia Raggi|Fatima Trotta|Selvaggia Lucarelli|Sanna Marin|Elisa Isoardi
 7a182a74, wjqarnpomo
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
 7b62be5f, empress
@@ -467,6 +468,7 @@
 8ca5c5a1, zero_two_101
 8cc017a0, vector-art|pulp-diffusion
 8cce742c, modelshoot style
+8cdc294b, girl
 8cf4478f, sks girl
 8d9aaa54, nvinkpunk
 8e194b43, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
@@ -651,6 +653,7 @@ b7ba5b22, orna santa, ornamentalSanta_default10.ckpt
 b7c86dad, scrpoolrooms|scrbackrooms
 b81c4a6d, source4 style
 b895edc4, mdjrny-v4 style
+b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
 b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
 ba158946, goldenglass
