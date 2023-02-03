@@ -130,6 +130,7 @@
 1108cf15, by miyase mahiro
 116d5535, coralchar
 1194073d, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON|knollingcase|elden ring style|Cyborgdiffusion|Cyborgdiffusion style|artificial-journey style|analog style|sks person
+11c35df3, bganidusk
 1249edb0, by michihasu
 126f21de, Zwxthej
 12c978ba, Shigenori Style
@@ -182,6 +183,7 @@
 202360be, by b-ginga, bGingaModel_bgingaV1130k.safetensors
 202360be, by chon, chonModel_chonV19k.safetensors
 202360be, by hanaarare, hanaarareModel_hanaarareV15k.safetensors
+202360be, by kayahara, kayaharaModel_kayaharaV18k.safetensors
 202360be, by kokuto, kokutoModel_kokutoV14k.safetensors
 202360be, by kurige, kurigeModel_kurigeV14k.safetensors
 202360be, by kuroume, kuroumeModel_kuroumeV16k.safetensors
@@ -195,8 +197,11 @@
 202360be, by popqn, popqnModel_popqn5k.safetensors
 202360be, by sy4, sy4Model_sy4V110k.safetensors
 202360be, by t6, t6Model_t6V115k.safetensors
+202360be, by vima, vimaModel_vimaV13k.safetensors
 205e0248, fking_scifi_v2
 219cbfe8, RKart style
+223531c6, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi, vae-ft-mse-840000-ema-pruned.ckpt
+223531c6, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti, vae-ft-mse-840000-ema-pruned.ckpt
 2258c119, CNDigitalArt Style
 234cc409, comicmay artsyle
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
@@ -211,6 +216,7 @@
 291e7dc8, monochrome
 2933589a, bld aesthetic
 2a3e365b, arcane style
+2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 2b694ba7, modelshoot style|nousr robot
 2bb2342e, rotoscopee
 2be73e30, by b-ginga
@@ -308,6 +314,7 @@
 510c5845, modelshoot style|nousr robot
 51935af1, by chon
 521893a1, voxel-ish
+523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
 5346a314, modernartst
 536a8e48, mdjrny-v4 style|dreamlikeart
 538d7157, pcrc style
@@ -362,6 +369,7 @@
 62a1df72, elden ring style|postapocalypse|knollingcase|analog style|dreamlikeart|swpunk|synthwave|modelshoot style|cyborgdiffusion
 6329328a, lds
 6360ab7c, angel
+6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 643afbd9, Microscopic
 645a42cf, newstl
 64afe6d2, CALARTS
@@ -389,11 +397,13 @@
 6c0b3fc5, coralchar
 6c481f5c, mksks style
 6c7102ea, botw style
+6d2a5077, by vima
 6d384d32, melkor_manchin art style
 6d59a0fd, lisdusk1|lisdusk2
 6d5c9271, funko style
 6d92cddf, dalcefo_hitoria
 6d9fa060, 2d dnd battlemap
+6e199947, rfktrstyle
 6eff939c, sks person
 6f5fc35d, 3d render of|3d cartoon of
 700b1fd2, |stylized game icon
@@ -415,7 +425,7 @@
 77342b4b, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 7746fc20, marongcheng art
 77c6d270, by narae
-7867176b, Laura Pausini|Ela Weber Sellerona|Barbara d'Urso Barbarona|Claudia Pandolfi|Paola Cortellesi|Maria Elena Boschi MEB|Michela Vittoria Brambilla|Lorena Bianchetti|Sabrina Ferilli|Chiara Francini|Zia Mara Venier|Virginia Raggi|Fatima Trotta|Selvaggia Lucarelli|Sanna Marin|Elisa Isoardi
+7867176b, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 7a182a74, wjqarnpomo
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
 7b62be5f, empress
@@ -513,6 +523,7 @@
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
 993f2358, microworld, microworldsRemake_version3.ckpt
 993f2358, miniwool, miniwool_1.ckpt
+994784b1, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 99af29f7, archer style|arcane style|modern disney style
 99b46941, yae miko from genshin impact|ei from genshin impact
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
@@ -790,6 +801,8 @@ e695afa2, modelshoot style|nousr robot
 e7300f3d, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 e79451df, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 e79c8e1c, jckmn person
+e8a0ce25, by kayahara
+e8c8476a, by kayahara
 e93cb7f3, hrrzg
 e952eaf1, Riko|shift dress|cold outfit|Reg|aubade helmet|aubade cape|arm extended|Shiggy|Nat|Kiyui|bell|Jiruo|child|moon whistle|Habo|black whistle|Marulk|maid outfit|Ozen|ozen white whistle|ozen armor|Lyza|lyza white whistle|Bondrewd|bondrewd white whistle|Nanachi|abyssal hat|young|human Nanachi|Mitty|human Mitty|delver outfit|delver helmet|red whistle|blue whistle|backpack|blaze reap|bleeding curse|Orth town|the abyss|windmill|gondola platform|orphanage|the first layer|gondola|eternal fortunes|cliffs|upper second layer|lower second layer|seeker camp|the third layer|the fourth layer|garden of eternal fortunes|nanachi's hideout|exterior|backyard|the fifth layer|ido front|playroom|crimson splitjaw|corpse weeperorb piercer|narehate|Meinya|dreamlikeart
 e96904c7, sks juri
