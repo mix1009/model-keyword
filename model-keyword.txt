@@ -339,7 +339,7 @@
 5b2d4455, EmiliaClarke woman
 5b4e980d, style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
 5ba11045, TheRPGCharGenEsAFArt
-5bba7f87, as a t-shirt logo in the style of <MAGIFACTORY> art
+5bba7f87, as a t-shirt logo in the style of <magifactory> art
 5bcbb8a5, sks person
 5bcd62ae, megapals|megapals style
 5c3af880, ai protest|ai protest|3d logo
@@ -355,7 +355,7 @@
 5e081326, Matchapix
 5e107da3, ComplexLA style
 5e2f08a1, ltsbbl style
-5ec42e28, as a t-shirt logo in the style of <MAGIFACTORY> art
+5ec42e28, as a t-shirt logo in the style of <magifactory> art
 5f06aa6f, ttdddd
 5fb8c5f9, sks man
 5fc312dd, newvegaschar
@@ -607,6 +607,7 @@ aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 aa2b4089, modelshoot style
 aa366209, MechBattleTechClassicTR3025, battletechClassic_mechbattletechclassic.safetensors
 aa366209, TheOldShadowrunStyles, theOldShadowRunStyles_theoldshadowrunstyles.safetensors
+aa366209, as a t-shirt logo in the style of <magifactory> art, MAGIFACTORYTShirt_magifactoryTShirtModel.safetensors
 aa366209, maxwell the cat, maxwellTheCat_10.safetensors
 aa366209, romcom style, romcomDiffusion_10.safetensors
 aa366209, source4 style, source4V10_v1Safetensors.safetensors
