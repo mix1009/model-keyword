@@ -40,12 +40,7 @@
 0b84672b, gtechstyle|art by gtechstyle|in the style of getchstyle
 0c93a576, name|oumeifeng style|redshift style
 0e828029, sks woman|(sks woman)
-0eb3318b, AbstractChaos, djzAbstractChaosV21_0.safetensors
 0eb3318b, Airlock, djzAirlockV21768V21512_21768.safetensors
-0eb3318b, Apocalypso, djzApocalypsoV21_0.safetensors
-0eb3318b, AscendentKnights, djzAscendentKnights_0.safetensors
-0eb3318b, AscendentSoldiers, djzAscendentSoldiers_0.safetensors
-0eb3318b, Ascendents, djzAscendentsV21_0.safetensors
 0eb3318b, AssassinKahb, djzAssassinKahbV21_0.safetensors
 0eb3318b, AssassinMihq, djzAssassinMihqV21_0.safetensors
 0eb3318b, AssassinXuhk, djzAssassinXuhkV21_0.safetensors
@@ -55,13 +50,10 @@
 0eb3318b, BlackOpsLadies, djzBlackOpsLadiesV21_0.safetensors
 0eb3318b, CHV3CZombie|CHV3CAlien|CHV3CBird|CHV3SLighthouse|CHV3SCute|CHV3SMacro, charhelperSd2X768_charhelperV4.safetensors
 0eb3318b, CarXjohnson|day|night, djzCarxjohnson_v21768.safetensors
-0eb3318b, ChaoticSpheres, djzChaoticSpheresV21_0.safetensors
 0eb3318b, Consoles, djzConsoles_v21768.safetensors
 0eb3318b, CosmicGate, djzCosmicGateV21_0.safetensors
-0eb3318b, CosmicSpiders, djzCosmicSpiderV21_0.safetensors
 0eb3318b, CthuluBishop, djzCthuluBishopV21_v21768.safetensors
 0eb3318b, CthuluBishop|NeonMutation, djzCthulubishop_0.safetensors
-0eb3318b, CyberAngels, djzCyberAngelsV21_0.safetensors
 0eb3318b, CyberCity, djzCyberCityV21_0.safetensors
 0eb3318b, CyberRonin, djzCyberRoninV21_0.safetensors
 0eb3318b, DarkExecutioner, djzDarkExecutioner_0.safetensors
@@ -70,7 +62,6 @@
 0eb3318b, DriftMeetShibuya, djzDriftMeetShibuya_0.safetensors
 0eb3318b, FightingBirds, djzFightingBirdsV21_0.safetensors
 0eb3318b, FusionpunkReactor, djzFusionpunkReactor_0.safetensors
-0eb3318b, GingerTomCat, djzGingertomcatV21768Djz_21512Inpainting-inpainting.safetensors
 0eb3318b, GrimKnights, djzGrimKnightsV21_0.safetensors
 0eb3318b, GrimKnights|ChaosSpheres, djzGrimknights_0.safetensors
 0eb3318b, GrimKnights|ChaoticSpheres|NeonMutation, djzGrimknights_0.safetensors
@@ -119,6 +110,14 @@
 0eb3318b, TokyooFantasy, djzTokyooFantasyV21_0.safetensors
 0eb3318b, TwinRealms, djzTwinRealmsV21_0.safetensors
 0eb3318b, TwistedDomain, djzTwistedDomainV21_0.safetensors
+0eb3318b, apocalypso, djzApocalypsoV21V15_v21768.safetensors
+0eb3318b, ascendentknights, djzAscendentKnightsV21_v21768.safetensors
+0eb3318b, ascendents, djzAscendentsV21V15_v21768.safetensors
+0eb3318b, ascendentsoldiers, djzAscendentSoldiersV21_v21768.safetensors
+0eb3318b, chaoticspheres, djzChaoticSpheresV21_v21768.safetensors
+0eb3318b, cosmicspiders, djzCosmicSpiderV21_v21768.safetensors
+0eb3318b, cyberangels, djzCyberAngelsV21V15_v21768.safetensors
+0eb3318b, gingertomcat, djzGingertomcatV21768V21_21768.safetensors
 0eb3318b, monochrome, djzMonochromeV21_0.safetensors
 0eb3318b, ultraskin|twenties|twenty year old|thirties|thirty year old|eighties|eighty year old|elderly|wrinkles|pores|skin detail|freckles|moles|scar, ultraskin_09.safetensors
 0eb3318b, wwone, djzWwoneV21_0.safetensors
@@ -137,12 +136,20 @@
 1351eaf1, cgi|cgi style
 13a6777c, modelshoot style|nousr robot
 1400e684, Airlock, djzAirlockV21768V21512_v15.safetensors
+1400e684, Ascendents, djzAscendentsV21V15_v15.safetensors
+1400e684, ChaoticSphere, djzChaoticSpheresV21_v15.safetensors
+1400e684, CosmicSpiders, djzCosmicSpiderV21_v15.safetensors
 1400e684, CthuluBishop, djzCthuluBishopV21_v15.safetensors
 1400e684, DBlinebrush style, linebrushStyle_V21.safetensors
 1400e684, MCSkin, minecraftskin_v11.safetensors
+1400e684, abstractchaos, djzAbstractChaosV21_v21768.safetensors
 1400e684, analog style, analogDiffusion_10Safetensors.safetensors
+1400e684, apocalypso, djzApocalypsoV21V15_v15.safetensors
+1400e684, ascendentknights, djzAscendentKnightsV21_v15.safetensors
+1400e684, ascendentsoldiers, djzAscendentSoldiersV21_v15.safetensors
 1400e684, bara, daddyDiffusion_v1.safetensors
 1400e684, bganidusk|phtdzk1|vapodusk1, conceptBackgroundsAnime_10.safetensors
+1400e684, cyberangels, djzCyberAngelsV21V15_v15512.safetensors
 1400e684, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV13.safetensors
 1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.safetensors
 1400e684, rfktrstyle, rfktrsDarkdream_.safetensors
@@ -242,6 +249,7 @@
 33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime
 333ecf3c, sks woman|(sks woman)|((sks woman))
 33c549f1, swpunk|synthwave|paint splatters
+33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
 35035503, putinclown
 35a0bad3, starsectorportrait
@@ -286,6 +294,7 @@
 457435c3, blue skin, avatarlook_avatarStyle200.ckpt
 457435c3, na'vi|Avatar|Blue skin, avatarlook_avatarStyle50.ckpt
 4583e79e, samdoesarts
+45f682e2, sincity_iamyork
 4689ff28, nvinkpunk|samdoesarts
 475eae91, vintage polaroid analog portrait photography of
 47745337, MCwrld
@@ -295,6 +304,7 @@
 48823be0, coralchar
 48d0f413, Mtg art
 490b0a46, kukuhtw
+4928c317, abstractchaos
 4a0c37d8, supermarionation
 4aef3692, sks woman
 4bfacf36, by t6
@@ -389,6 +399,7 @@
 69d2ae69, sks woman
 6ab06e33, Tifa Lockhart|Cloud Strife|Barret Wallace|aerith gainsborough|midgar city|midgar city business district|midgar city slums district|biggs ff7r|wedge ff7r|jessie rasberry|inside seventh heaven bar|shinra security officer|in the style of midgar city
 6ac8f9dc, sks person|(sks person)
+6acbfbdc, gingertomcat
 6ae1720a, in the artstyle of dd
 6b4688c7, modelshoot style|nousr robot
 6b4ca475, knollingcase
@@ -429,6 +440,7 @@
 7746fc20, marongcheng art
 77c6d270, by narae
 7867176b, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
+78d68104, sincity_iamyork
 7a182a74, wjqarnpomo
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
 7b62be5f, empress
