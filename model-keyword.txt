@@ -142,6 +142,7 @@
 1400e684, MCSkin, minecraftskin_v11.safetensors
 1400e684, analog style, analogDiffusion_10Safetensors.safetensors
 1400e684, bara, daddyDiffusion_v1.safetensors
+1400e684, bganidusk|phtdzk1|vapodusk1, conceptBackgroundsAnime_10.safetensors
 1400e684, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV13.safetensors
 1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.safetensors
 1400e684, rfktrstyle, rfktrsDarkdream_.safetensors
@@ -771,6 +772,7 @@ db5960c1, OOKZA Vampire Style
 dc05355d, sksi object|sksi
 dcdf0425, dgs illustration style
 dd47c9f1, nabongs|jeongie|hiraimomo|minatozaki sana|godjihyo|myouimina|dubu|chaengie|choutzuyu
+dd539c7c, dsktaro1
 ddc6edf2, mdjrny-v4 style
 de2f2560, ANALOG STYLE|MODELSHOOT STYLE|NSFW|NUDITY, realisticVisionV13_v13VAEIncluded.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
@@ -825,7 +827,7 @@ ecd908cb, sks woman|(sks woman)
 ecf98c5e, valorant style
 ed87e89c, tchnclr style
 ed977a93, dvMech, dvmech100_dvmech100.ckpt
-ed977a93, natpok, nataliaPoklonskaya_v1.ckpt
+ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
 edf5c25b, sks woman
 ee5b91da, ligne claire
 ee624815, xmascookie
