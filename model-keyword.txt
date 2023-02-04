@@ -154,7 +154,7 @@
 14fe5bd7, nousr robot
 151f0afb, @Spirited, spiritedAwayGeneralModel_Spirited.ckpt
 151f0afb, mobian, sonicdiffusion_v2Anything.ckpt
-15254b92, Analog style|Chromav5|nvinkpunk
+15254b92, analog style|chromav5|nvinkpunk
 15540f03, gigafractal artstyle
 1578af98, bigbadejo alien_monster
 168f95ca, asim style
@@ -408,6 +408,7 @@
 6f5fc35d, 3d render of|3d cartoon of
 700b1fd2, |stylized game icon
 705ae506, None
+71b0b5fb, tyznedsk1
 71d46dd0, Bocchi|KitaIkuyo|IjichiNijika|YamadaRyo|IjichiSeika|PAsan|HiroiKikuri|ShimizuEliza|IwashitaShima|Bfan1|BoFa2|GotoFutari
 727f0812, modelshoot style
 73aebb03, rammstein
@@ -438,7 +439,7 @@
 7e8d1b0b, coralchar
 7edc8e08, mksks style
 7f62d94b, VoxelArt
-80391624, Analog style|Chromav5|Nvinkpunk
+80391624, analog style|chromav5|nvinkpunk
 80a1b237, itojunji style
 80bb424c, sks woman|(sks woman)
 80ccbfb5, sks woman
@@ -446,6 +447,7 @@
 8114a3ed, sks style
 812aab2b, yae miko from genshin impact|ei from genshin impact
 81369a90, supermarionation
+818ed0ab, khrushchevka
 81b68188, tk_env|tk_char
 81da0383, dvOldWorld
 820c4a3e, by sy4
@@ -505,6 +507,7 @@
 9518faa2, luna
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
+962c3253, anisenti88
 96e9bd73, art by yaguru magiku
 97777800, swpunk|synthwave|paint splatters
 978e9ff8, h4zza
@@ -554,7 +557,7 @@ a149572b, vector-art, vectorArt_Beta.safetensors
 a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a184fedc, gigafractal artstyle
 a2073f09, by mika pikazo
-a22399ba, Analog style|Chromav5|Nvinkpunk
+a22399ba, analog style|chromav5|nvinkpunk
 a23afa51, dvMech
 a25e79ba, Neytiriblueskinbabe
 a2a802b2, 16-bit-landscape pixel art style, pixelLandscapes_v1.ckpt
@@ -807,7 +810,7 @@ e8c8476a, by kayahara
 e93cb7f3, hrrzg
 e952eaf1, Riko|shift dress|cold outfit|Reg|aubade helmet|aubade cape|arm extended|Shiggy|Nat|Kiyui|bell|Jiruo|child|moon whistle|Habo|black whistle|Marulk|maid outfit|Ozen|ozen white whistle|ozen armor|Lyza|lyza white whistle|Bondrewd|bondrewd white whistle|Nanachi|abyssal hat|young|human Nanachi|Mitty|human Mitty|delver outfit|delver helmet|red whistle|blue whistle|backpack|blaze reap|bleeding curse|Orth town|the abyss|windmill|gondola platform|orphanage|the first layer|gondola|eternal fortunes|cliffs|upper second layer|lower second layer|seeker camp|the third layer|the fourth layer|garden of eternal fortunes|nanachi's hideout|exterior|backyard|the fifth layer|ido front|playroom|crimson splitjaw|corpse weeperorb piercer|narehate|Meinya|dreamlikeart
 e96904c7, sks juri
-e9caaf6a, Analog style|Chromav5|nvinkpunk
+e9caaf6a, analog style|chromav5|nvinkpunk
 ea1e7cc7, FlonixMatyukhinft|FlonixApterus|Danmumford style
 ea2dccc5, tracerx
 eae95c5e, cardassian
