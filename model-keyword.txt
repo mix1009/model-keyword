@@ -138,11 +138,12 @@
 13a6777c, modelshoot style|nousr robot
 1400e684, Airlock, djzAirlockV21768V21512_v15.safetensors
 1400e684, CthuluBishop, djzCthuluBishopV21_v15.safetensors
-1400e684, DBfantasyart style, fantasyArtStyle_V13.safetensors
 1400e684, DBlinebrush style, linebrushStyle_V21.safetensors
 1400e684, MCSkin, minecraftskin_v11.safetensors
 1400e684, analog style, analogDiffusion_10Safetensors.safetensors
 1400e684, bara, daddyDiffusion_v1.safetensors
+1400e684, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV13.safetensors
+1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.safetensors
 1400e684, rfktrstyle, rfktrsDarkdream_.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
@@ -561,12 +562,12 @@ a22399ba, analog style|chromav5|nvinkpunk
 a23afa51, dvMech
 a25e79ba, Neytiriblueskinbabe
 a2a802b2, 16-bit-landscape pixel art style, pixelLandscapes_v1.ckpt
-a2a802b2, DBfantasyart style, fantasyArtStyle_V1.ckpt
 a2a802b2, DBlinebrush style, linebrushStyle_V2.ckpt
 a2a802b2, JWST, deepSpaceDiffusion_v1.ckpt
 a2a802b2, SKSKS app icon, appIconsGenerator_v1.ckpt
 a2a802b2, SKSKS art style, pixelArt_v1.ckpt
 a2a802b2, arcane style, arcaneDiffusion_v2.ckpt
+a2a802b2, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV1.ckpt
 a2a802b2, discoelysium style, discoElysium_v1.ckpt
 a2a802b2, elden ring style, eldenRingStyle_v1.ckpt
 a2a802b2, microworld render style, microworlds_v1.ckpt
@@ -658,9 +659,10 @@ b3454578, kipteitei|art by better with salt|woot|squarewave|big belly|fat|full l
 b47ad8fe, D&D character
 b482163d, xivcine style
 b4cba599, Mona woman|Mona
-b5453f75, DBfantasyart style, fantasyArtStyle_V15.ckpt
 b5453f75, DBlinebrush style, linebrushStyle_V21.ckpt
 b5453f75, OOKZAVampire Style, vampireStyle_V20.ckpt
+b5453f75, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.ckpt
+b5453f75, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.ckpt
 b5c0b653, modelshoot style
 b5e156ba, vskeei1
 b7010dfe, Mosaic Art
