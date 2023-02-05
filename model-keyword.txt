@@ -152,6 +152,7 @@
 1400e684, cyberangels, djzCyberAngelsV21V15_v15512.safetensors
 1400e684, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV13.safetensors
 1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.safetensors
+1400e684, gingertomcat, djzGingertomcatV21768V21_v15.safetensors
 1400e684, rfktrstyle, rfktrsDarkdream_.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
@@ -250,6 +251,7 @@
 333ecf3c, sks woman|(sks woman)|((sks woman))
 33c549f1, swpunk|synthwave|paint splatters
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
+341b1b4d, dragzkz
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
 35035503, putinclown
 35a0bad3, starsectorportrait
@@ -260,6 +262,7 @@
 38c1ebe3, zero_two_101, anythingZeroTwo_zeroTwoDarlingInThe.ckpt
 38e89fda, itojunji style
 390d2cdf, FluidArt
+396450f6, lomo style
 399391b8, sphax style
 39c38163, itojunji style
 39e80e37, duskypie|lisdusk1|lisdusk2|kairowez|mdjrny-v4 style
@@ -270,6 +273,8 @@
 3a41ce5b, rlmrcs gem
 3b214cf8, style
 3bbfd044, modelshoot style
+3c018217, bondrewd|1boy
+3c1ee4c5, wewulzkz
 3c401697, redshift style
 3caeeaf3, vintage polaroid analog portrait photography of
 3d28e095, 3D Style|Rick Roll|fullbody shot|bad cosplay man
@@ -399,7 +404,6 @@
 69d2ae69, sks woman
 6ab06e33, Tifa Lockhart|Cloud Strife|Barret Wallace|aerith gainsborough|midgar city|midgar city business district|midgar city slums district|biggs ff7r|wedge ff7r|jessie rasberry|inside seventh heaven bar|shinra security officer|in the style of midgar city
 6ac8f9dc, sks person|(sks person)
-6acbfbdc, gingertomcat
 6ae1720a, in the artstyle of dd
 6b4688c7, modelshoot style|nousr robot
 6b4ca475, knollingcase
@@ -440,6 +444,7 @@
 7746fc20, marongcheng art
 77c6d270, by narae
 7867176b, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
+78825d24, ayanokouji|1boy
 78d68104, sincity_iamyork
 7a182a74, wjqarnpomo
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
@@ -467,6 +472,7 @@
 820c4a3e, by sy4
 822b8799, pepestyle person
 82780037, tpkify
+82978554, anidzk2
 82cb7b65, germy
 82cbe3e7, sks woman|(sks woman)
 8300ecaa, artificial-journey style
@@ -479,6 +485,7 @@
 84597c2e, style of joemadureira
 8469c1b7, in WKHW1 Beautiful Art Style
 84768f33, dublex
+84ec5fea, subaru|1boy
 84f6b9a2, whatif style
 85b77ff9, samdoesarts style
 85c66939, csalpha artstyle
@@ -691,6 +698,7 @@ b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
 ba158946, goldenglass
 bb029452, kindigitstyle
+bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bcbe94c2, frutigeraero
 bdb4b12c, by popqn
 bde477d2, junemodel
@@ -751,13 +759,16 @@ d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|Ao
 d1b93ddb, flrmrbl
 d1c6e030, SamDoesArt
 d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairstyle|taio hairstyle|foha hairstyle|okch hairstyle
+d1d32bcf, dragzkz
 d2089202, modelshoot style|nousr robot
 d21c153e, ChromaV5|nvinkpunk
 d229bfec, manwha1
 d312ed1c, TheRPGCharGenEsAFArt
 d31b3d50, abysssorange2|pastelmix|cheeseday 30|merged model
+d357b061, dreamlikeart|kuvshinov|snthwve style|nvinkpunk
 d4a6454e, elden ring style|postapocalypse|knollingcase|analog style|dreamlikeart|swpunk|synthwave|modelshoot style|cyborgdiffusion
 d4cee16a, ratatatat74
+d52fc124, kurisu|1girl
 d57fa787, by hanaarare
 d676dd55, deetz1
 d6e9d2b1, dvMJv4
@@ -785,6 +796,7 @@ dc05355d, sksi object|sksi
 dcdf0425, dgs illustration style
 dd47c9f1, nabongs|jeongie|hiraimomo|minatozaki sana|godjihyo|myouimina|dubu|chaengie|choutzuyu
 dd539c7c, dsktaro1
+dd74bb1c, gilgamesh|1boy
 ddc6edf2, mdjrny-v4 style
 de2f2560, ANALOG STYLE|MODELSHOOT STYLE|NSFW|NUDITY, realisticVisionV13_v13VAEIncluded.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
