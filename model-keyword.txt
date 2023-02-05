@@ -131,6 +131,7 @@
 1194073d, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON|knollingcase|elden ring style|Cyborgdiffusion|Cyborgdiffusion style|artificial-journey style|analog style|sks person
 11c35df3, bganidusk
 1249edb0, by michihasu
+124de6a9, eldmeisterog
 126f21de, Zwxthej
 12c978ba, Shigenori Style
 1351eaf1, cgi|cgi style
@@ -477,7 +478,7 @@
 82cbe3e7, sks woman|(sks woman)
 8300ecaa, artificial-journey style
 83295fd6, mdjrny-pntrt
-832c6e6a, ANALOG STYLE|MODELSHOOT STYLE|NSFW|NUDITY
+832c6e6a, analog style|modelshoot style|nsfw|nudity
 833060ae, mdjrny-v4 style|nousr robot
 835e7dc1, gigafractal artstyle
 8371a0bf, spicto
@@ -489,6 +490,7 @@
 84f6b9a2, whatif style
 85b77ff9, samdoesarts style
 85c66939, csalpha artstyle
+8624248c, analog style|modelshoot style|nsfw|nudity
 864e0609, Anime|Manga|Cartoon
 86818bae, googiearch
 8687d7a5, samdoesarts style
@@ -740,7 +742,7 @@ ca682192, sjh style
 caea14ad, lvngvncnt
 cba4df56, CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3MTroll|CHV3MDeath|CHV3CRogue|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3SWorld|CHV3SSciFi|CHV3MDragon|CHV3CVehicle
 cc5b68d0, lndskp|nvinkpunk|redshift
-cceb87e1, ANALOG STYLE|MODELSHOOT STYLE|NSFW|NUDITY
+cceb87e1, analog style|modelshoot style|nsfw|nudity
 ccf3615f, modern disney style
 cd22968e, whatif style
 cd72665c, sks person
@@ -798,8 +800,8 @@ dd47c9f1, nabongs|jeongie|hiraimomo|minatozaki sana|godjihyo|myouimina|dubu|chae
 dd539c7c, dsktaro1
 dd74bb1c, gilgamesh|1boy
 ddc6edf2, mdjrny-v4 style
-de2f2560, ANALOG STYLE|MODELSHOOT STYLE|NSFW|NUDITY, realisticVisionV13_v13VAEIncluded.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
+de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV13_v13.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 df2df325, googiearch
@@ -879,6 +881,7 @@ f6a9004f, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 f6ca0e2b, comicmay
 f8fb379d, a photo of a sks woman with white hair
 f97ba63a, phse
+fa199e0c, analog style|modelshoot style|nsfw|nudity
 fa5e4f28, (tokki girl)
 fab2577c, modelshoot style|analog style|mdjrny-v4 style
 fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
