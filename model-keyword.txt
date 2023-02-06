@@ -32,6 +32,7 @@
 0817babf, sks chessevolved
 08839519, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime
 08f7a22d, Papercut
+08fe03fe, by sky-freedom
 096596d8, PoW ArtStyle
 0aed3741, modelshoot style
 0b02fdb1, Master of everything|photography
@@ -206,6 +207,7 @@
 202360be, by mon, monModel_monV15k.safetensors
 202360be, by narae, naraeModel_naraeV18k.safetensors
 202360be, by popqn, popqnModel_popqn5k.safetensors
+202360be, by sky-freedom, skyFreedomModel_skyfreedomV18k.safetensors
 202360be, by sy4, sy4Model_sy4V110k.safetensors
 202360be, by t6, t6Model_t6V115k.safetensors
 202360be, by vima, vimaModel_vimaV13k.safetensors
@@ -337,6 +339,7 @@
 536a8e48, mdjrny-v4 style|dreamlikeart
 538d7157, pcrc style
 53d6b1c7, tattoo|tattoos|tattooed|tattooed face|tattooed body|BigDarkTattoos
+5412e2d7, comicmay artsyle|redshift style
 547baf67, ykgl girl|ykgl girls|cgi artstyle
 55537280, temp
 557350e1, Lilith Morgan, lilithMorgan_v11.ckpt
@@ -393,6 +396,7 @@
 645a42cf, newstl
 64afe6d2, CALARTS
 64e73fcb, dbz style
+65bbd026, pitchmeetgeorge
 6606d2db, ttw style
 66473eff, rpgicondiff
 6648a62e, gGWoman
@@ -497,6 +501,7 @@
 8687d7a5, samdoesarts style
 86ac0981, CreatureChan Style
 883f759a, jwl watercolor
+887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
 8a0a6f86, svtbuild
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
 8a312ffc, masterpiece|novelAI|trending on 500px
@@ -551,6 +556,7 @@
 993f2358, microworld, microworldsRemake_version3.ckpt
 993f2358, miniwool, miniwool_1.ckpt
 994784b1, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
+99581f75, borderlands|stbtc|stbcf|telltale style
 99af29f7, archer style|arcane style|modern disney style
 99b46941, yae miko from genshin impact|ei from genshin impact
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
@@ -689,6 +695,7 @@ b5453f75, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.ckpt
 b5c0b653, modelshoot style
 b5e156ba, vskeei1
 b7010dfe, Mosaic Art
+b701219e, clone wars style|clonewars style|batman_the_animated_series
 b725e575, wtrcolor style
 b78b4650, filfigari
 b7ba5b22, effeff9 woman|effeff9 man|effeff9 creature|effeff9 architecture, effeffixConcept_main.ckpt
@@ -706,6 +713,7 @@ bcbe94c2, frutigeraero
 bdb4b12c, by popqn
 bde477d2, junemodel
 be4652f1, samdoesarts
+be7c545d, darkestdungeon style|darkest dungeon style|clonewars style|clone wars style|jojo style|newstl
 be7ddafc, classic disney style
 be82dca2, Altira|Altira style
 becdbc5d, Kavellion|Kavellion style
