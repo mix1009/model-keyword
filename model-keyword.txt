@@ -155,7 +155,7 @@
 1400e684, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV13.safetensors
 1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.safetensors
 1400e684, gingertomcat, djzGingertomcatV21768V21_v15.safetensors
-1400e684, rfktrstyle, rfktrsDarkdream_.safetensors
+1400e684, rfktrstyle, rfktrsDarkdream_rfktrsDarkdream.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 14d36354, duskz1
@@ -180,6 +180,7 @@
 194778a2, wkc
 19d911b0, djct woman|djct
 1a78ec5a, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
+1a9cb0c9, sexy|glossy|bimbo|thepit bimbo
 1ad16feb, multiarm
 1b30cc76, eva123xyzmendes
 1b51225c, ClaymationXmas, claymationXmas_sd2.ckpt
@@ -190,6 +191,7 @@
 1c254752, vulcan
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
 1d0d03ee, botw style
+1d132f9e, whatif style|tdst style
 1f258730, dbluth
 1f27bb0e, sks woman
 202360be, by b-ginga, bGingaModel_bgingaV1130k.safetensors
@@ -258,6 +260,7 @@
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
 35035503, putinclown
 35a0bad3, starsectorportrait
+37f2669e, sexy|glossy|bimbo|thepit bimbo
 382d6ed3, sks person
 38bbdc40, dvPNW
 38c1ebe3, base lux skin, luxannaCrownguardFrom_luxannaCrownguardLol.ckpt
@@ -326,6 +329,7 @@
 4ddd5d17, JhnsT
 4df252a6, by mochizuki kei
 4ef65125, warrior
+4f124f15, model|anime
 4f3ec643, rlcrtn
 4fb1bbf3, padoru
 4fb23b6b, wa-vy style
@@ -371,6 +375,7 @@
 5d39b377, rainey|rainey style
 5d83b27c, nvinkpunk|snthwve style|style of joemadureira
 5d9bafca, 2d dnd battlemap
+5da13f38, rfktrstyle
 5da2da2e, mdj style
 5dac79de, sks person
 5dbcf115, feralplmr
