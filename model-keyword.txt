@@ -155,7 +155,7 @@
 1400e684, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV13.safetensors
 1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.safetensors
 1400e684, gingertomcat, djzGingertomcatV21768V21_v15.safetensors
-1400e684, rfktrstyle, rfktrsDarkdream_rfktrsDarkdream.safetensors
+1400e684, rfktrstyle, rfktrsDarkdream_rfktrsDarkdreamDiffusion.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 14d36354, duskz1
