@@ -673,6 +673,7 @@ aa7001cf, wooditize, jaksWooditizeImage_wooditizeSD21768px.ckpt
 aa7001cf, woolitize, jaksWoolitizeImage_woolitizeSD21768px.ckpt
 aae14d50, sci-fi|caspian sci-fi|star atlas|star citizen|render
 ab16976f, stylized game icon|sci-fi|steampunk|spell
+ab201ab4, chinese|chinese dress
 ab377a68, FlonixApterus
 ab4941a7, fantasticmrfox
 ab9d9647, sks man
@@ -684,6 +685,7 @@ ac7a27ad, john walker lee
 ac87c248, abstractswirls
 acdcf3cb, aucv
 acfa8753, future style
+ad9d6205, fart62
 ae998e33, DarkSouls Style
 aef3d307, zukki_style
 afc6eaf9, Oldjourney
@@ -723,6 +725,7 @@ bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bcbe94c2, frutigeraero
 bdb4b12c, by popqn
 bde477d2, junemodel
+bdec7588, richevans
 be4652f1, samdoesarts
 be7c545d, darkestdungeon style|darkest dungeon style|clonewars style|clone wars style|jojo style|newstl
 be7ddafc, classic disney style
@@ -900,6 +903,7 @@ f5d9c703, snthwve style
 f6239527, brtdrpp
 f6a9004f, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 f6ca0e2b, comicmay
+f76c4afc, duskspider
 f8fb379d, a photo of a sks woman with white hair
 f97ba63a, phse
 fa199e0c, analog style|modelshoot style|nsfw|nudity
