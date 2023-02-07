@@ -180,7 +180,7 @@
 194778a2, wkc
 19d911b0, djct woman|djct
 1a78ec5a, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
-1a9cb0c9, sexy|glossy|bimbo|thepit bimbo
+1a9cb0c9, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
 1ad16feb, multiarm
 1b30cc76, eva123xyzmendes
 1b51225c, ClaymationXmas, claymationXmas_sd2.ckpt
@@ -261,7 +261,7 @@
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
 35035503, putinclown
 35a0bad3, starsectorportrait
-37f2669e, sexy|glossy|bimbo|thepit bimbo
+37f2669e, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
 382d6ed3, sks person
 38bbdc40, dvPNW
 38c1ebe3, base lux skin, luxannaCrownguardFrom_luxannaCrownguardLol.ckpt
@@ -904,6 +904,7 @@ f6239527, brtdrpp
 f6a9004f, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 f6ca0e2b, comicmay
 f76c4afc, duskspider
+f86aeb35, renne
 f8fb379d, a photo of a sks woman with white hair
 f97ba63a, phse
 fa199e0c, analog style|modelshoot style|nsfw|nudity
