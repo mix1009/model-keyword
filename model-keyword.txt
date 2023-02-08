@@ -155,7 +155,7 @@
 1400e684, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV13.safetensors
 1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.safetensors
 1400e684, gingertomcat, djzGingertomcatV21768V21_v15.safetensors
-1400e684, rfktrstyle, rfktrsDarkdream_rfktrsDarkdreamDiffusion.safetensors
+1400e684, rfktrstyle, rfktrsDarkdream_v15bExperimental.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 14d36354, duskz1
@@ -261,6 +261,7 @@
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
 35035503, putinclown
 35a0bad3, starsectorportrait
+3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 37f2669e, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
 382d6ed3, sks person
 38bbdc40, dvPNW
@@ -598,6 +599,7 @@ a149572b, vector-art, vectorArt_Beta.safetensors
 a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a184fedc, gigafractal artstyle
 a2073f09, by mika pikazo
+a21b69c5, bigbrains
 a22399ba, analog style|chromav5|nvinkpunk
 a23afa51, dvMech
 a25e79ba, Neytiriblueskinbabe
@@ -699,7 +701,7 @@ b2510902, Cyborgdiffusion|Cyborgdiffusion style
 b2fb8eba, m_robutts|illustration style|art by cutesexyrobutts
 b3276bb9, Umbreon|Vaporeon|Glaceon|Sylveon|Espeon|Jolteon|Flareon|Eevee
 b3454578, kipteitei|art by better with salt|woot|squarewave|big belly|fat|full list on biggergirls page
-b47ad8fe, D&D character
+b47ad8fe, d&d character
 b482163d, xivcine style
 b4cba599, Mona woman|Mona
 b5453f75, DBlinebrush style, linebrushStyle_V21.ckpt
@@ -918,7 +920,7 @@ fc41b940, evgenii-ponasenkov
 fc83c5ad, civsix style
 fd496cc1, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 fd7a0fd0, wltzwthbshr
-fdbb23ad, D&D character
+fdbb23ad, d&d character
 fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
 fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_1990sV10.safetensors
 fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
