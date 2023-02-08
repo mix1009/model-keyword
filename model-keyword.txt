@@ -472,6 +472,7 @@
 7b9572be, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 7bfd4934, modelshoot style
 7c4971d4, timeless style
+7c8eef56, analog style|chromav5|nvinkpunk
 7cb76003, poolsuite style
 7e67267b, eldmeisterOG
 7e8d1b0b, coralchar
@@ -930,6 +931,7 @@ fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
 fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_1990sV10.safetensors
 fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
 fe3c6142, dragzkz, dragonDiffusion_4500Steps.safetensors
+fe3c6142, themechwarriorrpgart, theMechwarriorRPGArt_theMechwarriorRPGArt.safetensors
 fe5aae36, telltale style
 ff7616f1, FRPGFaceGen
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
