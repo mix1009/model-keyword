@@ -287,6 +287,7 @@
 3caeeaf3, vintage polaroid analog portrait photography of
 3d28e095, 3D Style|Rick Roll|fullbody shot|bad cosplay man
 3e008b4d, bethharmon
+3eac54e3, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
 3ee44953, lwmn man
 3ee7d195, yoshin style
 3f095502, mdjrny-shttr
@@ -517,6 +518,7 @@
 8a0a6f86, svtbuild
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
 8a312ffc, masterpiece|novelAI|trending on 500px
+8a5302eb, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
 8a648075, sks jinx|jinx
 8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle
 8c7efd5f, itojunji style
@@ -743,6 +745,7 @@ c0302f10, filmation motu style, filmationMOTU_v1.ckpt
 c09d432b, photorealistic|nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 c0e7c884, snthwve style|nvinkpunk
 c0ed7dfb, l4lisa
+c0f32ab1, plushiedsk
 c11fb943, modelshoot style
 c1523adf, naturitize
 c16a2a6b, wjqfrottage
@@ -829,8 +832,10 @@ dd74bb1c, gilgamesh|1boy
 ddc6edf2, mdjrny-v4 style
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV13_v13.safetensors
+de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
+de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11BetaWIP.safetensors
 df2df325, googiearch
 df9e36bd, leagueofstyle
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
