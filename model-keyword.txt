@@ -655,6 +655,7 @@ aa366209, as a t-shirt logo in the style of <magifactory> art, MAGIFACTORYTShirt
 aa366209, maxwell the cat, maxwellTheCat_10.safetensors
 aa366209, romcom style, romcomDiffusion_10.safetensors
 aa366209, source4 style, source4V10_v1Safetensors.safetensors
+aa366209, wewulzkz, werewolfDiffusion_1.safetensors
 aa49e01c, anime pencil concept style
 aa7001cf, CHARHELPER|CHARACTER ART|CLOSE-UP CHARACTER PORTRAIT|MID-RANGE|CHARACTER PORTRAIT|DIGITAL PAINTING|DIGITAL ILLUSTRATION|STYLIZED|ANIME, charhelperSd2X768_charhelperV2.ckpt
 aa7001cf, COLR_001, coloringBook_.ckpt
@@ -921,6 +922,7 @@ fdbb23ad, D&D character
 fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
 fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_1990sV10.safetensors
 fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
+fe3c6142, dragzkz, dragonDiffusion_4500Steps.safetensors
 fe5aae36, telltale style
 ff7616f1, FRPGFaceGen
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
