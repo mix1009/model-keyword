@@ -89,6 +89,7 @@
 0eb3318b, MushroomLove, djzMushroomLoveV21_0.safetensors
 0eb3318b, NeonMutation|character|enhancement|lighting|convolution, djzNeonMutationV21_0.safetensors
 0eb3318b, NoodleNinja, djzNoodleninja_v21768.safetensors
+0eb3318b, OceanSpectrum, djzOceanSpectrum_v21768Light.safetensors
 0eb3318b, OmniConfusion, djzOmniConfusionV21_0.safetensors
 0eb3318b, ParadiseGirl, djzParadiseGirlV21_0.safetensors
 0eb3318b, PlagueKnight, djzPlagueKnightV21_0.safetensors
@@ -111,15 +112,28 @@
 0eb3318b, TokyooFantasy, djzTokyooFantasyV21_0.safetensors
 0eb3318b, TwinRealms, djzTwinRealmsV21_0.safetensors
 0eb3318b, TwistedDomain, djzTwistedDomainV21_0.safetensors
+0eb3318b, alltooeasy, djzAllTooEasy_v21768.safetensors
 0eb3318b, apocalypso, djzApocalypsoV21V15_v21768.safetensors
 0eb3318b, ascendentknights, djzAscendentKnightsV21_v21768.safetensors
 0eb3318b, ascendents, djzAscendentsV21V15_v21768.safetensors
 0eb3318b, ascendentsoldiers, djzAscendentSoldiersV21_v21768.safetensors
+0eb3318b, balltown, djzBallTown_v21768.safetensors
 0eb3318b, chaoticspheres, djzChaoticSpheresV21_v21768.safetensors
+0eb3318b, colonycargo, djzColonyCargo_v21768.safetensors
+0eb3318b, colonycorridor, djzColonyCorridor_v21768.safetensors
 0eb3318b, cosmicspiders, djzCosmicSpiderV21_v21768.safetensors
+0eb3318b, cryopod, djzCryoPod_v21768.safetensors
 0eb3318b, cyberangels, djzCyberAngelsV21V15_v21768.safetensors
+0eb3318b, darknesseighties, djzDarnessEighties_v21768.safetensors
+0eb3318b, fantasyrealm, djzFantasyRealm_v21768.safetensors
 0eb3318b, gingertomcat, djzGingertomcatV21768V21_21768.safetensors
+0eb3318b, grandsedan, djzGrandSedan_v21768.safetensors
+0eb3318b, hoverracer, djzHoverRacer_v21768.safetensors
+0eb3318b, infinitesupply, djzInifiniteSupply_v21768.safetensors
+0eb3318b, intersingularity, djzInterSingularity_v21768.safetensors
+0eb3318b, loneocean, djzLoneOcean_v21768.safetensors
 0eb3318b, monochrome, djzMonochromeV21_0.safetensors
+0eb3318b, oceanspectrum, djzOceanSpectrum_v21768Heavy.safetensors
 0eb3318b, ultraskin|twenties|twenty year old|thirties|thirty year old|eighties|eighty year old|elderly|wrinkles|pores|skin detail|freckles|moles|scar, ultraskin_09.safetensors
 0eb3318b, wwone, djzWwoneV21_0.safetensors
 0ed9b4a6, embroidery by embarg
@@ -178,6 +192,7 @@
 17bb0452, discodifland
 187550ac, 80sanimestyle
 194778a2, wkc
+19b72626, analog style|dreamlikeart|redshift style
 19d911b0, djct woman|djct
 1a78ec5a, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 1a9cb0c9, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
@@ -313,6 +328,7 @@
 475eae91, vintage polaroid analog portrait photography of
 47745337, MCwrld
 4792ff92, ech_gen
+47a34de9, sticker|vector-art
 47bcfb66, goldenglass
 4859814c, TransX
 48823be0, coralchar
@@ -395,11 +411,13 @@
 60851177, dgs illustration style
 60fe2f34, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 60fe3f35, ricknmorty style
+6178413b, wvert1
 61d9038b, takeON_v2
 62938071, Bowser
 62a1df72, elden ring style|postapocalypse|knollingcase|analog style|dreamlikeart|swpunk|synthwave|modelshoot style|cyborgdiffusion
 6329328a, lds
 6360ab7c, angel
+63746d4f, rtrophto1
 6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 643afbd9, Microscopic
 645a42cf, newstl
@@ -409,6 +427,7 @@
 6606d2db, ttw style
 66473eff, rpgicondiff
 6648a62e, gGWoman
+66ab1e7a, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
 66b4c45e, archer style
 673ca4ea, modelshoot style
 6873ad1a, neonHorror style
@@ -507,6 +526,7 @@
 84768f33, dublex
 84ec5fea, subaru|1boy
 84f6b9a2, whatif style
+853e5ff4, wvebg1
 85b77ff9, samdoesarts style
 85c66939, csalpha artstyle
 8624248c, analog style|modelshoot style|nsfw|nudity
@@ -564,6 +584,7 @@
 993f2358, MCSkin, minecraftskin_v11.ckpt
 993f2358, PokeModel, pokemodel_BETA10.ckpt
 993f2358, PrintDesign, tShirtPrintDesignsTest_v01.ckpt
+993f2358, canetaazul, canetaAzulManoelGomes_canetaazul.ckpt
 993f2358, cbzbb, cuteRichstyle15_cuteRichstyle.ckpt
 993f2358, chibiSJstyle, chibiSJStyle_BETA.ckpt
 993f2358, crovira, crovira_10.ckpt
@@ -598,6 +619,7 @@ a0b3a1c3, sphx weapon
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
 a149572b, CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3MTroll|CHV3MDeath|CHV3CRogue|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3SWorld|CHV3SSciFi|CHV3MDragon|CHV3CVehicle, charhelperSd2X768_charhelperV3.safetensors
 a149572b, concept-art, conceptSheet_Alpha.safetensors
+a149572b, sticker|vector-art, stickerArt_sticker.safetensors
 a149572b, vector-art, vectorArt_Beta.safetensors
 a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a184fedc, gigafractal artstyle
@@ -630,6 +652,7 @@ a5c134f5, Blck_Mrbl, floralmarbleWOKE_EDITION.ckpt
 a5c134f5, classicnegative, classicNegativeSD21_classicNegative768px.ckpt
 a5c134f5, clayitization, jaksClayitization_clayitizationSd21.ckpt
 a5c134f5, naturitize, jaksNaturitizeImage_naturitizeSD21768px.ckpt
+a5c134f5, pulp-diffusion, pulpDiffusion_pulpDiffusionAlpha.ckpt
 a5c134f5, vntgcrm style, VintageCream.ckpt
 a5e6f199, Hearthstone card, hearthstoneCards_sd21.ckpt
 a5e6f199, color|flat|high contrast, fluentuiEmoji_sd21.ckpt
@@ -832,11 +855,12 @@ dd539c7c, dsktaro1
 dd74bb1c, gilgamesh|1boy
 ddc6edf2, mdjrny-v4 style
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
+de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV13_v13.safetensors
 de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
-de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11BetaWIP.safetensors
+de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 df2df325, googiearch
 df9e36bd, leagueofstyle
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
