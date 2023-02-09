@@ -141,6 +141,8 @@
 0eb3318b, sevenwonders, djzSevenWonders_v21768.safetensors
 0eb3318b, siliconpunk, djzSiliconpunk_v21768.safetensors
 0eb3318b, texasresponders, djzTexasResponders_v21768.safetensors
+0eb3318b, timecar, djzTimeCar_v21768.safetensors
+0eb3318b, truckxjohnson, djzTruckxJohnson_v21768.safetensors
 0eb3318b, ultraskin|twenties|twenty year old|thirties|thirty year old|eighties|eighty year old|elderly|wrinkles|pores|skin detail|freckles|moles|scar, ultraskin_09.safetensors
 0eb3318b, wwone, djzWwoneV21_0.safetensors
 0ed9b4a6, embroidery by embarg
@@ -505,6 +507,7 @@
 7e8d1b0b, coralchar
 7edc8e08, mksks style
 7f62d94b, VoxelArt
+7fd98345, desolated style painting
 80391624, analog style|chromav5|nvinkpunk
 80a1b237, itojunji style
 80bb424c, sks woman|(sks woman)
