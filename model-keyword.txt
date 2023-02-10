@@ -688,6 +688,7 @@ a8372572, wooditize
 a8e2a894, no trigger words
 a919edc0, MechBattleTechClassicTR3025
 a940803e, modelshoot style
+a9cf1812, cozmikduzk1
 a9e3e060, ChromaV5
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 aa2b4089, modelshoot style
@@ -744,6 +745,7 @@ b3454578, kipteitei|art by better with salt|woot|squarewave|big belly|fat|full l
 b47ad8fe, d&d character
 b482163d, xivcine style
 b4cba599, Mona woman|Mona
+b4df6423, xdusky1
 b5453f75, DBlinebrush style, linebrushStyle_V21.ckpt
 b5453f75, OOKZAVampire Style, vampireStyle_V20.ckpt
 b5453f75, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.ckpt
