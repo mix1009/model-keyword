@@ -144,7 +144,9 @@
 0eb3318b, timecar, djzTimeCar_v21768.safetensors
 0eb3318b, truckxjohnson, djzTruckxJohnson_v21768.safetensors
 0eb3318b, ultraskin|twenties|twenty year old|thirties|thirty year old|eighties|eighty year old|elderly|wrinkles|pores|skin detail|freckles|moles|scar, ultraskin_09.safetensors
+0eb3318b, withoutfear, djzWithoutFear_v21768.safetensors
 0eb3318b, wwone, djzWwoneV21_0.safetensors
+0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
 0ed9b4a6, embroidery by embarg
 101d2d78, barbieworld
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
@@ -544,6 +546,7 @@
 864e0609, Anime|Manga|Cartoon
 86818bae, googiearch
 8687d7a5, samdoesarts style
+868fceae, phtdzk1
 86ac0981, CreatureChan Style
 883f759a, jwl watercolor
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
