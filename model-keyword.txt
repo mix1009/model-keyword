@@ -39,6 +39,7 @@
 0b071c53, bilsh21
 0b09ad3b, ctsmscl
 0b84672b, gtechstyle|art by gtechstyle|in the style of getchstyle
+0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
 0c93a576, name|oumeifeng style|redshift style
 0e828029, sks woman|(sks woman)
 0eb3318b, Airlock, djzAirlockV21768V21512_21768.safetensors
@@ -279,7 +280,8 @@
 318a302e, arcane style
 31db8fec, daizky1
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
-33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime
+33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime, dgspitzerArt_Diffusion.safetensors
+33290d4a, rfktrstyle, rfktrsDarkdream_v16.safetensors
 333ecf3c, sks woman|(sks woman)|((sks woman))
 33c549f1, swpunk|synthwave|paint splatters
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
@@ -329,6 +331,7 @@
 4326c062, ppllnnn
 439f64ec, midjourney model 1.5v|model v1.5
 4449cdac, samdoesarts
+445461df, fking_scifi_v2
 4507a9f0, Makima
 4509a913, by mitsudoue
 457435c3, blue skin, avatarlook_avatarStyle200.ckpt
@@ -438,7 +441,8 @@
 6606d2db, ttw style
 66473eff, rpgicondiff
 6648a62e, gGWoman
-66ab1e7a, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
+66ab1e7a, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
+66ab1e7a, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 66b4c45e, archer style
 673ca4ea, modelshoot style
 6873ad1a, neonHorror style
@@ -666,6 +670,7 @@ a5c134f5, Blck_Mrbl, floralmarbleWOKE_EDITION.ckpt
 a5c134f5, classicnegative, classicNegativeSD21_classicNegative768px.ckpt
 a5c134f5, clayitization, jaksClayitization_clayitizationSd21.ckpt
 a5c134f5, naturitize, jaksNaturitizeImage_naturitizeSD21768px.ckpt
+a5c134f5, newhorrorfantasy_style, NewhorrorfantasyStyle_v20.ckpt
 a5c134f5, pulp-diffusion, pulpDiffusion_pulpDiffusionAlpha.ckpt
 a5c134f5, vntgcrm style, VintageCream.ckpt
 a5e6f199, Hearthstone card, hearthstoneCards_sd21.ckpt
@@ -877,7 +882,7 @@ de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
-de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12Beta.safetensors
+de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 df2df325, googiearch
 df9e36bd, leagueofstyle
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
@@ -952,17 +957,20 @@ f5b84ac3, Shataki
 f5d9c703, snthwve style
 f6239527, brtdrpp
 f6a9004f, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
+f6b4b362, newhorrorfantasy_style
 f6ca0e2b, comicmay
 f76c4afc, duskspider
 f86aeb35, renne
 f8fb379d, a photo of a sks woman with white hair
 f97ba63a, phse
+f9c02b32, 100memories
 fa199e0c, analog style|modelshoot style|nsfw|nudity
 fa5e4f28, (tokki girl)
 fab2577c, modelshoot style|analog style|mdjrny-v4 style
 fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
 fb8354fa, kpt digital artstyle|gui
 fbf5d1b5, sks place
+fc151a15, reasonabledrink
 fc41b940, evgenii-ponasenkov
 fc83c5ad, civsix style
 fd496cc1, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
