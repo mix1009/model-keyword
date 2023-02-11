@@ -130,10 +130,11 @@
 0eb3318b, gingertomcat, djzGingertomcatV21768V21_21768.safetensors
 0eb3318b, grandsedan, djzGrandSedan_v21768.safetensors
 0eb3318b, hoverracer, djzHoverRacer_v21768.safetensors
-0eb3318b, infinitesupply, djzInifiniteSupply_v21768.safetensors
+0eb3318b, infinitesupply, djzInfiniteSupply_v21768.safetensors
 0eb3318b, intersingularity, djzInterSingularity_v21768.safetensors
 0eb3318b, loneocean, djzLoneOcean_v21768.safetensors
 0eb3318b, monochrome, djzMonochromeV21_0.safetensors
+0eb3318b, moreambitious, djzMoreAmbitious_v21768.safetensors
 0eb3318b, oceanspectrum, djzOceanSpectrum_v21768Heavy.safetensors
 0eb3318b, paintjoblady, djzPaintJobLady_v21768.safetensors
 0eb3318b, planetstain, djzPlanetStain_v21768Light.safetensors
@@ -460,6 +461,7 @@
 6ae1720a, in the artstyle of dd
 6b4688c7, modelshoot style|nousr robot
 6b4ca475, knollingcase
+6b508e59, booru tags
 6b7b4735, Danmumford style
 6baa48b3, modelshoot style
 6bb23006, elden ring style
@@ -479,6 +481,7 @@
 6f5fc35d, 3d render of|3d cartoon of
 700b1fd2, |stylized game icon
 705ae506, None
+718c368e, mikeidsk1
 71b0b5fb, tyznedsk1
 71d46dd0, Bocchi|KitaIkuyo|IjichiNijika|YamadaRyo|IjichiSeika|PAsan|HiroiKikuri|ShimizuEliza|IwashitaShima|Bfan1|BoFa2|GotoFutari
 727f0812, modelshoot style
@@ -693,6 +696,7 @@ a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1
 a7e848cb, SJstyle, createASJStyleMask_beta.ckpt
 a7e848cb, Syrdrin|Syrdrin style, syrdrinSciFi_syrdrinV1.ckpt
 a7e848cb, analog style|a photo of mary elizabeth winstead, maryElizabeth_v1.ckpt
+a7e848cb, vffxxdx, model2_v1.ckpt
 a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 a8372572, wooditize
 a8e2a894, no trigger words
@@ -966,6 +970,7 @@ f6a9004f, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 f6b4b362, newhorrorfantasy_style
 f6ca0e2b, comicmay
 f76c4afc, duskspider
+f8159da6, ftnadusk3
 f86aeb35, renne
 f8fb379d, a photo of a sks woman with white hair
 f97ba63a, phse
