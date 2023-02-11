@@ -136,6 +136,7 @@
 0eb3318b, monochrome, djzMonochromeV21_0.safetensors
 0eb3318b, oceanspectrum, djzOceanSpectrum_v21768Heavy.safetensors
 0eb3318b, paintjoblady, djzPaintJobLady_v21768.safetensors
+0eb3318b, planetstain, djzPlanetStain_v21768Light.safetensors
 0eb3318b, punkstar, djzPunkstar_v21768.safetensors
 0eb3318b, rainbowworld, djzRainbowWorld_v21768Double.safetensors
 0eb3318b, rightnow, djzRightNow_v21768.safetensors
@@ -209,6 +210,7 @@
 1a78ec5a, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 1a9cb0c9, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
 1ad16feb, multiarm
+1af66ab9, fntsy1
 1b30cc76, eva123xyzmendes
 1b51225c, ClaymationXmas, claymationXmas_sd2.ckpt
 1b51225c, Mobian, sonicdiffusion_sd21.ckpt
@@ -219,6 +221,7 @@
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
 1d0d03ee, botw style
 1d132f9e, whatif style|tdst style
+1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1f258730, dbluth
 1f27bb0e, sks woman
 202360be, by b-ginga, bGingaModel_bgingaV1130k.safetensors
@@ -332,6 +335,7 @@
 439f64ec, midjourney model 1.5v|model v1.5
 4449cdac, samdoesarts
 445461df, fking_scifi_v2
+44bf0551, booru tags
 4507a9f0, Makima
 4509a913, by mitsudoue
 457435c3, blue skin, avatarlook_avatarStyle200.ckpt
@@ -625,6 +629,7 @@
 9c55fd12, mirrormask
 9ca13f02, analog style
 9ce5cea2, nvinkpunk|snthwve style|style of joemadureira
+9d9ea029, fantadsk2
 9dc1d702, sks woman
 9e12b5d1, JennaO
 9e86175c, MJv4
@@ -712,6 +717,7 @@ aa7001cf, charhelper|character art|close-up character portrait|mid-range charact
 aa7001cf, chloeben, chloeBennet_v1.ckpt
 aa7001cf, classicnegative, classicNegativeSD21_classicNegative768px.ckpt
 aa7001cf, cmodel, syntheticCmodel_v1.ckpt
+aa7001cf, dmvc, dmvc2V2_v20.ckpt
 aa7001cf, facesakimiboy, facesakimiboy_v1.ckpt
 aa7001cf, food_crit, jaksCreepyCritter_sd21768px.ckpt
 aa7001cf, ggg, gggStep1600_.ckpt
