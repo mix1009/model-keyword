@@ -375,6 +375,7 @@
 50444ca2, trnlgcy
 50b09182, flonixreddit
 510c5845, modelshoot style|nousr robot
+518d78a0, 35mmstyle
 51935af1, by chon
 521893a1, voxel-ish
 523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
@@ -692,6 +693,8 @@ a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 a6f96d80, BelleDelphine|woman
 a73b3094, 3d render of|3d cartoon of
+a74ca246, cbzbb|microworld, microcharsMerge_10.ckpt
+a74ca246, food_crit|microworld, microcrittersMerge_10.ckpt
 a7694188, sks woman
 a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1|photrealistic:1.1
 a7e848cb, SJstyle, createASJStyleMask_beta.ckpt
