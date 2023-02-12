@@ -28,6 +28,7 @@
 05e6c91b, by kokuto
 0655784d, gtav style
 06a9d223, mengersponge|sierpsponge
+071b2e26, tk-char|tk-env
 079b172e, illustration style kurzgesagtish
 0817babf, sks chessevolved
 08839519, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime
@@ -254,6 +255,7 @@
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 254fb5cd, hasanpiker person
 258f79e3, stylized game icon|sci-fi|steampunk|spell
+25ba4550, modelshoot style|swpunk|synthwave|paint splatters
 265e757d, Sidon|Sidon style
 26621fc2, tdst style
 27d7d4a1, vapodusk1
@@ -268,6 +270,7 @@
 2bb2342e, rotoscopee
 2be73e30, by b-ginga
 2cd4cf48, sjh style
+2d447b0f, tk-char|tk-env
 2dd7cc12, by b-ginga
 2e6bbced, vectorartz
 2f122e47, HarryPotterStyle
@@ -392,6 +395,7 @@
 557350e1, leagueofstyle, stablearcane_20.ckpt
 557350e1, radar-topview|biome-radar-topview|cache-radar-topview|cobblestone-radar-topview|dust2-radar-topview|inferno-radar-topview|mirage-radar-topview|nuke-radar-topview|overpass-radar-topview|subzero-radar-topview|train-radar-topview|vertigo-radar-topview, csgoImprovedRadarTop_v20.ckpt
 557350e1, radar-topview|spectator-radar-topview, csgoTopViewMapLayout_1.ckpt
+56e29f8a, tk-char|tk-env
 5714e58c, woolitize
 57b149de, voxel-ish
 585879fc, portrait+ style
@@ -433,9 +437,11 @@
 60fe2f34, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 60fe3f35, ricknmorty style
 6178413b, wvert1
+61b6da58, dskyart1
 61d9038b, takeON_v2
 62938071, Bowser
 62a1df72, elden ring style|postapocalypse|knollingcase|analog style|dreamlikeart|swpunk|synthwave|modelshoot style|cyborgdiffusion
+62dafa15, modelshoot style|swpunk|synthwave|paint splatters
 6329328a, lds
 6360ab7c, angel
 63746d4f, rtrophto1
@@ -814,6 +820,7 @@ c3277c7d, modelshoot style
 c32814de, hellraiser
 c3466734, by t6
 c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
+c44bb585, duskametrick15
 c4b23842, albumcover
 c4e365bf, lightroom red:34% blue:53% green:43% filmgrain_minimal|texture:+25%|clarity: +40%|Contrast:+4%|shadows: +11%|sharpen:70%
 c5943e55, mdjrny-pprct
@@ -885,6 +892,7 @@ db10a0ee, sks woman
 db5960c1, OOKZA Vampire Style
 dc05355d, sksi object|sksi
 dcdf0425, dgs illustration style
+dcff916b, modelshoot style|swpunk|synthwave|paint splatters
 dd47c9f1, nabongs|jeongie|hiraimomo|minatozaki sana|godjihyo|myouimina|dubu|chaengie|choutzuyu
 dd539c7c, dsktaro1
 dd74bb1c, gilgamesh|1boy
@@ -979,6 +987,7 @@ f86aeb35, renne
 f8fb379d, a photo of a sks woman with white hair
 f97ba63a, phse
 f9c02b32, 100memories
+f9d8ee86, modelshoot style|swpunk|synthwave|paint splatters
 fa199e0c, analog style|modelshoot style|nsfw|nudity
 fa5e4f28, (tokki girl)
 fab2577c, modelshoot style|analog style|mdjrny-v4 style
