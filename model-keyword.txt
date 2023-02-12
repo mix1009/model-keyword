@@ -575,6 +575,7 @@
 8687d7a5, samdoesarts style
 868fceae, phtdzk1
 86ac0981, CreatureChan Style
+872bdd84, zedra1 girl
 883f759a, jwl watercolor
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
 8a0a6f86, svtbuild
@@ -656,6 +657,7 @@
 9ed4ea56, Oldjourney
 9ef9f138, gigafractal artstyle
 9f675a83, ClaymationXmas
+9ff529c8, anime
 a06436da, wtrcolor style
 a0b3a1c3, sphx weapon
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
@@ -709,6 +711,7 @@ a6f96d80, BelleDelphine|woman
 a73b3094, 3d render of|3d cartoon of
 a74ca246, cbzbb|microworld, microcharsMerge_10.ckpt
 a74ca246, food_crit|microworld, microcrittersMerge_10.ckpt
+a74ca246, microworld|knollingcase, microcasingMerge_10.ckpt
 a7694188, sks woman
 a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1|photrealistic:1.1
 a7e848cb, SJstyle, createASJStyleMask_beta.ckpt
