@@ -13,10 +13,12 @@
 0248da5c, Rainbowpatch, rainbowpatch12_rainbowpatchV12.safetensors
 0248da5c, anipoma1, duskfallsManga_15Final.safetensors
 0248da5c, deetz1, duskfallsSlime_10.safetensors
+0248da5c, duskametrick15, isometricSD15_05.safetensors
 0248da5c, duskz1, duskfallsIllustration_10.safetensors
 0248da5c, mangadusk1, duskfallsManga_10.safetensors
 0248da5c, manwha1, duskfallsManga_05.safetensors
 0248da5c, nghtmre, nightmareDiffusionV1_.safetensors
+0248da5c, phtdzk1, photographyAnd_10.safetensors
 0248da5c, seconddusk, duskfallVirtual3D_10.safetensors
 0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_01.safetensors
 02faa048, sphx style
@@ -40,6 +42,7 @@
 0b071c53, bilsh21
 0b09ad3b, ctsmscl
 0b84672b, gtechstyle|art by gtechstyle|in the style of getchstyle
+0b910e4b, duskametrik
 0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
 0c93a576, name|oumeifeng style|redshift style
 0e828029, sks woman|(sks woman)
@@ -388,6 +391,7 @@
 53d6b1c7, tattoo|tattoos|tattooed|tattooed face|tattooed body|BigDarkTattoos
 5412e2d7, comicmay artsyle|redshift style
 547baf67, ykgl girl|ykgl girls|cgi artstyle
+5502af6a, nkoctst
 55537280, temp
 557350e1, Lilith Morgan, lilithMorgan_v11.ckpt
 557350e1, Rainbowpatch, rainbowpatch12_rainbowpatchV12.ckpt
