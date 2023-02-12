@@ -10,6 +10,7 @@
 019cc77b, masterpiece|face portrait|ultra detailed
 01a35826, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 01f61612, clonewars style
+0248da5c, 35mmneon, 35mmneon_v10.safetensors
 0248da5c, Rainbowpatch, rainbowpatch12_rainbowpatchV12.safetensors
 0248da5c, anipoma1, duskfallsManga_15Final.safetensors
 0248da5c, deetz1, duskfallsSlime_10.safetensors
@@ -192,6 +193,7 @@
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 14d36354, duskz1
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
+14e1ef5d, ginkddd, model2_v1.ckpt
 14e1ef5d, phse, prettyHouseSo_v1.ckpt
 14e1ef5d, sksi, csGOMapGenerator_v1.ckpt
 14e1ef5d, swpunk|synthwave|paint splatters, synthpunkSearch_raw.ckpt
@@ -363,6 +365,7 @@
 4928c317, abstractchaos
 4a0c37d8, supermarionation
 4aef3692, sks woman
+4b327a2e, anime
 4bfacf36, by t6
 4c42236e, TVClown
 4cac193b, sks person|(sks person)
@@ -379,6 +382,7 @@
 4fb1bbf3, padoru
 4fb23b6b, wa-vy style
 50444ca2, trnlgcy
+50481b4d, anime|girl
 50b09182, flonixreddit
 510c5845, modelshoot style|nousr robot
 518d78a0, 35mmstyle
@@ -988,6 +992,7 @@ f6ca0e2b, comicmay
 f76c4afc, duskspider
 f8159da6, ftnadusk3
 f86aeb35, renne
+f8b2fd9e, girl
 f8fb379d, a photo of a sks woman with white hair
 f97ba63a, phse
 f9c02b32, 100memories
