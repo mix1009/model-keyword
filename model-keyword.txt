@@ -239,6 +239,7 @@
 202360be, by kokuto, kokutoModel_kokutoV14k.safetensors
 202360be, by kurige, kurigeModel_kurigeV14k.safetensors
 202360be, by kuroume, kuroumeModel_kuroumeV16k.safetensors
+202360be, by mankai kaika, mankaiKaikaModel_mankaikaikaV18k.safetensors
 202360be, by michihasu, michihasuModel_michihasuV14k.safetensors
 202360be, by mika pikazo, mikaPikazoModel_mikapikazoV110k.safetensors
 202360be, by mitsudoue, mitsudoueModel_mitsudoue7k.safetensors
@@ -246,6 +247,7 @@
 202360be, by mochizuki kei, mochizukiKeiModel_mochizukikeiV115k.safetensors
 202360be, by mon, monModel_monV15k.safetensors
 202360be, by narae, naraeModel_naraeV18k.safetensors
+202360be, by oekakizuki, oekakizukiModel_oekakizukiV18k.safetensors
 202360be, by popqn, popqnModel_popqn5k.safetensors
 202360be, by sky-freedom, skyFreedomModel_skyfreedomV18k.safetensors
 202360be, by sy4, sy4Model_sy4V110k.safetensors
@@ -253,6 +255,7 @@
 202360be, by vima, vimaModel_vimaV13k.safetensors
 205e0248, fking_scifi_v2
 219cbfe8, RKart style
+223531c6, gakki, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti, vae-ft-mse-840000-ema-pruned.ckpt
 2258c119, CNDigitalArt Style
@@ -353,6 +356,7 @@
 4583e79e, samdoesarts
 45f682e2, sincity_iamyork
 4689ff28, nvinkpunk|samdoesarts
+471291b4, by oekakizuki
 475eae91, vintage polaroid analog portrait photography of
 47745337, MCwrld
 4792ff92, ech_gen
@@ -374,7 +378,8 @@
 4db8fda3, PokeModel
 4dc372a6, art by yaguru magiku
 4dcd8191, FFT
-4ddd5d17, JhnsT
+4ddd5d17, JhnsT, sd1XAnimeFuturistic_sdAnimeFuturistic.ckpt
+4ddd5d17, gakki, gakkiMix769_v10.ckpt
 4df252a6, by mochizuki kei
 4ef65125, warrior
 4f124f15, model|anime
@@ -610,6 +615,7 @@
 9422abbc, manyakis art style|rabbit girl
 942395af, modelshoot style|swpunk|synthwave|paint splatters
 94674f07, nvinkpunk
+94c7fd10, nayeonnine
 9518faa2, luna
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
@@ -858,6 +864,7 @@ ce21b743, sjh style
 ce6d2934, masterpiece|best quality
 cebf8122, modelshoot style
 cf5ed516, @Spirited
+cfa305bc, by mankai kaika
 cfc1e734, mina|momo|jeongyeon|chaer|sana|tzuyu|naeyeon|dahyun|jihyo
 cfc5de0e, modelshoot style|analog style|mdjrny-v4 style
 d023e7a8, stbtc|stbcf
