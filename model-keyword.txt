@@ -302,6 +302,7 @@
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
 33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime, dgspitzerArt_Diffusion.safetensors
 33290d4a, rfktrstyle, rfktrsDarkdream_v16.safetensors
+33290d4a, rfktr|rfktrstyle, rfktrsDarkdream_v10.safetensors
 333ecf3c, sks woman|(sks woman)|((sks woman))
 33c549f1, swpunk|synthwave|paint splatters
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
