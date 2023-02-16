@@ -483,6 +483,7 @@
 66ab1e7a, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 66b4c45e, archer style
 673ca4ea, modelshoot style
+68120148, ashenhard style
 6873ad1a, neonHorror style
 68b463ba, clazy style
 69389227, borderlands
@@ -504,6 +505,7 @@
 6c7102ea, botw style
 6d2a5077, by vima
 6d384d32, melkor_manchin art style
+6d4c500c, khalil
 6d59a0fd, lisdusk1|lisdusk2
 6d5c9271, funko style
 6d92cddf, dalcefo_hitoria
@@ -656,6 +658,7 @@
 994784b1, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 99581f75, borderlands|stbtc|stbcf|telltale style
 99af29f7, archer style|arcane style|modern disney style
+99b10427, cornflower
 99b46941, yae miko from genshin impact|ei from genshin impact
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 99e78387, SinCityMovie Style
@@ -951,7 +954,7 @@ de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo styl
 df2df325, googiearch
 df9e36bd, leagueofstyle
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
-e01546fb, Cornflower
+e01546fb, cornflower
 e02601f3, guohua style, guohaDiffusion_v1.ckpt
 e02601f3, photo of ohwx woman, janLevinsonMeloraHardin_6kSteps.ckpt
 e02601f3, sks lucy, lucyFromCP_v1.ckpt
