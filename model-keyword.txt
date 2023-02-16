@@ -784,6 +784,7 @@ ac7a27ad, john walker lee
 ac87c248, abstractswirls
 acdcf3cb, aucv
 acfa8753, future style
+ad38c466, silverfox5213|
 ad9d6205, fart62
 ae998e33, DarkSouls Style
 aef3d307, zukki_style
@@ -795,6 +796,7 @@ b1fd9215, ginkddd
 b2066f4d, laracroftsd
 b245152f, powercolor.v1|Drippy watercolor|Vivid watercolor
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
+b2de9d62, silverfox5213|
 b2fb8eba, m_robutts|illustration style|art by cutesexyrobutts
 b3276bb9, Umbreon|Vaporeon|Glaceon|Sylveon|Espeon|Jolteon|Flareon|Eevee
 b3454578, kipteitei|art by better with salt|woot|squarewave|big belly|fat|full list on biggergirls page
@@ -991,6 +993,7 @@ ecf98c5e, valorant style
 ed87e89c, tchnclr style
 ed977a93, dvMech, dvmech100_dvmech100.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
+ed977a93, tlw, trihighsDreambooth_v31.ckpt
 edf5c25b, sks woman
 ee5b91da, ligne claire
 ee624815, xmascookie
