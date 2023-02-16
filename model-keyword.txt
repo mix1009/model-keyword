@@ -223,9 +223,9 @@
 1af66ab9, fntsy1
 1b30cc76, eva123xyzmendes
 1b51225c, ClaymationXmas, claymationXmas_sd2.ckpt
-1b51225c, Mobian, sonicdiffusion_sd21.ckpt
 1b51225c, Mosaic Art, mosaicArt_v2768.ckpt
 1b51225c, dronelightshow, dronelightshow_v1.ckpt
+1b51225c, mobian, sonicdiffusion_sd21.ckpt
 1b51225c, rckrll, rickRollStyle_v1.ckpt
 1c254752, vulcan
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
@@ -507,6 +507,7 @@
 6d92cddf, dalcefo_hitoria
 6d9fa060, 2d dnd battlemap
 6e199947, rfktrstyle
+6ea179f4, mobian or sonic character name
 6eff939c, sks person
 6f4ab0a0, duskgem|jem and the holograms
 6f5fc35d, 3d render of|3d cartoon of
@@ -959,6 +960,7 @@ e246da64, syberart
 e2b8b39c, sks person
 e35930da, rachelwalker style
 e3af0732, btywtrclr
+e426a38f, dskyart1
 e476ecf5, justyeaa
 e494d7b5, takeON
 e4d945bf, origtron
