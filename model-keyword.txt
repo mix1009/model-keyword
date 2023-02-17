@@ -603,6 +603,7 @@
 8a312ffc, masterpiece|novelAI|trending on 500px
 8a5302eb, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
 8a648075, sks jinx|jinx
+8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
 8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle
 8c7efd5f, itojunji style
 8ca5c5a1, zero_two_101
@@ -818,6 +819,7 @@ b5453f75, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.ckpt
 b5453f75, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.ckpt
 b5c0b653, modelshoot style
 b5e156ba, vskeei1
+b5f6fe6c, pepe_frog
 b63a47bb, synthpunk|cyberpunk|anime screenshot|fantasy
 b7010dfe, Mosaic Art
 b701219e, clone wars style|clonewars style|batman_the_animated_series
