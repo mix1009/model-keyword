@@ -263,7 +263,7 @@
 223531c6, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti, vae-ft-mse-840000-ema-pruned.ckpt
 2258c119, CNDigitalArt Style
-2275f2cf, anime screenshot|90s retro anime style|xx year anime style
+2275f2cf, 90s retro anime style|xx year anime style
 234cc409, comicmay artsyle
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 254fb5cd, hasanpiker person
@@ -319,7 +319,7 @@
 38c1ebe3, base lux skin, luxannaCrownguardFrom_luxannaCrownguardLol.ckpt
 38c1ebe3, star guardian neeko, starGuardianNeeko_sgNeekoAnythingv3.ckpt
 38c1ebe3, zero_two_101, anythingZeroTwo_zeroTwoDarlingInThe.ckpt
-38c588d9, synthpunk|cyberpunk|anime screenshot|fantasy
+38c588d9, synthpunk|cyberpunk|fantasy
 38e89fda, itojunji style
 390d2cdf, FluidArt
 396450f6, lomo style
@@ -524,6 +524,7 @@
 730b9cb5, m_style
 73aebb03, rammstein
 73d359a0, modelshoot style|analog style|mdjrny-v4 style|nousr robot
+73df0f6b, no trigger word required
 7460a6fa, sk man
 74f4c61c, redshift style
 751059ed, prfns
@@ -785,7 +786,7 @@ ab4941a7, fantasticmrfox
 ab9d9647, sks man
 abaf5445, 2d videogame minimap
 abb47775, sks woman
-ac039af9, anime screenshot|90s retro anime style|xx year anime style
+ac039af9, 90s retro anime style|xx year anime style
 ac25001a, fwatch style
 ac6c89d0, dublex
 ac7a27ad, john walker lee
@@ -820,7 +821,7 @@ b5453f75, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.ckpt
 b5c0b653, modelshoot style
 b5e156ba, vskeei1
 b5f6fe6c, pepe_frog
-b63a47bb, synthpunk|cyberpunk|anime screenshot|fantasy
+b63a47bb, synthpunk|cyberpunk|fantasy
 b7010dfe, Mosaic Art
 b701219e, clone wars style|clonewars style|batman_the_animated_series
 b725e575, wtrcolor style
@@ -1047,6 +1048,7 @@ fa5e4f28, (tokki girl)
 fab2577c, modelshoot style|analog style|mdjrny-v4 style
 fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
 fb8354fa, kpt digital artstyle|gui
+fbaed9a3, dskyart1|deetz1
 fbd89929, girl
 fbf5d1b5, sks place
 fc151a15, reasonabledrink
