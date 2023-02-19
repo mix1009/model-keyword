@@ -846,6 +846,7 @@ b9f30719, flonixreddit
 ba158946, goldenglass
 bb029452, kindigitstyle
 bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
+bcb60ee3, twinklestardodo
 bcbe94c2, frutigeraero
 bdb4b12c, by popqn
 bde477d2, junemodel
@@ -875,9 +876,11 @@ c3277c7d, modelshoot style
 c32814de, hellraiser
 c3466734, by t6
 c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
+c3cfd75d, powa
 c44bb585, duskametrick15
 c4b23842, albumcover
 c4e365bf, lightroom red:34% blue:53% green:43% filmgrain_minimal|texture:+25%|clarity: +40%|Contrast:+4%|shadows: +11%|sharpen:70%
+c55e0d84, virtual youtuber|masterpiece|best quality|hololive|lastname name:1.2
 c5943e55, mdjrny-pprct
 c5c54e28, dreamlikeart
 c76b8b8e, sks woman
@@ -967,6 +970,7 @@ de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photo
 de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 df2df325, googiearch
 df9e36bd, leagueofstyle
+dfafd600, duskametric15|microworld
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 e01546fb, cornflower
 e02601f3, guohua style, guohaDiffusion_v1.ckpt
