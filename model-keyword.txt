@@ -228,6 +228,7 @@
 1b51225c, dronelightshow, dronelightshow_v1.ckpt
 1b51225c, mobian, sonicdiffusion_sd21.ckpt
 1b51225c, rckrll, rickRollStyle_v1.ckpt
+1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 1c254752, vulcan
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
 1d0d03ee, botw style
@@ -424,6 +425,7 @@
 5714e58c, woolitize
 57b149de, voxel-ish
 585879fc, portrait+ style
+58819dc1, anime|realistic|masterpiece|best quality
 5896f8d5, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 59139221, man s4ntos
 59724734, IconsMi
@@ -573,6 +575,7 @@
 818ed0ab, khrushchevka
 81b68188, tk_env|tk_char
 81da0383, dvOldWorld
+81f23ca9, worst quality|lowres|easynegative|hermaphrodite|cropped|not in the frame|additional faces|jpeg large artifacts|jpeg small artifacts|ugly|tiling|poorly drawn hands|poorly drawn feet|poorly drawn face|out of frame|extra limbs|disfigured|deformed|body out of frame|blurry|bad anatomy|blurred|watermark|grainy|signature|cut off|draft|not finished drawing|unfinished image|bad eyes|doll|3d|cartoon|bad eyes:1.2|worst quality:1.2|low quality:1.2|bad-image-v2-39000|bad_prompt_version2:0.8
 820c4a3e, by sy4
 822b8799, pepestyle person
 82780037, tpkify
@@ -748,6 +751,7 @@ a6f96d80, BelleDelphine|woman
 a73b3094, 3d render of|3d cartoon of
 a74ca246, cbzbb|microworld, microcharsMerge_10.ckpt
 a74ca246, food_crit|microworld, microcrittersMerge_10.ckpt
+a74ca246, microworld|clayitization, microclayMerge_10.ckpt
 a74ca246, microworld|knollingcase, microcasingMerge_10.ckpt
 a7694188, sks woman
 a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1|photrealistic:1.1
@@ -933,6 +937,7 @@ d4cee16a, ratatatat74
 d4fd8843, rotungwoka person
 d52fc124, kurisu|1girl
 d57fa787, by hanaarare
+d65c923a, 1girl
 d676dd55, deetz1
 d6e9d2b1, dvMJv4
 d7149094, lnkdn photography
@@ -942,6 +947,7 @@ d80ad84b, mdjrny-grfft
 d843660f, quinn \(league of legends\), quinnFromLeagueOf_quinnNaiMix.ckpt
 d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
+d89bc06c, m
 d947f2cd, jisoo
 d9aa872b, food_crit
 d9d42da0, fantassified icon
