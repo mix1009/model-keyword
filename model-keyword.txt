@@ -215,6 +215,7 @@
 17b7e1de, romerorzeternos
 17bb0452, discodifland
 187550ac, 80sanimestyle
+191173a0, 1
 194778a2, wkc
 19b72626, analog style|dreamlikeart|redshift style
 19d911b0, djct woman|djct
@@ -834,6 +835,7 @@ b5453f75, DBlinebrush style, linebrushStyle_V21.ckpt
 b5453f75, OOKZAVampire Style, vampireStyle_V20.ckpt
 b5453f75, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.ckpt
 b5453f75, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.ckpt
+b5564717, dal
 b5c0b653, modelshoot style
 b5e156ba, vskeei1
 b5f6fe6c, pepe_frog
@@ -867,6 +869,7 @@ beffb160, gopnik|gopstyle|gopgirl|gopgirls
 bfa54420, ChromaV5|nvinkpunk
 bfccd521, roypop style
 bff9c2fc, POW Style
+c022d9d2, asiangirlslikeness
 c0302f10, Gllltchy style|Gllltchy, gllltchy_v1.ckpt
 c0302f10, filmation motu style, filmationMOTU_v1.ckpt
 c09d432b, photorealistic|nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
@@ -1021,6 +1024,7 @@ ea1e7cc7, FlonixMatyukhinft|FlonixApterus|Danmumford style
 ea2dccc5, tracerx
 ea35b744, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 eae95c5e, cardassian
+eb3a4159, dal
 eb70ff01, concept-art
 ebc4e0a9, RottingZombie person
 ebd5057f, photo of a potion
@@ -1082,6 +1086,7 @@ fbf5d1b5, sks place
 fc151a15, reasonabledrink
 fc41b940, evgenii-ponasenkov
 fc83c5ad, civsix style
+fd433acd, dal
 fd496cc1, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 fd7a0fd0, wltzwthbshr
 fdbb23ad, d&d character
