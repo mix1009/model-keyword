@@ -164,6 +164,7 @@
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
 10a66fa5, romcom style
 10c6aa67, studio_ghibli_anime_style style
+10eaf341, masterpiece|best quality|re-badprompt|anime|realistic
 1108cf15, by miyase mahiro
 116d5535, coralchar
 1194073d, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
@@ -189,7 +190,7 @@
 1400e684, bara, daddyDiffusion_v1.safetensors
 1400e684, bganidusk|phtdzk1|vapodusk1, conceptBackgroundsAnime_10.safetensors
 1400e684, cyberangels, djzCyberAngelsV21V15_v15512.safetensors
-1400e684, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV13.safetensors
+1400e684, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.safetensors
 1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.safetensors
 1400e684, gingertomcat, djzGingertomcatV21768V21_v15.safetensors
 1400e684, rfktrstyle, rfktrsDarkdream_v15bExperimental.safetensors
@@ -842,7 +843,7 @@ b4df6423, xdusky1
 b5453f75, DBlinebrush style, linebrushStyle_V21.ckpt
 b5453f75, OOKZAVampire Style, vampireStyle_V20.ckpt
 b5453f75, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.ckpt
-b5453f75, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.ckpt
+b5453f75, dbfantasyart, fantasyArtStyle_fantasyArtStyleV18.ckpt
 b5564717, dal
 b5c0b653, modelshoot style
 b5e156ba, vskeei1
