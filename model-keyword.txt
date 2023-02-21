@@ -389,6 +389,7 @@
 4cac193b, sks person|(sks person)
 4d5cca44, TinyPlanet|TinyCityPlanet
 4d63cb83, mbb
+4dadf5f3, analog style
 4db8fda3, PokeModel
 4dc372a6, art by yaguru magiku
 4dcd8191, FFT
@@ -477,6 +478,7 @@
 63746d4f, rtrophto1
 6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 643afbd9, Microscopic
+6447d29d, master
 645a42cf, newstl
 64afe6d2, CALARTS
 64e73fcb, dbz style
@@ -500,6 +502,7 @@
 6ab06e33, Tifa Lockhart|Cloud Strife|Barret Wallace|aerith gainsborough|midgar city|midgar city business district|midgar city slums district|biggs ff7r|wedge ff7r|jessie rasberry|inside seventh heaven bar|shinra security officer|in the style of midgar city
 6ac8f9dc, sks person|(sks person)
 6ae1720a, in the artstyle of dd
+6b3ac2d3, 3dmdt1
 6b4688c7, modelshoot style|nousr robot
 6b4ca475, knollingcase
 6b7b4735, Danmumford style
@@ -821,6 +824,7 @@ b1fd9215, ginkddd
 b2066f4d, laracroftsd
 b245152f, powercolor.v1|Drippy watercolor|Vivid watercolor
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
+b29ef034, analog style
 b2de9d62, silverfox5213|
 b2fb8eba, m_robutts|illustration style|art by cutesexyrobutts
 b3276bb9, Umbreon|Vaporeon|Glaceon|Sylveon|Espeon|Jolteon|Flareon|Eevee
@@ -1070,6 +1074,7 @@ f8159da6, ftnadusk3
 f846e100, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 f86aeb35, renne
 f8b2fd9e, girl
+f8e650bb, 3dmdt1
 f8fb379d, a photo of a sks woman with white hair
 f97ba63a, phse
 f9c02b32, 100memories
