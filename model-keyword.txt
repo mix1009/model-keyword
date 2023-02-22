@@ -191,7 +191,7 @@
 1400e684, bganidusk|phtdzk1|vapodusk1, conceptBackgroundsAnime_10.safetensors
 1400e684, cyberangels, djzCyberAngelsV21V15_v15512.safetensors
 1400e684, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.safetensors
-1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV16.safetensors
+1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV18.safetensors
 1400e684, gingertomcat, djzGingertomcatV21768V21_v15.safetensors
 1400e684, rfktrstyle, rfktrsDarkdream_v15bExperimental.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
