@@ -485,6 +485,7 @@
 6447d29d, master
 645a42cf, newstl
 64afe6d2, CALARTS
+64c46184, masterpiece|best quality|re-badprompt|anime|realistic
 64e73fcb, dbz style
 65bbd026, pitchmeetgeorge
 6606d2db, ttw style
