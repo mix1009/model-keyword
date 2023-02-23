@@ -423,6 +423,7 @@
 55537280, temp
 557350e1, Lilith Morgan, lilithMorgan_v11.ckpt
 557350e1, Rainbowpatch, rainbowpatch12_rainbowpatchV12.ckpt
+557350e1, duskfll, duskfallAlters_11PortraitPlus.ckpt
 557350e1, flrmrbl, floralmarblesModel15_copiaDeFloralmarble.ckpt
 557350e1, leagueofstyle, stablearcane_20.ckpt
 557350e1, radar-topview|biome-radar-topview|cache-radar-topview|cobblestone-radar-topview|dust2-radar-topview|inferno-radar-topview|mirage-radar-topview|nuke-radar-topview|overpass-radar-topview|subzero-radar-topview|train-radar-topview|vertigo-radar-topview, csgoImprovedRadarTop_v20.ckpt
@@ -680,6 +681,7 @@
 993f2358, microworld, microworldsRemake_version3.ckpt
 993f2358, miniwool, miniwool_1.ckpt
 993f2358, neonskiesai, neonskiesai_V10.ckpt
+993f2358, paperai, paperai_V10.ckpt
 993f2358, steampunkai, steampunkai_steampunkV10.ckpt
 994784b1, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 99581f75, borderlands|stbtc|stbcf|telltale style
