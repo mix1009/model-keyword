@@ -2,6 +2,7 @@
 # add new entry to lora-keyword-user.txt
 # 
 #model_hash,keyword,filename.ckpt
+0050b0b7, oshino_shinobu|blush_stickers|blonde_hair|long_hair
 00aac519, shamare|shamarehead
 00b4d0e1, comicmay artsyle|redshift style
 00db9810, shamsiel_shaharl
@@ -242,6 +243,7 @@
 2189b650, twi'lek|aayla secura|darth talon|oola|hera syndulla
 2206950d, glow hair|multicolored hair
 220db937, shimabara yuuhi
+2226b222, goutou
 223531c6, gakki
 228e0af3, star guardian soraka
 22a17cb8, trapped_in_wall
@@ -444,6 +446,7 @@
 3d6847ee, slavekini
 3d7bc553, dublex
 3d999bca, shussan
+3db566d8, widowmaker
 3e062655, giornogiovanna|cleavage cutout|1boy|jacket
 3e0a4b58, pico|midriff
 3e2f19a8, zeri (league of legends)
@@ -502,6 +505,7 @@
 459e51e5, inkpun
 45ae56a4, noel vermillion
 45b6a7b6, conceptart
+45f855ea, mafuyu
 46050ec8, boa_hancock|earrings
 461b1558, togruta
 4638297a, 9a91
@@ -517,6 +521,7 @@
 47ab2a32, tgirl|penis
 47e2055b, jim lee
 47ef4df0, saga
+48433747, hoshiguma|scar on cheek|horn on head
 485839d3, mesugaki|smile
 4887ddcc, christina hendricks|woman
 489fb650, hukestyle|okaberintarou|mayurishiina|makisekurisu
@@ -565,6 +570,7 @@
 4ddd305f, 1girl
 4ddd5d17, gakki
 4df411e1, 1girl|jacket|halo|horns|large_breasts|long_hair|mole_on_breast|pink_hair
+4e3c4ae0, noa|noa-outfit
 4e3c68fb, akali
 4e5f1728, photo|cosplay|professional photo|photorealistic|realism|realistic|looking at viewer|photo _(medium)|photo background|photo inset
 4e746a8b, natsuki_subaru
@@ -700,6 +706,7 @@
 60132b18, tron bonne|hairband|brown hair|green eyes|hair pulled back
 60349fa2, kafka hsr
 6051aa2f, taihou (azur lane)|taihou (enraptured companion) (azur lane)|hair between eyes|ahoge
+6069e32a, keqing|keqing_base_uniform|keqing_opulent_uniform
 6073da6b, mikasa ackerman
 608c8bbc, darkest dungeon
 60ad90b9, nekorushia|green hair|cat ear|animal ear fluff
@@ -770,6 +777,7 @@
 6ac5339a, neeko
 6ae4954c, character (series)
 6aea9b33, asagi|bodysuit|cameltoe|covered navel|covered nipples|covered collarbone|cameltoe
+6b58693e, silk scarf
 6b6e8fdd, braless|covered nipples
 6bb46019, aruru_otsuki(starlight)
 6bc28816, cher|woman
@@ -787,6 +795,7 @@
 6d73ce8f, very long hair
 6dd13e68, official style
 6ddce3d2, sussurro|sussurrohead
+6de1e907, black_haired_milf
 6de508d6, bag_over_head
 6dfe946a, kaguya shinomiya
 6e64998d, futanari|otoko no ko
@@ -847,7 +856,9 @@
 76578f89, +
 76641b81, aiyami
 76e1730a, dbluth
+76efd074, 1girl
 772600b4, hakui koyori
+77266ef9, daiwa_scarlet
 7740dad7, taira no kagekiyo (fate)
 77540334, nicenature|nicenatureuniform|nicenaturecheerleader
 775f109e, nautilus (azur lane)|nautilus (afternoon stretches) (azur lane)
@@ -885,6 +896,7 @@
 7b44a784, t0ki0
 7b54ac6d, halo|hair_bun|bare legs|china_dress|high_heels
 7b742ae7, noelle
+7bb34a9c, minato aqua
 7bd086e8, knollingcase
 7bed7188, woman|girl|zhao
 7c6d2c8f, gakki
@@ -910,6 +922,7 @@
 7f27aca0, buttlift
 7f35678b, cattleya_qb
 7f3a1e76, helmet|armor
+7fb3e29d, creepy
 7fb878ba, akai style
 802249a0, hacony
 803aa187, aot style
@@ -1061,6 +1074,7 @@
 95295ca4, buildingface|lora
 953e3a1b, 1 man
 953f9fc0, transparent|translucent|glasssculpture
+9554fba6, star15|star15mod|star15school
 95ec5ed1, murakaruki
 95feed6c, *see description and examples*
 960297b9, k/da_kai'sa
@@ -1160,8 +1174,10 @@ a4bae881, tauren|yaungol|taunka|highmountain|horns|antlers|bull|bison|yak
 a4c34d69, 1girl
 a4dd650b, saitou naoki
 a4f77f78, botw style
+a4fe43e0, medusa
 a5045538, utinoko akagami
 a505b475, clementine (overlord)
+a54d11a1, mejiro_bright_(umamusume)
 a5a0a758, cloud retainer (genshin impact)
 a5a26843, takeon
 a5cc0d57, r0s3f3s
@@ -1303,6 +1319,7 @@ b7920b70, powa
 b7a21ce6, sekaiPerson
 b7d5a1a0, nazuna hiwatashi
 b8554a83, a woman is getting fucked by a man|doggystyle
+b8d4fe55, mousepad|asspad|ass focus|boobapad|oppai mouse pad|breast mousepad
 b9087fe2, shirt|naked shirt|shirt tug
 b917b6c0, fox ears|red eyes|whtie hair|hairclip|crown braid
 b94e79c8, huge nipples|nipples
@@ -1394,6 +1411,7 @@ c3863218, boobcrush|huge breasts
 c3be07c6, amiya
 c3cf9099, mirai2015|hatsune miku|vocaloid|dress|thigh strap|thigh boots|black gloves|headphones|necktie
 c3e95f5f, anthro|puffin
+c4114c22, nagisa-kun
 c41e73af, bianka
 c423a8e7, torino aqua
 c43e04a9, One eye|cyclops
@@ -1503,6 +1521,7 @@ d18188f5, ugandan knuckles
 d1a06fee, angwh
 d1aa9620, mari
 d1db014b, mika_misono
+d1e1e28e, style
 d2d45e37, jackochallenge
 d30ae821, sydus|chromatic aberration
 d30ea522, battle bunny miss fortune
@@ -1566,6 +1585,7 @@ d8adfea3, tsukatsuki rio
 d8d6c81a, pregnant-x-ray
 d8f21abc, yaokoututu
 d90c9f78, sukuna shinmyoumaru|bowl hat
+d938be7a, implacable (azur lane)|nun|blonde hair|hair between eyes|horns|office lady|halo|between breasts|pelvic curtain|mature female|milf|breast curtains
 d940dbb3, ganyu|ganyu from genshin impact
 d9612c7e, rin
 d98434fc, bda|bigdeadalive
@@ -1626,6 +1646,8 @@ de2f2560, > _ <,
 de2f2560, a [your subject woman/man] getting fucked from behind|pov_doggystyle|penis in vagina|penis in anus|anal penetration|vaginal penetration|anus, aloeverasPOVDoggystyle_aloeverasPov.safetensors
 de2f2560, cum mug, cumMugLora_cumMugLora.safetensors
 de2f2560, flannery (pokemon), flanneryAsunaPokemon_flannerypokemonv2.safetensors
+de2f2560, ganyu (genshin impact), cowbell
+de2f2560, long nipples, puffy nipples
 de2f2560, neeko, aloeverasNeekoLora_aloeveraNeekoV2.safetensors
 de2f2560, nene_kusanagi|project_sekai, kusanagiNeneProject_v10.safetensors
 de2f2560, woman|zssamus|zero suit, zeroSuitSamus_v1.safetensors
@@ -1740,6 +1762,7 @@ ea6a97c7, bikini metal armor|big metal gauntlets|crown|white flower
 eacaf8c7, umms
 eace1cb1, sex|cowgirl
 ead6f67c, suzannemonkeyhead
+eaee53ec, hasumi(blue archive)|gym cloth|gym uniform|gym shorts|red halo
 eb1df56c, samia
 eb2a87cd, shs reinopool
 eb6bcd16, 1boy
@@ -1761,6 +1784,7 @@ edcad8d5, rfktrstyle
 edcd144d, haruPerson
 eddd2364, lailah (tales)
 eec7da8d, slingshot swimsuit|eyepatch bikini
+ef3ad373, hankyu3000
 ef6fbcd0, yautja|predator
 ef70bd0a, pa15|pa15dress|pa15furry|florence
 ef86ce87, mondstadt|liyue|inazuma|dragonspine|sumeru
@@ -1887,6 +1911,7 @@ fe5c79ac, lina inverse
 fe6deb79, ghibli style
 fe7ac1d8, (armpit hair:1.4)
 fe8da1fd, uncut penis|frenulum|scrotum
+fee9a40d, sakurako
 fef5c743, frostnova
 ff03b0dc, flower_insertion
 ff2902f0, y'shtola|miqo'te
