@@ -49,6 +49,7 @@
 0b84672b, gtechstyle|art by gtechstyle|in the style of getchstyle
 0b910e4b, duskametrik
 0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
+0c702268, moametal person
 0c93a576, name|oumeifeng style|redshift style
 0e828029, sks woman|(sks woman)
 0eb3318b, Airlock, djzAirlockV21768V21512_21768.safetensors
@@ -475,6 +476,7 @@
 61b6da58, dskyart1
 61d9038b, takeON_v2
 61f22d0a, iayuso person
+628d0015, sumetal person
 62938071, Bowser
 62a1df72, elden ring style|postapocalypse|knollingcase|analog style|dreamlikeart|swpunk|synthwave|modelshoot style|cyborgdiffusion
 62dafa15, modelshoot style|swpunk|synthwave|paint splatters
@@ -830,6 +832,7 @@ aef3d307, zukki_style
 afc6eaf9, Oldjourney
 b047abbc, cmodel
 b078aa3e, by greatmosu
+b18cb707, pretty girl
 b1c32576, anime pencil concept style
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
@@ -1093,6 +1096,7 @@ f9c02b32, 100memories
 f9d8ee86, modelshoot style|swpunk|synthwave|paint splatters
 fa10a43f, kratos person
 fa199e0c, analog style|modelshoot style|nsfw|nudity
+fa3a1716, hrgiger
 fa5e4f28, (tokki girl)
 fab2577c, modelshoot style|analog style|mdjrny-v4 style
 fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
