@@ -2,6 +2,7 @@
 # add new entry to lora-keyword-user.txt
 # 
 #model_hash,keyword,filename.ckpt
+001f55e8, goldmary (fire emblem)|goldmary (fire emblem)
 0050b0b7, oshino_shinobu|blush_stickers|blonde_hair|long_hair
 00aac519, shamare|shamarehead
 00b4d0e1, comicmay artsyle|redshift style
@@ -59,6 +60,7 @@
 07454e65, jackochallenge
 0756bb58, himari
 075af5f9, aphprisoner
+0774dfad, loradaisy
 077af079, sen_no_kiseki|style
 078fcbd7, jaidenanimations|purple shirt|brown hair|white skin|nsfw
 07a25c26, frankie adams
@@ -135,6 +137,7 @@
 12b8281b, analog style
 12c07f8d, objection
 12ea546d, markiplier|medium length wavy black hair
+12f084cd, 1girl
 1333fd6d, jnnfr
 1337fd05, nudify
 1342a822, faputa
@@ -277,6 +280,7 @@
 24790fbb, vera
 249e12ef, figma
 24b926fc, sitting_on_face
+24b99f92, shinkawa youji
 24cd43e2, long_hair
 25677d59, chibi
 25d72ca0, skistyle
@@ -343,11 +347,14 @@
 2dadaac6, jacket|braided hair|robot
 2db89e6e, midjourney style
 2dd0c2a0, kuroe_shizuku|veronica|rizu-kyun|black_lobelia
+2dd761b5, agentsangvis
+2ddaa5a4, johnny joestar
 2df91c41, 3d render|3d cartoon
 2e40d38f, for example  liyue-kozue
 2e984095, annie (league of legends)
 2eb717f4, pieck finger
 2ed6f60e, raiden|cyborg man
+2eee4fab, shouyou hinata|haikyuu
 2f0145f4, mereoleonavermillion|red cape|cape|white shirt|shirt|white pants|blue robe|red hair
 2f069a4c, edelgard van hresvleg|edelgard emperor|garreg mach monastery uniform
 2f15dde9, nsfw|lewd|gag|bondage|body-stocking|piercing|orgasm
@@ -411,6 +418,7 @@
 37bcb515, tfmmidna
 37f47b32, one breast out
 383fe399, aot style
+386a73a3, jill|jillmg|jillshirt
 386f4b2c, 1 woman
 3879ef32, 1girl
 387cc9f0, okuzora kohaku
@@ -618,6 +626,7 @@
 51fc0c2e, ahri|ahri (league of legends)|k/da (league of legends)|spirit blossom (league of legends)
 5228837a, a man|wearing a suit|wearing a flat cap hat
 5241e1ca, tamamo cross (umamusume)
+527055a2, cluseller
 5278e2eb, thnos
 5292f633, atsuko kagari
 529c74e9, sinensian|futanari|huge penis|veiny penis
@@ -656,6 +665,7 @@
 573f4321, li sushang
 574deb23, shinkai makoto|kimi no na wa.|tenki no ko|kotonoha no niwa
 5756a5b9, kallen stadtfeld|school uniform|swimsuit|cockpit|pilot suit|bunnygirl
+576122d3, summer_dress
 5777a79c, kat
 578111ce, tukudani
 57d6b76c, pool_toy
@@ -711,6 +721,7 @@
 5e706f76, phil collins|man|1980s
 5e88f77d, diluc (genshin impact)
 5eccf0fc, mimori mizuha
+5f2e06f8, nymphia|pokemon (creature)|no humans
 5f3c7ddc, ame-chan
 5f553a5a, dark|dark background
 5f949b10, yukana
@@ -782,6 +793,7 @@
 687bf34b, modern disney style
 68885599, toriyama akira
 68f3bd97, minko style
+68f65309, renee olstead
 696b86d2, hinata|hyuuga hinata
 697796ed, yd luna|mask
 69af0245, by k-suwabe
@@ -858,6 +870,7 @@
 74030696, neon babe|egirl
 741e5910, morticia adams
 7449a011, haruno sakura
+744c8047, virtualgirl-aim|long hair|black hair|medium breasts|smile
 745b57a1, kujo_jolyne|double_bun|green_lips|braided_ponytail|halterneck|sleeveless_shirt|spider_web_print
 746046e2, manticore|manticorehead|hood up
 748668f8, lili|tekken
@@ -981,6 +994,7 @@
 8581d2d2, bambidoe
 85a30934, yuzu
 85da99e7, whb
+85db8089, yewnyewn
 85e095aa, narita taishin (umamusume)
 85f4cd70, wral
 867e9bc8, nvinkpunk
@@ -1016,6 +1030,7 @@
 89c86b4d, rfktr_technotrex
 89f3924c, blindfold
 8a5de047, khyle.
+8a625753, siyun
 8a6a7f8f, zhixue
 8aa3bb60, chest sarashi|bandages
 8ac1d08d, witch_maria
@@ -1127,6 +1142,7 @@
 98f1a1c6, default dress
 99754d5b, canetaazul
 9987115a, nero claudius (fate)
+99b4c8a5, hatsuse izuna|izuna|no game no life|kimono|hairband|fox ears|fox tail|5 fingers|hands up|sitting|hands on face|open mouth|hand between legs|close face|blush|cards
 99be284d, zhixue
 99c04ee6, sonozaki mion|ponytail
 99d47a82, oyamamahiro|1girl
@@ -1146,13 +1162,17 @@
 9c6079cb, joucho
 9c67e5e4, headband|bras
 9c7b6964, moviestill
+9cb78583, toph|tgreenoutfit|tredoutfit
 9cfaa2ce, vanilla
 9dbe03d0, skirtlift
 9e394600, duskspider
 9e4ca282, nene_kusanagi|project_sekai
 9e58b77c, kotegawa chisa
+9ed83fce, haruka|1girl|halo|short hair with long locks|purple eyes
+9ed9672f, kaminoan|long_neck|grey_skin
 9eed1b30, 1girl|makeup|realistic|lips
 9f0baffd, la pluma
+9f312357, original_outfits
 9f52bdd6, character (series)
 9f9b27ab, purple_eyes
 9faeff2d, shead
@@ -1176,6 +1196,7 @@ a1db279a, hinaba|hina_(blue_archive)
 a24ddcab, headpat
 a2572208, eunectes
 a25c8383, 1girl
+a25fef88, 1girl
 a27bc946, takada akemi|painting (medium)|retro artstyle|traditional media|watercolor (medium)|1980s (style)
 a2862b49, backwards virgin killer sweater
 a298d7c3, samanta fox|woman
@@ -1441,6 +1462,7 @@ c3863218, boobcrush|huge breasts
 c3be07c6, amiya
 c3cf9099, mirai2015|hatsune miku|vocaloid|dress|thigh strap|thigh boots|black gloves|headphones|necktie
 c3e95f5f, anthro|puffin
+c40e449d, yurisa
 c4114c22, nagisa-kun
 c41e73af, bianka
 c423a8e7, torino aqua
@@ -1465,6 +1487,7 @@ c69e9ae3, pantypull|pantydrop|panties
 c6c2a6a7, artolanc
 c6cc48e7, purple hair
 c6d280b6, shiina mahiru|yellow eyes
+c6d61867, bar|barbunny
 c6e4e5e3, (eula
 c6eee96d, redabyss
 c716c00c, multicolored_hair
@@ -1547,6 +1570,7 @@ d088b7b1, yukino
 d0c4953a, purple eyes
 d0c7cd33, ((masterpiece))
 d0e4c22f, yasuo|yasuo_(league_of_legends)
+d10f2d80, kaede_chan|suzu_chan
 d15d55b7, zhixue
 d18188f5, ugandan knuckles
 d1a06fee, angwh
@@ -1613,6 +1637,7 @@ d8915630, 1girl|realistic|makeup|lips
 d894089c, neliel
 d8978186, ouroboros
 d89bc06c, m
+d8a478f1, horikita|red jacket
 d8adfea3, tsukatsuki rio
 d8d6c81a, pregnant-x-ray
 d8f21abc, yaokoututu
@@ -1645,6 +1670,7 @@ dc0002b2, donaught|jujunaught
 dc085ffa, miko
 dc0898d5, c-string
 dc454872, marnie (pokemon)
+dc6ecc4e, ggas_kobeni|brown hair|hairclip
 dc907620, masterpiece
 dcda216f, toxxyt
 dce799b5, yamato(one piece)
@@ -1722,6 +1748,7 @@ e311060d, doortoinfinity
 e3214791, eris greyrat
 e32541ff, velvet|red hood|crop top|detached sleeves|string ribbon|star hat ornament|star (symbol)|long skirt|high heels
 e35dee6f, fh
+e36dfd06, puuna
 e38b1a3b, minerva
 e39aa994, character (series)
 e3a5b70f, njfurry
@@ -1871,6 +1898,7 @@ f3f9d5f5, skistyle
 f3fad7fd, chinese|idol|jingyi
 f475b2f8, laplus|laplus darknesss|la+|la+ darknesss
 f4beb34f, 1girl|solo|shirt
+f4eed10d, yuu nishinoya|haikyuu
 f56ce2a0, prinz eugen(azur lane)
 f57584d7, ahoge
 f588a229, neon violet|mask|white skin|knife|face|nsfw
