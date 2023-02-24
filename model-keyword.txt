@@ -28,6 +28,7 @@
 030933d0, l4lisa
 03f434be, MTG card art
 0440e296, MASTERPICE sharp focus portrait
+048f8871, dalcefo
 04a81662, official art|yu-gi-oh!
 04baab99, a 3d render of|a 3d cartoon of
 05e6c91b, by kokuto
@@ -360,6 +361,7 @@
 4192fc16, kurzgesagt style
 41d721c0, swpunk|synthwave|paint splatters
 41fef4bd, nousr robot
+420cb71f, datou|white background|solo|upper body:1.5|
 4283ebdc, GOLDENGLASS|MAXWELL THE CAT|POKEMODEL|ChromaV5
 42d1c972, PadoruMeme
 42da2d52, art by yaguru magiku
@@ -374,6 +376,7 @@
 457435c3, blue skin, avatarlook_avatarStyle200.ckpt
 457435c3, na'vi|Avatar|Blue skin, avatarlook_avatarStyle50.ckpt
 4583e79e, samdoesarts
+45cd0473, tsukasa|hair patch|long hair|blue sailor collar|white shirt|neck ribbon|long sleeves|red ribbon|breast pocket|blue collar|school uniform|serafuku
 45f682e2, sincity_iamyork
 4689ff28, nvinkpunk|samdoesarts
 471291b4, by oekakizuki
@@ -427,6 +430,7 @@
 55537280, temp
 557350e1, Lilith Morgan, lilithMorgan_v11.ckpt
 557350e1, Rainbowpatch, rainbowpatch12_rainbowpatchV12.ckpt
+557350e1, colorfulsurrealismai|surrealism, colorfulsurrealismai_V10.ckpt
 557350e1, dskise, neonIsometric_1.ckpt
 557350e1, duskfll, duskfallAlters_11PortraitPlus.ckpt
 557350e1, flrmrbl, floralmarblesModel15_copiaDeFloralmarble.ckpt
@@ -716,6 +720,7 @@
 9ed4ea56, Oldjourney
 9ef9f138, gigafractal artstyle
 9f675a83, ClaymationXmas
+9ff4bcf1, dalcefo
 9ff529c8, anime
 a06436da, wtrcolor style
 a0b3a1c3, sphx weapon
