@@ -138,6 +138,7 @@
 0eb3318b, darknesseighties, djzDarnessEighties_v21768.safetensors
 0eb3318b, fantasyrealm, djzFantasyRealm_v21768.safetensors
 0eb3318b, gingertomcat, djzGingertomcatV21768V21_21768.safetensors
+0eb3318b, glitchstick, djzGlitchStick_v21768.safetensors
 0eb3318b, grandsedan, djzGrandSedan_v21768.safetensors
 0eb3318b, hoverracer, djzHoverRacer_v21768.safetensors
 0eb3318b, infinitesupply, djzInfiniteSupply_v21768.safetensors
@@ -318,6 +319,7 @@
 35035503, putinclown
 35a0bad3, starsectorportrait
 363ee931, microworld|mdjrny-shttr
+36606926, jimjorcraflogo art style|dan mumford style
 366915ea, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 3747a99f, iayuso person
@@ -1073,6 +1075,7 @@ f2ca12bd, zombie_vector
 f2ea5e14, woolitize
 f32626be, estilovintedois
 f3694755, modelshoot style
+f457c3e6, shiinamashiro
 f4dd44ad, svtbuild
 f56062de, nvinkpunk|mdjrny-v4 style|kairowez|lisdusk1|lisdusk2
 f588c09f, cloud
