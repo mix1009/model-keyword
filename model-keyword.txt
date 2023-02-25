@@ -19,6 +19,7 @@
 0248da5c, isometricfuture, isometricFuture_isometricFutures10.safetensors
 0248da5c, mangadusk1, duskfallsManga_10.safetensors
 0248da5c, manwha1, duskfallsManga_05.safetensors
+0248da5c, meitu, animatedDreams_1.safetensors
 0248da5c, nghtmre, nightmareDiffusionV1_.safetensors
 0248da5c, phtdzk1, photographyAnd_10.safetensors
 0248da5c, seconddusk, duskfallVirtual3D_10.safetensors
