@@ -696,7 +696,7 @@
 993f2358, microworld, microworldsRemake_version3.ckpt
 993f2358, miniwool, miniwool_1.ckpt
 993f2358, neonskiesai, neonskiesai_V10.ckpt
-993f2358, paperai, paperai_V10.ckpt
+993f2358, paperai, paperai_V30.ckpt
 993f2358, steampunkai, steampunkai_steampunkV10.ckpt
 994784b1, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 99581f75, borderlands|stbtc|stbcf|telltale style
@@ -962,6 +962,7 @@ d0b457ae, modelshoot style|analog style|mdjrny-v4 style
 d0bbd388, pre-rendered|3D graphics
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
 d1a8d83f, isometricfuture
+d1b390d3, girl
 d1b93ddb, flrmrbl
 d1c6e030, SamDoesArt
 d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairstyle|taio hairstyle|foha hairstyle|okch hairstyle
@@ -969,6 +970,7 @@ d1d32bcf, dragzkz
 d2089202, modelshoot style|nousr robot
 d21c153e, ChromaV5|nvinkpunk
 d229bfec, manwha1
+d2e96167, masterpiece|best quality|nfixer|nfixernext|re-badprompt
 d312ed1c, TheRPGCharGenEsAFArt
 d31b3d50, abysssorange2|pastelmix|cheeseday 30|merged model
 d357b061, dreamlikeart|kuvshinov|snthwve style|nvinkpunk
@@ -1075,6 +1077,7 @@ ed977a93, tlw, trihighsDreambooth_v31.ckpt
 edf5c25b, sks woman
 ee5b91da, ligne claire
 ee624815, xmascookie
+eef06b18, masterpiece|best quality|nfixer|nfixernext|re-badprompt
 ef36e488, romerorzlucy
 ef4be3fb, swpunk|synthwave|paint splatters
 ef6ecf6d, alloldrpgarts1
