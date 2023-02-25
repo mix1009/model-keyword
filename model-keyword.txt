@@ -471,6 +471,7 @@
 5e081326, Matchapix
 5e107da3, ComplexLA style
 5e2f08a1, ltsbbl style
+5e54b264, natsume|1girl
 5ec42e28, as a t-shirt logo in the style of <magifactory> art
 5f06aa6f, ttdddd
 5fb8c5f9, sks man
@@ -673,6 +674,7 @@
 978e9ff8, h4zza
 979de0ab, 2xdrdisrespect
 97db9b40, woolitize
+97fc027e, weriart style
 97fd8cc4, iwanagakotoko
 981d1719, color fur|red fur|orange fur|purple fur|blue fur|green fur|species furry gender|anthro|fursona|anthropomorphic, sevensMixFurryModel_7thmixV2Anythingbake.safetensors
 981d1719, color fur|red fur|orange fur|yellow fur|green fur|blue fur|species gender furry|fursona|anthro|anthropomorphic, sevensMixFurryModel_7thmixV2OrangebakeS.safetensors
@@ -689,6 +691,7 @@
 993f2358, crovira, crovira_10.ckpt
 993f2358, duskfll, duskfallAlters_duskfallAlters05.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
+993f2358, meitu, animatedDreams_1.ckpt
 993f2358, microworld, microworldsRemake_version3.ckpt
 993f2358, miniwool, miniwool_1.ckpt
 993f2358, neonskiesai, neonskiesai_V10.ckpt
