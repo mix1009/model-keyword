@@ -501,7 +501,6 @@
 6360ab7c, angel
 63746d4f, rtrophto1
 6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
-63c3cd03, girl
 643afbd9, Microscopic
 6447d29d, master
 645a42cf, newstl
@@ -646,6 +645,7 @@
 8a648075, sks jinx|jinx
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
 8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle
+8ba5b787, dal
 8c36d946, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 8c7efd5f, itojunji style
 8ca5c5a1, zero_two_101
@@ -983,6 +983,7 @@ d1d32bcf, dragzkz
 d2089202, modelshoot style|nousr robot
 d21c153e, ChromaV5|nvinkpunk
 d229bfec, manwha1
+d2beeabf, girl
 d2e96167, masterpiece|best quality|nfixer|nfixernext|re-badprompt
 d312ed1c, TheRPGCharGenEsAFArt
 d31b3d50, abysssorange2|pastelmix|cheeseday 30|merged model
