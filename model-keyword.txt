@@ -512,6 +512,7 @@
 66ab1e7a, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 66ab1e7a, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 66b4c45e, archer style
+670c1702, photo of rafivai person
 673ca4ea, modelshoot style
 68120148, ashenhard style
 6873ad1a, neonHorror style
@@ -926,6 +927,7 @@ c3277c7d, modelshoot style
 c32814de, hellraiser
 c3466734, by t6
 c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
+c37cd72c, blurry background|depth of field
 c3cfd75d, powa
 c44bb585, duskametrick15
 c4b23842, albumcover
@@ -992,6 +994,7 @@ d7f82d9e, melkor_manchin art style
 d80ad84b, mdjrny-grfft
 d843660f, quinn \(league of legends\), quinnFromLeagueOf_quinnNaiMix.ckpt
 d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
+d84b15d9, none
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
 d89bc06c, m
 d947f2cd, jisoo
