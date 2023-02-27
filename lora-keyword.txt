@@ -94,6 +94,7 @@
 0a860902, Jiyeon2
 0a87696e, 1girl| cross-shaped pupils| nia teppelin| solo| long hair| multicolored hair| symbol-shaped pupils| open mouth| looking at viewer| smile| sleeveless| skirt| hair ornament| bare shoulders| arms behind back| dress| breasts
 0ac5532a, origin|originhead|shifen|shifenhead
+0ae4d172, iu
 0af4c727, 1girl| autumn_leaves| blue_hair| blurry| blurry_foreground| depth_of_field| hat| leaf| looking_at_viewer| maple_leaf| open_mouth| outdoors| sailor_collar| shirt| short_hair| sleeveless| smile| solo| starfish| sunglasses| tree| virtual_youtuber
 0b49bbf4, nomura tetsuya
 0b500063, star guardian lux
@@ -1131,6 +1132,7 @@
 7e887ae7, speculum
 7e88e554, higuchi_madoka
 7ea436ae, hunv
+7ec0db53, ashva
 7eca560f, brook
 7edbdce5, meisho doto (umamusume)
 7efb4292, taihou (azur lane)|taihou (enraptured companion) (azur lane)|red eyes|twintails|hair between eyes|ahoge
@@ -1140,6 +1142,7 @@
 7f3a1e76, helmet|armor
 7fb3e29d, creepy
 7fb878ba, akai style
+7fdca26d, sex
 802249a0, hacony
 803aa187, aot style
 807fc8c0, girl|blue hair
@@ -2033,6 +2036,7 @@ de2f2560, 1girl|nkimlnnnpjfaafgmglgfbajlpaogjead, yamadaElfEromanga_betaV20.safe
 de2f2560, 1girl|porter_robinson, rinPorterRobinson_delta.safetensors
 de2f2560, 1girl|reisalin_stout, reisalinStoutAtelier_delta.safetensors
 de2f2560, 1girl|rhea_mmd, MMD_delta.safetensors
+de2f2560, 1girl|suzukaze aoba, suzukazeAobaNewGame_delta.safetensors
 de2f2560, 1girl|swimsuit|kitagawa_marin, kitagawaMarinSwimsuit_v10.safetensors
 de2f2560, 1girl|tachikawa_mimi, tachikawaMimiDigimon_delta.safetensors
 de2f2560, 1girl|tomoe_mami, tomoeMami_delta.safetensors
@@ -2359,6 +2363,7 @@ fd3badf2, shiro|no game no life|purple tighhighs|white tighhighs|purple clothes|
 fd3cf844, vivziepop style|vivzmind
 fd77ea56, alhaitham(genshin impact)
 fd9002ec, kagero (fire emblem)
+fd9c1608, 1boy
 fd9ebeec, twintail|highleg_leotard|blonde hair|white_legwear
 fda3e869, gwen (league of legends)
 fdac7b21, dog_(shiba_inu)_(kemono_friends)
