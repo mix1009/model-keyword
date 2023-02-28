@@ -465,7 +465,8 @@
 5bcbb8a5, sks person
 5bcd62ae, megapals|megapals style
 5c3af880, ai protest|ai protest|3d logo
-5c7e6e88, 80sFashionRobot
+5c7e6e88, 80sFashionRobot, 80sFashionRobot_v1.ckpt
+5c7e6e88, 80sfashionrobot, 80sfashionrobot_v10.ckpt
 5cc1bba0, style of ohwx
 5cc9b7ba, modelshoot style
 5d39b377, rainey|rainey style
@@ -658,6 +659,7 @@
 8d9f015b, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 8e194b43, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 8ea93b04, girl
+8ec89baa, massakasma
 8ec9d746, amongus man
 8f488fb6, seconddusk
 8f7d98c0, by mon
@@ -939,6 +941,7 @@ c37cd72c, blurry background|depth of field
 c3cfd75d, powa
 c44bb585, duskametrick15
 c4b23842, albumcover
+c4d39ec6, massakasma
 c4e365bf, lightroom red:34% blue:53% green:43% filmgrain_minimal|texture:+25%|clarity: +40%|Contrast:+4%|shadows: +11%|sharpen:70%
 c55e0d84, virtual youtuber|masterpiece|best quality|hololive|lastname name:1.2
 c5943e55, mdjrny-pprct
