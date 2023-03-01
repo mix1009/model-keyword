@@ -370,6 +370,7 @@
 4283ebdc, GOLDENGLASS|MAXWELL THE CAT|POKEMODEL|ChromaV5
 42d1c972, PadoruMeme
 42da2d52, art by yaguru magiku
+42eefbf3, nauskaavalofw
 4326c062, ppllnnn
 439f64ec, midjourney model 1.5v|model v1.5
 4449cdac, samdoesarts
@@ -522,6 +523,7 @@
 68120148, ashenhard style
 6873ad1a, neonHorror style
 68b463ba, clazy style
+68b4ec0a, 2d|masterpiece|best quality|anime|hololive|virtual youtuber|lastname name
 69389227, borderlands
 6965c077, iayuso person
 697c8786, orna santa, ornamentalSanta_anythingv30Fp1603.ckpt
@@ -699,6 +701,7 @@
 993f2358, MCSkin, minecraftskin_v11.ckpt
 993f2358, PokeModel, pokemodel_BETA10.ckpt
 993f2358, PrintDesign, tShirtPrintDesignsTest_v01.ckpt
+993f2358, bynispart, nispArtSketchModelV05_v051.ckpt
 993f2358, canetaazul, canetaAzulManoelGomes_canetaazul.ckpt
 993f2358, cbzbb, cuteRichstyle15_cuteRichstyle.ckpt
 993f2358, chibiSJstyle, chibiSJStyle_BETA.ckpt
@@ -1041,6 +1044,7 @@ de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
+def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
 df9e36bd, leagueofstyle
 dfafd600, duskametric15|microworld
@@ -1055,6 +1059,7 @@ e0d019bb, samdoesarts
 e136d291, None
 e1b7c805, woolitize
 e246da64, syberart
+e24a9c03, 2d|masterpiece|best quality|anime
 e2b8b39c, sks person
 e35930da, rachelwalker style
 e3af0732, btywtrclr
