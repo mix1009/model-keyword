@@ -18,6 +18,7 @@
 0248da5c, duskz1, duskfallsIllustration_10.safetensors
 0248da5c, isometricfuture, isometricFuture_isometricFutures10.safetensors
 0248da5c, mangadusk1, duskfallsManga_10.safetensors
+0248da5c, manuscriptai, manuscriptai_V10.safetensors
 0248da5c, manwha1, duskfallsManga_05.safetensors
 0248da5c, meitu, animatedDreams_1.safetensors
 0248da5c, nghtmre, nightmareDiffusionV1_.safetensors
@@ -650,6 +651,7 @@
 8a5302eb, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
 8a648075, sks jinx|jinx
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
+8ae4d0fb, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
 8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle
 8ba5b787, dal
 8c36d946, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
@@ -724,6 +726,7 @@
 99b46941, yae miko from genshin impact|ei from genshin impact
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 99e78387, SinCityMovie Style
+9a477cbc, manuscriptai
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
 9b5251e8, flat|high contrast|color, fluentuiEmoji_sd15.ckpt
 9b5251e8, muppet|kermit|cookie monster|drummer muppet|Miss. Piggy|sesame street|Elmo, muppets_sd15MuppetBlip.ckpt
@@ -870,6 +873,7 @@ b0093a9d, jian guo
 b047abbc, cmodel
 b078aa3e, by greatmosu
 b18cb707, pretty girl
+b1aa0d33, nauskaavalofw
 b1c32576, anime pencil concept style
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
@@ -896,6 +900,7 @@ b5564717, dal
 b5c0b653, modelshoot style
 b5e156ba, vskeei1
 b5f6fe6c, pepe_frog
+b6310dde, saukztf|arinax|1girl|ktjtn
 b63a47bb, synthpunk|cyberpunk|fantasy
 b7010dfe, Mosaic Art
 b701219e, clone wars style|clonewars style|batman_the_animated_series
@@ -914,6 +919,7 @@ bb029452, kindigitstyle
 bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bcb60ee3, twinklestardodo
 bcbe94c2, frutigeraero
+bda49b29, ashenhard style
 bdb4b12c, by popqn
 bde477d2, junemodel
 bdec7588, richevans
