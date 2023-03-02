@@ -21,6 +21,7 @@
 0248da5c, manuscriptai, manuscriptai_V10.safetensors
 0248da5c, manwha1, duskfallsManga_05.safetensors
 0248da5c, meitu, animatedDreams_1.safetensors
+0248da5c, mikaylademaiter, mikaylaDemaiter_v10e2.safetensors
 0248da5c, nghtmre, nightmareDiffusionV1_.safetensors
 0248da5c, phtdzk1, photographyAnd_10.safetensors
 0248da5c, seconddusk, duskfallVirtual3D_10.safetensors
@@ -728,6 +729,7 @@
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 99e78387, SinCityMovie Style
 9a477cbc, manuscriptai
+9af8fb8d, guigubahuang
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
 9b5251e8, flat|high contrast|color, fluentuiEmoji_sd15.ckpt
 9b5251e8, muppet|kermit|cookie monster|drummer muppet|Miss. Piggy|sesame street|Elmo, muppets_sd15MuppetBlip.ckpt
@@ -1149,6 +1151,7 @@ f86aeb35, renne
 f8b2fd9e, girl
 f8e650bb, 3dmdt1
 f8fb379d, a photo of a sks woman with white hair
+f90e49b9, this model is a mixture
 f97ba63a, phse
 f9c02b32, 100memories
 f9d8ee86, modelshoot style|swpunk|synthwave|paint splatters
