@@ -179,6 +179,7 @@
 1194073d, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
 11c35df3, bganidusk
 1221b4fa, jian guo
+1231b645, none
 1249edb0, by michihasu
 124de6a9, eldmeisterog
 126f21de, Zwxthej
@@ -239,6 +240,7 @@
 1b51225c, Mosaic Art, mosaicArt_v2768.ckpt
 1b51225c, dronelightshow, dronelightshow_v1.ckpt
 1b51225c, mobian, sonicdiffusion_sd21.ckpt
+1b51225c, pixel art, pxl8V1_v1.ckpt
 1b51225c, rckrll, rickRollStyle_v1.ckpt
 1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 1c254752, vulcan
@@ -288,6 +290,7 @@
 265e757d, Sidon|Sidon style
 26621fc2, tdst style
 26acd9f3, furrender style
+26bde476, vrass
 27d7d4a1, vapodusk1
 27ea8c02, snthwve style|nvinkpunk
 28ae9d27, tk-char|tk-env
@@ -673,6 +676,7 @@
 8f488fb6, seconddusk
 8f7d98c0, by mon
 8f89e96b, anime pencil concept style
+8fefc581, tk-char|tk-env
 910fb637, btdmnky, stableBTD6_btd6.ckpt
 910fb637, btdmnky|primary|military|magic|support|hero, stableBTD6_v10.ckpt
 915383b6, AbstrAnm spritesheet
