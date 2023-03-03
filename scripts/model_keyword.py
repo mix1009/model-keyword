@@ -641,6 +641,8 @@ class Script(scripts.Script):
 
             if lora_model != 'None':
                 lora_name = lora_model[:lora_model.rfind('.')]
+                lora_name = lora_name.replace('\\', '/')
+                lora_name = lora_name.split('/')[-1]
                 arr.insert(0, f'<lora:{lora_name}:{lora_multiplier}>')
 
             if ',' in keyword_placement:
