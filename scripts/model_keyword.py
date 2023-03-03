@@ -247,7 +247,7 @@ class Script(scripts.Script):
         def get_embeddings():
             return [os.path.basename(x) for x in glob.glob(f'{shared.cmd_opts.embeddings_dir}/*.pt')]
         def get_loras():
-            return list(find_files(shared.cmd_opts.lora_dir,['safetensors','ckpt','pt']))
+            return sorted(list(find_files(shared.cmd_opts.lora_dir,['safetensors','ckpt','pt'])), key=str.casefold)
             # return [os.path.basename(x) for x in glob.glob(f'{shared.cmd_opts.lora_dir}/*.safetensors')]
 
         def update_keywords():
