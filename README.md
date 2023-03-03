@@ -1,5 +1,5 @@
 # model-keyword
-Automatic1111 WEBUI extension to autofill keyword for custom stable diffusion models.
+Automatic1111 WEBUI extension to autofill keyword(trigger words) for custom stable diffusion models and LORA models.
 
 [model-keyword-github.webm](https://user-images.githubusercontent.com/1288793/205525862-a8eaebfe-1860-41d1-bc66-335896b467dd.webm)
 
@@ -36,6 +36,14 @@ When generating image, the extension will try to figure out which model is used 
    * Alternatively, you can rename model-keyword to sd-model-keyword in the extensions folder. It will change the order of the extension and fix the bug.
 4) keyword1 - use first keyword
 5) keyword2 - use second keyword (if it exists)
+
+### LORA model support
+<img width="579" alt="LORA" src="https://user-images.githubusercontent.com/1288793/222634648-7f02fce3-6854-4ea9-8550-362a4ce98f8e.png">
+
+1) Select LORA model from the Model dropdown.
+2) Keywords dropdown list should contain keywords for the selected model.
+3) Limitation: You can only select one model, and select one keyword or all keywords.
+4) If you are using multiple LORA models, please check https://lora-help.coolai.app/ .
 
 ## Add Custom Mappings
 <img width="795" alt="custom_mappings" src="https://user-images.githubusercontent.com/1288793/212851582-8c3c39a2-0f18-44d4-bbb5-3a31cb61e339.png">
