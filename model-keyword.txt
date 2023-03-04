@@ -68,7 +68,6 @@
 0eb3318b, AutosFantasy, djzAutosFantasyV21_0.safetensors
 0eb3318b, BlackHole, djzBlackHole_v21768.safetensors
 0eb3318b, BlackOpsLadies, djzBlackOpsLadiesV21_0.safetensors
-0eb3318b, CHV3CZombie|CHV3CAlien|CHV3CBird|CHV3SLighthouse|CHV3SCute|CHV3SMacro, charhelperSd2X768_charhelperV4.safetensors
 0eb3318b, CarXjohnson|day|night, djzCarxjohnson_v21768.safetensors
 0eb3318b, Consoles, djzConsoles_v21768.safetensors
 0eb3318b, CosmicGate, djzCosmicGateV21_0.safetensors
@@ -138,6 +137,7 @@
 0eb3318b, ascendentsoldiers, djzAscendentSoldiersV21_v21768.safetensors
 0eb3318b, balltown, djzBallTown_v21768.safetensors
 0eb3318b, chaoticspheres, djzChaoticSpheresV21_v21768.safetensors
+0eb3318b, chv3czombie|chv3calien|chv3cbird|chv3slighthouse|chv3scute|chv3smacro, charhelperFineTuned_charhelperV4.safetensors
 0eb3318b, colonycargo, djzColonyCargo_v21768.safetensors
 0eb3318b, colonycorridor, djzColonyCorridor_v21768.safetensors
 0eb3318b, cosmicspiders, djzCosmicSpiderV21_v21768.safetensors
@@ -771,7 +771,8 @@
 a06436da, wtrcolor style
 a0b3a1c3, sphx weapon
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
-a149572b, CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3MTroll|CHV3MDeath|CHV3CRogue|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3SWorld|CHV3SSciFi|CHV3MDragon|CHV3CVehicle, charhelperSd2X768_charhelperV3.safetensors
+a149572b, CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDark|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld, charhelperFineTuned_fineTunedV1.safetensors
+a149572b, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle, charhelperFineTuned_charhelperV3.safetensors
 a149572b, concept-art, conceptSheet_Alpha.safetensors
 a149572b, dvmech, dvmech_200.safetensors
 a149572b, sticker|vector-art, stickerArt_sticker.safetensors
@@ -850,10 +851,10 @@ aa366209, romcom style, romcomDiffusion_10.safetensors
 aa366209, source4 style, source4V10_v1Safetensors.safetensors
 aa366209, wewulzkz, werewolfDiffusion_1.safetensors
 aa49e01c, anime pencil concept style
-aa7001cf, CHARHELPER|CHARACTER ART|CLOSE-UP CHARACTER PORTRAIT|MID-RANGE|CHARACTER PORTRAIT|DIGITAL PAINTING|DIGITAL ILLUSTRATION|STYLIZED|ANIME, charhelperSd2X768_charhelperV2.ckpt
 aa7001cf, COLR_001, coloringBook_.ckpt
 aa7001cf, cbzbb, cuteRichstyle21_cuteRichstyle.ckpt
-aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charhelperSd2X768_v1.ckpt
+aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charhelperFineTuned_v1.ckpt
+aa7001cf, charhelper|character art|close-up character portrait|mid-range|character portrait|digital painting|digital illustration|stylized|anime, charhelperFineTuned_charhelperV2.ckpt
 aa7001cf, chloeben, chloeBennet_v1.ckpt
 aa7001cf, classicnegative, classicNegativeSD21_classicNegative768px.ckpt
 aa7001cf, cmodel, syntheticCmodel_v1.ckpt
@@ -887,6 +888,7 @@ ad9d6205, fart62
 ae998e33, DarkSouls Style
 aef3d307, zukki_style
 afc6eaf9, Oldjourney
+afde7fdc, satellite image of oeax location
 b0093a9d, jian guo
 b047abbc, cmodel
 b078aa3e, by greatmosu
@@ -990,7 +992,7 @@ ca4fcc12, snnmrn|snnmrn woman
 ca682192, sjh style
 caea14ad, lvngvncnt
 cb144970, by k-suwabe
-cba4df56, CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3MTroll|CHV3MDeath|CHV3CRogue|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3SWorld|CHV3SSciFi|CHV3MDragon|CHV3CVehicle
+cba4df56, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 cc5b68d0, lndskp|nvinkpunk|redshift
 cceb87e1, analog style|modelshoot style|nsfw|nudity
 ccf3615f, modern disney style
