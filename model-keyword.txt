@@ -47,6 +47,7 @@
 08f7a22d, Papercut
 08fe03fe, by sky-freedom
 096596d8, PoW ArtStyle
+0a4320df, dalcefo
 0aed3741, modelshoot style
 0b02fdb1, Master of everything|photography
 0b071c53, bilsh21
@@ -176,6 +177,7 @@
 10eaf341, masterpiece|best quality|re-badprompt|anime|realistic
 1108cf15, by miyase mahiro
 116d5535, coralchar
+117f2d51, nvinkpunk|modelshoot style|samdoesart|dreamlikeart|kuvshinov
 1194073d, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
 11c35df3, bganidusk
 1221b4fa, jian guo
@@ -683,6 +685,7 @@
 8f7d98c0, by mon
 8f89e96b, anime pencil concept style
 8fefc581, tk-char|tk-env
+909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
 910fb637, btdmnky, stableBTD6_btd6.ckpt
 910fb637, btdmnky|primary|military|magic|support|hero, stableBTD6_v10.ckpt
 915383b6, AbstrAnm spritesheet
@@ -1182,6 +1185,7 @@ fbf5d1b5, sks place
 fc151a15, reasonabledrink
 fc41b940, evgenii-ponasenkov
 fc83c5ad, civsix style
+fd294ceb, nvinkpunk|modelshoot style|samdoesart|dreamlikeart|kuvshinov
 fd433acd, dal
 fd496cc1, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 fd7a0fd0, wltzwthbshr
