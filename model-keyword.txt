@@ -1086,6 +1086,7 @@ e02601f3, guohua style, guohaDiffusion_v1.ckpt
 e02601f3, photo of ohwx woman, janLevinsonMeloraHardin_6kSteps.ckpt
 e02601f3, sks lucy, lucyFromCP_v1.ckpt
 e02601f3, sks vi|vi, viFromArcane_v1.ckpt
+e0844d20, pbr
 e0a3ab60, xivcine person
 e0d019bb, samdoesarts
 e136d291, None
