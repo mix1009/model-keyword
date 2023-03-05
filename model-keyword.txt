@@ -43,6 +43,7 @@
 081f8a15, 123, zxcvbnm_v10.safetensors
 081f8a15, korean, juuny_v11.safetensors
 08839519, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime
+08ab6e66, m_wlop
 08d7a75d, anime
 08f7a22d, Papercut
 08fe03fe, by sky-freedom
@@ -474,6 +475,7 @@
 5998441b, redshift style|seconddusk
 5a1ae211, by kaisen chuui
 5a1e4b93, coralchar
+5a1eeb22, m_wlop
 5a747794, mechanical parts|mechanical 'body part or object|cyberware style
 5ad07226, art by yaguru magiku
 5b2d4455, EmiliaClarke woman
@@ -1072,6 +1074,7 @@ ddc6edf2, mdjrny-v4 style
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV13_v13.safetensors
+de2f2560, dal, dalcefoKanim_v3.safetensors
 de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
