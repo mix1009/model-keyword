@@ -665,6 +665,7 @@
 868fceae, phtdzk1
 86ac0981, CreatureChan Style
 872bdd84, zedra1 girl
+879054f9, portrait style|selfie photo|casting photo full shot naked|rlfce realistic person|fkfce fake person|closeup photo face
 87fb604f, 3d render|3d cartoon
 883f759a, jwl watercolor
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
@@ -1218,6 +1219,7 @@ fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
 fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_1990sV10.safetensors
 fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
 fe3c6142, dragzkz, dragonDiffusion_4500Steps.safetensors
+fe3c6142, ilsgiovannibattistapiranesi|etching, giovanniBattista_piranesiV10.safetensors
 fe3c6142, themechwarriorrpgart, theMechwarriorRPGArt_theMechwarriorRPGArt.safetensors
 fe5aae36, telltale style
 ff7616f1, FRPGFaceGen
