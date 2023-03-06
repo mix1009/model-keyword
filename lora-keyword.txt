@@ -63,6 +63,7 @@
 051008a7, snthwve style|nvinkpunk
 051e3028, momoi (blue archive)|halo|cat tail|momoi's style
 0522ef70, luxanna crownguard|staff
+052d003f, painting by john william waterhouse
 0531c6d1, gasai yuno|yunouniform|yandere face
 05701b00, glass bottle|glass cup
 058ad3d7, aqua (konosuba)
@@ -266,9 +267,11 @@
 15443097, raphtalia|raccoon ears|raccoon tail
 154bd9d6, default skin|e2|official alternate costume|arrows skin|qipao|swimsuit skin|beach skin|w (arknights)
 154c12cd, atomivtwins
+1588c125, michiru_kagemori|michiru|furry|anthro|nsfw|explicit
 158bcfac, analog style|artificial-journey style|cyborgdiffusion style|cyborgdiffusion|elden ring style|knollingcase|render|star citizen|star atlas|caspian sci-fi|sci-fi|synthwave|nvinkpunk
 15a79f48, enchantress
 15a954bd, houtengeki
+15abfbd6, no trigger words necessary| just include 'no humans' to achieve the ideal styling.
 15b23f1b, ames| blue eyes| halo| multicolored hair| green hair| pointy ears|  elbow gloves| blunt bangs|
 15c5b88f, bikini_jeans
 15e9e005, redhat|redskadi|whitehead|whiteskadi
@@ -450,6 +453,7 @@
 241203b2, rx7fd|rx7fd sport car
 241cb0a9, xiao (genshin impact)
 242ef48f, pregnant
+24322408, ak15|ak15armor|ak15suit
 2433cc61, 1boy| breasts| paizuri|penis
 24354a5d, hyperpregnant|pregnant|multiplepregnant
 2449cde4, 4breasts|6breasts|8breasts
@@ -460,6 +464,7 @@
 249e12ef, figma
 24b926fc, sitting_on_face| facesitting
 24b99f92, shinkawa youji
+24c04018, catura (granblue fantasy)
 24cb0546, lamia
 24cd43e2, long_hair|drill_hair| breasts| symbol-shaped_pupils| ponytail|very_long_hair|multicolored_hair|bare_shoulders|small_breasts| eyebrows_visible_through_hair| bangs| hair_between_eyes|
 250494f3, bhelga
@@ -496,6 +501,7 @@
 27c7f9b6, mogudan
 280f0c2a, artist_himitsu|nsfw|sexy|blush|sweat|saliva|gag|bondage|pantyhose
 28332602, dusk
+2844ddf6, hanging breasts
 2845cea9, ori and the will of the wisps|ori and the blind forest|spirit tree|ori
 2854831e, xingzhuang
 285583a6, facial mark| dark skin|  purple hair| purple eyes|
@@ -631,6 +637,7 @@
 33dced4d, character_pokemon_may
 33e11eb8, aart by nefuraito336, furryArtStyleBy_v10.safetensors
 33e11eb8, art by nefuraito336, nefuraito336sFurryArt_v10.safetensors
+33e3ca77, 1girl
 33f39ce9, elaina_(majo_no_tabitabi)
 340c7bf9, moroccan caftan|embroidery|caftan
 341caecf, ricai
@@ -1081,6 +1088,7 @@
 569b3f76, roze
 56a57d93, forgottonanne
 56df888c, bowser
+56f18ca9, multiple girls|2girls|blue hair
 5720774a, anubisjack|nonsummerjack|photorealism
 5732c9f9, zaum| elysiumchar| portrait|zaum| elysiumscape| scenery|<discoelysiumstyle_v1:1>
 573f4321, li sushang
@@ -1272,6 +1280,7 @@
 66add5e1, olga_discordia
 66d4f302, car|vehicle|nsxna1
 66d86728, gbfnarumea
+672fa78e, hasegawa chisato
 6755e849, charturnbetalora
 677b59f3, shikimorimicchon
 677de62b, sut
@@ -1348,6 +1357,7 @@
 6ddce3d2, sussurro|sussurrohead
 6de1e907, black_haired_milf
 6de508d6, bag_over_head
+6dfc7a30, void_elf|void_wings
 6dfe946a, kaguya shinomiya
 6e0fb25b, yuuhui
 6e3865ff, pinup|woman
@@ -1401,6 +1411,7 @@
 7244c528, devilksm
 724894a2, velma dace dinkley| 1girl| blush| breasts| brown_eyes| brown_hair| freckles| glasses| medium breasts| lips| looking_at_viewer| nose| orange_shirt| orange_sweater| short_hair| smile| sweater| turtleneck| turtleneck_sweater
 72647349, sishu|blackfeather|lobotomy
+72866022, bismarck_(kancolle)
 7295df42, marblesh|marblee|marblee style
 72a9ddd2, junjie yan
 72c588a0, ruby
@@ -1420,6 +1431,7 @@
 73df21ad, arcane style
 73fe8808, miko
 74030696, neon babe|egirl
+74081c5a, gidlemiyeon
 741e5910, morticia adams
 742afc8a, senti
 742c0cfc, saul
@@ -1491,6 +1503,7 @@
 79896a2f, ahegao|rolling eyes|blush|tongue out|drooling|saliva|blush
 799bd968, parkerrushia|gradient hair|aqua hair|multicolored hair|white hooded jacket
 79c2c09a, pokies
+79ce90c9, speedtail sport car
 7a0baf05, ikaros
 7a1a6068, matuurafox
 7a1a9828, coltpython
@@ -1753,6 +1766,7 @@
 8e52ce2f, origen|china dress
 8e589577, namie amuro|namieamurov1|woman
 8e9d2abb, widow-normal|widow-lily|widow-cotedazur|purple skin|head-mounted display|eyewear on head|sunglasses|china dress|chinese clothes|ponytail|bodysuit|blue bikini
+8eaa8075, vintbonsebdsmart
 8ec0497c, novafrog
 8ef6f0cf, moomin|snufkin|sniff|littlemy|groke|hemulen|moominpappa|moominmamma|snorkmaiden|hobgoblin|multiple
 8f1db185, mimori mizuha|mimori mizuha (swimsuit)
@@ -1868,6 +1882,7 @@
 97c99c9e, 1girl| caren hortensia| solo| long hair| hat| yellow eyes| layered sleeves| pantyhose| thighhighs| white hair
 97d0a23f, eqlc
 97d52a96, digimon_lillymon|praying|suspended midair|sky background|anime style|rose leafs|green flowers floor background
+97efc5ce, kisikilevil|kisikilslf1
 97f09326, head|original_outfit
 9813da9c, wangxinyao
 981e764c, lagaspring|cleavage
@@ -1966,6 +1981,7 @@ a0c1c181, distoguy
 a0c78d29, mating press|missionary|ass|asshole|testicles|penis in pussy
 a0d31de2, 1girl
 a0e383c8, gimona|megistus hat|bodystocking|choker|hair ribbon|capelet|hair ornament|high heels
+a0e6be57, sakata gintoki|gintoki kimono|shiroyasha
 a0fcc7d3, mobface
 a133494e, butt pussy
 a16435ca, andrew tate|top g
@@ -2303,6 +2319,7 @@ bb0f5bc0, 1girl solo| kabedon pov
 bb335992, in the style of
 bb457b05, special week (umamusume)
 bb55d9ab, shrunken|glass jar|jar|woman|sitting
+bb57a769, lillaevil|lillaslf1
 bb690fe4, rhorrormare|lappland (arknights)|head
 bb6c9915, 1boy| male focus| green eyes|black gloves| bandaid| sky| goggles| bandaid on face| outdoors| cloud| day| open mouth| solo| goggles on head| bandaid on nose| smile| sleeveless| grass| white hair
 bb7937b8, fox ears|red eyes|white hair|hairclip
@@ -2316,6 +2333,7 @@ bc387ae0, animal_ears|hair_ornament
 bc4541e8, suzaku_r2|blue_uniform
 bc73106d, leaf bikini
 bc7aebc8, modelshoot style
+bcad5774, painting by john william waterhouse
 bcd30383, fiday
 bcdbad13, yuna|yuna itzy
 bce0e393, vdiva-2|off shoulder|see-through|shorts|thighhighs|coat|long sleeves|black jacket
@@ -2365,6 +2383,7 @@ c022d9d2, asiangirlslikeness
 c02bb9c7, grey hair| yellow eyes| ponytail| large breasts
 c0353a69, dakimakura
 c039e16a, pussy
+c0613b79, phosphophyllite|phos
 c0bc4892, tysontan|kikikrita|minikikikrita
 c0d54163, 1girl|blue pants| blue hat|
 c0e06a4e, 1girl
@@ -2507,6 +2526,7 @@ ca8c1531, irene (red velvet)
 caa1d0a9, 1girl| bangs| bare_shoulders| blush| braid| breasts| closed_mouth| detached_sleeves| dress| eyebrows_visible_through_hair| grey_hair| long_hair| long_sleeves| looking_at_viewer| simple_background| sitting| sleeveless| small_breasts| smile| solo| thighs| white_background| white_dress
 cac63e8b, hoshino|swimsuit|halo
 cad3804d, latifa fleuranza|latifa fleuranza's style|dress
+cae144ed, dudou|woman wearing the dudou|embroidery|floral
 caeebe7d, jennie|jennie blackpink
 cb0ba5a0, giel
 cb292d20, hayasaka ai|hayasaka ai's style|clothes around waist
@@ -3036,6 +3056,7 @@ ef86ce87, mondstadt|liyue|inazuma|dragonspine|sumeru
 ef8974bf, boy
 ef9594a1, marida cruz
 ef9907ed, lauren boebert woman
+efa0aa13, nishikino maki
 efae855c, medoko| long hair| tail| pointy ears|  bodysuit| light purple hair| breastplate| black bodysuit| headpiece|
 efaf0fc4, ryoko|a picture of person
 efca007b, in box, GirlInGiftBox_dim64Epoch50.safetensors
@@ -3205,8 +3226,10 @@ fcb62675, lexaiduer
 fccb5358, elphelt valentine|
 fccf0c24, olmun
 fcdc5b77, flag|no humans|simple background
+fce5c19c, alisailinichina
 fce8d3e7, shoka (twewy)||1girl|animal hood|black hoodie
 fcf51c0c, razor (genshin impact)
+fcf9d8ce, hanzo
 fd001e69, Theresa|theresahead|white long dress
 fd14ded2, erje
 fd20c80c, zhixue
@@ -3216,6 +3239,7 @@ fd366760, taomo_tomoe(starlight)|tomoe_tamao(uniform)|tomoe_tamao(purple_sailor_
 fd3badf2, shiro|no game no life|purple tighhighs|white tighhighs|purple clothes|crown|chess|chess piece|cards|shiro (no game no life)|lying
 fd3cf844, vivziepop style|vivzmind
 fd465106, yuri_alpha
+fd4b6019, aaaa (quad a)
 fd696d67, pleaserclearheels
 fd77ea56, alhaitham(genshin impact)
 fd9002ec, kagero (fire emblem)
