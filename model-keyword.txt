@@ -541,6 +541,7 @@
 670c1702, photo of rafivai person
 673ca4ea, modelshoot style
 68120148, ashenhard style
+685ff1cd, soft_lighting|soft_skin_tone|feminin_hair|white background|simple background
 6873ad1a, neonHorror style
 68b463ba, clazy style
 68b4ec0a, 2d|masterpiece|best quality|anime|hololive|virtual youtuber|lastname name
@@ -782,6 +783,8 @@ a149572b, CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CH
 a149572b, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle, charhelperFineTuned_charhelperV3.safetensors
 a149572b, concept-art, conceptSheet_Alpha.safetensors
 a149572b, dvmech, dvmech_200.safetensors
+a149572b, oregoneclipse, eclipseDreamscape_v10.safetensors
+a149572b, snowapocalypse, snowapocalypseV10_v10.safetensors
 a149572b, sticker|vector-art, stickerArt_sticker.safetensors
 a149572b, vector-art, vectorArt_Beta.safetensors
 a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
@@ -865,6 +868,7 @@ aa7001cf, charhelper|character art|close-up character portrait|mid-range|charact
 aa7001cf, chloeben, chloeBennet_v1.ckpt
 aa7001cf, classicnegative, classicNegativeSD21_classicNegative768px.ckpt
 aa7001cf, cmodel, syntheticCmodel_v1.ckpt
+aa7001cf, discostyle, discoDiffusionStyle_discostyle21768.ckpt
 aa7001cf, dmvc, dmvc2V2_v20.ckpt
 aa7001cf, dvmech, dvmech_200.ckpt
 aa7001cf, facesakimiboy, facesakimiboy_v1.ckpt
