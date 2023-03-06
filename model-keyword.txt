@@ -247,6 +247,7 @@
 1b51225c, mobian, sonicdiffusion_sd21.ckpt
 1b51225c, pixel art, pxl8V1_v1.ckpt
 1b51225c, rckrll, rickRollStyle_v1.ckpt
+1b7ee812, wlop|nixeu
 1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 1c254752, vulcan
 1c348ac5, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
@@ -604,6 +605,7 @@
 7867176b, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 78825d24, ayanokouji|1boy
 78d68104, sincity_iamyork
+79b55ef7, bigbadejo alien_monster
 7a182a74, wjqarnpomo
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
 7ad31fc7, none
@@ -639,6 +641,7 @@
 82cb7b65, germy
 82cbe3e7, sks woman|(sks woman)
 8300ecaa, artificial-journey style
+8312b529, bigbadejo alien_monster
 83295fd6, mdjrny-pntrt
 832c6e6a, analog style|modelshoot style|nsfw|nudity
 833060ae, mdjrny-v4 style|nousr robot
@@ -869,6 +872,8 @@ aa7001cf, food_crit, jaksCreepyCritter_sd21768px.ckpt
 aa7001cf, ggg, gggStep1600_.ckpt
 aa7001cf, jlryst, goldArmorPortraits21_goldArmorPortraits21.ckpt
 aa7001cf, oldpt, oldPortraits_.ckpt
+aa7001cf, oregoneclipse, eclipseDreamscape_v10.ckpt
+aa7001cf, snowapocalypse, snowapocalypseV10_v10.ckpt
 aa7001cf, vector-art, vectorArt_Beta.ckpt
 aa7001cf, wooditize, jaksWooditizeImage_wooditizeSD21768px.ckpt
 aa7001cf, woolitize, jaksWoolitizeImage_woolitizeSD21768px.ckpt
@@ -888,6 +893,7 @@ ac87c248, abstractswirls
 acdcf3cb, aucv
 acfa8753, future style
 ad38c466, silverfox5213|
+ad4470e8, eldmeisterog style|sks style
 ad9d6205, fart62
 ae998e33, DarkSouls Style
 aef3d307, zukki_style
@@ -998,6 +1004,7 @@ ca682192, sjh style
 caea14ad, lvngvncnt
 cb144970, by k-suwabe
 cba4df56, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
+cc49ac37, bigbadejo alien_monster
 cc5b68d0, lndskp|nvinkpunk|redshift
 cceb87e1, analog style|modelshoot style|nsfw|nudity
 ccf3615f, modern disney style
