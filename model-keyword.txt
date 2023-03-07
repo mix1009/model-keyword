@@ -25,6 +25,7 @@
 0248da5c, nghtmre, nightmareDiffusionV1_.safetensors
 0248da5c, phtdzk1, photographyAnd_10.safetensors
 0248da5c, seconddusk, duskfallVirtual3D_10.safetensors
+0248da5c, tibetentankas  tibetan buddhist painting meditating|meditating|tankas|painting|landscape, rebirth_tibetantankasFp32.safetensors
 0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_01.safetensors
 0250e61d, 35mmneon
 02faa048, sphx style
@@ -688,6 +689,7 @@
 8cf4478f, sks girl
 8d9aaa54, nvinkpunk
 8d9f015b, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
+8e121fec, none
 8e194b43, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 8ea93b04, girl
 8ec89baa, massakasma
@@ -726,6 +728,7 @@
 97fd8cc4, iwanagakotoko
 981d1719, color fur|red fur|orange fur|purple fur|blue fur|green fur|species furry gender|anthro|fursona|anthropomorphic, sevensMixFurryModel_7thmixV2Anythingbake.safetensors
 981d1719, color fur|red fur|orange fur|yellow fur|green fur|blue fur|species gender furry|fursona|anthro|anthropomorphic, sevensMixFurryModel_7thmixV2OrangebakeS.safetensors
+98684a1b, jammin
 98891ea9, an illustration of an isometric city|digital art|highly detailed
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
 9912cb8d, danmumford style
@@ -740,6 +743,7 @@
 993f2358, comidusk, cajunBelle_10.ckpt
 993f2358, crovira, crovira_10.ckpt
 993f2358, duskfll, duskfallAlters_duskfallAlters05.ckpt
+993f2358, ioasdf, krio70_001.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
 993f2358, meitu, animatedDreams_1.ckpt
 993f2358, microworld, microworldsRemake_version3.ckpt
@@ -785,6 +789,7 @@ a0b3a1c3, sphx weapon
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
 a149572b, CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDark|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld, charhelperFineTuned_fineTunedV1.safetensors
 a149572b, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle, charhelperFineTuned_charhelperV3.safetensors
+a149572b, colorslashh, colorslash_colorslahhFp32.safetensors
 a149572b, concept-art, conceptSheet_Alpha.safetensors
 a149572b, dvmech, dvmech_200.safetensors
 a149572b, oregoneclipse, eclipseDreamscape_v10.safetensors
@@ -844,6 +849,7 @@ a74ca246, microworld|clayitization, microclayMerge_10.ckpt
 a74ca246, microworld|knollingcase, microcasingMerge_10.ckpt
 a7694188, sks woman
 a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1|photrealistic:1.1
+a7e848cb, 90902k, krio70_002.ckpt
 a7e848cb, SJstyle, createASJStyleMask_beta.ckpt
 a7e848cb, Syrdrin|Syrdrin style, syrdrinSciFi_syrdrinV1.ckpt
 a7e848cb, analog style|a photo of mary elizabeth winstead, maryElizabeth_v1.ckpt
@@ -1031,7 +1037,7 @@ cfc5de0e, modelshoot style|analog style|mdjrny-v4 style
 d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 d0b457ae, modelshoot style|analog style|mdjrny-v4 style
-d0bbd388, pre-rendered|3D graphics
+d0bbd388, pre-rendered|3d graphics
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
 d1a8d83f, isometricfuture
 d1b390d3, girl
