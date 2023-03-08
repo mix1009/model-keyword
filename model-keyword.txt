@@ -355,6 +355,7 @@
 38c1ebe3, star guardian neeko, starGuardianNeeko_sgNeekoAnythingv3.ckpt
 38c1ebe3, zero_two_101, anythingZeroTwo_zeroTwoDarlingInThe.ckpt
 38c588d9, synthpunk|cyberpunk|fantasy
+38e36880, nighttime|lighting|photorealistic|dynamic_color_range
 38e89fda, itojunji style
 390d2cdf, FluidArt
 396450f6, lomo style
@@ -380,6 +381,7 @@
 3ee44953, lwmn man
 3ee7d195, yoshin style
 3f095502, mdjrny-shttr
+3f0edc49, mayichiii
 3f4e7ed9, sks woman
 3f76682f, Anime|manga|cartoon
 4003fb6f, by kurige
@@ -600,6 +602,7 @@
 7614fc55, PBOldRifRPGStyle
 7665f8c3, itrobo2022
 7675f1a1, stilovintedois
+767f517f, dmmid style
 76c86ec0, modelshoot style|swpunk|synthwave|paint splatters
 76e59a65, sincity_iamyork
 77342b4b, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
@@ -613,6 +616,7 @@
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
 79b55ef7, bigbadejo alien_monster
 7a182a74, wjqarnpomo
+7a77a7f5, yu-gi-oh!creature
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
 7ad31fc7, none
 7b62be5f, empress
@@ -780,6 +784,7 @@
 9da87c34, none
 9dc1d702, sks woman
 9e12b5d1, JennaO
+9e828d82, lqt
 9e86175c, MJv4
 9e8a16f7, Macro_Bug
 9ed4ea56, Oldjourney
@@ -1121,6 +1126,7 @@ e0a3ab60, xivcine person
 e0d019bb, samdoesarts
 e136d291, None
 e1b7c805, woolitize
+e1e66020, entp
 e246da64, syberart
 e24a9c03, 2d|masterpiece|best quality|anime
 e2b8b39c, sks person
@@ -1230,6 +1236,7 @@ fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
 fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_1990sV10.safetensors
 fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
 fe3c6142, dragzkz, dragonDiffusion_4500Steps.safetensors
+fe3c6142, gamelandscapeheightmap512|mountainflow|mountain|mesa|hills|alpen, gameLandscape_gameLandscapeHeightmap.safetensors
 fe3c6142, ilsgiovannibattistapiranesi|etching, giovanniBattista_piranesiV10.safetensors
 fe3c6142, themechwarriorrpgart, theMechwarriorRPGArt_theMechwarriorRPGArt.safetensors
 fe5aae36, telltale style
