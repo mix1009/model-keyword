@@ -453,6 +453,7 @@
 52395e18, none
 5346a314, modernartst
 536a8e48, mdjrny-v4 style|dreamlikeart
+5386e8fb, demoura artstyle
 538d7157, pcrc style
 53d6b1c7, tattoo|tattoos|tattooed|tattooed face|tattooed body|BigDarkTattoos
 5412e2d7, comicmay artsyle|redshift style
@@ -523,6 +524,7 @@
 62110ae2, nkoctst
 628d0015, sumetal person
 62938071, Bowser
+6296311f, demoura artstyle
 62a1df72, elden ring style|postapocalypse|knollingcase|analog style|dreamlikeart|swpunk|synthwave|modelshoot style|cyborgdiffusion
 62dafa15, modelshoot style|swpunk|synthwave|paint splatters
 6329328a, lds
@@ -928,6 +930,7 @@ b047abbc, cmodel
 b078aa3e, by greatmosu
 b18cb707, pretty girl
 b1aa0d33, nauskaavalofw
+b1b9d236, furrender style
 b1c32576, anime pencil concept style
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
