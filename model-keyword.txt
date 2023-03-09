@@ -25,6 +25,7 @@
 0248da5c, nghtmre, nightmareDiffusionV1_.safetensors
 0248da5c, phtdzk1, photographyAnd_10.safetensors
 0248da5c, seconddusk, duskfallVirtual3D_10.safetensors
+0248da5c, surrealsteampunkai, surrealsteampunkai_V10.safetensors
 0248da5c, tibetentankas  tibetan buddhist painting meditating|meditating|tankas|painting|landscape, rebirth_tibetantankasFp32.safetensors
 0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_01.safetensors
 0250e61d, 35mmneon
@@ -568,6 +569,7 @@
 6baa48b3, modelshoot style
 6bb23006, elden ring style
 6bb855f1, modelshoot style
+6bdec634, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 6c0b3fc5, coralchar
 6c481f5c, mksks style
 6c5dc775, kpt digital artstyle|gui
@@ -619,6 +621,7 @@
 78d68104, sincity_iamyork
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
 79b55ef7, bigbadejo alien_monster
+79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style
 7a182a74, wjqarnpomo
 7a77a7f5, yu-gi-oh!creature
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
@@ -979,6 +982,7 @@ bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bcb60ee3, twinklestardodo
 bcbe94c2, frutigeraero
 bda49b29, ashenhard style
+bda7821c, thepit style|samdoesart style|orwel style|cherrymouse style
 bdb4b12c, by popqn
 bde477d2, junemodel
 bdec7588, richevans
@@ -1154,7 +1158,6 @@ e6184e6b, sks woman|(sks woman)|((sks woman))
 e695afa2, modelshoot style|nousr robot
 e717e83f, infp
 e7300f3d, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
-e79451df, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 e79c8e1c, jckmn person
 e8a0ce25, by kayahara
 e8c8476a, by kayahara
