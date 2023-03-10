@@ -285,6 +285,7 @@
 202360be, by t6, t6Model_t6V115k.safetensors
 202360be, by vima, vimaModel_vimaV13k.safetensors
 205e0248, fking_scifi_v2
+208f75ce, lamia
 219cbfe8, RKart style
 223531c6, gakki, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi, vae-ft-mse-840000-ema-pruned.ckpt
@@ -293,6 +294,7 @@
 2275f2cf, 90s retro anime style|xx year anime style
 22ca4aaa, guigubahuang|1girl|chinese style
 234cc409, comicmay artsyle
+2402f7e7, lamia
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 254fb5cd, hasanpiker person
 258f79e3, stylized game icon|sci-fi|steampunk|spell
@@ -705,6 +707,7 @@
 8d9f015b, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 8e121fec, none
 8e194b43, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+8e9d93c1, lamia
 8ea93b04, girl
 8ec89baa, massakasma
 8ec9d746, amongus man
@@ -849,8 +852,8 @@ a5c134f5, naturitize, jaksNaturitizeImage_naturitizeSD21768px.ckpt
 a5c134f5, newhorrorfantasy_style, NewhorrorfantasyStyle_v20.ckpt
 a5c134f5, pulp-diffusion, pulpDiffusion_pulpDiffusionAlpha.ckpt
 a5c134f5, vntgcrm style, VintageCream.ckpt
-a5e6f199, Hearthstone card, hearthstoneCards_sd21.ckpt
 a5e6f199, color|flat|high contrast, fluentuiEmoji_sd21.ckpt
+a5e6f199, hearthstone card, hearthstoneCards_sd21.ckpt
 a60545fc, itojunji style
 a6428756, holliemengert artstyle
 a69bb214, Oldjourney
@@ -1042,6 +1045,7 @@ cceb87e1, analog style|modelshoot style|nsfw|nudity
 ccf3615f, modern disney style
 cd22968e, whatif style
 cd72665c, sks person
+cda39816, ccdwr artstyle
 cde643bb, dalcefo
 ce21b743, sjh style
 ce6d2934, masterpiece|best quality
@@ -1054,6 +1058,7 @@ cfc1e734, mina|momo|jeongyeon|chaer|sana|tzuyu|naeyeon|dahyun|jihyo
 cfc5de0e, modelshoot style|analog style|mdjrny-v4 style
 d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+d04d8a1f, lamia
 d0b457ae, modelshoot style|analog style|mdjrny-v4 style
 d0bbd388, pre-rendered|3d graphics
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
