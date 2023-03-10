@@ -795,6 +795,7 @@
 9da87c34, none
 9dc1d702, sks woman
 9e12b5d1, JennaO
+9e6f914a, armpit
 9e828d82, lqt
 9e86175c, MJv4
 9e8a16f7, Macro_Bug
@@ -1135,6 +1136,7 @@ dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|sn
 e01546fb, cornflower
 e02601f3, guohua style, guohaDiffusion_v1.ckpt
 e02601f3, photo of ohwx woman, janLevinsonMeloraHardin_6kSteps.ckpt
+e02601f3, rurudo, rurudo_v10.ckpt
 e02601f3, sks lucy, lucyFromCP_v1.ckpt
 e02601f3, sks vi|vi, viFromArcane_v1.ckpt
 e0844d20, pbr
