@@ -323,6 +323,7 @@
 2d447b0f, tk-char|tk-env
 2dd7cc12, by b-ginga
 2e6bbced, vectorartz
+2eb2f2cc, cyberpunk
 2f122e47, HarryPotterStyle
 2f4e14a4, litebrite
 2f7b2f79, mj-sphere
@@ -432,6 +433,7 @@
 4bfacf36, by t6
 4c42236e, TVClown
 4cac193b, sks person|(sks person)
+4cdc58f8, tarasische
 4d5cca44, TinyPlanet|TinyCityPlanet
 4d63cb83, mbb
 4dadf5f3, analog style
