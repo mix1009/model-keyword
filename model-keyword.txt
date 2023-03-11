@@ -315,6 +315,7 @@
 2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 2b694ba7, modelshoot style|nousr robot
 2bb2342e, rotoscopee
+2bd7a434, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 2be73e30, by b-ginga
 2cc9e101, pixarstyle
 2cd4cf48, sjh style
@@ -704,6 +705,7 @@
 8cc017a0, vector-art|pulp-diffusion
 8cce742c, modelshoot style
 8cdc294b, girl
+8cf258c7, mchozn
 8cf4478f, sks girl
 8d9aaa54, nvinkpunk
 8d9f015b, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
@@ -737,6 +739,7 @@
 9518faa2, luna
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
+95f8d0a7, armpit
 9600da17, master|chief
 962c3253, anisenti88
 96e9bd73, art by yaguru magiku
@@ -786,7 +789,7 @@
 9b5251e8, flat|high contrast|color, fluentuiEmoji_sd15.ckpt
 9b5251e8, muppet|kermit|cookie monster|drummer muppet|Miss. Piggy|sesame street|Elmo, muppets_sd15MuppetBlip.ckpt
 9b69308b, mangadusk1
-9b83a557, cmodel|clayitization|cbzbb|Oldjourney|classicnegative|concept-art|redshift style|by vector-art|pulp-diffusion|CHV3CZombie|CHV3CAlien|CHV3CBird|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3MTroll|CHV3MDeath|CHV3CRogue|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SWorld|CHV3SSciFi|CHV3MDragon|CHV3CVehicle
+9b83a557, cmodel|clayitization|cbzbb|oldjourney|classicnegative|concept-art|redshift style|by vector-art|pulp-diffusion|chv3czombie|chv3calien|chv3cbird|chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3slighthouse|chv3scute|chv3smacro|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 9ba8ee98, lisafrankstyle
 9bbd3657, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 9c3572e7, realistic|best quality|masterpiece
@@ -811,6 +814,7 @@ a06436da, wtrcolor style
 a0b3a1c3, sphx weapon
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
 a149572b, CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDark|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld, charhelperFineTuned_fineTunedV1.safetensors
+a149572b, chv3cbigchief|chv3cboxer|chv3sworld|chv3sscifi|chv3smacro|chv3scute|chv3slighthouse|chv3seldritch|chv3surban|chv3sdark|chv3calien|chv3crogue|chv3creaper|chv3ctroll|chv3cvehicle|chv3cbarb|chv3cwizard|chv3cknight|chv3mdragon|chv3czombie|chv3cbird|chv3crobot|chv3csamurai|chv3ccyberpunk|chv3cgolem|chv3cganesh|chv3curban|chv3corc, mangledMerge_v2.safetensors
 a149572b, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle, charhelperFineTuned_charhelperV3.safetensors
 a149572b, colorslashh, colorslash_colorslahhFp32.safetensors
 a149572b, concept-art, conceptSheet_Alpha.safetensors
