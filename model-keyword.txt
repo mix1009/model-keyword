@@ -16,6 +16,7 @@
 0248da5c, deetz1, duskfallsSlime_10.safetensors
 0248da5c, duskametrick15, isometricSD15_05.safetensors
 0248da5c, duskz1, duskfallsIllustration_10.safetensors
+0248da5c, gendigi, generalIllustration_10.safetensors
 0248da5c, isometricfuture, isometricFuture_isometricFutures10.safetensors
 0248da5c, mangadusk1, duskfallsManga_10.safetensors
 0248da5c, manuscriptai, manuscriptai_V10.safetensors
