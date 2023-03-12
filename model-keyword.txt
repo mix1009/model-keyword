@@ -65,6 +65,7 @@
 0c702268, moametal person
 0c93a576, name|oumeifeng style|redshift style
 0e828029, sks woman|(sks woman)
+0e8f2dbe, masterpiece|best quality
 0eb3318b, Airlock, djzAirlockV21768V21512_21768.safetensors
 0eb3318b, AssassinKahb, djzAssassinKahbV21_0.safetensors
 0eb3318b, AssassinMihq, djzAssassinMihqV21_0.safetensors
@@ -580,7 +581,6 @@
 6c481f5c, mksks style
 6c5dc775, kpt digital artstyle|gui
 6c7102ea, botw style
-6cd32857, GenDigi
 6d2a5077, by vima
 6d384d32, melkor_manchin art style
 6d4c500c, khalil
@@ -1032,7 +1032,6 @@ c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 c37cd72c, blurry background|depth of field
 c3cfd75d, powa
 c44bb585, duskametrick15
-c4aa5984, GenDigi
 c4b23842, albumcover
 c4d39ec6, massakasma
 c4e365bf, lightroom red:34% blue:53% green:43% filmgrain_minimal|texture:+25%|clarity: +40%|Contrast:+4%|shadows: +11%|sharpen:70%
@@ -1142,6 +1141,7 @@ de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
+de2f2560, yorha2b, yorha2b_v20Animation.safetensors
 def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
 df9e36bd, leagueofstyle
