@@ -580,6 +580,7 @@
 6c481f5c, mksks style
 6c5dc775, kpt digital artstyle|gui
 6c7102ea, botw style
+6cd32857, GenDigi
 6d2a5077, by vima
 6d384d32, melkor_manchin art style
 6d4c500c, khalil
@@ -1031,6 +1032,7 @@ c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 c37cd72c, blurry background|depth of field
 c3cfd75d, powa
 c44bb585, duskametrick15
+c4aa5984, GenDigi
 c4b23842, albumcover
 c4d39ec6, massakasma
 c4e365bf, lightroom red:34% blue:53% green:43% filmgrain_minimal|texture:+25%|clarity: +40%|Contrast:+4%|shadows: +11%|sharpen:70%
