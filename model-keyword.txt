@@ -44,14 +44,17 @@
 071b2e26, tk-char|tk-env
 079b172e, illustration style kurzgesagtish
 0817babf, sks chessevolved
+081c78a3, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
 081f8a15, 123, zxcvbnm_v10.safetensors
 081f8a15, korean, juuny_v11.safetensors
 08839519, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime
+0886f57a, superhero
 08ab6e66, m_wlop
 08d7a75d, anime
 08f7a22d, Papercut
 08fe03fe, by sky-freedom
 096596d8, PoW ArtStyle
+09bcb72f, guofeng|chinese|bokeh|silk dress
 09d7878a, pixarstyle
 0a4320df, dalcefo
 0aed3741, modelshoot style
@@ -289,6 +292,7 @@
 205e0248, fking_scifi_v2
 208f75ce, lamia
 219cbfe8, RKart style
+2206906b, guofeng|chinese|bokeh|silk dress
 223531c6, gakki, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti, vae-ft-mse-840000-ema-pruned.ckpt
@@ -340,6 +344,7 @@
 318a302e, arcane style
 31db8fec, daizky1
 31f96e8b, duskametrik
+32b08cff, gotou hitori|inoue takina|kita ikuyo|kubo nagisa|nishikigi chisato|sabine|sendou erika|shiina mahiru|yamano mitsuha|shuka high school uniform|lycoris uniform
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
 33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime, dgspitzerArt_Diffusion.safetensors
 33290d4a, rfktrstyle, rfktrsDarkdream_v16.safetensors
@@ -547,6 +552,7 @@
 64afe6d2, CALARTS
 64c46184, masterpiece|best quality|re-badprompt|anime|realistic
 64e73fcb, dbz style
+650839e4, superhero
 65bbd026, pitchmeetgeorge
 6606d2db, ttw style
 66473eff, rpgicondiff
@@ -1137,6 +1143,7 @@ de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV13_v13.safetensors
 de2f2560, dal, dalcefoKanim_v3.safetensors
+de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
 de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
