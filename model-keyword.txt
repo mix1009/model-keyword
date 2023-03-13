@@ -30,6 +30,7 @@
 0248da5c, tibetentankas  tibetan buddhist painting meditating|meditating|tankas|painting|landscape, rebirth_tibetantankasFp32.safetensors
 0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_01.safetensors
 0250e61d, 35mmneon
+02f311af, jsklr
 02faa048, sphx style
 030933d0, l4lisa
 03f434be, MTG card art
@@ -1209,6 +1210,7 @@ ecd908cb, sks woman|(sks woman)
 ecf98c5e, valorant style
 ed87e89c, tchnclr style
 ed977a93, dvmech, dvmech_100.ckpt
+ed977a93, mrkrut, markRutteVVDMuppet_v1MuppetMinister.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
 ed977a93, tlw, trihighsDreambooth_v31.ckpt
 edf5c25b, sks woman
@@ -1277,6 +1279,7 @@ fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
 fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_1990sV10.safetensors
 fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
 fe3c6142, dragzkz, dragonDiffusion_4500Steps.safetensors
+fe3c6142, face-x|man|woman|old, faceUVWPageGenForCC3_faceUVWPageGenForCC3.safetensors
 fe3c6142, gamelandscapeheightmap512|mountainflow|mountain|mesa|hills|alpen, gameLandscape_gameLandscapeHeightmap.safetensors
 fe3c6142, ilsgiovannibattistapiranesi|etching, giovanniBattista_piranesiV10.safetensors
 fe3c6142, themechwarriorrpgart, theMechwarriorRPGArt_theMechwarriorRPGArt.safetensors
