@@ -441,6 +441,7 @@
 490b0a46, kukuhtw
 4928c317, abstractchaos
 4a0c37d8, supermarionation
+4a3dfda4, p5r style
 4aef3692, sks woman
 4b327a2e, anime
 4bfacf36, by t6
@@ -791,6 +792,7 @@
 993f2358, neonskiesai, neonskiesai_V10.ckpt
 993f2358, orbai, orbai_V10.ckpt
 993f2358, paperai, paperai_V30.ckpt
+993f2358, sofcorrbell, sofcorrbell_.ckpt
 993f2358, steampunkai, steampunkai_steampunkV10.ckpt
 994784b1, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 99581f75, borderlands|stbtc|stbcf|telltale style
@@ -1215,7 +1217,7 @@ ecd908cb, sks woman|(sks woman)
 ecf98c5e, valorant style
 ed87e89c, tchnclr style
 ed977a93, dvmech, dvmech_100.ckpt
-ed977a93, mrkrut, markRutteVVDMuppet_v1MuppetMinister.ckpt
+ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
 ed977a93, tlw, trihighsDreambooth_v31.ckpt
 edf5c25b, sks woman
