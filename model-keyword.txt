@@ -143,10 +143,13 @@
 0eb3318b, TwistedDomain, djzTwistedDomainV21_0.safetensors
 0eb3318b, alltooeasy, djzAllTooEasy_v21768.safetensors
 0eb3318b, apocalypso, djzApocalypsoV21V15_v21768.safetensors
+0eb3318b, artinart, djzArtInArt_v21.safetensors
 0eb3318b, ascendentknights, djzAscendentKnightsV21_v21768.safetensors
 0eb3318b, ascendents, djzAscendentsV21V15_v21768.safetensors
 0eb3318b, ascendentsoldiers, djzAscendentSoldiersV21_v21768.safetensors
+0eb3318b, bakemono, djzBakemono_v21.safetensors
 0eb3318b, balltown, djzBallTown_v21768.safetensors
+0eb3318b, centerlarmor, djzCenterLarmor_v21.safetensors
 0eb3318b, chaoticspheres, djzChaoticSpheresV21_v21768.safetensors
 0eb3318b, chv3czombie|chv3calien|chv3cbird|chv3slighthouse|chv3scute|chv3smacro, charhelperFineTuned_charhelperV4.safetensors
 0eb3318b, colonycargo, djzColonyCargo_v21768.safetensors
@@ -166,6 +169,7 @@
 0eb3318b, monochrome, djzMonochromeV21_0.safetensors
 0eb3318b, moreambitious, djzMoreAmbitious_v21768.safetensors
 0eb3318b, oceanspectrum, djzOceanSpectrum_v21768Heavy.safetensors
+0eb3318b, okaido, djzOkaido_v21Heavy.safetensors
 0eb3318b, paintjoblady, djzPaintJobLady_v21768.safetensors
 0eb3318b, planetstain, djzPlanetStain_v21768Light.safetensors
 0eb3318b, punkstar, djzPunkstar_v21768.safetensors
@@ -173,6 +177,7 @@
 0eb3318b, rightnow, djzRightNow_v21768.safetensors
 0eb3318b, sevenwonders, djzSevenWonders_v21768.safetensors
 0eb3318b, siliconpunk, djzSiliconpunk_v21768.safetensors
+0eb3318b, stonepassage, djzStonePassage_v21.safetensors
 0eb3318b, texasresponders, djzTexasResponders_v21768.safetensors
 0eb3318b, timecar, djzTimeCar_v21768.safetensors
 0eb3318b, truckxjohnson, djzTruckxJohnson_v21768.safetensors
