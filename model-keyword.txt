@@ -459,6 +459,7 @@
 4ddd5d17, JhnsT, sd1XAnimeFuturistic_sdAnimeFuturistic.ckpt
 4ddd5d17, gakki, gakkiAragakiYui_v10.ckpt
 4df252a6, by mochizuki kei
+4dff2fdc, kazuma_kaneko
 4ef65125, warrior
 4f124f15, model|anime
 4f3ec643, rlcrtn
@@ -845,6 +846,7 @@ a149572b, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv
 a149572b, colorslashh, colorslash_colorslahhFp32.safetensors
 a149572b, concept-art, conceptSheet_Alpha.safetensors
 a149572b, dvmech, dvmech_200.safetensors
+a149572b, groo_the_wanderer, grooTheWanderer_2.safetensors
 a149572b, oregoneclipse, eclipseDreamscape_v10.safetensors
 a149572b, snowapocalypse, snowapocalypseV10_v10.safetensors
 a149572b, sticker|vector-art, stickerArt_sticker.safetensors
