@@ -154,6 +154,7 @@
 0eb3318b, chv3czombie|chv3calien|chv3cbird|chv3slighthouse|chv3scute|chv3smacro, charhelperFineTuned_charhelperV4.safetensors
 0eb3318b, colonycargo, djzColonyCargo_v21768.safetensors
 0eb3318b, colonycorridor, djzColonyCorridor_v21768.safetensors
+0eb3318b, cometbook, djzCometBook_v21Heavy.safetensors
 0eb3318b, cosmicspiders, djzCosmicSpiderV21_v21768.safetensors
 0eb3318b, cryopod, djzCryoPod_v21768.safetensors
 0eb3318b, cyberangels, djzCyberAngelsV21V15_v21768.safetensors
@@ -531,6 +532,7 @@
 5ec42e28, as a t-shirt logo in the style of <magifactory> art
 5ef236a8, darkflatartai
 5f06aa6f, ttdddd
+5f1199a7, adl|cae|fck|gsp|hta|httr|lun|olis|omd|rcn|sown|rps|tux|waj|gote|dbz|ulf
 5fb8c5f9, sks man
 5fc312dd, newvegaschar
 5fd78ac3, laolei style
@@ -784,12 +786,14 @@
 993f2358, comidusk, cajunBelle_10.ckpt
 993f2358, crovira, crovira_10.ckpt
 993f2358, duskfll, duskfallAlters_duskfallAlters05.ckpt
+993f2358, guttonerd1, guttoNerdRostos_guttonerd1.ckpt
 993f2358, ioasdf, krio70_001.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
 993f2358, meitu, animatedDreams_1.ckpt
 993f2358, microworld, microworldsRemake_version3.ckpt
 993f2358, miniwool, miniwool_1.ckpt
 993f2358, neonskiesai, neonskiesai_V10.ckpt
+993f2358, ocds, 1930sCartoonRichstyle_ocds.ckpt
 993f2358, orbai, orbai_V10.ckpt
 993f2358, paperai, paperai_V30.ckpt
 993f2358, pdalns, alienPdalnsRichstyle1_pdaln.ckpt
@@ -811,6 +815,7 @@
 9b83a557, cmodel|clayitization|cbzbb|oldjourney|classicnegative|concept-art|redshift style|by vector-art|pulp-diffusion|chv3czombie|chv3calien|chv3cbird|chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3slighthouse|chv3scute|chv3smacro|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 9ba8ee98, lisafrankstyle
 9bbd3657, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
+9bdc6717, none|just prompt
 9c3572e7, realistic|best quality|masterpiece
 9c55fd12, mirrormask
 9ca13f02, analog style
@@ -966,6 +971,7 @@ b047abbc, cmodel
 b078aa3e, by greatmosu
 b18cb707, pretty girl
 b1aa0d33, nauskaavalofw
+b1b6cc01, none|just prompt
 b1b9d236, furrender style
 b1c32576, anime pencil concept style
 b1fd9215, ginkddd
@@ -1076,7 +1082,8 @@ cceb87e1, analog style|modelshoot style|nsfw|nudity
 ccf3615f, modern disney style
 cd22968e, whatif style
 cd72665c, sks person
-cda39816, ccdwr artstyle
+cda39816, CCDWR illustration, conceptCharacter_ccdwrIllustrationBV0.safetensors
+cda39816, ccdwr artstyle, conceptCharacter_ccdwrArtstyleBV0.safetensors
 cde643bb, dalcefo
 ce21b743, sjh style
 ce6d2934, masterpiece|best quality
@@ -1218,6 +1225,7 @@ ec9f8c2e, CharacterChan Style
 ecd908cb, sks woman|(sks woman)
 ecf98c5e, valorant style
 ed87e89c, tchnclr style
+ed977a93, dicuki, dicukiRichstyle15_dicuki.ckpt
 ed977a93, dvmech, dvmech_100.ckpt
 ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
