@@ -1084,8 +1084,8 @@ cceb87e1, analog style|modelshoot style|nsfw|nudity
 ccf3615f, modern disney style
 cd22968e, whatif style
 cd72665c, sks person
-cda39816, CCDWR illustration, conceptCharacter_ccdwrIllustrationBV0.safetensors
 cda39816, ccdwr artstyle, conceptCharacter_ccdwrArtstyleBV0.safetensors
+cda39816, ccdwr illustration, conceptCharacter_ccdwrIllustrationBV0.safetensors
 cde643bb, dalcefo
 ce21b743, sjh style
 ce6d2934, masterpiece|best quality
@@ -1227,7 +1227,7 @@ ec9f8c2e, CharacterChan Style
 ecd908cb, sks woman|(sks woman)
 ecf98c5e, valorant style
 ed87e89c, tchnclr style
-ed977a93, dicuki, dicukiRichstyle15_dicuki.ckpt
+ed977a93, dicuki, dinosRichstyle15_dicuki.ckpt
 ed977a93, dvmech, dvmech_100.ckpt
 ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
