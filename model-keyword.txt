@@ -48,6 +48,7 @@
 081c78a3, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
 081f8a15, 123, zxcvbnm_v10.safetensors
 081f8a15, korean, juuny_v11.safetensors
+0851890f, realistic
 08839519, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime
 0886f57a, superhero
 08ab6e66, m_wlop
@@ -765,7 +766,8 @@
 9518faa2, luna
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
-95f8d0a7, armpit
+95f8d0a7, armpit, cmix_1.safetensors
+95f8d0a7, ol|都市|性感, chilloutmix_NiPrunedFp32Fix.safetensors
 9600da17, master|chief
 962c3253, anisenti88
 96e9bd73, art by yaguru magiku
