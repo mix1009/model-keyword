@@ -62,7 +62,7 @@ def load_hash_dict():
         hash_dict = defaultdict(list)
         def parse_file(path, idx):
             if os.path.exists(path):
-                with open(path, newline='') as csvfile:
+                with open(path, newline='', encoding='utf-8') as csvfile:
                     csvreader = csv.reader(csvfile)
                     for row in csvreader:
                         try:
