@@ -221,8 +221,9 @@
 1400e684, bganidusk|phtdzk1|vapodusk1, conceptBackgroundsAnime_10.safetensors
 1400e684, cyberangels, djzCyberAngelsV21V15_v15512.safetensors
 1400e684, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.safetensors
-1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV18.safetensors
+1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV20.safetensors
 1400e684, gingertomcat, djzGingertomcatV21768V21_v15.safetensors
+1400e684, pow style|ofi|mohd|rmb|dca|muc|onex|toid|sura|juli|veli|gsp|tux|tvc|pbc|pgs|rps|dbz|soca|suru|nips|rune|pafc|nlwx|fck|cae|sohn|dori|zawa|revs|hmv|whoo|asar|blob|xiao|kilt|ulf|loeb|bnha|gote|omd|adl|shld|waj|sown|rcn|httr|dits|hta|lun|olis, powStyleSomething_v1.safetensors
 1400e684, rfktrstyle, rfktrsDarkdream_v15bExperimental.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
@@ -316,6 +317,7 @@
 26621fc2, tdst style
 26acd9f3, furrender style
 26bde476, vrass
+27b791e4, pow style|sometimes8916|526christian2526|akumetsu9719982|andretheapache9587|bitspirit31653|bwm_nubby6416|crazykazoo2431|eppinette-chi6220|espasmo9486|flowwolf4607|guizmus7459|h20_dancing8979|horvallis7915|jeremy6194|jrw19948464|junglerally3955|max headroom6734|meezy1963|millennium_gun6377|munkyfoot7944|nerfgun37508|nicogj2781|noofthebeast8209|omnia2931|owleye1290|phaff1970|piscabo8649|ras6722|residentchiefnz6989|rhapsody8685|satyam_ssj107387|tazi2574|trash--panda6213|valanya6869|vcm077281|vil0404|wpatzz5836|xthisisbotoxx8765
 27d7d4a1, vapodusk1
 27ea8c02, snthwve style|nvinkpunk
 28ae9d27, tk-char|tk-env
@@ -585,6 +587,7 @@
 697c8786, orna santa, ornamentalSanta_anythingv30Fp1603.ckpt
 697c8786, orna santa|white hair|golden eyes|beautiful eyes|detail|flower meadow|cumulonimbus clouds|lighting|detailed sky|garden|modern disney style, ornamentalSanta_mergedVersionAnythingv3.ckpt
 69d2ae69, sks woman
+6a125b7f, pow style|sometimes8916|526christian2526|akumetsu9719982|andretheapache9587|bitspirit31653|bwm_nubby6416|crazykazoo2431|eppinette-chi6220|espasmo9486|flowwolf4607|guizmus7459|h20_dancing8979|horvallis7915|jeremy6194|jrw19948464|junglerally3955|max headroom6734|meezy1963|millennium_gun6377|munkyfoot7944|nerfgun37508|nicogj2781|noofthebeast8209|omnia2931|owleye1290|phaff1970|piscabo8649|ras6722|residentchiefnz6989|rhapsody8685|satyam_ssj107387|tazi2574|trash--panda6213|valanya6869|vcm077281|vil0404|wpatzz5836|xthisisbotoxx8765
 6ab06e33, Tifa Lockhart|Cloud Strife|Barret Wallace|aerith gainsborough|midgar city|midgar city business district|midgar city slums district|biggs ff7r|wedge ff7r|jessie rasberry|inside seventh heaven bar|shinra security officer|in the style of midgar city
 6ac8f9dc, sks person|(sks person)
 6ae1720a, in the artstyle of dd
@@ -748,6 +751,7 @@
 915383b6, AbstrAnm spritesheet
 916ea38c, pixelsprite|16bitscene
 91ec9ea6, dwspop style|dwspop space|dwspop forest|dwspop landscape
+9256ed1a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
 92c083af, redshift|nvinkpunk|lndskp
 92cf4ceb, nayeonnine
 92e4c246, sks person
@@ -1222,6 +1226,7 @@ ea35b744, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen bo
 eae95c5e, cardassian
 eb3a4159, dal
 eb70ff01, concept-art
+ebb17c4d, pow style|ofi|mohd|rmb|dca|muc|onex|toid|sura|juli|veli|gsp|tux|tvc|pbc|pgs|rps|dbz|soca|suru|nips|rune|pafc|nlwx|fck|cae|sohn|dori|zawa|revs|hmv|whoo|asar|blob|xiao|kilt|ulf|loeb|bnha|gote|omd|adl|shld|waj|sown|rcn|httr|dits|hta|lun|olis
 ebc4e0a9, RottingZombie person
 ebd5057f, photo of a potion
 ec8cd4c8, BalloonArt
@@ -1254,6 +1259,7 @@ f2ea5e14, woolitize
 f32626be, estilovintedois
 f3694755, modelshoot style
 f457c3e6, shiinamashiro
+f47ae1fa, sks woman
 f4dd44ad, svtbuild
 f56062de, nvinkpunk|mdjrny-v4 style|kairowez|lisdusk1|lisdusk2
 f588c09f, cloud
@@ -1264,6 +1270,7 @@ f6239527, brtdrpp
 f6a9004f, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 f6b4b362, newhorrorfantasy_style
 f6ca0e2b, comicmay
+f6cd8eee, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
 f6ed99c8, {colorful}|{vivid colors}|{vivid}|{flat color}
 f757b10b, orbai
 f76c4afc, duskspider
@@ -1303,6 +1310,7 @@ fe3c6142, dragzkz, dragonDiffusion_4500Steps.safetensors
 fe3c6142, face-x|man|woman|old, faceUVWPageGenForCC3_faceUVWPageGenForCC3.safetensors
 fe3c6142, gamelandscapeheightmap512|mountainflow|mountain|mesa|hills|alpen, gameLandscape_gameLandscapeHeightmap.safetensors
 fe3c6142, ilsgiovannibattistapiranesi|etching, giovanniBattista_piranesiV10.safetensors
+fe3c6142, sphereworldmap|sphere-height-map-texture|sphere-colour-texture, planet_Sphereworldmaptexture.safetensors
 fe3c6142, themechwarriorrpgart, theMechwarriorRPGArt_theMechwarriorRPGArt.safetensors
 fe5aae36, telltale style
 ff7616f1, FRPGFaceGen
