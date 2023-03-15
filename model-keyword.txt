@@ -580,6 +580,7 @@
 66b4c45e, archer style
 670c1702, photo of rafivai person
 673ca4ea, modelshoot style
+6785492c, nier9s
 68120148, ashenhard style
 685ff1cd, soft_lighting|soft_skin_tone|feminin_hair|white background|simple background
 6873ad1a, neonHorror style
@@ -664,6 +665,7 @@
 7bfb80d6, sks style
 7bfd4934, modelshoot style
 7c4971d4, timeless style
+7c83b897, monochrome
 7c8eef56, analog style|chromav5|nvinkpunk
 7cb76003, poolsuite style
 7e67267b, eldmeisterOG
@@ -717,6 +719,7 @@
 87fb604f, 3d render|3d cartoon
 883f759a, jwl watercolor
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
+890cb2e4, photorealistic
 8a0a6f86, svtbuild
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
 8a312ffc, masterpiece|novelAI|trending on 500px
@@ -896,8 +899,7 @@ a5c134f5, naturitize, jaksNaturitizeImage_naturitizeSD21768px.ckpt
 a5c134f5, newhorrorfantasy_style, NewhorrorfantasyStyle_v20.ckpt
 a5c134f5, pulp-diffusion, pulpDiffusion_pulpDiffusionAlpha.ckpt
 a5c134f5, vntgcrm style, VintageCream.ckpt
-a5e6f199, color|flat|high contrast, fluentuiEmoji_sd21.ckpt
-a5e6f199, hearthstone card, hearthstoneCards_sd21.ckpt
+a5e6f199, color|flat|high contrast
 a60545fc, itojunji style
 a6428756, holliemengert artstyle
 a69bb214, Oldjourney
@@ -1075,6 +1077,7 @@ c5943e55, mdjrny-pprct
 c59c7da7, realistic
 c5c54e28, dreamlikeart
 c6211d26, bedroomai
+c6bb6991, hearthstone card
 c76b8b8e, sks woman
 c79ac359, lqt
 c7ff699d, anipoma1
