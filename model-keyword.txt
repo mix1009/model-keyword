@@ -190,6 +190,7 @@
 0ed9b4a6, embroidery by embarg
 101d2d78, barbieworld
 10209fd6, dalcefo
+10419930, hassanfantasy style
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
 10a66fa5, romcom style
 10c6aa67, studio_ghibli_anime_style style
@@ -801,6 +802,7 @@
 993f2358, crovira, crovira_10.ckpt
 993f2358, duskfll, duskfallAlters_duskfallAlters05.ckpt
 993f2358, guttonerd1, guttoNerdRostos_guttonerd1.ckpt
+993f2358, guttonerd2, guttoNerdCorpoTodo_guttonerd2.ckpt
 993f2358, ioasdf, krio70_001.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
 993f2358, meitu, animatedDreams_1.ckpt
