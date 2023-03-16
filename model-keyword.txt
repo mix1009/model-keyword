@@ -402,6 +402,7 @@
 3c401697, redshift style
 3c752646, snvhs
 3caeeaf3, vintage polaroid analog portrait photography of
+3cb52e96, shuimobysim|shukezouma
 3d28e095, 3D Style|Rick Roll|fullbody shot|bad cosplay man
 3e008b4d, bethharmon
 3eac54e3, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
@@ -838,6 +839,7 @@
 9c55fd12, mirrormask
 9ca13f02, analog style
 9ce5cea2, nvinkpunk|snthwve style|style of joemadureira
+9cf9ef13, realistic
 9d24e3d5, best quality
 9d9ea029, fantadsk2
 9da87c34, none
@@ -995,6 +997,7 @@ b1b9d236, furrender style
 b1c32576, anime pencil concept style
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
+b240717e, shuimobysim|shukezouma
 b245152f, powercolor.v1|Drippy watercolor|Vivid watercolor
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
 b29ef034, analog style
@@ -1250,6 +1253,7 @@ ecf98c5e, valorant style
 ed87e89c, tchnclr style
 ed977a93, dicuki, dinosRichstyle15_dicuki.ckpt
 ed977a93, dvmech, dvmech_100.ckpt
+ed977a93, groo, grooTheWanderer_style.ckpt
 ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
 ed977a93, tlw, trihighsDreambooth_v31.ckpt
