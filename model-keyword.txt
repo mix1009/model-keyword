@@ -18,6 +18,7 @@
 0248da5c, duskz1, duskfallsIllustration_10.safetensors
 0248da5c, gendigi, generalIllustration_10.safetensors
 0248da5c, isometricfuture, isometricFuture_isometricFutures10.safetensors
+0248da5c, lr_rbn style, loreRobin_v1.safetensors
 0248da5c, mangadusk1, duskfallsManga_10.safetensors
 0248da5c, manuscriptai, manuscriptai_V10.safetensors
 0248da5c, manwha1, duskfallsManga_05.safetensors
@@ -737,6 +738,7 @@
 8c36d946, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 8c7efd5f, itojunji style
 8ca5c5a1, zero_two_101
+8cb4ebda, znchn style
 8cc017a0, vector-art|pulp-diffusion
 8cce742c, modelshoot style
 8cdc294b, girl
