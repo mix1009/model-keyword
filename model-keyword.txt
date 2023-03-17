@@ -10,6 +10,7 @@
 019cc77b, masterpiece|face portrait|ultra detailed
 01a35826, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 01f61612, clonewars style
+02150926, aellagirl
 0248da5c, 35mmneon, 35mmneon_v10.safetensors
 0248da5c, Rainbowpatch, rainbowpatch12_rainbowpatchV12.safetensors
 0248da5c, anipoma1, duskfallsManga_15Final.safetensors
@@ -67,7 +68,8 @@
 0b65606f, sks woman
 0b84672b, gtechstyle|art by gtechstyle|in the style of getchstyle
 0b84ef8c, analog style|modelshoot style|nsfw|nudity|erotic|cyborgdiffusion
-0b910e4b, duskametrik
+0b910e4b, duskametrik, isometricDreams_1.safetensors
+0b910e4b, fldsky1, floraFauna_1.safetensors
 0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
 0c702268, moametal person
 0c93a576, name|oumeifeng style|redshift style
@@ -332,6 +334,7 @@
 29bfa344, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 2a3e365b, arcane style
 2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
+2b059ac7, fldsky1
 2b694ba7, modelshoot style|nousr robot
 2b95dd0a, polumna
 2bb2342e, rotoscopee
