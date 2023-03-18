@@ -437,6 +437,7 @@
 4507a9f0, Makima
 4509a913, by mitsudoue
 456c0bfb, sks woman
+4571d7f2, starfox
 457435c3, blue skin, avatarlook_avatarStyle200.ckpt
 457435c3, na'vi|Avatar|Blue skin, avatarlook_avatarStyle50.ckpt
 4583e79e, samdoesarts
@@ -833,6 +834,7 @@
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 99e78387, SinCityMovie Style
 9a477cbc, manuscriptai
+9ad0f262, masterpiece|best quality|ultra-detailed|illustration|detailed light|an extremely delicate and beautiful|dramatic_shadow|ray_tracing|8-year-old girl|1 girl|fox ears|fox tail|blush|dress|blonde_hair|huge ahoge|two side up|orange eyes|glowing eyes|pigeon-toed|cinematic lighting|style of arknights
 9af8fb8d, guigubahuang
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
 9b5251e8, flat|high contrast|color, fluentuiEmoji_sd15.ckpt
