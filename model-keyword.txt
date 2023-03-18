@@ -511,6 +511,7 @@
 557350e1, leagueofstyle, stablearcane_20.ckpt
 557350e1, radar-topview|biome-radar-topview|cache-radar-topview|cobblestone-radar-topview|dust2-radar-topview|inferno-radar-topview|mirage-radar-topview|nuke-radar-topview|overpass-radar-topview|subzero-radar-topview|train-radar-topview|vertigo-radar-topview, csgoImprovedRadarTop_v20.ckpt
 557350e1, radar-topview|spectator-radar-topview, csgoTopViewMapLayout_1.ckpt
+561e042a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti
 56e29f8a, tk-char|tk-env
 5714e58c, woolitize
 57b149de, voxel-ish
@@ -547,6 +548,7 @@
 5e107da3, ComplexLA style
 5e2f08a1, ltsbbl style
 5e54b264, natsume|1girl
+5eaba4b4, a photo of mabaoguo
 5ec42e28, as a t-shirt logo in the style of <magifactory> art
 5ef236a8, darkflatartai
 5f06aa6f, ttdddd
