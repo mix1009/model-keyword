@@ -643,6 +643,7 @@
 73df0f6b, no trigger word required
 7460a6fa, sk man
 74d7d300, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
+74e33b7a, masterpiece|best quality|furry|kemono
 74f4c61c, redshift style
 751059ed, prfns
 752d657c, m_cyberware|style|mechanical parts
@@ -660,6 +661,7 @@
 7775c5b3, ky_d
 7791b0e6, monx style
 77c6d270, by narae
+7824a38b, aerialstyle
 7867176b, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 78825d24, ayanokouji|1boy
 78d68104, sincity_iamyork
@@ -783,7 +785,7 @@
 9518faa2, luna
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
-95f8d0a7, armpit, cmix_1.safetensors
+95f8d0a7, armpit, module1_train1.safetensors
 95f8d0a7, ol|都市|性感, chilloutmix_NiPrunedFp32Fix.safetensors
 9600da17, master|chief
 962c3253, anisenti88
