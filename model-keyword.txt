@@ -704,6 +704,7 @@
 81b68188, tk_env|tk_char
 81da0383, dvOldWorld
 81f23ca9, worst quality|lowres|easynegative|hermaphrodite|cropped|not in the frame|additional faces|jpeg large artifacts|jpeg small artifacts|ugly|tiling|poorly drawn hands|poorly drawn feet|poorly drawn face|out of frame|extra limbs|disfigured|deformed|body out of frame|blurry|bad anatomy|blurred|watermark|grainy|signature|cut off|draft|not finished drawing|unfinished image|bad eyes|doll|3d|cartoon|bad eyes:1.2|worst quality:1.2|low quality:1.2|bad-image-v2-39000|bad_prompt_version2:0.8
+8206821b, woman
 820c4a3e, by sy4
 822b8799, pepestyle person
 82780037, tpkify
@@ -799,6 +800,7 @@
 972c5030, gendigi
 97777800, swpunk|synthwave|paint splatters
 978e9ff8, h4zza
+979864ce, meowskulls
 979de0ab, 2xdrdisrespect
 97db9b40, woolitize
 97fc027e, weriart style
@@ -1277,6 +1279,7 @@ ed977a93, groo, grooTheWanderer_style.ckpt
 ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
 ed977a93, tlw, trihighsDreambooth_v31.ckpt
+eda3e3ec, close-up|portrait photo|raw
 edf5c25b, sks woman
 ee5b91da, ligne claire
 ee624815, xmascookie
