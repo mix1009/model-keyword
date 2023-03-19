@@ -176,6 +176,7 @@
 0eb3318b, oceanspectrum, djzOceanSpectrum_v21768Heavy.safetensors
 0eb3318b, okaido, djzOkaido_v21Heavy.safetensors
 0eb3318b, paintjoblady, djzPaintJobLady_v21768.safetensors
+0eb3318b, pixelart, pixhell_v10.safetensors
 0eb3318b, planetstain, djzPlanetStain_v21768Light.safetensors
 0eb3318b, punkstar, djzPunkstar_v21768.safetensors
 0eb3318b, rainbowworld, djzRainbowWorld_v21768Double.safetensors
@@ -515,6 +516,7 @@
 56e29f8a, tk-char|tk-env
 5714e58c, woolitize
 57b149de, voxel-ish
+57f6cfea, photo of shriya saran person
 585879fc, portrait+ style
 58819dc1, anime|realistic|masterpiece|best quality
 5896f8d5, modelshoot style|analog style|mdjrny-v4 style|nousr robot
