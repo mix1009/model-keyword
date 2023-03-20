@@ -259,6 +259,7 @@
 194778a2, wkc
 19b72626, analog style|dreamlikeart|redshift style
 19d911b0, djct woman|djct
+1a58ecf4, chaingirldark style
 1a78ec5a, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 1a7d3df5, masterpiece|best quality|anime|realistic|photorealisitc|exceptional|instagram|re-badprompt|nfixer|nfixernext
 1a9cb0c9, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
@@ -325,6 +326,7 @@
 25ba4550, modelshoot style|swpunk|synthwave|paint splatters
 265e757d, Sidon|Sidon style
 26621fc2, tdst style
+2684c304, cr1m3
 26acd9f3, furrender style
 26bde476, vrass
 27b791e4, pow style|sometimes8916|526christian2526|akumetsu9719982|andretheapache9587|bitspirit31653|bwm_nubby6416|crazykazoo2431|eppinette-chi6220|espasmo9486|flowwolf4607|guizmus7459|h20_dancing8979|horvallis7915|jeremy6194|jrw19948464|junglerally3955|max headroom6734|meezy1963|millennium_gun6377|munkyfoot7944|nerfgun37508|nicogj2781|noofthebeast8209|omnia2931|owleye1290|phaff1970|piscabo8649|ras6722|residentchiefnz6989|rhapsody8685|satyam_ssj107387|tazi2574|trash--panda6213|valanya6869|vcm077281|vil0404|wpatzz5836|xthisisbotoxx8765
@@ -657,6 +659,7 @@
 74e33b7a, masterpiece|best quality|furry|kemono
 74f4c61c, redshift style
 751059ed, prfns
+75294b00, chaingirldark style
 752d657c, m_cyberware|style|mechanical parts
 753c101f, 2d dnd battlemap
 75555781, Batfleck
@@ -891,6 +894,7 @@ a149572b, chv3cbigchief|chv3cboxer|chv3sworld|chv3sscifi|chv3smacro|chv3scute|ch
 a149572b, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle, charhelperFineTuned_charhelperV3.safetensors
 a149572b, colorslashh, colorslash_colorslahhFp32.safetensors
 a149572b, concept-art, conceptSheet_Alpha.safetensors
+a149572b, dblxp, doubleExposurePhoto_doubleExposurePhoto.safetensors
 a149572b, dvmech, dvmech_200.safetensors
 a149572b, groo_the_wanderer, grooTheWanderer_2.safetensors
 a149572b, oregoneclipse, eclipseDreamscape_v10.safetensors
@@ -931,6 +935,7 @@ a55d4071, wgz style
 a5c134f5, Blck_Mrbl, floralmarbleWOKE_EDITION.ckpt
 a5c134f5, classicnegative, classicNegativeSD21_classicNegative768px.ckpt
 a5c134f5, clayitization, jaksClayitization_clayitizationSd21.ckpt
+a5c134f5, dblxp, doubleExposurePhoto_doubleExposurePhoto.ckpt
 a5c134f5, naturitize, jaksNaturitizeImage_naturitizeSD21768px.ckpt
 a5c134f5, newhorrorfantasy_style, NewhorrorfantasyStyle_v20.ckpt
 a5c134f5, pulp-diffusion, pulpDiffusion_pulpDiffusionAlpha.ckpt
