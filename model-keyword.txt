@@ -1073,6 +1073,7 @@ bb029452, kindigitstyle
 bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bcb60ee3, twinklestardodo
 bcbe94c2, frutigeraero
+bd747e17, dark|shadow|fantasy
 bda49b29, ashenhard style
 bda7821c, thepit style|samdoesart style|orwel style|cherrymouse style
 bdb4b12c, by popqn
@@ -1141,6 +1142,7 @@ cd72665c, sks person
 cda39816, ccdwr artstyle, conceptCharacter_ccdwrArtstyleBV0.safetensors
 cda39816, ccdwr illustration, conceptCharacter_ccdwrIllustrationBV0.safetensors
 cde643bb, dalcefo
+cdec87a5, chaingirldark style
 ce21b743, sjh style
 ce6d2934, masterpiece|best quality
 cebf8122, modelshoot style
@@ -1163,6 +1165,7 @@ d1c6e030, SamDoesArt
 d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairstyle|taio hairstyle|foha hairstyle|okch hairstyle
 d1d32bcf, dragzkz
 d2089202, modelshoot style|nousr robot
+d21b2894, none
 d21c153e, ChromaV5|nvinkpunk
 d229bfec, manwha1
 d2beeabf, girl
@@ -1293,6 +1296,7 @@ ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
 ed977a93, tlw, trihighsDreambooth_v31.ckpt
 eda3e3ec, close-up|portrait photo|raw|ultra macro
+eda667c4, chaingirldark style
 edf5c25b, sks woman
 ee5b91da, ligne claire
 ee624815, xmascookie
