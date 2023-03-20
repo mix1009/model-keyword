@@ -279,6 +279,7 @@
 1c83d3db, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 1d0d03ee, botw style
 1d132f9e, whatif style|tdst style
+1da7b9f4, e
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1f258730, dbluth
 1f27bb0e, sks woman
@@ -386,6 +387,7 @@
 37f2669e, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
 3814a52a, surrealsteampunkai
 382d6ed3, sks person
+38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 38bbdc40, dvPNW
 38c1ebe3, base lux skin, luxannaCrownguardFrom_luxannaCrownguardLol.ckpt
 38c1ebe3, star guardian neeko, starGuardianNeeko_sgNeekoAnythingv3.ckpt
@@ -691,6 +693,7 @@
 7c83b897, monochrome
 7c8eef56, analog style|chromav5|nvinkpunk
 7cb76003, poolsuite style
+7d6c3acc, photorealistic
 7e67267b, eldmeisterOG
 7e8d1b0b, coralchar
 7edc8e08, mksks style
@@ -779,6 +782,7 @@
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
 910fb637, btdmnky, stableBTD6_btd6.ckpt
 910fb637, btdmnky|primary|military|magic|support|hero, stableBTD6_v10.ckpt
+914137b7, all|realistic
 915383b6, AbstrAnm spritesheet
 916ea38c, pixelsprite|16bitscene
 91ec9ea6, dwspop style|dwspop space|dwspop forest|dwspop landscape
@@ -848,6 +852,7 @@
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 99e78387, SinCityMovie Style
 9a477cbc, manuscriptai
+9a61c132, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 9ad0f262, masterpiece|best quality|ultra-detailed|illustration|detailed light|an extremely delicate and beautiful|dramatic_shadow|ray_tracing|8-year-old girl|1 girl|fox ears|fox tail|blush|dress|blonde_hair|huge ahoge|two side up|orange eyes|glowing eyes|pigeon-toed|cinematic lighting|style of arknights
 9af8fb8d, guigubahuang
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
@@ -914,6 +919,7 @@ a2a802b2, microworld render style, microworlds_v1.ckpt
 a2a802b2, spiderverse style, spiderVerse_v1.ckpt
 a2a802b2, star guardian neeko, starGuardianNeeko_sgNeekoPvc.ckpt
 a2a802b2, starsectorportrait, starsectorPortraits_20.ckpt
+a2ac6777, lamia|harpy|centaur|etc.....|most mge girls half work
 a41a2496, gigachad
 a42082e5, DarahanEyes
 a457aeea, FlonixApterus
@@ -1020,6 +1026,7 @@ b1aa0d33, nauskaavalofw
 b1b6cc01, none|just prompt
 b1b9d236, furrender style
 b1c32576, anime pencil concept style
+b1f4f421, 1girl
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
 b240717e, shuimobysim|shukezouma
@@ -1124,6 +1131,7 @@ ca682192, sjh style
 caea14ad, lvngvncnt
 cb144970, by k-suwabe
 cba4df56, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
+cc30ad23, lamia|harpy|centaur|etc....|most mge girls half work
 cc49ac37, bigbadejo alien_monster
 cc5b68d0, lndskp|nvinkpunk|redshift
 cceb87e1, analog style|modelshoot style|nsfw|nudity
@@ -1284,7 +1292,7 @@ ed977a93, groo, grooTheWanderer_style.ckpt
 ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
 ed977a93, tlw, trihighsDreambooth_v31.ckpt
-eda3e3ec, close-up|portrait photo|raw
+eda3e3ec, close-up|portrait photo|raw|ultra macro
 edf5c25b, sks woman
 ee5b91da, ligne claire
 ee624815, xmascookie
