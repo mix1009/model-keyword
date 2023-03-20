@@ -251,6 +251,7 @@
 16d77205, elden ring style
 16e33692, modelshoot style
 1756bc0e, duskypie|kairowez
+1789d7b1, luna
 17b7e1de, romerorzeternos
 17bb0452, discodifland
 187550ac, 80sanimestyle
@@ -311,6 +312,7 @@
 223531c6, gakki, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti, vae-ft-mse-840000-ema-pruned.ckpt
+223531c6, luna, vae-ft-mse-840000-ema-pruned.ckpt
 2258c119, CNDigitalArt Style
 2275f2cf, 90s retro anime style|xx year anime style
 22ca4aaa, guigubahuang|1girl|chinese style
@@ -432,7 +434,8 @@
 42da2d52, art by yaguru magiku
 42eefbf3, nauskaavalofw
 4326c062, ppllnnn
-439f64ec, midjourney model 1.5v|model v1.5
+439f64ec, midjourney model 1.5v|model v1.5, warriorGirlOfArmorSD_armorGirlWarrior.ckpt
+439f64ec, realistic|all|photorealistic|fantasy, modelMovieRealistic_v20.ckpt
 4449cdac, samdoesarts
 445461df, fking_scifi_v2
 44bf0551, booru tags
@@ -662,6 +665,7 @@
 767f517f, dmmid style
 76c86ec0, modelshoot style|swpunk|synthwave|paint splatters
 76e59a65, sincity_iamyork
+771880e5, 82pigeon style|akai sashimi style|algae makku style|belko style|braveking style|chocofing style|dako style|esuna style|evaaviva style|fengweic style|gomennasai style|hitokomoru style|ibukichi style|ishikei style|jidao style|junc style|khyle style|kyuyongeom style|lam style|lovecacao style|mamamba style|matcha style|mdastarou style|melanbread style|melodyoflost style|mikapikazo style|morry style|murata range style|naruko hanaharu style|navigavi style|rei 17 style|rupid style|scottie style|spacezin style|tahra style|timrougami style|tira style|tsutomu style|uekura eku style|xiayu style|yi1zhi style|yomu style|yoneyama style|yoshio style|yueko|lunachan
 77342b4b, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 7746fc20, marongcheng art
 7775c5b3, ky_d
@@ -1193,6 +1197,7 @@ dab15164, wawavawa, model1_ver1.ckpt
 dab3bb51, marblesh|marblee|marblee style
 daecbd84, FleischerStyle
 db10a0ee, sks woman
+db1c462d, luna
 db5960c1, OOKZA Vampire Style
 dc05355d, sksi object|sksi
 dccb4eb7, head
