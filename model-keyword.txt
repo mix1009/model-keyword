@@ -37,6 +37,7 @@
 030933d0, l4lisa
 03f434be, MTG card art
 042435b0, photo of morgen person
+04324700, 波普艺术|十二生肖|抽象
 0440e296, MASTERPICE sharp focus portrait
 048f8871, dalcefo
 04a81662, official art|yu-gi-oh!
@@ -58,6 +59,7 @@
 08f7a22d, Papercut
 08fe03fe, by sky-freedom
 096596d8, PoW ArtStyle
+097a6c2e, 植物|动物
 09bcb72f, guofeng|chinese|bokeh|silk dress
 09d7878a, pixarstyle
 0a4320df, dalcefo
@@ -324,6 +326,8 @@
 219cbfe8, RKart style
 2206906b, guofeng|chinese|bokeh|silk dress
 223531c6, gakki, vae-ft-mse-840000-ema-pruned.ckpt
+223531c6, kimono girl|anime girl|green hair, vae-ft-mse-840000-ema-pruned.ckpt
+223531c6, lamia, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, luna, vae-ft-mse-840000-ema-pruned.ckpt
@@ -349,6 +353,7 @@
 291b67b8, maxwell the cat
 291e7dc8, monochrome
 2933589a, bld aesthetic
+29801141, tf2map|team fortress 2|map|tf2 map
 29bfa344, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 2a3e365b, arcane style
 2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
@@ -994,6 +999,7 @@ aa366209, source4 style, source4V10_v1Safetensors.safetensors
 aa366209, wewulzkz, werewolfDiffusion_1.safetensors
 aa49e01c, anime pencil concept style
 aa7001cf, COLR_001, coloringBook_.ckpt
+aa7001cf, blacksun, djzBlackSunDEEPSTUDY_blip2.ckpt
 aa7001cf, cbzbb, cuteRichstyle21_cuteRichstyle.ckpt
 aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charhelperFineTuned_v1.ckpt
 aa7001cf, charhelper|character art|close-up character portrait|mid-range|character portrait|digital painting|digital illustration|stylized|anime, charhelperFineTuned_charhelperV2.ckpt
