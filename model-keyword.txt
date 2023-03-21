@@ -236,7 +236,7 @@
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 14d36354, duskz1
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
-14e1ef5d, ginkddd, model2_v1.ckpt
+14e1ef5d, ginkddd, del2_v1.ckpt
 14e1ef5d, phse, prettyHouseSo_v1.ckpt
 14e1ef5d, sksi, csGOMapGenerator_v1.ckpt
 14e1ef5d, swpunk|synthwave|paint splatters, synthpunkSearch_raw.ckpt
@@ -309,6 +309,7 @@
 202360be, by vima, vimaModel_vimaV13k.safetensors
 205e0248, fking_scifi_v2
 208f75ce, lamia
+218cee5d, mksks style|detailed background
 219cbfe8, RKart style
 2206906b, guofeng|chinese|bokeh|silk dress
 223531c6, gakki, vae-ft-mse-840000-ema-pruned.ckpt
@@ -683,6 +684,7 @@
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
 79b55ef7, bigbadejo alien_monster
 79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style
+7a0fd151, mksks style|detailed background
 7a182a74, wjqarnpomo
 7a77a7f5, yu-gi-oh!creature
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
@@ -832,6 +834,7 @@
 993f2358, chibiSJstyle, chibiSJStyle_BETA.ckpt
 993f2358, comidusk, cajunBelle_10.ckpt
 993f2358, crovira, crovira_10.ckpt
+993f2358, diovasnsc, del2_v2.ckpt
 993f2358, duskfll, duskfallAlters_duskfallAlters05.ckpt
 993f2358, guttonerd1, guttoNerdRostos_guttonerd1.ckpt
 993f2358, guttonerd2, guttoNerdCorpoTodo_guttonerd2.ckpt
@@ -943,6 +946,7 @@ a5c134f5, vntgcrm style, VintageCream.ckpt
 a5e6f199, color|flat|high contrast
 a60545fc, itojunji style
 a6428756, holliemengert artstyle
+a6590543, mksks style|detailed background
 a69bb214, Oldjourney
 a6dbd500, tchnclr
 a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
