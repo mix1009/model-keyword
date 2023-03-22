@@ -147,6 +147,7 @@
 0eb3318b, TokyooFantasy, djzTokyooFantasyV21_0.safetensors
 0eb3318b, TwinRealms, djzTwinRealmsV21_0.safetensors
 0eb3318b, TwistedDomain, djzTwistedDomainV21_0.safetensors
+0eb3318b, aisociety, djzAISociety_v21.safetensors
 0eb3318b, alltooeasy, djzAllTooEasy_v21768.safetensors
 0eb3318b, apocalypso, djzApocalypsoV21V15_v21768.safetensors
 0eb3318b, artinart, djzArtInArt_v21.safetensors
@@ -169,28 +170,38 @@
 0eb3318b, cthulucult, djzCthuluCult_v21.safetensors
 0eb3318b, cutawayseventy, djzCutawaySeventy_v21.safetensors
 0eb3318b, cyberangels, djzCyberAngelsV21V15_v21768.safetensors
+0eb3318b, cyberdemonshogun, djzCyberDemonShogun_v21.safetensors
 0eb3318b, cyberhacker, djzCyberHacker_v21.safetensors
 0eb3318b, darknesseighties, djzDarnessEighties_v21768.safetensors
 0eb3318b, fantasyrealm, djzFantasyRealm_v21768.safetensors
 0eb3318b, gasmasksenpai, djzGasmaskSenpai_v21.safetensors
+0eb3318b, gatekeeper, djzGatekeeper_v21.safetensors
 0eb3318b, gingertomcat, djzGingertomcatV21768V21_21768.safetensors
 0eb3318b, glitchstick, djzGlitchStick_v21768.safetensors
 0eb3318b, grandsedan, djzGrandSedan_v21768.safetensors
+0eb3318b, gundamart, djzGundamArt_v21.safetensors
 0eb3318b, gundamcityscape, djzGundamCityscape_v21.safetensors
 0eb3318b, gundamdungeon, djzGundamDungeon_v21.safetensors
 0eb3318b, gundamoverdrive, djzGundamOverdrive_v21.safetensors
+0eb3318b, hackerwoman, djzHackerWoman_v21.safetensors
 0eb3318b, hoverracer, djzHoverRacer_v21768.safetensors
 0eb3318b, infinitesupply, djzInfiniteSupply_v21768.safetensors
+0eb3318b, insectoverlords, djzInsectOverlords_v21.safetensors
 0eb3318b, intersingularity, djzInterSingularity_v21768.safetensors
+0eb3318b, liminalspace, djzLiminalSpace_v21.safetensors
 0eb3318b, loneocean, djzLoneOcean_v21768.safetensors
+0eb3318b, midnightdrift, djzMidnightDrift_v21.safetensors
 0eb3318b, monochrome, djzMonochromeV21_0.safetensors
 0eb3318b, moreambitious, djzMoreAmbitious_v21768.safetensors
 0eb3318b, oceanspectrum, djzOceanSpectrum_v21768Heavy.safetensors
 0eb3318b, okaido, djzOkaido_v21Heavy.safetensors
 0eb3318b, paintjoblady, djzPaintJobLady_v21768.safetensors
+0eb3318b, photoniccloning, djzPhotonicCloning_v21.safetensors
 0eb3318b, pixelart, pixhell_v10.safetensors
 0eb3318b, planetstain, djzPlanetStain_v21768Light.safetensors
 0eb3318b, postercubes, djzPosterCubes_v21.safetensors
+0eb3318b, postergeo, djzPosterGeo_v21.safetensors
+0eb3318b, posterworld, djzPosterWorld_v21.safetensors
 0eb3318b, punkstar, djzPunkstar_v21768.safetensors
 0eb3318b, rainbowworld, djzRainbowWorld_v21768Double.safetensors
 0eb3318b, rightnow, djzRightNow_v21768.safetensors
@@ -492,6 +503,7 @@
 4c42236e, TVClown
 4cac193b, sks person|(sks person)
 4cdc58f8, tarasische
+4d59b795, evang
 4d5cca44, TinyPlanet|TinyCityPlanet
 4d63cb83, mbb
 4dadf5f3, analog style
@@ -870,6 +882,7 @@
 993f2358, pdalns, alienPdalnsRichstyle1_pdaln.ckpt
 993f2358, sofcorrbell, sofcorrbell_.ckpt
 993f2358, steampunkai, steampunkai_steampunkV10.ckpt
+993f2358, terst, terter_2.ckpt
 994784b1, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 99581f75, borderlands|stbtc|stbcf|telltale style
 99af29f7, archer style|arcane style|modern disney style
@@ -1306,6 +1319,7 @@ e8c8476a, by kayahara
 e93cb7f3, hrrzg
 e952eaf1, Riko|shift dress|cold outfit|Reg|aubade helmet|aubade cape|arm extended|Shiggy|Nat|Kiyui|bell|Jiruo|child|moon whistle|Habo|black whistle|Marulk|maid outfit|Ozen|ozen white whistle|ozen armor|Lyza|lyza white whistle|Bondrewd|bondrewd white whistle|Nanachi|abyssal hat|young|human Nanachi|Mitty|human Mitty|delver outfit|delver helmet|red whistle|blue whistle|backpack|blaze reap|bleeding curse|Orth town|the abyss|windmill|gondola platform|orphanage|the first layer|gondola|eternal fortunes|cliffs|upper second layer|lower second layer|seeker camp|the third layer|the fourth layer|garden of eternal fortunes|nanachi's hideout|exterior|backyard|the fifth layer|ido front|playroom|crimson splitjaw|corpse weeperorb piercer|narehate|Meinya|dreamlikeart
 e96904c7, sks juri
+e9c42a35, meitu|sailor moon style|anime style|manga
 e9caaf6a, analog style|chromav5|nvinkpunk
 e9cbb77e, musician
 ea1e7cc7, FlonixMatyukhinft|FlonixApterus|Danmumford style
