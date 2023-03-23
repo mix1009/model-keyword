@@ -2,6 +2,7 @@
 # add new entry to model-keyword-user.txt
 # 
 #model_hash,keyword,filename.ckpt
+0001af3a, db01
 0003ba25, SmolOne
 007edaa3, clayitization
 00d62a36, photorealistic|naked
@@ -525,6 +526,7 @@
 4df252a6, by mochizuki kei
 4dff2fdc, kazuma_kaneko
 4e4a0067, polumna
+4e7736b5, designmeld|design|stunning|album cover|chrometype|japparii|m0.studio|manuals|foxrocket|gs.aya|mkalabic|josephmelhuish|designbysalome|alexvxvxvxvx|fkkwu|hellorabbitdesign|hvnt.ter|ivndrr|mateo.mace|nisheink|obby.jappari|sometimes__always|behance|iamcollaps|swissgraphic|grafikfeed
 4ef65125, warrior
 4f124f15, model|anime
 4f3ec643, rlcrtn
