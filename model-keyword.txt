@@ -316,6 +316,7 @@
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1f258730, dbluth
 1f27bb0e, sks woman
+1fb30a55, aimoji
 202360be, by b-ginga, bGingaModel_bgingaV1130k.safetensors
 202360be, by chon, chonModel_chonV19k.safetensors
 202360be, by hanaarare, hanaarareModel_hanaarareV15k.safetensors
@@ -354,6 +355,7 @@
 2275f2cf, 90s retro anime style|xx year anime style
 22ca4aaa, guigubahuang|1girl|chinese style
 234cc409, comicmay artsyle
+2386519a, 树|印象派|抽象
 2402f7e7, lamia
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 254fb5cd, hasanpiker person
@@ -416,6 +418,7 @@
 34cc3331, close up
 35035503, putinclown
 35a0bad3, starsectorportrait
+35aa200e, masterpiece|best_quality|ultra_detailed|illustration|volumetric_light|
 35dc3dbf, evang
 363ee931, microworld|mdjrny-shttr
 36606926, jimjorcraflogo art style|dan mumford style
@@ -825,6 +828,7 @@
 8f89e96b, anime pencil concept style
 8fefc581, tk-char|tk-env
 8ffb0774, prilosecotc1|burgie|dskfll
+90626071, shuimobysim|shukezouma
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
 910fb637, btdmnky, stableBTD6_btd6.ckpt
 910fb637, btdmnky|primary|military|magic|support|hero, stableBTD6_v10.ckpt
@@ -925,6 +929,7 @@
 9e828d82, lqt
 9e86175c, MJv4
 9e8a16f7, Macro_Bug
+9ec1e884, hanbok|mecha musume
 9ed4ea56, Oldjourney
 9ef9f138, gigafractal artstyle
 9f675a83, ClaymationXmas
@@ -1067,6 +1072,7 @@ ad4470e8, eldmeisterog style|sks style
 ad9d6205, fart62
 ae998e33, DarkSouls Style
 aef3d307, zukki_style
+af571dfc, trending on artstation|8k|ultra hd|1woman
 af5f6f0b, satellite image of oeax location|mapsatimageeu|gamelandscapeheightmap512
 afc6eaf9, Oldjourney
 afde7fdc, satellite image of oeax location
@@ -1196,6 +1202,7 @@ cd22968e, whatif style
 cd72665c, sks person
 cda39816, ccdwr artstyle, conceptCharacter_ccdwrArtstyleBV0.safetensors
 cda39816, ccdwr illustration, conceptCharacter_ccdwrIllustrationBV0.safetensors
+cda836aa, aimoji
 cde643bb, dalcefo
 cdec87a5, chaingirldark style
 ce21b743, sjh style
@@ -1210,6 +1217,7 @@ cfc5de0e, modelshoot style|analog style|mdjrny-v4 style
 d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 d04d8a1f, lamia
+d0503c73, hanbok
 d0b457ae, modelshoot style|analog style|mdjrny-v4 style
 d0bbd388, pre-rendered|3d graphics
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
@@ -1217,6 +1225,7 @@ d1a8d83f, isometricfuture
 d1b390d3, girl
 d1b93ddb, flrmrbl
 d1c6e030, SamDoesArt
+d1cb8c07, hanbok
 d1cd41ea, tlok artstyle|stada hairstyle|oped hairstyle|loes hairstyle|shoa hairstyle|taio hairstyle|foha hairstyle|okch hairstyle
 d1d32bcf, dragzkz
 d2089202, modelshoot style|nousr robot
@@ -1290,6 +1299,7 @@ df9e36bd, leagueofstyle
 dfafd600, duskametric15|microworld
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 e01546fb, cornflower
+e02601f3, galaxy|nebula|hubble|space|stars|globular galaxy|black hole|pillars of creation, stellarDiffusion_02.ckpt
 e02601f3, guohua style, guohaDiffusion_v1.ckpt
 e02601f3, photo of ohwx woman, janLevinsonMeloraHardin_6kSteps.ckpt
 e02601f3, rurudo, rurudo_v10.ckpt
