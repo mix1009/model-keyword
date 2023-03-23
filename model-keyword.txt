@@ -191,12 +191,14 @@
 0eb3318b, liminalspace, djzLiminalSpace_v21.safetensors
 0eb3318b, loneocean, djzLoneOcean_v21768.safetensors
 0eb3318b, midnightdrift, djzMidnightDrift_v21.safetensors
+0eb3318b, milsimwaifu, djzMilsimWaifu_v21.safetensors
 0eb3318b, monochrome, djzMonochromeV21_0.safetensors
 0eb3318b, moreambitious, djzMoreAmbitious_v21768.safetensors
 0eb3318b, oceanspectrum, djzOceanSpectrum_v21768Heavy.safetensors
 0eb3318b, okaido, djzOkaido_v21Heavy.safetensors
 0eb3318b, paintjoblady, djzPaintJobLady_v21768.safetensors
 0eb3318b, photoniccloning, djzPhotonicCloning_v21.safetensors
+0eb3318b, photonictech, djzPhotonicTech_v21.safetensors
 0eb3318b, pixelart, pixhell_v10.safetensors
 0eb3318b, planetstain, djzPlanetStain_v21768Light.safetensors
 0eb3318b, postercubes, djzPosterCubes_v21.safetensors
@@ -205,13 +207,18 @@
 0eb3318b, punkstar, djzPunkstar_v21768.safetensors
 0eb3318b, rainbowworld, djzRainbowWorld_v21768Double.safetensors
 0eb3318b, rightnow, djzRightNow_v21768.safetensors
+0eb3318b, rivervalley, djzRiverValley_v21.safetensors
+0eb3318b, scuffedrobotics, djzScuffedRobotics_v21.safetensors
 0eb3318b, sevenwonders, djzSevenWonders_v21768.safetensors
 0eb3318b, siliconpunk, djzSiliconpunk_v21768.safetensors
 0eb3318b, stonepassage, djzStonePassage_v21.safetensors
 0eb3318b, texasresponders, djzTexasResponders_v21768.safetensors
 0eb3318b, timecar, djzTimeCar_v21768.safetensors
 0eb3318b, truckxjohnson, djzTruckxJohnson_v21768.safetensors
+0eb3318b, trueassistant, djzTrueAssistant_v21.safetensors
 0eb3318b, ultraskin|twenties|twenty year old|thirties|thirty year old|eighties|eighty year old|elderly|wrinkles|pores|skin detail|freckles|moles|scar, ultraskin_09.safetensors
+0eb3318b, urbanjapan, djzUrbanJapan_v21.safetensors
+0eb3318b, voxelpalace, djzVoxelPalace_v21.safetensors
 0eb3318b, withoutfear, djzWithoutFear_v21768.safetensors
 0eb3318b, wwone, djzWwoneV21_0.safetensors
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
@@ -673,6 +680,7 @@
 6eff939c, sks person
 6f4ab0a0, duskgem|jem and the holograms
 6f5fc35d, 3d render of|3d cartoon of
+7003a758, shuimobysim|shukezouma
 700b1fd2, |stylized game icon
 703f7ff1, high fantasy
 705ae506, None
@@ -710,6 +718,7 @@
 7824a38b, aerialstyle
 7867176b, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 78825d24, ayanokouji|1boy
+78c98245, shuimobysim|shukezouma
 78d68104, sincity_iamyork
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
 79b55ef7, bigbadejo alien_monster
@@ -1385,6 +1394,7 @@ f8159da6, ftnadusk3
 f846e100, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 f86aeb35, renne
 f8b2fd9e, girl
+f8c291fa, painting|girl
 f8e650bb, 3dmdt1
 f8fb379d, a photo of a sks woman with white hair
 f90e49b9, this model is a mixture
