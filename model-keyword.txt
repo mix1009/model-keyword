@@ -199,6 +199,7 @@
 0eb3318b, moreambitious, djzMoreAmbitious_v21768.safetensors
 0eb3318b, oceanspectrum, djzOceanSpectrum_v21768Heavy.safetensors
 0eb3318b, okaido, djzOkaido_v21Heavy.safetensors
+0eb3318b, onishogunate, djzOniShogunate_v21.safetensors
 0eb3318b, paintjoblady, djzPaintJobLady_v21768.safetensors
 0eb3318b, photoniccloning, djzPhotonicCloning_v21.safetensors
 0eb3318b, photonictech, djzPhotonicTech_v21.safetensors
@@ -627,6 +628,7 @@
 61d9038b, takeON_v2
 61f22d0a, iayuso person
 62110ae2, nkoctst
+627533dc, hwan
 628d0015, sumetal person
 62938071, Bowser
 6296311f, demoura artstyle
@@ -651,6 +653,7 @@
 66ab1e7a, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 66ab1e7a, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 66b4c45e, archer style
+66ed97f9, 1
 670c1702, photo of rafivai person
 673ca4ea, modelshoot style
 6785492c, nier9s
@@ -936,6 +939,7 @@
 9ce5cea2, nvinkpunk|snthwve style|style of joemadureira
 9cf9ef13, realistic
 9d24e3d5, best quality
+9d7c69e8, photo of skibidibop person
 9d9ea029, fantadsk2
 9da87c34, none
 9dc1d702, sks woman
