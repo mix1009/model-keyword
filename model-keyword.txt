@@ -149,16 +149,20 @@
 0eb3318b, TokyooFantasy, djzTokyooFantasyV21_0.safetensors
 0eb3318b, TwinRealms, djzTwinRealmsV21_0.safetensors
 0eb3318b, TwistedDomain, djzTwistedDomainV21_0.safetensors
+0eb3318b, agentorange, djzAgentOrange_v21.safetensors
 0eb3318b, aisociety, djzAISociety_v21.safetensors
 0eb3318b, alltooeasy, djzAllTooEasy_v21768.safetensors
 0eb3318b, apocalypso, djzApocalypsoV21V15_v21768.safetensors
+0eb3318b, armybiker, djzArmyBiker_v21.safetensors
 0eb3318b, artinart, djzArtInArt_v21.safetensors
 0eb3318b, ascendentknights, djzAscendentKnightsV21_v21768.safetensors
+0eb3318b, ascendentredux, djzAscendentRedux_v21.safetensors
 0eb3318b, ascendents, djzAscendentsV21V15_v21768.safetensors
 0eb3318b, ascendentsoldiers, djzAscendentSoldiersV21_v21768.safetensors
 0eb3318b, ascendentsportrait, djzAscendents_v21.safetensors
 0eb3318b, bakemono, djzBakemono_v21.safetensors
 0eb3318b, balltown, djzBallTown_v21768.safetensors
+0eb3318b, bigbossink, djzBigBossInk_v21.safetensors
 0eb3318b, blackholeengine, djzBlackholeEngine_v21.safetensors
 0eb3318b, centerlarmor, djzCenterLarmor_v21.safetensors
 0eb3318b, chaoticspheres, djzChaoticSpheresV21_v21768.safetensors
@@ -176,15 +180,23 @@
 0eb3318b, cyberdemonshogun, djzCyberDemonShogun_v21.safetensors
 0eb3318b, cyberhacker, djzCyberHacker_v21.safetensors
 0eb3318b, darknesseighties, djzDarnessEighties_v21768.safetensors
+0eb3318b, ddracing, djzDDRacing_v21.safetensors
+0eb3318b, endtimesfuturism, djzEndtimesFuturism_v21Light.safetensors
+0eb3318b, endtimesninja, djzEndtimesNinja_v21.safetensors
+0eb3318b, energyadonis, djzEnergyAdonis_v21.safetensors
 0eb3318b, fantasyrealm, djzFantasyRealm_v21768.safetensors
 0eb3318b, gasmasksenpai, djzGasmaskSenpai_v21.safetensors
 0eb3318b, gatekeeper, djzGatekeeper_v21.safetensors
 0eb3318b, gingertomcat, djzGingertomcatV21768V21_21768.safetensors
 0eb3318b, glitchstick, djzGlitchStick_v21768.safetensors
+0eb3318b, goldroom, djzGoldRoom_v21.safetensors
 0eb3318b, grandsedan, djzGrandSedan_v21768.safetensors
+0eb3318b, greeneye, djzGreenEye_v21.safetensors
 0eb3318b, gundamart, djzGundamArt_v21.safetensors
 0eb3318b, gundamcityscape, djzGundamCityscape_v21.safetensors
 0eb3318b, gundamdungeon, djzGundamDungeon_v21.safetensors
+0eb3318b, gundamfight, djzGundamFight_v21.safetensors
+0eb3318b, gundamgirl, djzGundamGirl_v21.safetensors
 0eb3318b, gundamoverdrive, djzGundamOverdrive_v21.safetensors
 0eb3318b, hackerwoman, djzHackerWoman_v21.safetensors
 0eb3318b, hoverracer, djzHoverRacer_v21768.safetensors
@@ -193,10 +205,13 @@
 0eb3318b, intersingularity, djzInterSingularity_v21768.safetensors
 0eb3318b, liminalspace, djzLiminalSpace_v21.safetensors
 0eb3318b, loneocean, djzLoneOcean_v21768.safetensors
+0eb3318b, mechalabor, djzMechaLabor_v21.safetensors
+0eb3318b, mechapilot, djzMechaPilot_v21.safetensors
 0eb3318b, midnightdrift, djzMidnightDrift_v21.safetensors
 0eb3318b, milsimwaifu, djzMilsimWaifu_v21.safetensors
 0eb3318b, monochrome, djzMonochromeV21_0.safetensors
 0eb3318b, moreambitious, djzMoreAmbitious_v21768.safetensors
+0eb3318b, oceanicrim, djzOceanicRim_v21.safetensors
 0eb3318b, oceanspectrum, djzOceanSpectrum_v21768Heavy.safetensors
 0eb3318b, okaido, djzOkaido_v21Heavy.safetensors
 0eb3318b, onishogunate, djzOniShogunate_v21.safetensors
@@ -213,11 +228,16 @@
 0eb3318b, rainbowworld, djzRainbowWorld_v21768Double.safetensors
 0eb3318b, rightnow, djzRightNow_v21768.safetensors
 0eb3318b, rivervalley, djzRiverValley_v21.safetensors
+0eb3318b, robotwars, djzRobotWars_v21.safetensors
 0eb3318b, scuffedrobotics, djzScuffedRobotics_v21.safetensors
 0eb3318b, sevenwonders, djzSevenWonders_v21768.safetensors
 0eb3318b, shogunnobody, djzShogunNobody_v21.safetensors
 0eb3318b, siliconpunk, djzSiliconpunk_v21768.safetensors
+0eb3318b, spirecity, djzSpireCity_v21.safetensors
 0eb3318b, stonepassage, djzStonePassage_v21.safetensors
+0eb3318b, summerselfies, djzSummerSelfies_v21.safetensors
+0eb3318b, supremeagi, djzSupremeAGI_v21.safetensors
+0eb3318b, terraforma, djzTerraForma_v21.safetensors
 0eb3318b, texasresponders, djzTexasResponders_v21768.safetensors
 0eb3318b, timecar, djzTimeCar_v21768.safetensors
 0eb3318b, treephoto, djzTreePhoto_v21.safetensors
@@ -591,6 +611,7 @@
 5b4e980d, style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
 5ba11045, TheRPGCharGenEsAFArt
 5bba7f87, as a t-shirt logo in the style of <magifactory> art
+5bba81f8, 3d product render|product render
 5bcbb8a5, sks person
 5bcd62ae, megapals|megapals style
 5c3af880, ai protest|ai protest|3d logo
@@ -951,6 +972,7 @@
 9ec1e884, hanbok|mecha musume
 9ed4ea56, Oldjourney
 9ef9f138, gigafractal artstyle
+9f45927e, vae
 9f675a83, ClaymationXmas
 9f856288, aniscreen|amityblight|edalynclawthorne|emperorbelos|gusporter|huntergoldenguard|lilithclawthorne|luznoceda|rainewhispers|thecollector|willowpark|kingclawthorne
 9ff4bcf1, dalcefo
@@ -1078,6 +1100,7 @@ ab4941a7, fantasticmrfox
 ab9d9647, sks man
 abaf5445, 2d videogame minimap
 abb47775, sks woman
+abce398b, arthx
 ac039af9, 90s retro anime style|xx year anime style
 ac25001a, fwatch style
 ac6c89d0, dublex
@@ -1239,6 +1262,7 @@ d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 d04d8a1f, lamia
 d0503c73, hanbok
+d098dada, dskbbb1
 d0b457ae, modelshoot style|analog style|mdjrny-v4 style
 d0bbd388, pre-rendered|3d graphics
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
