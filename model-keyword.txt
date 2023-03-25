@@ -14,6 +14,10 @@
 02150926, aellagirl
 0248da5c, 35mmneon, 35mmneon_v10.safetensors
 0248da5c, Rainbowpatch, rainbowpatch12_rainbowpatchV12.safetensors
+0248da5c, SDArt|agne|ohwx|bnp|atum|aved|bsf|aten|fcu|cees|chor|cna|nrf|elio|gani|pfa|kprc|kuro|asot|elis|bsp|psst|sqm|irgc|byes|dany|lpg|miro|avel|vaw|zaki|guin|pz|reys|crit|doa|suma|taku|ufos|phol|vedi|dds|weho|pte|oxi|yuck|zas, sdartSomewhere_v2.safetensors
+0248da5c, SDArt|appt|ohwx|asr|aten|fcu|chor|cpec|pfa|kprc|kuro|asot|elis|sill|exe|bsp|grl|hap|byes|lpg|yler|avel|vaw|zaki|ohn|guin|vini|pz|crit|shma|doa|sks|szn|phol|utm|uy|dds|pte|oxi|ynna, sdartUnderwater_v2.safetensors
+0248da5c, SDArt|bnp|aved|bgs|aten|fcu|cees|chor|nrf|elio|pfa|kprc|dita|kuro|dprk|asot|bsp|psst|sqm|irgc|buka|byes|dany|lpg|vaw|nmwx|nyrd|guin|perm|urd|nasi|rags|rimo|shai|doa|suma|isch|utm|vedi|dds|weho|pte|yui, sdartSomeone_v2.safetensors
+0248da5c, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte, sdartSomething_v2.safetensors
 0248da5c, anipoma1, duskfallsManga_15Final.safetensors
 0248da5c, deetz1, duskfallsSlime_10.safetensors
 0248da5c, duskametrick15, isometricSD15_05.safetensors
@@ -289,7 +293,7 @@
 1400e684, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.safetensors
 1400e684, dbfantasyart, fantasyArtStyle_fantasyArtStyleV20.safetensors
 1400e684, gingertomcat, djzGingertomcatV21768V21_v15.safetensors
-1400e684, pow style|ofi|mohd|rmb|dca|muc|onex|toid|sura|juli|veli|gsp|tux|tvc|pbc|pgs|rps|dbz|soca|suru|nips|rune|pafc|nlwx|fck|cae|sohn|dori|zawa|revs|hmv|whoo|asar|blob|xiao|kilt|ulf|loeb|bnha|gote|omd|adl|shld|waj|sown|rcn|httr|dits|hta|lun|olis, powStyleSomething_v1.safetensors
+1400e684, pow style|ofi|mohd|rmb|dca|muc|onex|toid|sura|juli|veli|gsp|tux|tvc|pbc|pgs|rps|dbz|soca|suru|nips|rune|pafc|nlwx|fck|cae|sohn|dori|zawa|revs|hmv|whoo|asar|blob|xiao|kilt|ulf|loeb|bnha|gote|omd|adl|shld|waj|sown|rcn|httr|dits|hta|lun|olis, sdartSomething_v1.safetensors
 1400e684, rfktrstyle, rfktrsDarkdream_v15bExperimental.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
@@ -419,6 +423,7 @@
 2cd4cf48, sjh style
 2cee5111, intjpastel
 2d447b0f, tk-char|tk-env
+2dd53706, SDArt|agne|ohwx|bnp|atum|aved|bsf|aten|fcu|cees|chor|cna|nrf|elio|gani|pfa|kprc|kuro|asot|elis|bsp|psst|sqm|irgc|byes|dany|lpg|miro|avel|vaw|zaki|guin|pz|reys|crit|doa|suma|taku|ufos|phol|vedi|dds|weho|pte|oxi|yuck|zas
 2dd7cc12, by b-ginga
 2e6bbced, vectorartz
 2eb2f2cc, cyberpunk
@@ -537,6 +542,7 @@
 490b0a46, kukuhtw
 4928c317, abstractchaos
 4a0c37d8, supermarionation
+4a2eab64, SDArt|appt|ohwx|asr|aten|fcu|chor|cpec|pfa|kprc|kuro|asot|elis|sill|exe|bsp|grl|hap|byes|lpg|yler|avel|vaw|zaki|ohn|guin|vini|pz|crit|shma|doa|sks|szn|phol|utm|uy|dds|pte|oxi|ynna
 4a3dfda4, p5r style
 4aef3692, sks woman
 4b327a2e, anime
@@ -580,6 +586,7 @@
 53d6b1c7, tattoo|tattoos|tattooed|tattooed face|tattooed body|BigDarkTattoos
 5412e2d7, comicmay artsyle|redshift style
 547baf67, ykgl girl|ykgl girls|cgi artstyle
+548481b9, SDArt|bnp|aved|bgs|aten|fcu|cees|chor|nrf|elio|pfa|kprc|dita|kuro|dprk|asot|bsp|psst|sqm|irgc|buka|byes|dany|lpg|vaw|nmwx|nyrd|guin|perm|urd|nasi|rags|rimo|shai|doa|suma|isch|utm|vedi|dds|weho|pte|yui
 548c2413, woman android
 54eedb49, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 5502af6a, nkoctst
@@ -992,6 +999,7 @@ a149572b, dblxp, doubleExposurePhoto_doubleExposurePhoto.safetensors
 a149572b, dvmech, dvmech_200.safetensors
 a149572b, groo_the_wanderer, grooTheWanderer_2.safetensors
 a149572b, oregoneclipse, eclipseDreamscape_v10.safetensors
+a149572b, pixelart, pixhell_v20.safetensors
 a149572b, snowapocalypse, snowapocalypseV10_v10.safetensors
 a149572b, sticker|vector-art, stickerArt_sticker.safetensors
 a149572b, vector-art, vectorArt_Beta.safetensors
@@ -1170,6 +1178,7 @@ b7c86dad, scrpoolrooms|scrbackrooms
 b81c4a6d, source4 style
 b895edc4, mdjrny-v4 style
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
+b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style
 b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
 ba158946, goldenglass
@@ -1288,6 +1297,7 @@ d312ed1c, TheRPGCharGenEsAFArt
 d31b3d50, abysssorange2|pastelmix|cheeseday 30|merged model
 d357b061, dreamlikeart|kuvshinov|snthwve style|nvinkpunk
 d35823ba, jgba
+d386996c, 3d|render|japparii|cinema4d|photoshop|album cover|minimalism|digital|print|vibrant
 d3f3df02, all|hyperrealistic mix, mixRealisticPhotoV5_v15.ckpt
 d3f3df02, realistic, mixRealisticPhotoV5_15.ckpt
 d4288eeb, photograph|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|lk artstyle legend of korra artstyle|hg artstyle realistic 3d renders|cw artstyle starwars: the clone wars artstyle|kd artstyle ghibli movies artstyle|wy artstyle makoto shinkai artstyle|tn artstyle disney 3d artstyle|hq artstyle high-quality digital art|aa artstyle digital line art|dd artstyle darkest dungeon artstyle|toc artstyle turtle of canada artstyle with their permission|skimpy sg outfit with cape supergirl outfit|gs outfit with cape generic superhero outfit|videl wearing sy outfit with cape and helmet great saiyawoman outfit|cor korra doesnt translate well into other artstyles|with sd hairstyle season 1-3|with sh hairstyle season 4|wearing df outfit season 1|wearing sc outfit season 1 winter|wearing pb outfit season 1 probending|wearing fs outfit season 4|wearing ek outfit season 4 earth kingdom|oyla with ay hairstyle wearing hz outfit aloy wearing standard outfit doesnt translate well into other artstyles|akos wearing sw outfit ahsoka wearing season 7 outfit doesnt translate well into other artstyles|woman with pointed ears elfs|futuristic outfit|futuristic armor|fantasy armor|fantasy outfit|tribal fantasy outfit|cl outfit post-apocalyptic outfit|giant woman works best with "hg artstyle" is biased towards naked women|tiny woman works best with "hg artstyle" is biased towards naked women
@@ -1441,6 +1451,7 @@ f32626be, estilovintedois
 f3694755, modelshoot style
 f457c3e6, shiinamashiro
 f47ae1fa, sks woman
+f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte
 f4dd44ad, svtbuild
 f56062de, nvinkpunk|mdjrny-v4 style|kairowez|lisdusk1|lisdusk2
 f588c09f, cloud
