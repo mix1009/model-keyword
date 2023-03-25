@@ -28,6 +28,7 @@
 0248da5c, mikaylademaiter, mikaylaDemaiter_v10e2.safetensors
 0248da5c, nghtmre, nightmareDiffusionV1_.safetensors
 0248da5c, phtdzk1, photographyAnd_10.safetensors
+0248da5c, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo, sdartCatstravaganza_v1.safetensors
 0248da5c, seconddusk, duskfallVirtual3D_10.safetensors
 0248da5c, surrealsteampunkai, surrealsteampunkai_V10.safetensors
 0248da5c, tibetentankas  tibetan buddhist painting meditating|meditating|tankas|painting|landscape, rebirth_tibetantankasFp32.safetensors
@@ -313,6 +314,7 @@
 1789d7b1, luna
 17b7e1de, romerorzeternos
 17bb0452, discodifland
+17e77d7e, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo
 187550ac, 80sanimestyle
 191173a0, 1
 194778a2, wkc
@@ -696,6 +698,7 @@
 6b4688c7, modelshoot style|nousr robot
 6b4ca475, knollingcase
 6b7b4735, Danmumford style
+6ba9c09a, girl
 6baa48b3, modelshoot style
 6bb23006, elden ring style
 6bb855f1, modelshoot style
@@ -1158,6 +1161,7 @@ b6310dde, saukztf|arinax|1girl|ktjtn
 b63a47bb, synthpunk|cyberpunk|fantasy
 b7010dfe, Mosaic Art
 b701219e, clone wars style|clonewars style|batman_the_animated_series
+b7244379, mecha hanbok|techwear hanbok|mechanical arm|mecha wear
 b725e575, wtrcolor style
 b78b4650, filfigari
 b7ba5b22, effeff9 woman|effeff9 man|effeff9 creature|effeff9 architecture, effeffixConcept_main.ckpt
