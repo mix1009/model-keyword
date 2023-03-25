@@ -972,7 +972,7 @@
 9ec1e884, hanbok|mecha musume
 9ed4ea56, Oldjourney
 9ef9f138, gigafractal artstyle
-9f45927e, vae
+9f45927e, vae|kl-f8-anime2
 9f675a83, ClaymationXmas
 9f856288, aniscreen|amityblight|edalynclawthorne|emperorbelos|gusporter|huntergoldenguard|lilithclawthorne|luznoceda|rainewhispers|thecollector|willowpark|kingclawthorne
 9ff4bcf1, dalcefo
@@ -1228,6 +1228,7 @@ c7ff699d, anipoma1
 c86334f5, itojunji style
 c8796e4b, tk_char|tk_env
 c88e730a, modelshoot style|analog style|mdjrny-v4 style|nousr robot
+c89caee5, 只因jinkesi
 c8e3bfca, AnimeChan Style
 c91be480, Dloz|Dloz style
 ca4fcc12, snnmrn|snnmrn woman
