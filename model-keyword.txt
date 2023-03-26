@@ -515,6 +515,7 @@
 3f76682f, Anime|manga|cartoon
 4003fb6f, by kurige
 40ada8c2, watercolor
+416a7f7c, dreamlikeart
 4192fc16, kurzgesagt style
 41d721c0, swpunk|synthwave|paint splatters
 41fef4bd, nousr robot
@@ -699,6 +700,7 @@
 66ab1e7a, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 66ab1e7a, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 66b4c45e, archer style
+66c3d376, caebhx|dark purple hair|red eyes
 66ed97f9, 1
 670c1702, photo of rafivai person
 673ca4ea, modelshoot style
@@ -918,6 +920,7 @@
 95f8d0a7, armpit, module1_train1.safetensors
 95f8d0a7, graffiti illustrations|chilloutmix, graffitiArt_httpsCivitaiComModels.safetensors
 95f8d0a7, ol|都市|性感, chilloutmix_NiPrunedFp32Fix.safetensors
+95f8d0a7, portrait, 3d_magmixV10.safetensors
 9600da17, master|chief
 962c3253, anisenti88
 96e9bd73, art by yaguru magiku
@@ -1452,7 +1455,8 @@ ed977a93, groo, grooTheWanderer_style.ckpt
 ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
 ed977a93, tlw, trihighsDreambooth_v31.ckpt
-eda3e3ec, close-up|portrait photo|raw|ultra macro
+eda3e3ec, carbon|duochrome|holographic, neurogenV11_v11.safetensors
+eda3e3ec, close-up|portrait photo|raw|ultra macro, neurogenV11_v10.safetensors
 eda667c4, chaingirldark style
 edf5c25b, sks woman
 ee5b91da, ligne claire
@@ -1471,6 +1475,7 @@ f287b25e, agp
 f2b82853, junobirch drag queen
 f2ca12bd, zombie_vector
 f2ea5e14, woolitize
+f3196d59, carbon|duochrome|holographic
 f32626be, estilovintedois
 f3694755, modelshoot style
 f457c3e6, shiinamashiro
