@@ -32,6 +32,7 @@
 0248da5c, mikaylademaiter, mikaylaDemaiter_v10e2.safetensors
 0248da5c, nghtmre, nightmareDiffusionV1_.safetensors
 0248da5c, phtdzk1, photographyAnd_10.safetensors
+0248da5c, sdart|bnp|abia|abit|adl|afs|aon|lpg|apro|nwsl|mth|arl|arum|asar|batt|bios|kuro|blob|bnha|bpd|buda|exe|irgc|buka|buon|cae|cava|ccd|chor|aroa|ccu|cep|clos|urd|crit|cudi|doa|cwgc|ylor|dats|ddc|acu|oxi, sdartImaginaryFriend_v2.safetensors
 0248da5c, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo, sdartCatstravaganza_v1.safetensors
 0248da5c, seconddusk, duskfallVirtual3D_10.safetensors
 0248da5c, surrealsteampunkai, surrealsteampunkai_V10.safetensors
@@ -64,7 +65,7 @@
 08d7a75d, anime
 08f7a22d, Papercut
 08fe03fe, by sky-freedom
-096596d8, PoW ArtStyle
+096596d8, pow artstyle
 097a6c2e, 植物|动物
 09bcb72f, guofeng|chinese|bokeh|silk dress
 09d7878a, pixarstyle
@@ -319,6 +320,7 @@
 17b7e1de, romerorzeternos
 17bb0452, discodifland
 17e77d7e, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo
+1861f018, dskbbb1
 187550ac, 80sanimestyle
 191173a0, 1
 194778a2, wkc
@@ -476,6 +478,7 @@
 396450f6, lomo style
 399391b8, sphax style
 39c38163, itojunji style
+39dac565, 1girl
 39e80e37, duskypie|lisdusk1|lisdusk2|kairowez|mdjrny-v4 style
 39fcd9e7, PoW Style|Rick Roll|fullbody shot
 3a20fde5, Oldjourney
@@ -513,6 +516,7 @@
 42da2d52, art by yaguru magiku
 42eefbf3, nauskaavalofw
 4326c062, ppllnnn
+436dd50e, 3d product render|product render
 439f64ec, midjourney model 1.5v|model v1.5, warriorGirlOfArmorSD_armorGirlWarrior.ckpt
 439f64ec, realistic|all|photorealistic|fantasy, modelMovieRealistic_v20.ckpt
 4449cdac, samdoesarts
@@ -944,6 +948,7 @@
 993f2358, sofcorrbell, sofcorrbell_.ckpt
 993f2358, steampunkai, steampunkai_steampunkV10.ckpt
 993f2358, terst, terter_2.ckpt
+993f2358, test, test_1.ckpt
 993f2358, tester, terter_1.ckpt
 994784b1, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 99581f75, borderlands|stbtc|stbcf|telltale style
@@ -997,6 +1002,7 @@ a149572b, colorslashh, colorslash_colorslahhFp32.safetensors
 a149572b, concept-art, conceptSheet_Alpha.safetensors
 a149572b, dblxp, doubleExposurePhoto_doubleExposurePhoto.safetensors
 a149572b, dvmech, dvmech_200.safetensors
+a149572b, dvportrait, dvportrait_V10Women.safetensors
 a149572b, groo_the_wanderer, grooTheWanderer_2.safetensors
 a149572b, oregoneclipse, eclipseDreamscape_v10.safetensors
 a149572b, pixelart, pixhell_v20.safetensors
@@ -1045,6 +1051,7 @@ a5c134f5, vntgcrm style, VintageCream.ckpt
 a5e6f199, color|flat|high contrast
 a60545fc, itojunji style
 a6428756, holliemengert artstyle
+a64b9e1f, sdart|bnp|abia|abit|adl|afs|aon|lpg|apro|nwsl|mth|arl|arum|asar|batt|bios|kuro|blob|bnha|bpd|buda|exe|irgc|buka|buon|cae|cava|ccd|chor|aroa|ccu|cep|clos|urd|crit|cudi|doa|cwgc|ylor|dats|ddc|acu|oxi
 a6590543, mksks style|detailed background
 a69bb214, Oldjourney
 a6dbd500, tchnclr
@@ -1092,6 +1099,7 @@ aa7001cf, cmodel, syntheticCmodel_v1.ckpt
 aa7001cf, discostyle, discoDiffusionStyle_discostyle21768.ckpt
 aa7001cf, dmvc, dmvc2V2_v20.ckpt
 aa7001cf, dvmech, dvmech_200.ckpt
+aa7001cf, dvportrait, dvportrait_V10Women.ckpt
 aa7001cf, facesakimiboy, facesakimiboy_v1.ckpt
 aa7001cf, food_crit, jaksCreepyCritter_sd21768px.ckpt
 aa7001cf, ggg, gggStep1600_.ckpt
