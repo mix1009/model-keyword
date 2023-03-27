@@ -76,7 +76,7 @@
 0b0341fc, analog style|modelshoot style|nsfw|nudity
 0b071c53, bilsh21
 0b09ad3b, ctsmscl
-0b2cf1fe, Evang
+0b2cf1fe, evang
 0b65606f, sks woman
 0b84672b, gtechstyle|art by gtechstyle|in the style of getchstyle
 0b84ef8c, analog style|modelshoot style|nsfw|nudity|erotic|cyborgdiffusion
@@ -757,6 +757,7 @@
 73aebb03, rammstein
 73d359a0, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 73df0f6b, no trigger word required
+745d84b2, character|girl
 7460a6fa, sk man
 74d7d300, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 74e33b7a, masterpiece|best quality|furry|kemono
@@ -1292,6 +1293,7 @@ cde643bb, dalcefo
 cdec87a5, chaingirldark style
 ce21b743, sjh style
 ce6d2934, masterpiece|best quality
+ce787c96, evang
 cebf8122, modelshoot style
 cec8722d, iayuso person
 cf24bbd9, man|armor|cyborg|royal|engrave
