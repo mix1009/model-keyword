@@ -971,6 +971,7 @@
 993f2358, microworld, microworldsRemake_version3.ckpt
 993f2358, miniwool, miniwool_1.ckpt
 993f2358, neonskiesai, neonskiesai_V10.ckpt
+993f2358, nerdfusao1, guttoNerdfusO1_nerdfusao1.ckpt
 993f2358, nerdinho1, guttoNerdinho1_guttoNerdinho01.ckpt
 993f2358, ocds, 1930sCartoonRichstyle_ocds.ckpt
 993f2358, orbai, orbai_V10.ckpt
@@ -997,6 +998,7 @@
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
 9b5251e8, flat|high contrast|color, fluentuiEmoji_sd15.ckpt
 9b5251e8, muppet|kermit|cookie monster|drummer muppet|Miss. Piggy|sesame street|Elmo, muppets_sd15MuppetBlip.ckpt
+9b5926f8, celebrity
 9b69308b, mangadusk1
 9b83a557, cmodel|clayitization|cbzbb|oldjourney|classicnegative|concept-art|redshift style|by vector-art|pulp-diffusion|chv3czombie|chv3calien|chv3cbird|chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3slighthouse|chv3scute|chv3smacro|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 9ba8ee98, lisafrankstyle
@@ -1022,6 +1024,7 @@
 9ede614e, 80's anime style
 9ef9f138, gigafractal artstyle
 9f45927e, vae|kl-f8-anime2
+9f59a736, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog
 9f675a83, ClaymationXmas
 9f856288, aniscreen|amityblight|edalynclawthorne|emperorbelos|gusporter|huntergoldenguard|lilithclawthorne|luznoceda|rainewhispers|thecollector|willowpark|kingclawthorne
 9ff4bcf1, dalcefo
@@ -1214,6 +1217,7 @@ b7010dfe, Mosaic Art
 b701219e, clone wars style|clonewars style|batman_the_animated_series
 b7244379, mecha hanbok|techwear hanbok|mechanical arm|mecha wear
 b725e575, wtrcolor style
+b742bc35, 8k|raw photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.37|high detailed background|1girl in a blue shirt|shy expression|cute|cityscape|night|rain|wet|professional lighting|photon mapping|radiosity|physically-based rendering||beautiful breasts|medium breast|look at viewer
 b78b4650, filfigari
 b7ba5b22, effeff9 woman|effeff9 man|effeff9 creature|effeff9 architecture, effeffixConcept_main.ckpt
 b7ba5b22, orna santa, ornamentalSanta_default10.ckpt
