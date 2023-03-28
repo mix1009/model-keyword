@@ -3,6 +3,7 @@
 # 
 #model_hash,keyword,filename.ckpt
 0003db5c, bingbingfan
+001e72f5, vr-mayumi
 001f55e8, goldmary (fire emblem)|goldmary (fire emblem)
 0027c5ca, 1boy
 003f4806, akigumo_(kancolle)
@@ -380,6 +381,7 @@
 0f3d1f3a, belorta
 0f42e0fe, 1girl
 0f45f0e3, (mythra:0.x)
+0f594744, guild girl
 0f5a8826, camillafe|camillaarmour
 0f5de13b, labrynth
 0f5df66b, kagura older|timeskip kagura|young kagura
@@ -390,6 +392,7 @@
 0f900e6b, bronyarand
 0f931243, jirai fashion
 0f93c935, tiffy(nottytiffy)
+0f9c5eb8, girl|swimsuit
 0fa10092, yorforger
 0fa1598d, rinoa|blue duster|blue wristbands|white dress|finger point|hand on necklace
 0fbb8f22, badass ikemen|fighting gear|business suit
@@ -607,6 +610,7 @@
 1825c567, kunikida hanamaru
 182927cd, lupusregina_beta
 1840f34c, tfm_jam19
+1846a9fd, ardeth
 1863e8cd, a girl
 18651c6f, lucid
 18658d10, rfktrstyle
@@ -1152,6 +1156,7 @@
 2c6d4fec, lora_sakurajima_mai
 2c73fe48, radiant_knight|swimsuit|original_outfit|armor|nhead
 2c92d748, pepe_frog
+2ca22c93, kasli
 2ca3ac8c, pantpulldown
 2cc1a989, nicolewatterson
 2cd24bea, castoria
@@ -1180,6 +1185,7 @@
 2d6f6349, megatron
 2d7afd02, stolas
 2d7c40d0, 1girl and 1boy| kabedon pov
+2da090dd, alexia_olis
 2dadaac6, jacket|braided hair|robot
 2db3512e, furry|weapon|armor
 2db89e6e, midjourney style
@@ -1630,6 +1636,7 @@
 3f225372, marota (character)|cow ears|cow horns|ear tag
 3f272697, vaz2113
 3f2b8842, okita_souji
+3f3aab4d, music theater|influenced by a physical conceptual model with glowing soft led lighting|architectural photography|active|architecture|archdaily|composition
 3f3b3465, no trigger words
 3f4ee553, bmw850
 3f53198f, 1girl|ceres_fauna
@@ -1821,6 +1828,7 @@
 476b18f0, claireredfieldclassic|re2costume
 479d6d85, microworld
 47a2a6e2, wedding dress
+47a6eaaa, skinny_gameplayrj|homelander_gameplayrj|fat_gameplayrj
 47a8b434, knmts|mscrgto
 47ab2a32, tgirl|penis
 47e2055b, jim lee
@@ -1830,6 +1838,7 @@
 4810eb48, kirito|boy|1boy, KiritoLoconLora_v10.safetensors
 481c331d, dracowolf
 48257d54, girls und panzer|el|parted bangs
+4839ba55, mngx person
 483e7156, fullmetamorphosis
 48433747, hoshiguma|scar on cheek|horn on head
 484ac964, tanlines|amateur|professional|breasts
@@ -1942,6 +1951,7 @@
 4caa2aed, corset|wearing a corset
 4cadf899, saten
 4cb9fea2, pink short hair|blue eyes|dress
+4cc254eb, colossuschan
 4cc63a5e, amber (genshin impact)| brown eyes| brown hair| long hair| red hair ribbon, amberGenshinImpact_flexibleV1.safetensors
 4cc63a5e, amber, amberGenshinImpact_v1.safetensors
 4cd4fd07, scarlett
@@ -2047,6 +2057,7 @@
 506a2311, saigyou_ayakashi|bare_tree
 506a9e18, 1other|mask
 506f3008, pyoapplev1|pyoapple|woman
+5074aea6, madelyncline
 507e063e, yozora mel|vampire|bat hair ornament| revealing clothes
 508f1e57, bydylankowalski
 50a5c338, 1girl| school uniform| twintails| thighhighs| collar| purple eyes| brown hair| solo| hair ribbon| train interior| sitting| serafuku| long hair|
@@ -2250,6 +2261,7 @@
 58bfca78, (age difference:1.3)|2girls|girl on the left
 58cdff74, hexd_1:0.6
 58d04be9, zhengshuang|1girls
+58d15aec, alexia_olis
 58e7c4b2, fansisi
 58ee695b, gtcg style| border| character|gtcg style| border| silhouette
 58f8825a, cornelia_li_britannia|purple_eyes|lipstick
@@ -2741,6 +2753,7 @@
 6d143584, surrounded by penises
 6d161128, nahida (genshin impact), nahida_10.safetensors
 6d161128, nahida (genshin impact)|cross-shaped pupils, nahidaGenshinImpact_v10.safetensors
+6d1bb4ed, medieval architecture inspiration|contemporary architecture|roof canopy|verrieres|daylight|indirect lighting|ad magazine|8k|mies van der rohe|encompassing the entire building|cinematic lighting|volumetric lighting|epic composition|photorealism|it focused on optimal solar|wind|and geothermal energy uses and practices|a person reading in a chair|architectural moody environment|ultra hd|ultra detailed|
 6d4bc14c, orihaya izaya|fur_hoodie
 6d4f5c65, flat color
 6d51235f, mib suit|neuralyzer|holding neuralyzer|flash
@@ -2749,6 +2762,7 @@
 6d70827a, ilulu
 6d73ce8f, very long hair| faint light blue hair| blue eyes
 6d769a28, ((three sided view|full body|simple background|multiple views|highres)).
+6d87bb3d, verrieres|daylight|indirect lighting|ad magazine|8k|mies van der rohe|encompassing the entire building|cinematic lighting|volumetric lighting|epic composition|photorealism|
 6d8aa02c, vaginal_object_insertion|carrot|bottomless|gorin
 6d9289b8, dr_livesey
 6d9893ff, shirakawa runa|multicolored_hair|one_side_up
@@ -2833,6 +2847,7 @@
 707c80ac, sesshouin kiara| breasts| yellow eyes| horns| veil| long hair| huge breasts| black hair| collarbone| forehead mark| bare shoulders| facial mark| multicolored hair| chest tattoo| tattoo| cleavage| pink hair| detached sleeves| wavy hair| bangs| very long hair| gradient hair| pink lips| thighhighs| sideboob| pink thighhighs
 708c700e, sophiesw
 709c07ac, suzutsuki|grey_hair|long_hair|one_side_up|grey_eyes|bangs|hair_between_eyes
+70a786cd, katou umi
 70c2f666, fu hua (phoenix)
 70e610cf, alexandriaocasiocortez woman
 70ecdf4c, bagpipe
@@ -3122,6 +3137,7 @@
 7ce7561c, hair over one eye|blonde hair|red eyes
 7cefc575, 222
 7cf08340, art by jellytits
+7cfa4ec9, cyberhelmet|helmet|cyborg
 7d08dcce, spacesuit
 7d1364c8, gongbi
 7d260d96, asuka
@@ -3241,6 +3257,7 @@
 81fedd68, vaporeon
 8206283a, frame grid|in profile
 82074015, guts (berserk)|one eye closed|male focus|manly|scar
+820893f6, ohtori chihaya
 820c8516, hutao|hu tao|genshin impact
 8213d383, sui( isekai ojisan)
 821685b7, light brown hair|long hair|brown eyes|ahoge|big blue ribbon behind hair|milf|sanae
@@ -3254,10 +3271,12 @@
 82610219, taylor swift
 8280c28c, nanaoyuriko
 82815b4e, kaileena|woman
+828e79a0, sakurauchi riko
 828feb85, 1girl|flower|monster girl
 829dd2ab, blueprint
 82b6a46d, etna|high quality|bat wings|wings|flat chest|twintails|red hair|shield|sword|from side|from behind|good hands|ass|lying|sitting
 82b89e73, secret_flower|bottomless
+82cc33af, 1girl
 82d2359d, elsa jeans
 82db8cba, neferpitou
 82e10c9d, suzy_snacktime
@@ -3288,11 +3307,13 @@
 83dcd1a1, patung|patung dress
 83e69db2, fisting
 83f41602, yorha no. 2 type b
+83f7b18b, alexia_olis
 83f8b984, casca (berserk)
 840049f8, condom|unused condom|used condom
 8400f971, xnirox
 8406a383, origen|freedom|coralcoast|shead
 8418f3fd, ricardo||ricardo milos
+841c74a3, the whole living room|ultra lens|light hues|average brightness|minimalism|high finish|japanese wabi sabi style|cream tint|tv|sofa|chair|design table|interior design|global illuminations|bright|fhd|4k|high resolution|hyper quality|high detail|full details|realistic|hyperrealism|ultra wide shot|canon 5d|1fujifilm xt100|sony alpha|interior visualisation|v-ray|quixel megascans render|octane render
 84262948, arctic_fox_(kemono_friends)
 84347286, chibi
 84385c83, m14|m14christmas|m14mod
@@ -3333,6 +3354,7 @@
 8553599d, shoebillkf| 1girl| bangs| closed mouth| necktie| white necktie| yellow eyes| grey hair| grey shirt| grey shorts| solo
 85555cce, lita
 85561142, 1girl|ruuruu_kuroinu| hat| ova
+8556bfff, joker
 8573dd6e, |excellenbrowning
 857e31a4, genshinartifact
 8581d2d2, bambidoe
@@ -3373,6 +3395,7 @@
 86db7ca1, airlock
 86e0ca47, akiza izinksi|izayoi aki
 86e59679, enrico_pucci|c-moon|white_snake|made_in_heaven
+8706e76f, lucoa
 870ae17a, a man| pale skin| realistic| short hair| white halo on top|
 8713d5ee, wcobystyle|painting
 871cf811, sora
@@ -3459,6 +3482,7 @@
 8aaa5f71, kido_saori|purple_hair|blue_eyes|white_dress|jewelry|staff
 8ab2cc14, hanbok
 8ab44b2b, gigantcock
+8ab5d879, hideokojima
 8ac1d08d, witch_maria
 8ac9fbe9, la folia rihavein
 8aca88c2, hiqcgbody
@@ -3659,6 +3683,7 @@
 934413a6, cortana|woman
 9346ee76, lndswgnr
 93513a9d, in a rebel trooper uniform
+935497f4, konohana lucia
 9354aa70, nipples|breasts|1girl|thigh_strap|harness|o-ring|solo|small_breasts
 9362eb59, ikamusume|tentacle hair
 93698001, sumie|ink wash painting of
@@ -3729,6 +3754,7 @@
 9660feb5, gengar pokemon
 966af545, ks23|ks23hood
 967e8ea1, emie_mha||emiemhafx|naked_emie|1girl|orange bandana
+968cc103, cinematic|hyper realistic photograph of black|concrete and and corten modern minimalist villa with open living room and dining room|architecture with artificial lighting and illuminated swimming pool|garden with olive trees|infinite pool|unreal engine 5|photography|ultra - wide angle|depth of field|hyper - detailed|insane details|intricate details|beautifully color graded|unreal engine|photoshoot|shot on 25mm lens|dof|tilt blur|shutter speed 1/ 1000|f/ 22|white balance|32k|super - resolution|megapixel|pro photo rgb|vr|lonely|good|massive|half rear lighting|backlight|natural lighting|incandescent|optical fiber|moody lighting|cinematic lighting|studio lighting|soft lighting|volumetric|conte - jour|beautiful lighting|accent lighting|global illumination|screen space global illumination|ray tracing global illumination|optics|scattering|glowing|shadows|rough|shimmering|ray tracing reflections|lumen reflections|screen space reflections|diffraction grading|chromatic aberration|gb displacement|scan lines|ray traced|ray tracing ambient occlusion|anti - aliasing|fkaa|txaa|rtx|ssao|shaders|opengl - shaders|glsl - shaders|post processing|post - production|cell shading|tone mapping|cgi|vfx|sfx|insanely detailed and intricate|hyper maximalist|elegant|super detailed|dynamic pose|photography|volumetric|ultra - detailed|8k|ambient occlusion|volumetric lighting|high contrast|hdr
 96a62dc6, wral
 96d7c3dc, xayah
 96dea442, wizkonosuba
@@ -3776,6 +3802,7 @@
 982b3c3e, facializ3d|facials|bukkake
 983eabf5, penisshadow|scared
 98587525, cuts|fullbody cuts|cuts on face|cuts on back|bleeding|blood
+9860efa9, snuffy|raccoon girl|raccoon tail
 9862e759, cloudretainer| green eyes| black hair| green hair| multicoloured hair| red-framed eyeware| ponytail| hair ornament
 987f6c34, qipao|short sleeve||floral_print|color pattern|photorealistic|chinese_clothes|china_dress
 988ae853, char_phosphophyllite
@@ -3877,6 +3904,7 @@
 9d47ae6e, 1girl|aqua eyes|aqua hair|hatsune miku|grey shirt|detached sleeves|twintails|shoulder tattoo|necktie|black thighhighs|pleated skirt
 9d62ecfc, mapsatimageeu
 9d669d74, neon lights|red light|blue light|green light|purple light
+9d6c114b, hyperrealism|round swimming pool|many pedestrian bridges|beautiful landscape design|many buildings|beautiful weather|realistic|hyper details|hd|paradise|clear water|trees|wood|metal|utopian city|bright|freeform architecture|extreme architecture|many parasols|gardens|8k|aerial view|ultra wide shot|architectural visualisation
 9d6e30a9, photo of car artstation
 9da55248, oshino_shinobu|donut|sitting down|summer hat
 9db16ffe, 1girl| animal ears| tail| solo| japanese clothes| fox ears| white hair| fox tail| yellow eyes| looking at viewer
@@ -4070,6 +4098,7 @@ a4f77f78, botw style
 a4fe43e0, medusa
 a500241b, dcjiu
 a5045538, utinoko akagami
+a50493c4, library|volumes connected by ramps|architectural photography|active|architecture|archdaily|beautiful weather|realistic|hyper details|hd|8k|drone view|multiuse|dynamic|bright
 a505b475, clementine (overlord)
 a52389f7, yukishiro_tomoe
 a536a5ee, stargatehorus|staff|gauntlet
@@ -4310,6 +4339,7 @@ ae6eecd0, envy (fma)|headband| midriff| crop top| fingerless gloves| bike shorts
 ae76f317, nijika
 ae77dd0a, menma
 ae7ae701, cortana|blue skin|purple skin
+ae7c30e6, berr
 ae80cbf8, priora
 ae811063, 1girl|short hair|headband|navel|sleeveless|turtleneck|brown eyes|sleeveless turtleneck|solo|breasts|looking at viewer|smile|gloves|crop top|brown hair|shorts|midriff|armor|sweater|open fly|fingerless gloves|ribbed sweater|medium breasts|yufi_kisaragi_01 girl
 ae84c00e, skeleton|bone
@@ -4332,6 +4362,7 @@ af057aea, griffith
 af0d50bc, josierz
 af12aba1, riven
 af1357ff, bikini elf girl
+af1b89b0, ava_max
 af3bf439, kalina
 af47be7f, dimaria yesta
 af524cf7, longrushia|long hair|aqua hair|gradient hair
@@ -4374,6 +4405,7 @@ b0f065ff, blue hair|horns
 b0fd195e, azumichan1
 b1019f09, girl|woman
 b1093721, never saint
+b10c7b97, gundou_mirei
 b10ca6dc, abigail jones|dark skin|dark-skinned female
 b10ef081, lora_mizuhara_chizuru_v1
 b11097a0, long hair|ribbon|twintails|hair ribbon|green hair|drill hair|twin drills|1girl|red eyes|solo|looking at viewer|black ribbon|blush|simple background|shirt|bangs|white background|necktie|long sleeves|school uniform|anzio school uniform|smile|pantyhose|chiyomi style
@@ -4391,6 +4423,7 @@ b1777b3e, roxy migurdia
 b17ab905, snake
 b17db13a, tracer|bomber jacket|orange leggings|goggles
 b18357c1, glen orbik|earle bergey|robert maguire|gil elvgren
+b188c86a, kusunoki sio
 b19fd2ed, bayc|portrait|monkey|caricature|solo|ape|cartoon
 b1a81f78, elysia de lute ima|skull hair ornament|choker|kimono|pink scarf
 b1aa0d33, nauskaavalofw
@@ -4403,10 +4436,12 @@ b1d74bfd, VanellopeVon
 b1e81cc2, 动漫画风-afrobull风格
 b2015032, spamton|spamton_neo|mecha
 b203a360, ochako
+b20b077d, lww
 b214e576, azura|azura_fates
 b221cb62, dreamlikeart
 b22f22fb, herta
 b232e97c, (character:1.2)|virtual youtuber
+b23bb7a4, pnup
 b248771b, rose|rose blackpink
 b25984af, lo fashion|lo sweet|lo classical|lo gothic
 b27dfb65, horikoshi kouhei|boku no hero academia
@@ -4469,6 +4504,7 @@ b4c9a975, vflower
 b4ce0943, inuitoko|inuitokomaid
 b4d1fa9c, 1girl|cchan
 b4d94439, luzao
+b4ea6b37, zinogre
 b4eacdfc, sui-feng
 b4f18ebe, annawilliams|annadress
 b4f250e2, bernadetta (student)|bernadetta (timeskip)
@@ -4515,6 +4551,7 @@ b686259d, 50ft woman|500ft woman|1000ft woman
 b68b6102, mutsuki|mutsuki new year
 b68ec4b8, girl|multicolored hair| short hairred hair|comic|
 b69d1771, yangchenchen
+b6afa781, meltryllis|meltryllis (fate)|meltryllis (swimsuit lancer) (fate)
 b6b61806, mong|1girl|monster|horror (theme)
 b6c5a3cf, gweda
 b6cba788, kawaki_uzumaki a man with a navy blue and white jacket|kawakiblue_jacket|sleeveless|green shirt|triangle_marking on left cheek|piercing on right eyebrow|grey eyes|black_kawaki_hair and yellow_side_hair
@@ -4734,6 +4771,7 @@ c036c583, frog
 c039e16a, pussy
 c0613b79, phosphophyllite|phos
 c06160a6, xingzhichichi
+c063fcf1, wakana_shiki
 c070c3ff, tsukushi_(doax)|tsukushicos
 c08e29f5, chiakidg|nanami chiaki
 c0bc4892, tysontan|kikikrita|minikikikrita
@@ -4785,6 +4823,7 @@ c28eed5f, sots style
 c2bbeb80, guanyin|guanyin bodhisattva|avalokitesvara
 c2cad5eb, kenma kozume|haikyuu
 c2cb1f7f, 1girl
+c2cfae64, mami tomoe
 c2d05d7f, Ayonimix
 c2df51b3, gllltchy style
 c2ed6109, makarov|makarovmod
@@ -4849,6 +4888,7 @@ c4e52628, [(white background:1.5)::5]| (bottle bottom:0.9)| 1 girl| mid shot| fu
 c4e7a664, 1girl|1boy|eyeshadow|makeup|halftone
 c4e7b5ed, juvia_lockser
 c4f06881, oyama mahiro
+c4f7c39f, zfuta|futanari
 c4fc90a8, a woman in a cat suit and a cat mask
 c5008c53, lion_ears|white_dress
 c5015469, kiss|tongue kiss
@@ -4937,6 +4977,7 @@ c855f920, karyl
 c85697ac, onemine
 c85d0e53, jigen daisuke
 c8634e31, tsukioka kogane
+c87340a2, adelbert steiner (final fantasy)|steiner
 c8754ad9, lisanna strauss
 c885c852, playsuit|wearing a playsuit
 c8862e7d, bfptty
@@ -4946,6 +4987,7 @@ c895eb90, sreypresti
 c89caee5, jinxlol
 c8c5a47b, abubu
 c8c6f36c, skistyle
+c8cc263f, oliviathirlby
 c8f5d483, anthro|bird|avian|winged-arms
 c906aef7, flonne (fallen angel)
 c91487c5, alpha
@@ -5270,6 +5312,7 @@ d6b9a27f, dark-skinned female|asymmetrical hair|purple eyes|purple hair|purple l
 d6d19059, chibi
 d6da40a2, mygawain|fairy knight gawain (fate)|heterochromia|large breasts|muscular female|muscular|red eyes
 d6df89d6, tsumugi wenders
+d6e9461b, japanese wabi sabi style|living room|tv|sofa|chair|design table|interior design|global illuminations|bright|fhd|4k|high resolution|hyper quality|high detail|full details|realistic|hyperrealism|ultra wide shot|canon 5d|1fujifilm xt100|sony alpha|interior visualisation|v-ray|quixel megascans render|octane render
 d6fd8ab2, zebra_print
 d6ff59e9, tsurumaki maki|blonde very long hair|detached sleeves
 d700f98e, piledrivems
@@ -5614,6 +5657,7 @@ de2f2560, sakuma mayu, sakumaMayuTHEIDOLMSTER_v10.safetensors
 de2f2560, sakuragi mano, sakuragiManoTHEIDOLM_v10.safetensors
 de2f2560, see-through leotard, clothesSeeThrough_v10.safetensors
 de2f2560, serafuku|neckerchief, coloredSerafuku_v10.safetensors
+de2f2560, seras victoria|hellsing, serasVictoria_v10.safetensors
 de2f2560, shedrn|hedrn, sxzDraeneiWarcraft_sxzDraenei.safetensors
 de2f2560, shihouin yoruichi, yoruichiShihouin_v10.safetensors
 de2f2560, shirase sakuya, shiraseSakuyaTHEIDOLM_v10.safetensors
@@ -5860,6 +5904,7 @@ e67cdeaf, portrait|solo
 e6836b7e, karadbh|short hair|futuristic
 e685dacd, 1girl| red hair| long hair| sunglasses on head| big breasts| red jacket| ripped bodystocking| black chocker| black bra| chest chains| yellow eyes| black strings| white socks| red shoes| volume_nikke
 e6931548, michiru kagemori (brand new animal)|michiru kagemori
+e6998aa0, thaipe|long track pants|navy student skirt
 e6a36a1a, Anya Forger
 e6bf0712, 1girl| pom_pom_(clothes)| hood| animal_ears| clock| hoodie| open_mouth| long_hair| virtual_youtuber| hair_ornament| tail| smile| ahoge| hood_down| pink_hair| cat_tail| cat_ears| looking_at_viewer
 e6cf44a7, lunachan|uekura eku|uekuraeku
@@ -5885,6 +5930,7 @@ e7759d71, dragon|monster
 e78adeb5, anko| grey_pupils| red_hair| black_streaked_hair
 e78c8763, sakura miko||miko_jp
 e7909ad4, 1girl|armor|navel|nipples|pubic_hair|retro_artstyle|tears|no_panties|shiny|shiny_skin|uncensored
+e7972baf, snuffy|raccoon girl|hair ribbons|elaborate dress
 e79dba3d, cian yo|gtunver|kidmo|kittew|miraiart|muk|sakimichan|sciamano240|ssiaoyah|zumi|ろるあ|俺正讀|白穹陸|白穹陸 early|魚生|久阿格|織田non
 e7ab20d2, akumaria
 e7af3ca2, 1man
@@ -6458,6 +6504,7 @@ fe07c1e5, yoshimitsu
 fe1f763d, pregnant|hyperpreg
 fe23d101, tomori nao
 fe340ff5, mengde
+fe3e0721, nshrov4|nshrokr4|nshrof4|nshrows4|nshrofs4|nshros4|nshrow4|nshrox4
 fe4e4c2c, 1girl| pink hair|(blindfold:1.5)|dress|breasts| long hair| solo| medusa (fate)| cleavage| large breasts| medusa (rider) (fate)| facial mark| strapless| forehead mark| looking at viewer| purple hair| gloves| very long hair| dress| strapless dress| simple background| elbow gloves
 fe5abfa7, clothuncloth|identical
 fe5c79ac, lina inverse
