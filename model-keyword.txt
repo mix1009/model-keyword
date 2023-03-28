@@ -269,7 +269,8 @@
 1108cf15, by miyase mahiro
 116d5535, coralchar
 117f2d51, nvinkpunk|modelshoot style|samdoesart|dreamlikeart|kuvshinov
-1192bd48, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog
+1192bd48, ancient|china|painting, locsChinaLandscapeV1_locsChinaLandscapeV1.ckpt
+1192bd48, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog, locsChinaLandscapeV1_locsChinaLandscapeV2.ckpt
 1194073d, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
 11c35df3, bganidusk
 1221b4fa, jian guo
@@ -400,6 +401,7 @@
 2386519a, 树|印象派|抽象
 2402f7e7, lamia
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+250eb705, watercolor
 254fb5cd, hasanpiker person
 258f79e3, stylized game icon|sci-fi|steampunk|spell
 25ba4550, modelshoot style|swpunk|synthwave|paint splatters
@@ -410,6 +412,7 @@
 26acd9f3, furrender style
 26bde476, vrass
 274d0bb6, trending on artstation|8k|ultra hd|1woman
+276edfa7, evang
 27b791e4, pow style|sometimes8916|526christian2526|akumetsu9719982|andretheapache9587|bitspirit31653|bwm_nubby6416|crazykazoo2431|eppinette-chi6220|espasmo9486|flowwolf4607|guizmus7459|h20_dancing8979|horvallis7915|jeremy6194|jrw19948464|junglerally3955|max headroom6734|meezy1963|millennium_gun6377|munkyfoot7944|nerfgun37508|nicogj2781|noofthebeast8209|omnia2931|owleye1290|phaff1970|piscabo8649|ras6722|residentchiefnz6989|rhapsody8685|satyam_ssj107387|tazi2574|trash--panda6213|valanya6869|vcm077281|vil0404|wpatzz5836|xthisisbotoxx8765
 27d7d4a1, vapodusk1
 27ea8c02, snthwve style|nvinkpunk
@@ -677,6 +680,7 @@
 61b6da58, dskyart1
 61d9038b, takeON_v2
 61f22d0a, iayuso person
+61f439e0, evang
 62110ae2, nkoctst
 627533dc, hwan
 628d0015, sumetal person
@@ -748,6 +752,7 @@
 6eff939c, sks person
 6f4ab0a0, duskgem|jem and the holograms
 6f5fc35d, 3d render of|3d cartoon of
+6feb162d, Evang
 7003a758, shuimobysim|shukezouma
 700b1fd2, |stylized game icon
 703f7ff1, high fantasy
@@ -790,7 +795,8 @@
 78c98245, shuimobysim|shukezouma
 78d68104, sincity_iamyork
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
-79587710, analog style|modelshoot style|nsfw|nudity
+79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV20_v20.safetensors
+79587710, zombie, wendigo_v20.safetensors
 7960116e, evang
 79b55ef7, bigbadejo alien_monster
 79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style
@@ -824,6 +830,7 @@
 8114a3ed, sks style
 812aab2b, yae miko from genshin impact|ei from genshin impact
 81369a90, supermarionation
+8154717a, realistic
 818ed0ab, khrushchevka
 81b68188, tk_env|tk_char
 81da0383, dvOldWorld
@@ -1100,6 +1107,7 @@ a7e848cb, vffxxdx, model2_v1.ckpt
 a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 a8372572, wooditize
 a8e2a894, no trigger words
+a910c8e4, watercolor
 a919edc0, MechBattleTechClassicTR3025
 a927e35a, none
 a940803e, modelshoot style
@@ -1388,6 +1396,7 @@ de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetens
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV20_v13.safetensors
 de2f2560, dal, dalcefoKanim_v3.safetensors
 de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
+de2f2560, indoor_lhl, indoorLhl_indoorLhlV10.safetensors
 de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
@@ -1421,6 +1430,7 @@ e3af0732, btywtrclr
 e426a38f, dskyart1
 e476ecf5, justyeaa
 e494d7b5, takeON
+e4a91381, realistic
 e4d945bf, origtron
 e516b6bd, samdoesarts
 e54968cb, clone wars style|ahsoka tano|Anakin Skywalker|Bo-Katan|Captain Rex|Count Dooku|Darth Maul|Mace Windu|Obi-Wan Kenobi|Padme Amidala|Palpatine|Yoda
