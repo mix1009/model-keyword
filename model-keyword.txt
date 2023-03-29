@@ -269,8 +269,8 @@
 1108cf15, by miyase mahiro
 116d5535, coralchar
 117f2d51, nvinkpunk|modelshoot style|samdoesart|dreamlikeart|kuvshinov
-1192bd48, ancient|china|painting, locsChinaLandscapeV1_locsChinaLandscapeV1.ckpt
-1192bd48, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog, locsChinaLandscapeV1_locsChinaLandscapeV2.ckpt
+1192bd48, ancient|china|painting|landscapes, locsChinaLandscapes_locsChinaLandscapes.ckpt
+1192bd48, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog, locsChinaLandscapes_locsChinaLandscapes.ckpt
 1194073d, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
 11c35df3, bganidusk
 1221b4fa, jian guo
@@ -1333,6 +1333,7 @@ d0503c73, hanbok
 d098dada, dskbbb1
 d0b457ae, modelshoot style|analog style|mdjrny-v4 style
 d0bbd388, pre-rendered|3d graphics
+d0ce5e98, stoneocean
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
 d1a8d83f, isometricfuture
 d1b390d3, girl
