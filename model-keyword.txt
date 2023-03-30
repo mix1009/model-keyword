@@ -87,6 +87,7 @@
 0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
 0c702268, moametal person
 0c93a576, name|oumeifeng style|redshift style
+0cdb758d, tea picker
 0e828029, sks woman|(sks woman)
 0e8f2dbe, masterpiece|best quality
 0eb3318b, Airlock, djzAirlockV21768V21512_21768.safetensors
@@ -213,6 +214,7 @@
 0eb3318b, infinitesupply, djzInfiniteSupply_v21768.safetensors
 0eb3318b, insectoverlords, djzInsectOverlords_v21.safetensors
 0eb3318b, intersingularity, djzInterSingularity_v21768.safetensors
+0eb3318b, kawaiipro, djzKawaiiPro_v21.safetensors
 0eb3318b, liminalspace, djzLiminalSpace_v21.safetensors
 0eb3318b, loneocean, djzLoneOcean_v21768.safetensors
 0eb3318b, mechalabor, djzMechaLabor_v21.safetensors
@@ -261,6 +263,7 @@
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
 0ed9b4a6, embroidery by embarg
 101d2d78, barbieworld
+10206b6c, clothes_jingju
 10209fd6, dalcefo
 10419930, hassanfantasy style
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
@@ -428,6 +431,7 @@
 29801141, tf2map|team fortress 2|map|tf2 map
 29bfa344, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 2a3e365b, arcane style
+2a68cd03, pattern
 2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 2b059ac7, fldsky1
 2b694ba7, modelshoot style|nousr robot
@@ -456,6 +460,7 @@
 3087797c, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
 30fbd8bc, sks person
 318a302e, arcane style
+31d96181, dreamlikeart
 31db8fec, daizky1
 31f96e8b, duskametrik
 32b08cff, gotou hitori|inoue takina|kita ikuyo|kubo nagisa|nishikigi chisato|sabine|sendou erika|shiina mahiru|yamano mitsuha|shuka high school uniform|lycoris uniform
@@ -506,6 +511,7 @@
 3b214cf8, style
 3bbfd044, modelshoot style
 3c018217, bondrewd|1boy
+3c1ac307, 海洋|女性|天空|温泉|枫叶|雪花|温暖|超清|艺术|生理|shape|草原|樱花
 3c1ee4c5, wewulzkz
 3c30b472, analog style|modelshoot style|nsfw|nudity
 3c401697, redshift style
@@ -607,6 +613,7 @@
 52395e18, none
 5346a314, modernartst
 535673be, pixarstyle|fantasy|rpg
+535bde27, anime girl
 536a8e48, mdjrny-v4 style|dreamlikeart
 5386e8fb, demoura artstyle
 538d7157, pcrc style
@@ -719,6 +726,7 @@
 6785492c, nier9s
 68120148, ashenhard style
 685ff1cd, soft_lighting|soft_skin_tone|feminin_hair|white background|simple background
+6864b87d, caebhx|dark purple hair|red eyes
 6873ad1a, neonHorror style
 68b463ba, clazy style
 68b4ec0a, 2d|masterpiece|best quality|anime|hololive|virtual youtuber|lastname name
@@ -755,6 +763,7 @@
 6d9fa060, 2d dnd battlemap
 6e199947, rfktrstyle
 6ea179f4, mobian or sonic character name
+6efa7caf, dreamlikeart
 6eff939c, sks person
 6f4ab0a0, duskgem|jem and the holograms
 6f5fc35d, 3d render of|3d cartoon of
@@ -1078,6 +1087,7 @@ a2a802b2, spiderverse style, spiderVerse_v1.ckpt
 a2a802b2, star guardian neeko, starGuardianNeeko_sgNeekoPvc.ckpt
 a2a802b2, starsectorportrait, starsectorPortraits_20.ckpt
 a2ac6777, lamia|harpy|centaur|etc.....|most mge girls half work
+a3c809ba, pattern
 a41a2496, gigachad
 a42082e5, DarahanEyes
 a457aeea, FlonixApterus
@@ -1539,6 +1549,7 @@ f6cd8eee, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arum
 f6ed99c8, {colorful}|{vivid colors}|{vivid}|{flat color}
 f757b10b, orbai
 f76c4afc, duskspider
+f781810b, by kyoani
 f8159da6, ftnadusk3
 f846e100, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 f86aeb35, renne
