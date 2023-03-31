@@ -163,6 +163,7 @@
 0eb3318b, agentorange, djzAgentOrange_v21.safetensors
 0eb3318b, aisociety, djzAISociety_v21.safetensors
 0eb3318b, alltooeasy, djzAllTooEasy_v21768.safetensors
+0eb3318b, animechic, djzAnimeChic_v21.safetensors
 0eb3318b, apocalypso, djzApocalypsoV21V15_v21768.safetensors
 0eb3318b, armybiker, djzArmyBiker_v21.safetensors
 0eb3318b, artinart, djzArtInArt_v21.safetensors
@@ -174,6 +175,7 @@
 0eb3318b, bakemono, djzBakemono_v21.safetensors
 0eb3318b, balltown, djzBallTown_v21768.safetensors
 0eb3318b, bigbossink, djzBigBossInk_v21.safetensors
+0eb3318b, bitboats, djzBitBoats_v21.safetensors
 0eb3318b, blackholeengine, djzBlackholeEngine_v21.safetensors
 0eb3318b, centerlarmor, djzCenterLarmor_v21.safetensors
 0eb3318b, chaoticspheres, djzChaoticSpheresV21_v21768.safetensors
@@ -196,10 +198,12 @@
 0eb3318b, endtimesninja, djzEndtimesNinja_v21.safetensors
 0eb3318b, energyadonis, djzEnergyAdonis_v21.safetensors
 0eb3318b, fantasyrealm, djzFantasyRealm_v21768.safetensors
+0eb3318b, fractalgeo, djzFractalGeo_v21.safetensors
 0eb3318b, gasmasksenpai, djzGasmaskSenpai_v21.safetensors
 0eb3318b, gatekeeper, djzGatekeeper_v21.safetensors
 0eb3318b, gingertomcat, djzGingertomcatV21768V21_21768.safetensors
 0eb3318b, glitchstick, djzGlitchStick_v21768.safetensors
+0eb3318b, glitchwave, djzGlitchWave_v21.safetensors
 0eb3318b, goldroom, djzGoldRoom_v21.safetensors
 0eb3318b, grandsedan, djzGrandSedan_v21768.safetensors
 0eb3318b, greeneye, djzGreenEye_v21.safetensors
@@ -214,6 +218,7 @@
 0eb3318b, infinitesupply, djzInfiniteSupply_v21768.safetensors
 0eb3318b, insectoverlords, djzInsectOverlords_v21.safetensors
 0eb3318b, intersingularity, djzInterSingularity_v21768.safetensors
+0eb3318b, junglefuturism, djzJungleFuturism_v21.safetensors
 0eb3318b, kawaiipro, djzKawaiiPro_v21.safetensors
 0eb3318b, liminalspace, djzLiminalSpace_v21.safetensors
 0eb3318b, loneocean, djzLoneOcean_v21768.safetensors
@@ -238,6 +243,7 @@
 0eb3318b, postsingularity, djzPostSingularity_v21.safetensors
 0eb3318b, punkstar, djzPunkstar_v21768.safetensors
 0eb3318b, rainbowworld, djzRainbowWorld_v21768Double.safetensors
+0eb3318b, retrotide, djzRetroTide_v21.safetensors
 0eb3318b, rightnow, djzRightNow_v21768.safetensors
 0eb3318b, rivervalley, djzRiverValley_v21.safetensors
 0eb3318b, robotwars, djzRobotWars_v21.safetensors
@@ -255,6 +261,7 @@
 0eb3318b, treephoto, djzTreePhoto_v21.safetensors
 0eb3318b, truckxjohnson, djzTruckxJohnson_v21768.safetensors
 0eb3318b, trueassistant, djzTrueAssistant_v21.safetensors
+0eb3318b, tvcity, djzTVCity_v21.safetensors
 0eb3318b, ultraskin|twenties|twenty year old|thirties|thirty year old|eighties|eighty year old|elderly|wrinkles|pores|skin detail|freckles|moles|scar, ultraskin_09.safetensors
 0eb3318b, urbanjapan, djzUrbanJapan_v21.safetensors
 0eb3318b, voxelpalace, djzVoxelPalace_v21.safetensors
@@ -569,7 +576,6 @@
 4859814c, TransX
 48823be0, coralchar
 48d0f413, Mtg art
-4907419b, tvcity
 490b0a46, kukuhtw
 4928c317, abstractchaos
 496ed668, SDArt|dels|bnp|tobi|dif|abia|adl|dori|afs|apro|ufos|nwsl|dru|mth|arl|arum|asar|kuro|bpd|ecr|buda|exe|irgc|buka|buon|eet|cae|byes|ccd|chor|eha|aroa|elba|cep|emit|enei|enig|eoin|fara|fawn|fck|crit|fler|fol|gera|doa|cwgc|gsp|acu|oxi|gote
@@ -816,7 +822,8 @@
 79587710, zombie, wendigo_v20.safetensors
 7960116e, evang
 79b55ef7, bigbadejo alien_monster
-79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style
+79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_1.safetensors
+79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.safetensors
 7a0fd151, mksks style|detailed background
 7a16febb, thecat, chikomokiiStyle_v1.ckpt
 7a16febb, yuqikun, yuqikunStyle_v1.ckpt
@@ -1258,7 +1265,8 @@ bcb60ee3, twinklestardodo
 bcbe94c2, frutigeraero
 bd747e17, dark|shadow|fantasy
 bda49b29, ashenhard style
-bda7821c, thepit style|samdoesart style|orwel style|cherrymouse style
+bda7821c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_1.ckpt
+bda7821c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.ckpt
 bdb4b12c, by popqn
 bde477d2, junemodel
 bdec7588, richevans
