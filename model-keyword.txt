@@ -23,6 +23,7 @@
 0248da5c, deetz1, duskfallsSlime_10.safetensors
 0248da5c, duskametrick15, isometricSD15_05.safetensors
 0248da5c, duskz1, duskfallsIllustration_10.safetensors
+0248da5c, dvarchinteriormodern|dvarchinteriorvictorian|dvarchinteriorgothic, dvarchMultiPrompt_dvarchInterior.safetensors
 0248da5c, gendigi, generalIllustration_10.safetensors
 0248da5c, isometricfuture, isometricFuture_isometricFutures10.safetensors
 0248da5c, lr_rbn style, loreRobin_v1.safetensors
@@ -72,6 +73,7 @@
 09bcb72f, guofeng|chinese|bokeh|silk dress
 09d7878a, pixarstyle
 0a4320df, dalcefo
+0ae9e220, goosebumps art by tim jacobus
 0aed3741, modelshoot style
 0b02fdb1, Master of everything|photography
 0b0341fc, analog style|modelshoot style|nsfw|nudity
@@ -487,6 +489,7 @@
 30833d87, luffy man|zoro man|nami woman|sanji man|nico woman|chopper boy|franky man|usopp man|brook man|jimbei man
 3087797c, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
 30fbd8bc, sks person
+317fda4a, cute girl|korea face|asia face
 318a302e, arcane style
 31d96181, dreamlikeart
 31db8fec, daizky1
@@ -1012,6 +1015,7 @@
 993f2358, desertranger, desertRanger_desertRangerV10.ckpt
 993f2358, diovasnsc, del2_v2.ckpt
 993f2358, duskfll, duskfallAlters_duskfallAlters05.ckpt
+993f2358, dvarchinteriormodern|dvarchinteriorvictorian|dvarchinteriorgothic, dvarchMultiPrompt_dvarchInterior.ckpt
 993f2358, guttonerd1, guttoNerdRostos_guttonerd1.ckpt
 993f2358, guttonerd2, guttoNerdCorpoTodo_guttonerd2.ckpt
 993f2358, ioasdf, krio70_001.ckpt
@@ -1101,7 +1105,7 @@ a184fedc, gigafractal artstyle
 a2073f09, by mika pikazo
 a21b69c5, bigbrains
 a22399ba, analog style|chromav5|nvinkpunk
-a23afa51, dvarchmodern|dvarchgothic|dvarchvictorian, dvarchMultiPrompt_dvarch.ckpt
+a23afa51, dvarchmodern|dvarchgothic|dvarchvictorian, dvarchMultiPrompt_dvarchExterior.ckpt
 a23afa51, dvmech, dvmech_1017030MergeWithEpic.ckpt
 a24036f3, mloctst
 a25e79ba, Neytiriblueskinbabe
@@ -1468,6 +1472,7 @@ def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
 df9e36bd, leagueofstyle
 dfafd600, duskametric15|microworld
+dfb90adf, by kyoani
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 e01546fb, cornflower
 e02601f3, galaxy|nebula|hubble|space|stars|globular galaxy|black hole|pillars of creation, stellarDiffusion_02.ckpt
