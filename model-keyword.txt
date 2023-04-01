@@ -69,6 +69,7 @@
 08fe03fe, by sky-freedom
 096596d8, pow artstyle
 097a6c2e, 植物|动物
+097e0a8a, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc
 09bcb72f, guofeng|chinese|bokeh|silk dress
 09d7878a, pixarstyle
 0a4320df, dalcefo
@@ -87,6 +88,7 @@
 0bd9f938, hyperrealistic
 0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
 0c702268, moametal person
+0c91adf8, chinazhengzhou
 0c93a576, name|oumeifeng style|redshift style
 0cdb758d, tea picker
 0e828029, sks woman|(sks woman)
@@ -339,6 +341,7 @@
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 14d36354, duskz1
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
+14e1ef5d, gianthulk, mysteriousCharacter_dreamlike20.ckpt
 14e1ef5d, ginkddd, del2_v1.ckpt
 14e1ef5d, phse, prettyHouseSo_v1.ckpt
 14e1ef5d, sksi, csGOMapGenerator_v1.ckpt
@@ -359,7 +362,8 @@
 17b7e1de, romerorzeternos
 17bb0452, discodifland
 17e77d7e, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo
-1861f018, dskbbb1
+1861f018, dskbbb1, bubbleToysTHEMODEL_1.safetensors
+1861f018, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc, sdartElemental_v1UserTokenVersion.safetensors
 187550ac, 80sanimestyle
 18756300, analog style|modelshoot style|nsfw|nudity
 191173a0, 1
@@ -1002,6 +1006,7 @@
 981d1719, color fur|red fur|orange fur|yellow fur|green fur|blue fur|species gender furry|fursona|anthro|anthropomorphic, sevensMixFurryModel_7thmixV2OrangebakeS.safetensors
 98684a1b, jammin
 98891ea9, an illustration of an isometric city|digital art|highly detailed
+98c37fb6, 美女
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
 9912cb8d, danmumford style
 993f2358, G2FFace, g2fface_01.ckpt
