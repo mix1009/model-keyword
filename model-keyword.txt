@@ -822,6 +822,7 @@
 71b0b5fb, tyznedsk1
 71d46dd0, Bocchi|KitaIkuyo|IjichiNijika|YamadaRyo|IjichiSeika|PAsan|HiroiKikuri|ShimizuEliza|IwashitaShima|Bfan1|BoFa2|GotoFutari
 72644878, evang
+7267c1a1, suzumecat
 727f0812, modelshoot style
 730b9cb5, m_style
 73771530, kazuya
@@ -972,6 +973,7 @@
 8f89e96b, anime pencil concept style
 8fefc581, tk-char|tk-env
 8ffb0774, prilosecotc1|burgie|dskfll
+900b847e, shiny skin
 90203e33, zwx
 90626071, shuimobysim|shukezouma
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
@@ -1033,6 +1035,7 @@
 993f2358, diovasnsc, del2_v2.ckpt
 993f2358, duskfll, duskfallAlters_duskfallAlters05.ckpt
 993f2358, dvarchinteriormodern|dvarchinteriorvictorian|dvarchinteriorgothic, dvarchMultiPrompt_dvarchInterior.ckpt
+993f2358, guttonerd02, guttoNerd02CorpoE_guttonerd02.ckpt
 993f2358, guttonerd1, guttoNerdRostos_guttonerd1.ckpt
 993f2358, guttonerd2, guttoNerdCorpoTodo_guttonerd2.ckpt
 993f2358, ioasdf, krio70_001.ckpt
@@ -1242,6 +1245,7 @@ acfa8753, future style
 ad38c466, silverfox5213|
 ad4470e8, eldmeisterog style|sks style
 ad9d6205, fart62
+ae1f0d66, dskyart1
 ae998e33, DarkSouls Style
 aef3d307, zukki_style
 af571dfc, trending on artstation|8k|ultra hd|1woman
@@ -1529,6 +1533,7 @@ e54d70c5, nsfw|sfw
 e5541f03, by Jean Leon|oil painting, jeanLeon0Ckpt_.ckpt
 e5541f03, midjourneyi, 21SDModernBuildings_midjourneyBuildings.ckpt
 e5787969, ratatatat74
+e5d0d591, shiny skin
 e5e811ce, pixelart|#pixelart
 e5ed66c6, mdjrny-v4 style
 e6184e6b, sks woman|(sks woman)|((sks woman))
