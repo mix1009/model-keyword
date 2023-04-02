@@ -400,6 +400,7 @@
 1f258730, dbluth
 1f27bb0e, sks woman
 1fb30a55, aimoji
+20225e21, movie|cg
 202360be, by b-ginga, bGingaModel_bgingaV1130k.safetensors
 202360be, by chon, chonModel_chonV19k.safetensors
 202360be, by hanaarare, hanaarareModel_hanaarareV15k.safetensors
@@ -682,6 +683,7 @@
 58819dc1, anime|realistic|masterpiece|best quality
 5896f8d5, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 59139221, man s4ntos
+5942a771, xyz
 59724734, IconsMi
 5998441b, redshift style|seconddusk
 5a1ae211, by kaisen chuui
@@ -804,6 +806,7 @@
 6d9fa060, 2d dnd battlemap
 6e199947, rfktrstyle
 6ea179f4, mobian or sonic character name
+6ed90084, photorealistic
 6efa7caf, dreamlikeart
 6eff939c, sks person
 6f4ab0a0, duskgem|jem and the holograms
@@ -1350,6 +1353,7 @@ c37cd72c, blurry background|depth of field
 c3b103e8, lvmd aesthetic|3d render
 c3cfd75d, powa
 c44bb585, duskametrick15
+c49a4c5c, photorealistic
 c4b23842, albumcover
 c4d39ec6, massakasma
 c4e365bf, lightroom red:34% blue:53% green:43% filmgrain_minimal|texture:+25%|clarity: +40%|Contrast:+4%|shadows: +11%|sharpen:70%
@@ -1495,6 +1499,7 @@ dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|sn
 e01546fb, cornflower
 e02601f3, galaxy|nebula|hubble|space|stars|globular galaxy|black hole|pillars of creation, stellarDiffusion_02.ckpt
 e02601f3, guohua style, guohaDiffusion_v1.ckpt
+e02601f3, interior design, xsarchitectural_v10interiordesignforxs.ckpt
 e02601f3, photo of ohwx woman, janLevinsonMeloraHardin_6kSteps.ckpt
 e02601f3, rurudo, rurudo_v10.ckpt
 e02601f3, sks lucy, lucyFromCP_v1.ckpt
