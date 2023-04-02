@@ -364,6 +364,7 @@
 17bb0452, discodifland
 17e77d7e, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo
 1861f018, dskbbb1, bubbleToysTHEMODEL_1.safetensors
+1861f018, elem flowers|fire|water|earth|air|multielem, sdartElemental_v2ClassicVersion.safetensors
 1861f018, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc, sdartElemental_v1UserTokenVersion.safetensors
 187550ac, 80sanimestyle
 18756300, analog style|modelshoot style|nsfw|nudity
@@ -878,6 +879,7 @@
 7c83b897, monochrome
 7c8eef56, analog style|chromav5|nvinkpunk
 7cb76003, poolsuite style
+7d4239bf, elem flowers|fire|water|earth|air|multielem
 7d6c3acc, photorealistic
 7e67267b, eldmeisterOG
 7e8d1b0b, coralchar
@@ -1565,6 +1567,7 @@ ed977a93, tlw, trihighsDreambooth_v31.ckpt
 eda3e3ec, carbon|duochrome|holographic, neurogenV11_v11.safetensors
 eda3e3ec, close-up|portrait photo|raw|ultra macro, neurogenV11_v10.safetensors
 eda667c4, chaingirldark style
+edda855e, none
 edf5c25b, sks woman
 ee5b91da, ligne claire
 ee624815, xmascookie
