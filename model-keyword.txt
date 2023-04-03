@@ -724,7 +724,7 @@
 5fb8c5f9, sks man
 5fc312dd, newvegaschar
 5fd78ac3, laolei style
-600db6b8, gerdbaier, grattlerDiffusion_v1.safetensors
+600db6b8, gerdbaier, grattlerDiffusionViper_v1.safetensors
 600db6b8, rainerwinkler, winklerDiffusion_v1.safetensors
 606224fd, groo_the_wanderer
 6076842b, nvinkpunk|dreamlikeart|samdoesart|kuvshinov
@@ -769,6 +769,7 @@
 670c1702, photo of rafivai person
 673ca4ea, modelshoot style
 6785492c, nier9s
+67e8a0ae, analog style|dreamlikeart|knollingcase|modelshoot style|elden ring style|bf|sci-fi
 68120148, ashenhard style
 682ba7df, irmntro person
 685ff1cd, soft_lighting|soft_skin_tone|feminin_hair|white background|simple background
