@@ -571,6 +571,7 @@
 3f76682f, Anime|manga|cartoon
 4003fb6f, by kurige
 40ada8c2, watercolor
+413c9e87, best quality|tifa lockhart _cosplay_|aqua eyes|black hair|closed mouth|outdoors|solo|allur|ultra detailed|8k|hdr|octane render|unreal engine 5|amazing depth|rich colors|powerful imagery|psychedelic overtones|4k|8k.
 416a7f7c, dreamlikeart
 4192fc16, kurzgesagt style
 41d721c0, swpunk|synthwave|paint splatters
@@ -979,6 +980,7 @@
 8ffb0774, prilosecotc1|burgie|dskfll
 900b847e, shiny skin
 90203e33, zwx
+90501ecf, mechanical arms
 90626071, shuimobysim|shukezouma
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
 910fb637, btdmnky, stableBTD6_btd6.ckpt
@@ -1249,6 +1251,7 @@ acfa8753, future style
 ad10f3a2, irmntro person
 ad38c466, silverfox5213|
 ad4470e8, eldmeisterog style|sks style
+ad53ab6f, comic book style|comic book wallpaper|illustration
 ad9d6205, fart62
 ae1f0d66, dskyart1
 ae998e33, DarkSouls Style
@@ -1506,6 +1509,7 @@ dfafd600, duskametric15|microworld
 dfb90adf, by kyoani
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 e01546fb, cornflower
+e02601f3, bird 's-eye view|super tall buildings|modern buildings, xsarchitecturalV1Aerial_v11.ckpt
 e02601f3, galaxy|nebula|hubble|space|stars|globular galaxy|black hole|pillars of creation, stellarDiffusion_02.ckpt
 e02601f3, guohua style, guohaDiffusion_v1.ckpt
 e02601f3, interior design, xsarchitectural_v10interiordesignforxs.ckpt
