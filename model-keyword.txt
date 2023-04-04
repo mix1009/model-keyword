@@ -471,6 +471,7 @@
 2a68cd03, pattern
 2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 2b059ac7, fldsky1
+2b066feb, mmk
 2b694ba7, modelshoot style|nousr robot
 2b95dd0a, polumna
 2bb2342e, rotoscopee
@@ -855,6 +856,7 @@
 7665f8c3, itrobo2022
 7675f1a1, stilovintedois
 767f517f, dmmid style
+76956df2, guttonerdvision1
 76c86ec0, modelshoot style|swpunk|synthwave|paint splatters
 76e59a65, sincity_iamyork
 771880e5, 82pigeon style|akai sashimi style|algae makku style|belko style|braveking style|chocofing style|dako style|esuna style|evaaviva style|fengweic style|gomennasai style|hitokomoru style|ibukichi style|ishikei style|jidao style|junc style|khyle style|kyuyongeom style|lam style|lovecacao style|mamamba style|matcha style|mdastarou style|melanbread style|melodyoflost style|mikapikazo style|morry style|murata range style|naruko hanaharu style|navigavi style|rei 17 style|rupid style|scottie style|spacezin style|tahra style|timrougami style|tira style|tsutomu style|uekura eku style|xiayu style|yi1zhi style|yomu style|yoneyama style|yoshio style|yueko|lunachan
@@ -1119,6 +1121,7 @@
 a06436da, wtrcolor style
 a0b3a1c3, sphx weapon
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
+a0f4bc4a, Macro
 a149572b, CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDark|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld, charhelperFineTuned_fineTunedV1.safetensors
 a149572b, chv3cbigchief|chv3cboxer|chv3sworld|chv3sscifi|chv3smacro|chv3scute|chv3slighthouse|chv3seldritch|chv3surban|chv3sdark|chv3calien|chv3crogue|chv3creaper|chv3ctroll|chv3cvehicle|chv3cbarb|chv3cwizard|chv3cknight|chv3mdragon|chv3czombie|chv3cbird|chv3crobot|chv3csamurai|chv3ccyberpunk|chv3cgolem|chv3cganesh|chv3curban|chv3corc, mangledMerge_v2.safetensors
 a149572b, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle, charhelperFineTuned_charhelperV3.safetensors
@@ -1262,6 +1265,7 @@ ad9d6205, fart62
 ae1f0d66, dskyart1
 ae998e33, DarkSouls Style
 aef3d307, zukki_style
+af44b653, mmk
 af571dfc, trending on artstation|8k|ultra hd|1woman
 af5f6f0b, satellite image of oeax location|mapsatimageeu|gamelandscapeheightmap512
 afc6eaf9, Oldjourney
@@ -1275,6 +1279,7 @@ b1aa0d33, nauskaavalofw
 b1b6cc01, none|just prompt
 b1b9d236, furrender style
 b1c32576, anime pencil concept style
+b1df6170, realistic
 b1f4f421, 1girl
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
