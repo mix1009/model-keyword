@@ -378,6 +378,7 @@
 1a9cb0c9, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
 1ad16feb, multiarm
 1af66ab9, fntsy1
+1b08178f, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
 1b30cc76, eva123xyzmendes
 1b51225c, ClaymationXmas, claymationXmas_sd2.ckpt
 1b51225c, Mosaic Art, mosaicArt_v2768.ckpt
@@ -713,6 +714,7 @@
 5cc1bba0, style of ohwx
 5cc9b7ba, modelshoot style
 5d39b377, rainey|rainey style
+5d63c8cd, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
 5d83b27c, nvinkpunk|snthwve style|style of joemadureira
 5d9bafca, 2d dnd battlemap
 5da13f38, rfktrstyle
@@ -1063,6 +1065,7 @@
 993f2358, meitu, animatedDreams_1.ckpt
 993f2358, microworld, microworldsRemake_version3.ckpt
 993f2358, miniwool, miniwool_1.ckpt
+993f2358, mjv5|food photography|portrait|interior design photography|achitecture photography, vitalityMidjourneyV5_v10.ckpt
 993f2358, neonskiesai, neonskiesai_V10.ckpt
 993f2358, nerdfusao1, guttoNerdfusO1_nerdfusao1.ckpt
 993f2358, nerdfusao2, nerdFusao2_.ckpt
@@ -1395,6 +1398,7 @@ c6211d26, bedroomai
 c6bb6991, hearthstone card
 c76b8b8e, sks woman
 c79ac359, lqt
+c7b28773, wvebg1
 c7ff699d, anipoma1
 c86334f5, itojunji style
 c8796e4b, tk_char|tk_env
