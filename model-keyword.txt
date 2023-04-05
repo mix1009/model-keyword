@@ -348,6 +348,7 @@
 14e1ef5d, sksi, csGOMapGenerator_v1.ckpt
 14e1ef5d, swpunk|synthwave|paint splatters, synthpunkSearch_raw.ckpt
 14fe5bd7, nousr robot
+150ed84f, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 151f0afb, @Spirited, spiritedAwayGeneralModel_Spirited.ckpt
 151f0afb, mobian, sonicdiffusion_v2Anything.ckpt
 15254b92, analog style|chromav5|nvinkpunk
@@ -1121,7 +1122,8 @@
 9ede614e, 80's anime style
 9ef9f138, gigafractal artstyle
 9f195bbc, blackphoto|1girl
-9f45927e, vae|kl-f8-anime2
+9f45927e, Comic Style|Illustration|Line Art|Comic Poster|Realistic, kl-f8-anime2.ckpt
+9f45927e, vae|kl-f8-anime2, klF8Anime2VAE_klF8Anime2VAE.ckpt
 9f59a736, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog
 9f675a83, ClaymationXmas
 9f856288, aniscreen|amityblight|edalynclawthorne|emperorbelos|gusporter|huntergoldenguard|lilithclawthorne|luznoceda|rainewhispers|thecollector|willowpark|kingclawthorne
@@ -1408,6 +1410,7 @@ c8e3bfca, AnimeChan Style
 c91be480, Dloz|Dloz style
 ca4fcc12, snnmrn|snnmrn woman
 ca682192, sjh style
+cadfbc28, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 caea14ad, lvngvncnt
 cb144970, by k-suwabe
 cb3c351a, 1girl，|chinese clothes|best quality|masterpiece|1boy
@@ -1505,6 +1508,7 @@ dab3bb51, marblesh|marblee|marblee style
 daecbd84, FleischerStyle
 db10a0ee, sks woman
 db1c462d, luna
+db470e5e, I don't know.
 db5960c1, OOKZA Vampire Style
 dc05355d, sksi object|sksi
 dccb4eb7, head
