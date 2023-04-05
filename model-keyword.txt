@@ -427,6 +427,7 @@
 202360be, by vima, vimaModel_vimaV13k.safetensors
 205e0248, fking_scifi_v2
 208f75ce, lamia
+20c6a837, Nvinkpunk|samdoesarts
 218cee5d, mksks style|detailed background
 219cbfe8, RKart style
 2206906b, guofeng|chinese|bokeh|silk dress
@@ -947,6 +948,7 @@
 8687d7a5, samdoesarts style
 868fceae, phtdzk1
 86ac0981, CreatureChan Style
+86baad27, daizu
 872bdd84, zedra1 girl
 879054f9, portrait style|selfie photo|casting photo full shot naked|rlfce realistic person|fkfce fake person|closeup photo face
 87c5d24e, dra|vinyl record cover|12-inch|electronic|<decade> album cover|the designers republic
@@ -1112,6 +1114,7 @@
 9ed4ea56, Oldjourney
 9ede614e, 80's anime style
 9ef9f138, gigafractal artstyle
+9f195bbc, blackphoto|1girl
 9f45927e, vae|kl-f8-anime2
 9f59a736, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog
 9f675a83, ClaymationXmas
@@ -1197,6 +1200,7 @@ a7e848cb, 90902k, krio70_002.ckpt
 a7e848cb, SJstyle, createASJStyleMask_beta.ckpt
 a7e848cb, Syrdrin|Syrdrin style, syrdrinSciFi_syrdrinV1.ckpt
 a7e848cb, analog style|a photo of mary elizabeth winstead, maryElizabeth_v1.ckpt
+a7e848cb, pimploy|thai model, pimploy_V10.ckpt
 a7e848cb, vffxxdx, model2_v1.ckpt
 a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 a8372572, wooditize
