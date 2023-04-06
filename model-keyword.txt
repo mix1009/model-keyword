@@ -1082,6 +1082,7 @@
 993f2358, test no download, testNoDownload_1.ckpt
 993f2358, test, test_1.ckpt
 993f2358, tester, terter_1.ckpt
+993f2358, vlozhkin, vlozhkin_v10.ckpt
 994784b1, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 99581f75, borderlands|stbtc|stbcf|telltale style
 99af29f7, archer style|arcane style|modern disney style
@@ -1100,6 +1101,7 @@
 9b69308b, mangadusk1
 9b83a557, cmodel|clayitization|cbzbb|oldjourney|classicnegative|concept-art|redshift style|by vector-art|pulp-diffusion|chv3czombie|chv3calien|chv3cbird|chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3slighthouse|chv3scute|chv3smacro|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 9ba8ee98, lisafrankstyle
+9bafcbb4, lunachan
 9bbd3657, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 9bdc6717, none|just prompt
 9c3572e7, realistic|best quality|masterpiece
