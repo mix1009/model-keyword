@@ -798,7 +798,6 @@
 6a125b7f, pow style|sometimes8916|526christian2526|akumetsu9719982|andretheapache9587|bitspirit31653|bwm_nubby6416|crazykazoo2431|eppinette-chi6220|espasmo9486|flowwolf4607|guizmus7459|h20_dancing8979|horvallis7915|jeremy6194|jrw19948464|junglerally3955|max headroom6734|meezy1963|millennium_gun6377|munkyfoot7944|nerfgun37508|nicogj2781|noofthebeast8209|omnia2931|owleye1290|phaff1970|piscabo8649|ras6722|residentchiefnz6989|rhapsody8685|satyam_ssj107387|tazi2574|trash--panda6213|valanya6869|vcm077281|vil0404|wpatzz5836|xthisisbotoxx8765
 6ab06e33, Tifa Lockhart|Cloud Strife|Barret Wallace|aerith gainsborough|midgar city|midgar city business district|midgar city slums district|biggs ff7r|wedge ff7r|jessie rasberry|inside seventh heaven bar|shinra security officer|in the style of midgar city
 6ac8f9dc, sks person|(sks person)
-6ad1c601, aodai|cotrang
 6ae1720a, in the artstyle of dd
 6b3ac2d3, 3dmdt1
 6b4688c7, modelshoot style|nousr robot
@@ -1501,7 +1500,7 @@ d9e8b72c, 3d render|3d cartoon
 da02d76b, HarryPotterStyle
 da1b42e0, sks woman|(sks woman)
 da3d89ca, sks
-da5ea365, aodai|cotrang|mai blossom
+da5ea365, aodai|cotrang|mai blossom|mai
 dab15164, BLoMDress, model1_ver2.ckpt
 dab15164, hestyle, hestylev15Rooms_v15.ckpt
 dab15164, microworld, microworldsRemake_version2.ckpt
