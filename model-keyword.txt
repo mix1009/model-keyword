@@ -51,6 +51,7 @@
 048f8871, dalcefo
 04a81662, official art|yu-gi-oh!
 04baab99, a 3d render of|a 3d cartoon of
+0586db75, cornflower
 05e6c91b, by kokuto
 0655784d, gtav style
 06a9d223, mengersponge|sierpsponge
@@ -364,6 +365,7 @@
 17b7e1de, romerorzeternos
 17bb0452, discodifland
 17e77d7e, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo
+1848190c, sd-pulp|dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories
 1861f018, dskbbb1, bubbleToysTHEMODEL_1.safetensors
 1861f018, elem flowers|fire|water|earth|air|multielem, sdartElemental_v2ClassicVersion.safetensors
 1861f018, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc, sdartElemental_v1UserTokenVersion.safetensors
@@ -718,6 +720,7 @@
 5d39b377, rainey|rainey style
 5d63c8cd, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
 5d83b27c, nvinkpunk|snthwve style|style of joemadureira
+5d8c0b76, by KyoAni
 5d9bafca, 2d dnd battlemap
 5da13f38, rfktrstyle
 5da2da2e, mdj style
