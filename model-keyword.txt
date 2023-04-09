@@ -197,6 +197,7 @@
 0eb3318b, cosmicspiders, djzCosmicSpiderV21_v21768.safetensors
 0eb3318b, cryopod, djzCryoPod_v21768.safetensors
 0eb3318b, cthulucult, djzCthuluCult_v21.safetensors
+0eb3318b, cubiccubism, djzCubismCubed_v21.safetensors
 0eb3318b, cubicsingularity, djzCubicSingularity_v21.safetensors
 0eb3318b, cutawayseventy, djzCutawaySeventy_v21.safetensors
 0eb3318b, cyberangels, djzCyberAngelsV21V15_v21768.safetensors
@@ -205,6 +206,7 @@
 0eb3318b, darknesseighties, djzDarnessEighties_v21768.safetensors
 0eb3318b, ddracing, djzDDRacing_v21.safetensors
 0eb3318b, ecocomputer, djzEcoComputer_v21.safetensors
+0eb3318b, endgate, djzEndgate_v21.safetensors
 0eb3318b, endtimesfuturism, djzEndtimesFuturism_v21Light.safetensors
 0eb3318b, endtimesninja, djzEndtimesNinja_v21.safetensors
 0eb3318b, energyadonis, djzEnergyAdonis_v21.safetensors
@@ -245,6 +247,7 @@
 0eb3318b, neonolympus, djzNeonOlympus_v21.safetensors
 0eb3318b, neonpeaks, djzNeonPeaks_v21.safetensors
 0eb3318b, neontreehouse, djzNeonTreehouse_v21.safetensors
+0eb3318b, neverlate, djzNeverLate_v21.safetensors
 0eb3318b, oceanicrealms, djzOceanicRealms_v21.safetensors
 0eb3318b, oceanicrim, djzOceanicRim_v21.safetensors
 0eb3318b, oceanspectrum, djzOceanSpectrum_v21768Heavy.safetensors
@@ -254,6 +257,7 @@
 0eb3318b, photoniccloning, djzPhotonicCloning_v21.safetensors
 0eb3318b, photonictech, djzPhotonicTech_v21.safetensors
 0eb3318b, pixelart, pixhell_v10.safetensors
+0eb3318b, pixelpc, djzPixelPc_v21.safetensors
 0eb3318b, planetstain, djzPlanetStain_v21768Light.safetensors
 0eb3318b, postercubes, djzPosterCubes_v21.safetensors
 0eb3318b, postergeo, djzPosterGeo_v21.safetensors
