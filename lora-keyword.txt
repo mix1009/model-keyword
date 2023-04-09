@@ -7315,6 +7315,7 @@ de2f2560, shun (blue archive)|shun (small) (blue archive), shunBigAndShunSmallBl
 de2f2560, sinder, sinderVtuber_vtsinder.safetensors
 de2f2560, slap mark, conceptSlapMark_v10.safetensors
 de2f2560, smjupiter|smjupiteroutfit, sailorJupiterSailor_v10.safetensors
+de2f2560, snuffy, snuffySmilfy_v10.safetensors
 de2f2560, soldier (dq3)|bikini armor|winged helmet|red armor, soldierDragonQuest_v10.safetensors
 de2f2560, sophia fe, sophiaFireEmblem_v10.safetensors
 de2f2560, sora, sora_v1.safetensors
