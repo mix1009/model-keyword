@@ -486,6 +486,7 @@
 2be73e30, by b-ginga
 2cc9e101, pixarstyle
 2cd4cf48, sjh style
+2ce026e5, photorealistic
 2cee5111, intjpastel
 2cf88589, irmntro person
 2d447b0f, tk-char|tk-env
@@ -574,6 +575,7 @@
 3e008b4d, bethharmon
 3e832815, kochergin
 3eac54e3, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
+3ede1968, analog|photography
 3ee44953, lwmn man
 3ee7d195, yoshin style
 3f095502, mdjrny-shttr
@@ -587,7 +589,9 @@
 4192fc16, kurzgesagt style
 41d721c0, swpunk|synthwave|paint splatters
 41fef4bd, nousr robot
+4207b96d, Nothing
 420cb71f, datou|white background|solo|upper body:1.5|
+42279ad8, claymation|80's anime style
 425952fe, dalcefo
 4283ebdc, GOLDENGLASS|MAXWELL THE CAT|POKEMODEL|ChromaV5
 428509f3, meitu|sailor moon style|anime style|manga
@@ -598,6 +602,7 @@
 436dd50e, 3d product render|product render
 439f64ec, midjourney model 1.5v|model v1.5, warriorGirlOfArmorSD_armorGirlWarrior.ckpt
 439f64ec, realistic|all|photorealistic|fantasy, modelMovieRealistic_v20.ckpt
+43a5955f, photorealistic
 4449cdac, samdoesarts
 445461df, fking_scifi_v2
 44bf0551, booru tags
@@ -721,6 +726,7 @@
 5c7e6e88, 80sfashionrobot, 80sfashionrobot_v10.ckpt
 5cc1bba0, style of ohwx
 5cc9b7ba, modelshoot style
+5d2a695e, sdclrdrk style
 5d39b377, rainey|rainey style
 5d63c8cd, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
 5d83b27c, nvinkpunk|snthwve style|style of joemadureira
@@ -913,6 +919,7 @@
 7d4239bf, elem flowers|fire|water|earth|air|multielem
 7d6c3acc, photorealistic
 7e67267b, eldmeisterOG
+7e6c193b, Real|realistics
 7e8d1b0b, coralchar
 7edc8e08, mksks style
 7f62d94b, VoxelArt
@@ -995,6 +1002,7 @@
 8d9aaa54, nvinkpunk
 8d9f015b, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 8e121fec, none
+8e145533, claymation|80's anime style
 8e194b43, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 8e9d93c1, lamia
 8ea93b04, girl
@@ -1401,6 +1409,7 @@ c3277c7d, modelshoot style
 c32814de, hellraiser
 c3466734, by t6
 c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
+c361dd5f, tiny
 c37cd72c, blurry background|depth of field
 c3b103e8, lvmd aesthetic|3d render
 c3cfd75d, powa
@@ -1429,6 +1438,7 @@ ca4fcc12, snnmrn|snnmrn woman
 ca682192, sjh style
 cadfbc28, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 caea14ad, lvngvncnt
+cafd0b18, analog|photography
 cb144970, by k-suwabe
 cb3c351a, 1girl，|chinese clothes|best quality|masterpiece|1boy
 cba4df56, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
@@ -1649,6 +1659,7 @@ ef6ecf6d, alloldrpgarts1
 f05f9963, lisafrankstyle
 f0803e20, sjh style
 f098482b, masterpiece|best quality|ultra-detailed|illustration|an extremely delicate and beautiful|dynamic angle|floating|beautiful detailed eyes|bright eyes|detailed light|solo|
+f22d0019, PiroxiumDiffusion style
 f22ff389, trixiemattel drag queen
 f2635ceb, mhdolls
 f2676846, anime|manga|cartoon
@@ -1674,6 +1685,7 @@ f5b84ac3, Shataki
 f5bf5a19, SDArt
 f5d9c703, snthwve style
 f6239527, brtdrpp
+f69b7a31, Nothing
 f6a9004f, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 f6b4b362, newhorrorfantasy_style
 f6ca0e2b, comicmay
