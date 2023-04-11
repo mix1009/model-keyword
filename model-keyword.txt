@@ -71,7 +71,8 @@
 096596d8, pow artstyle
 097a6c2e, 植物|动物
 097e0a8a, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc
-09bcb72f, guofeng|chinese|bokeh|silk dress
+09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
 09d7878a, pixarstyle
 0a4320df, dalcefo
 0ae9e220, goosebumps art by tim jacobus
@@ -657,6 +658,7 @@
 4dff2fdc, kazuma_kaneko
 4e4a0067, polumna
 4e7736b5, designmeld|design|stunning|album cover|chrometype|japparii|m0.studio|manuals|foxrocket|gs.aya|mkalabic|josephmelhuish|designbysalome|alexvxvxvxvx|fkkwu|hellorabbitdesign|hvnt.ter|ivndrr|mateo.mace|nisheink|obby.jappari|sometimes__always|behance|iamcollaps|swissgraphic|grafikfeed
+4e80d0e0, masterpiece|best qualtiy|ultra high res|RAW photo|intricate details|soft lighting|portrait
 4ef65125, warrior
 4f124f15, model|anime
 4f3ec643, rlcrtn
@@ -1057,6 +1059,7 @@
 962c3253, anisenti88
 96e9bd73, art by yaguru magiku
 972c5030, gendigi
+975b2546, 80's anime style
 97777800, swpunk|synthwave|paint splatters
 978e9ff8, h4zza
 979864ce, meowskulls
@@ -1128,6 +1131,7 @@
 9b5251e8, muppet|kermit|cookie monster|drummer muppet|Miss. Piggy|sesame street|Elmo, muppets_sd15MuppetBlip.ckpt
 9b5926f8, celebrity
 9b69308b, mangadusk1
+9b757411, detailed_skin|skin|green_skin|dark_skin|blue_skin|red_skin|brown_skin|pink_skin|veiny_skin|veins|mole|moles|freckles|wet_skin|grey_skin|pores
 9b83a557, cmodel|clayitization|cbzbb|oldjourney|classicnegative|concept-art|redshift style|by vector-art|pulp-diffusion|chv3czombie|chv3calien|chv3cbird|chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3slighthouse|chv3scute|chv3smacro|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 9ba8ee98, lisafrankstyle
 9bafcbb4, lunachan
