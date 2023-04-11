@@ -456,6 +456,7 @@
 2386519a, 树|印象派|抽象
 2402f7e7, lamia
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+250e12ad, humanoid robot
 250eb705, watercolor
 254fb5cd, hasanpiker person
 258f79e3, stylized game icon|sci-fi|steampunk|spell
@@ -718,6 +719,7 @@
 5942a771, xyz
 59724734, IconsMi
 5998441b, redshift style|seconddusk
+59aa3b7d, humanoid robot
 5a1ae211, by kaisen chuui
 5a1e4b93, coralchar
 5a1eeb22, m_wlop
@@ -918,6 +920,7 @@
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
 7ad31fc7, none
 7b62be5f, empress
+7b70e8f9, sam yang
 7b8aff9d, Pokemon
 7b9572be, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 7bfb80d6, sks style
@@ -996,6 +999,7 @@
 8a5302eb, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
 8a648075, sks jinx|jinx
 8a697671, yorha2b
+8a7088c5, JzzyeonAi_v5
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
 8ae4d0fb, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
 8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle
@@ -1219,6 +1223,7 @@ a516c7c0, rotungwoka person
 a5183478, art by better with salt|kipteitei|woot
 a55d4071, wgz style
 a5c134f5, Blck_Mrbl, floralmarbleWOKE_EDITION.ckpt
+a5c134f5, battlemap|dungeon|outdoor, dDBattlemaps_1024V10.ckpt
 a5c134f5, classicnegative, classicNegativeSD21_classicNegative768px.ckpt
 a5c134f5, clayitization, jaksClayitization_clayitizationSd21.ckpt
 a5c134f5, dblxp, doubleExposurePhoto_doubleExposurePhoto.ckpt
@@ -1420,6 +1425,7 @@ c1582649, dmmid style
 c1589bf7, vapodusk1|wvert1|paint splatters|swpunk|mdjrny-pntrt|synthwave|dskyart1
 c16a2a6b, wjqfrottage
 c1a72459, girl
+c203ddb4, sam yang
 c230a4e3, AK-47-Asiimov|AK-47-Gold-Arabesque|AK-47-Hydroponic|AK-47-Neon-Rider|AK-47-Vulcan|AK-47-X-Ray
 c25693d5, best quality
 c3277c7d, modelshoot style
@@ -1684,6 +1690,7 @@ f22d0019, PiroxiumDiffusion style
 f22ff389, trixiemattel drag queen
 f2635ceb, mhdolls
 f2676846, anime|manga|cartoon
+f26b7ad6, sam yang
 f287b25e, agp
 f2b82853, junobirch drag queen
 f2ca12bd, zombie_vector
