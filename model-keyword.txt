@@ -672,6 +672,7 @@
 510c4b84, dal
 510c5845, modelshoot style|nousr robot
 5141b47d, loli
+514a1db3, rcnz_hqr
 515a5199, circetorre
 51748799, analog style|modelshoot style|nsfw|nudity
 518d78a0, 35mmstyle
@@ -1036,6 +1037,7 @@
 916ea38c, pixelsprite|16bitscene
 91cf8f7b, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 91ec9ea6, dwspop style|dwspop space|dwspop forest|dwspop landscape
+920e21fa, rcnz_hqr
 9256ed1a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
 92c083af, redshift|nvinkpunk|lndskp
 92cf4ceb, nayeonnine
@@ -1580,6 +1582,7 @@ dfafd600, duskametric15|microworld
 dfb90adf, by kyoani
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 e01546fb, cornflower
+e02601f3, XSWB, xswbsinglewoodenbuil_v10.ckpt
 e02601f3, architecture|architectural, xsarchitecturalv1com_v12.ckpt
 e02601f3, bird 's-eye view|super tall buildings|modern buildings, xsarchitecturalV1Aerial_v11.ckpt
 e02601f3, galaxy|nebula|hubble|space|stars|globular galaxy|black hole|pillars of creation, stellarDiffusion_02.ckpt
@@ -1601,6 +1604,7 @@ e24a9c03, 2d|masterpiece|best quality|anime
 e2b8b39c, sks person
 e2d2e2c3, irmntro person
 e35930da, rachelwalker style
+e35af7e4, 1girl|dynamic angle|dynamic pose|chinese style architecture|hanfu
 e37a18ee, evang
 e3ad5893, dskyart1|gendigi
 e3af0732, btywtrclr
