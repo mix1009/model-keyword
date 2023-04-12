@@ -485,6 +485,7 @@
 29bfa344, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 2a3e365b, arcane style
 2a68cd03, pattern
+2a747832, SDArt
 2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 2b059ac7, fldsky1
 2b066feb, mmk
@@ -955,6 +956,7 @@
 81b68188, tk_env|tk_char
 81da0383, dvOldWorld
 81f23ca9, worst quality|lowres|easynegative|hermaphrodite|cropped|not in the frame|additional faces|jpeg large artifacts|jpeg small artifacts|ugly|tiling|poorly drawn hands|poorly drawn feet|poorly drawn face|out of frame|extra limbs|disfigured|deformed|body out of frame|blurry|bad anatomy|blurred|watermark|grainy|signature|cut off|draft|not finished drawing|unfinished image|bad eyes|doll|3d|cartoon|bad eyes:1.2|worst quality:1.2|low quality:1.2|bad-image-v2-39000|bad_prompt_version2:0.8
+81f77d29, HARDblend
 8206821b, woman
 820c4a3e, by sy4
 822b8799, pepestyle person
@@ -1310,6 +1312,7 @@ abb47775, sks woman
 abce398b, arthx
 ac039af9, 90s retro anime style|xx year anime style
 ac25001a, fwatch style
+ac5d425b, SDArt
 ac6c89d0, dublex
 ac7a27ad, john walker lee
 ac87c248, abstractswirls
@@ -1549,6 +1552,7 @@ d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
 d84b15d9, none
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
 d89bc06c, m
+d90a034f, yuzu$style
 d947f2cd, jisoo
 d9761e1d, ashenhard style
 d9aa872b, food_crit
@@ -1754,6 +1758,7 @@ fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
 fb8354fa, kpt digital artstyle|gui
 fbaed9a3, dskyart1|deetz1
 fbb35184, mapsatimageeu
+fbb41c12, See description
 fbd89929, girl
 fbf5d1b5, sks place
 fc151a15, reasonabledrink
