@@ -325,6 +325,7 @@
 12ec3add, glock|pistol
 1351eaf1, cgi|cgi style
 13a6777c, modelshoot style|nousr robot
+13c3e49f, collage style
 1400e684, Airlock, djzAirlockV21768V21512_v15.safetensors
 1400e684, Ascendents, djzAscendentsV21V15_v15.safetensors
 1400e684, ChaoticSphere, djzChaoticSpheresV21_v15.safetensors
@@ -1571,6 +1572,7 @@ dd539c7c, dsktaro1
 dd74bb1c, gilgamesh|1boy
 dd95fcaf, wabori|tatoo
 ddc6edf2, mdjrny-v4 style
+dde11c1e, smitsv
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV20_v13.safetensors
@@ -1630,6 +1632,7 @@ e5541f03, by Jean Leon|oil painting, jeanLeon0Ckpt_.ckpt
 e5541f03, midjourneyi, 21SDModernBuildings_midjourneyBuildings.ckpt
 e56b39fb, <lora:koreandolllikeness_v15:0.7>|ultra detailed|raw photo|best quality|realistic:1.2|1 korean|16k|realistic photography|professional color graded|physically based rendering|highres|b-cup|hair wave|suwon hwaseongmun gate|front|casual suit|f 2.4|35mm
 e5787969, ratatatat74
+e5afc733, zrpgstyle
 e5d0d591, shiny skin
 e5e811ce, pixelart|#pixelart
 e5ed66c6, mdjrny-v4 style
