@@ -276,6 +276,7 @@
 0eb3318b, rivervalley, djzRiverValley_v21.safetensors
 0eb3318b, robotwars, djzRobotWars_v21.safetensors
 0eb3318b, scuffedrobotics, djzScuffedRobotics_v21.safetensors
+0eb3318b, sdn, terokNor_320.safetensors
 0eb3318b, sevenwonders, djzSevenWonders_v21768.safetensors
 0eb3318b, shogunnobody, djzShogunNobody_v21.safetensors
 0eb3318b, siliconpunk, djzSiliconpunk_v21768.safetensors
@@ -1140,7 +1141,8 @@
 9b5251e8, muppet|kermit|cookie monster|drummer muppet|Miss. Piggy|sesame street|Elmo, muppets_sd15MuppetBlip.ckpt
 9b5926f8, celebrity
 9b69308b, mangadusk1
-9b757411, detailed_skin|skin|green_skin|dark_skin|blue_skin|red_skin|brown_skin|pink_skin|veiny_skin|veins|mole|moles|freckles|wet_skin|grey_skin|pores
+9b757411, detailed_skin|pores|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin, eden_v14.safetensors
+9b757411, detailed_skin|skin|green_skin|dark_skin|blue_skin|red_skin|brown_skin|pink_skin|veiny_skin|veins|mole|moles|freckles|wet_skin|grey_skin|pores, eden_v13.safetensors
 9b83a557, cmodel|clayitization|cbzbb|oldjourney|classicnegative|concept-art|redshift style|by vector-art|pulp-diffusion|chv3czombie|chv3calien|chv3cbird|chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3slighthouse|chv3scute|chv3smacro|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 9ba8ee98, lisafrankstyle
 9bafcbb4, lunachan
@@ -1254,6 +1256,7 @@ a7e848cb, SJstyle, createASJStyleMask_beta.ckpt
 a7e848cb, Syrdrin|Syrdrin style, syrdrinSciFi_syrdrinV1.ckpt
 a7e848cb, analog style|a photo of mary elizabeth winstead, maryElizabeth_v1.ckpt
 a7e848cb, pimploy|thai model, pimploy_V10.ckpt
+a7e848cb, shaded, shadedDiffusion_v10.ckpt
 a7e848cb, vffxxdx, model2_v1.ckpt
 a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 a8372572, wooditize
@@ -1380,7 +1383,9 @@ b81c4a6d, source4 style
 b895edc4, mdjrny-v4 style
 b8aba851, 2d|masterpiece|best quality|anime|virtual youtuber|character name:1.2
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
-b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style
+b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargMjstyleV10_v10.safetensors
+b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
+b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style, aargArchitecture_v10.safetensors
 b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
 ba158946, goldenglass
