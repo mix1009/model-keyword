@@ -458,6 +458,7 @@
 2386519a, 树|印象派|抽象
 2402f7e7, lamia
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+24a516fb, tpmpanlab person
 250e12ad, humanoid robot
 250eb705, watercolor
 254fb5cd, hasanpiker person
@@ -643,6 +644,7 @@
 4a0c37d8, supermarionation
 4a2eab64, SDArt|appt|ohwx|asr|aten|fcu|chor|cpec|pfa|kprc|kuro|asot|elis|sill|exe|bsp|grl|hap|byes|lpg|yler|avel|vaw|zaki|ohn|guin|vini|pz|crit|shma|doa|sks|szn|phol|utm|uy|dds|pte|oxi|ynna
 4a3dfda4, p5r style
+4a9c3831, ahrender
 4aef3692, sks woman
 4b327a2e, anime
 4bfacf36, by t6
@@ -753,6 +755,7 @@
 5dbcf115, feralplmr
 5e081326, Matchapix
 5e107da3, ComplexLA style
+5e129afa, PORTRAIT of Dilmurat|Dilmurat|1girl
 5e2f08a1, ltsbbl style
 5e54b264, natsume|1girl
 5eaba4b4, a photo of mabaoguo
@@ -1390,7 +1393,7 @@ b81c4a6d, source4 style
 b895edc4, mdjrny-v4 style
 b8aba851, 2d|masterpiece|best quality|anime|virtual youtuber|character name:1.2
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
-b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargMjstyleV10_v10.safetensors
+b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
 b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
 b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style, aargArchitecture_v10.safetensors
 b9ce768b, tk_env|tk_char
@@ -1479,6 +1482,7 @@ cb144970, by k-suwabe
 cb3c351a, 1girl，|chinese clothes|best quality|masterpiece|1boy
 cba4df56, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 cbdb9b2a, arthur-leywin
+cc11c0ef, masterpiece|best quality|
 cc30ad23, lamia|harpy|centaur|etc....|most mge girls half work
 cc49ac37, bigbadejo alien_monster
 cc5b68d0, lndskp|nvinkpunk|redshift
