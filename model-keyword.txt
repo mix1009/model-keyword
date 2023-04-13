@@ -1594,6 +1594,7 @@ de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
 de2f2560, indoor_lhl, indoorLhl_indoorLhlV10.safetensors
 de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
+de2f2560, mdrga, donRamonMadruga_v10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
