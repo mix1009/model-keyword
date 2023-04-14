@@ -1555,6 +1555,7 @@ d7149094, lnkdn photography
 d7cc8710, manyakis art style|rabbit girl
 d7f82d9e, melkor_manchin art style
 d80ad84b, mdjrny-grfft
+d80b11d2, PORTRAIT of Dilmurat|Dilmurat|1girl
 d843660f, quinn \(league of legends\), quinnFromLeagueOf_quinnNaiMix.ckpt
 d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
 d84b15d9, none
@@ -1590,6 +1591,7 @@ dd74bb1c, gilgamesh|1boy
 dd95fcaf, wabori|tatoo
 ddc6edf2, mdjrny-v4 style
 dde11c1e, smitsv
+de2f2560, 6girls+, theGoldenMirage_v11.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV20_v13.safetensors
@@ -1754,6 +1756,7 @@ f8f043d1, shuimobysim|shukezouma
 f8fb379d, a photo of a sks woman with white hair
 f90e49b9, this model is a mixture
 f946d98c, SDArt
+f9718fa8, realistic|photorealistic
 f97ba63a, phse
 f9c02b32, 100memories
 f9d8ee86, modelshoot style|swpunk|synthwave|paint splatters
