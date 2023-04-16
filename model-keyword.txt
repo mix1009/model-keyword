@@ -21,6 +21,7 @@
 0248da5c, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte, sdartSomething_v2.safetensors
 0248da5c, anipoma1, duskfallsManga_15Final.safetensors
 0248da5c, deetz1, duskfallsSlime_10.safetensors
+0248da5c, digidsk1, digitalFantasyTrained_final.safetensors
 0248da5c, duskametrick15, isometricSD15_05.safetensors
 0248da5c, duskz1, duskfallsIllustration_10.safetensors
 0248da5c, dvarchinteriormodern|dvarchinteriorvictorian|dvarchinteriorgothic, dvarchMultiPrompt_dvarchInterior.safetensors
@@ -57,6 +58,7 @@
 0655784d, gtav style
 06a9d223, mengersponge|sierpsponge
 071b2e26, tk-char|tk-env
+07737b93, hotporn
 079b172e, illustration style kurzgesagtish
 0817babf, sks chessevolved
 081c78a3, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
@@ -375,7 +377,7 @@
 17bb0452, discodifland
 17e77d7e, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo
 1848190c, sd-pulp|dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories
-1861f018, SDArt, sdartFuturistic_v10.safetensors
+1861f018, SDArt, sdartAliceInDiffusion_base15.safetensors
 1861f018, dskbbb1, bubbleToysTHEMODEL_1.safetensors
 1861f018, elem flowers|fire|water|earth|air|multielem, sdartElemental_v2ClassicVersion.safetensors
 1861f018, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc, sdartElemental_v1UserTokenVersion.safetensors
@@ -385,6 +387,7 @@
 194778a2, wkc
 19b72626, analog style|dreamlikeart|redshift style
 19d911b0, djct woman|djct
+19f6cc8a, woman
 1a58ecf4, chaingirldark style
 1a78ec5a, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 1a7d3df5, masterpiece|best quality|anime|realistic|photorealisitc|exceptional|instagram|re-badprompt|nfixer|nfixernext
@@ -538,6 +541,7 @@
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
 34cc3331, close up
 35035503, putinclown
+35133590, person_in_Jar
 35a0bad3, starsectorportrait
 35aa200e, masterpiece|best_quality|ultra_detailed|illustration|volumetric_light|
 35dc3dbf, evang
@@ -547,6 +551,7 @@
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 3747a99f, iayuso person
 37b1ec55, t
+37e5ce18, owhx 3dicon
 37f2669e, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
 3814a52a, surrealsteampunkai
 382d6ed3, sks person
@@ -792,6 +797,7 @@
 63746d4f, rtrophto1
 6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 6414e2dc, liquid splash|papercut|porcelain doll
+6418d85d, person_in_Jar
 643afbd9, Microscopic
 6447d29d, master
 645a42cf, newstl
@@ -827,6 +833,7 @@
 697c8786, orna santa, ornamentalSanta_anythingv30Fp1603.ckpt
 697c8786, orna santa|white hair|golden eyes|beautiful eyes|detail|flower meadow|cumulonimbus clouds|lighting|detailed sky|garden|modern disney style, ornamentalSanta_mergedVersionAnythingv3.ckpt
 69d2ae69, sks woman
+69e00770, detailed_skin|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin
 69ff370e, dreamlikeart
 6a125b7f, pow style|sometimes8916|526christian2526|akumetsu9719982|andretheapache9587|bitspirit31653|bwm_nubby6416|crazykazoo2431|eppinette-chi6220|espasmo9486|flowwolf4607|guizmus7459|h20_dancing8979|horvallis7915|jeremy6194|jrw19948464|junglerally3955|max headroom6734|meezy1963|millennium_gun6377|munkyfoot7944|nerfgun37508|nicogj2781|noofthebeast8209|omnia2931|owleye1290|phaff1970|piscabo8649|ras6722|residentchiefnz6989|rhapsody8685|satyam_ssj107387|tazi2574|trash--panda6213|valanya6869|vcm077281|vil0404|wpatzz5836|xthisisbotoxx8765
 6ab06e33, Tifa Lockhart|Cloud Strife|Barret Wallace|aerith gainsborough|midgar city|midgar city business district|midgar city slums district|biggs ff7r|wedge ff7r|jessie rasberry|inside seventh heaven bar|shinra security officer|in the style of midgar city
@@ -915,6 +922,7 @@
 78825d24, ayanokouji|1boy
 78c98245, shuimobysim|shukezouma
 78d68104, sincity_iamyork
+78d9c09e, digidsk1
 7906524a, cornflower
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
 79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV20_v20.safetensors
@@ -1236,6 +1244,7 @@ a48a2a1b, ghibli style
 a4dbc300, pikachu
 a516c7c0, rotungwoka person
 a5183478, art by better with salt|kipteitei|woot
+a536207b, a painting by mse
 a55d4071, wgz style
 a5c134f5, Blck_Mrbl, floralmarbleWOKE_EDITION.ckpt
 a5c134f5, battlemap|dungeon|outdoor, dDBattlemaps_1024V10.ckpt
@@ -1252,6 +1261,7 @@ a6428756, holliemengert artstyle
 a64b9e1f, sdart|bnp|abia|abit|adl|afs|aon|lpg|apro|nwsl|mth|arl|arum|asar|batt|bios|kuro|blob|bnha|bpd|buda|exe|irgc|buka|buon|cae|cava|ccd|chor|aroa|ccu|cep|clos|urd|crit|cudi|doa|cwgc|ylor|dats|ddc|acu|oxi
 a6590543, mksks style|detailed background
 a69bb214, Oldjourney
+a69f9ce1, best quality|sksTakuya
 a6dbd500, tchnclr
 a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
@@ -1399,6 +1409,7 @@ b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
 b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
 b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
 b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style, aargArchitecture_v10.safetensors
+b9ac173c, SDArt
 b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
 ba158946, goldenglass
@@ -1482,6 +1493,7 @@ cadfbc28, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 caea14ad, lvngvncnt
 cafd0b18, analog|photography
 cb144970, by k-suwabe
+cb1c3003, SDArt
 cb3c351a, 1girl，|chinese clothes|best quality|masterpiece|1boy
 cba4df56, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 cbdb9b2a, arthur-leywin
