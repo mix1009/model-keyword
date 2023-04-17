@@ -409,7 +409,6 @@
 1c348ac5, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
 1c83d3db, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
-1cb68ecd, 1girl
 1d0d03ee, botw style
 1d132f9e, whatif style|tdst style
 1d95bf0b, lamborghinixyz
@@ -550,6 +549,7 @@
 363ee931, microworld|mdjrny-shttr
 36606926, jimjorcraflogo art style|dan mumford style
 366915ea, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
+369da414, 1girl
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 3747a99f, iayuso person
 37b1ec55, t
@@ -1095,7 +1095,8 @@
 975b2546, 80's anime style
 97777800, swpunk|synthwave|paint splatters
 978e9ff8, h4zza
-979864ce, meowskulls
+979864ce, Meowskulls, meowskullsModel_v20.ckpt
+979864ce, meowskulls, meowskullsModel_meowskulls.ckpt
 979de0ab, 2xdrdisrespect
 97db9b40, woolitize
 97e16013, 여자
