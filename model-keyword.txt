@@ -78,6 +78,7 @@
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
 09d7878a, pixarstyle
 0a4320df, dalcefo
+0acd5bea, martianwarlord
 0ae9e220, goosebumps art by tim jacobus
 0aed3741, modelshoot style
 0b02fdb1, Master of everything|photography
@@ -183,6 +184,7 @@
 0eb3318b, ascendents, djzAscendentsV21V15_v21768.safetensors
 0eb3318b, ascendentsoldiers, djzAscendentSoldiersV21_v21768.safetensors
 0eb3318b, ascendentsportrait, djzAscendents_v21.safetensors
+0eb3318b, ascendent|redux|gold|room|gundam|girl, djzAscendentGoldGirl_v21Featureshift.safetensors
 0eb3318b, bakemono, djzBakemono_v21.safetensors
 0eb3318b, balltown, djzBallTown_v21768.safetensors
 0eb3318b, bigbossink, djzBigBossInk_v21.safetensors
@@ -242,6 +244,7 @@
 0eb3318b, kawaiipro, djzKawaiiPro_v21.safetensors
 0eb3318b, liminalspace, djzLiminalSpace_v21.safetensors
 0eb3318b, loneocean, djzLoneOcean_v21768.safetensors
+0eb3318b, martianwarlord, djzMartianWarrior_v21Blip2.safetensors
 0eb3318b, mechalabor, djzMechaLabor_v21.safetensors
 0eb3318b, mechapilot, djzMechaPilot_v21.safetensors
 0eb3318b, midnightdrift, djzMidnightDrift_v21.safetensors
@@ -549,6 +552,7 @@
 363ee931, microworld|mdjrny-shttr
 36606926, jimjorcraflogo art style|dan mumford style
 366915ea, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
+36833c3d, jirai kei|jirai fashion|eye shadow|dark lips|twin tails|fishnet stockings
 369da414, 1girl
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 3747a99f, iayuso person
@@ -1162,6 +1166,7 @@
 9a61c132, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 9ad0f262, masterpiece|best quality|ultra-detailed|illustration|detailed light|an extremely delicate and beautiful|dramatic_shadow|ray_tracing|8-year-old girl|1 girl|fox ears|fox tail|blush|dress|blonde_hair|huge ahoge|two side up|orange eyes|glowing eyes|pigeon-toed|cinematic lighting|style of arknights
 9af8fb8d, guigubahuang
+9b1cddb6, detailed_skin|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
 9b5251e8, flat|high contrast|color, fluentuiEmoji_sd15.ckpt
 9b5251e8, muppet|kermit|cookie monster|drummer muppet|Miss. Piggy|sesame street|Elmo, muppets_sd15MuppetBlip.ckpt
@@ -1491,6 +1496,7 @@ c76b8b8e, sks woman
 c79ac359, lqt
 c7b28773, wvebg1
 c7ff699d, anipoma1
+c823af2a, GGH23 person
 c86334f5, itojunji style
 c8796e4b, tk_char|tk_env
 c88e730a, modelshoot style|analog style|mdjrny-v4 style|nousr robot
