@@ -1173,6 +1173,7 @@
 9ca13f02, analog style
 9ce5cea2, nvinkpunk|snthwve style|style of joemadureira
 9cf9ef13, realistic
+9cfc4e43, SDArt
 9d24e3d5, best quality
 9d7c69e8, photo of skibidibop person
 9d9ea029, fantadsk2
@@ -1236,6 +1237,7 @@ a2a802b2, spiderverse style, spiderVerse_v1.ckpt
 a2a802b2, star guardian neeko, starGuardianNeeko_sgNeekoPvc.ckpt
 a2a802b2, starsectorportrait, starsectorPortraits_20.ckpt
 a2ac6777, lamia|harpy|centaur|etc.....|most mge girls half work
+a30f9103, SDArt
 a3c809ba, pattern
 a41a2496, gigachad
 a42082e5, DarahanEyes
@@ -1283,6 +1285,7 @@ a7e848cb, shaded, shadedDiffusion_v10.ckpt
 a7e848cb, vffxxdx, model2_v1.ckpt
 a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 a8372572, wooditize
+a8d2f3e7, SDArt
 a8e2a894, no trigger words
 a910c8e4, watercolor
 a919edc0, MechBattleTechClassicTR3025
@@ -1587,6 +1590,7 @@ da1b42e0, sks woman|(sks woman)
 da3d89ca, sks
 da5ea365, aodai|cotrang|mai blossom|mai
 dab15164, BLoMDress, model1_ver2.ckpt
+dab15164, MC, minecraftArtStyle_v10.ckpt
 dab15164, hestyle, hestylev15Rooms_v15.ckpt
 dab15164, microworld, microworldsRemake_version2.ckpt
 dab15164, wawavawa, model1_ver1.ckpt
@@ -1732,6 +1736,7 @@ f26b7ad6, sam yang
 f287b25e, agp
 f2b82853, junobirch drag queen
 f2ca12bd, zombie_vector
+f2caf204, posing for the camera|posing for a photo|a close up of
 f2ea5e14, woolitize
 f3172f53, rcnz_niji style
 f3196d59, carbon|duochrome|holographic
