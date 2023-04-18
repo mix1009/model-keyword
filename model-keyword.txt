@@ -93,6 +93,7 @@
 0b910e4b, fldsky1, floraFauna_1.safetensors
 0bd9f938, hyperrealistic
 0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
+0c4ca61b, furry|anthropomorphic
 0c702268, moametal person
 0c91adf8, chinazhengzhou
 0c93a576, name|oumeifeng style|redshift style
@@ -1458,6 +1459,7 @@ beffb160, gopnik|gopstyle|gopgirl|gopgirls
 bf7386ef, diovasnsc
 bfa54420, ChromaV5|nvinkpunk
 bfccd521, roypop style
+bfd1ff49, rcnz_niji style
 bff9c2fc, POW Style
 c022d9d2, asiangirlslikeness
 c0302f10, Gllltchy style|Gllltchy, gllltchy_v1.ckpt
@@ -1762,6 +1764,7 @@ f3196d59, carbon|duochrome|holographic
 f32626be, estilovintedois
 f341184d, msfluentui style
 f3694755, modelshoot style
+f3a2ad84, rcnz_niji style
 f457c3e6, shiinamashiro
 f47ae1fa, sks woman
 f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte
