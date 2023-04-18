@@ -1150,6 +1150,7 @@
 993f2358, satoworks, silentHillCGI_01.ckpt
 993f2358, sofcorrbell, sofcorrbell_.ckpt
 993f2358, steampunkai, steampunkai_steampunkV10.ckpt
+993f2358, tensorfunk, tensorfunk_v10.ckpt
 993f2358, terst, terter_2.ckpt
 993f2358, test no download, testNoDownload_1.ckpt
 993f2358, test, test_1.ckpt
@@ -1212,6 +1213,7 @@ a0b3a1c3, sphx weapon
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
 a0f4bc4a, Macro
 a149572b, CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDark|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld, charhelperFineTuned_fineTunedV1.safetensors
+a149572b, battlemap|dungeon|outdoor, dDBattlemaps_1024V10.safetensors
 a149572b, chv3cbigchief|chv3cboxer|chv3sworld|chv3sscifi|chv3smacro|chv3scute|chv3slighthouse|chv3seldritch|chv3surban|chv3sdark|chv3calien|chv3crogue|chv3creaper|chv3ctroll|chv3cvehicle|chv3cbarb|chv3cwizard|chv3cknight|chv3mdragon|chv3czombie|chv3cbird|chv3crobot|chv3csamurai|chv3ccyberpunk|chv3cgolem|chv3cganesh|chv3curban|chv3corc, mangledMerge_v2.safetensors
 a149572b, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle, charhelperFineTuned_charhelperV3.safetensors
 a149572b, colorslashh, colorslash_colorslahhFp32.safetensors
@@ -1381,6 +1383,7 @@ b1df6170, realistic
 b1f4f421, 1girl
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
+b23ffcd4, a woman
 b240717e, shuimobysim|shukezouma
 b245152f, powercolor.v1|Drippy watercolor|Vivid watercolor
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
@@ -1602,6 +1605,7 @@ da02d76b, HarryPotterStyle
 da1b42e0, sks woman|(sks woman)
 da3d89ca, sks
 da5ea365, aodai|cotrang|mai blossom|mai
+da9c5ae7, HistorischeUniformen
 dab15164, BLoMDress, model1_ver2.ckpt
 dab15164, MC, minecraftArtStyle_v10.ckpt
 dab15164, hestyle, hestylev15Rooms_v15.ckpt
