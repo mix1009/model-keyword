@@ -67,10 +67,13 @@
 0851890f, realistic
 08839519, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime
 0886f57a, superhero
+088b509a, ieieie, 34343_v10.safetensors
+088b509a, naive, reza_v10.safetensors
 08ab6e66, m_wlop
 08d7a75d, anime
 08f7a22d, Papercut
 08fe03fe, by sky-freedom
+09083164, rcnz_niji style
 096596d8, pow artstyle
 097a6c2e, 植物|动物
 097e0a8a, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc
@@ -488,7 +491,6 @@
 27d7d4a1, vapodusk1
 27ea8c02, snthwve style|nvinkpunk
 28ae9d27, tk-char|tk-env
-28b48bd6, <niji-se-3d>
 28c385a0, Bloodborne Style
 291b67b8, maxwell the cat
 291e7dc8, monochrome
@@ -896,6 +898,7 @@
 718c368e, mikeidsk1
 71b0b5fb, tyznedsk1
 71d46dd0, Bocchi|KitaIkuyo|IjichiNijika|YamadaRyo|IjichiSeika|PAsan|HiroiKikuri|ShimizuEliza|IwashitaShima|Bfan1|BoFa2|GotoFutari
+72186363, <niji-se-flowers>
 72644878, evang
 7267c1a1, suzumecat
 727f0812, modelshoot style
@@ -970,6 +973,7 @@
 7e67267b, eldmeisterOG
 7e6c193b, Real|realistics
 7e8d1b0b, coralchar
+7ebe8fad, buzz Lightyear  eat hotdrynoodle
 7edc8e08, mksks style
 7f62d94b, VoxelArt
 7fa1e7c6, SDArt
@@ -1098,6 +1102,7 @@
 9518faa2, luna
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
+958eaa52, rcnz_niji style
 95f8d0a7, armpit, module1_train1.safetensors
 95f8d0a7, graffiti illustrations|chilloutmix, graffitiArt_httpsCivitaiComModels.safetensors
 95f8d0a7, ol|都市|性感, chilloutmix_NiPrunedFp32Fix.safetensors
@@ -1573,6 +1578,7 @@ d2089202, modelshoot style|nousr robot
 d21b2894, none
 d21c153e, ChromaV5|nvinkpunk
 d229bfec, manwha1
+d28922ac, rcnz_niji style
 d2beeabf, girl
 d2e96167, masterpiece|best quality|nfixer|nfixernext|re-badprompt
 d312ed1c, TheRPGCharGenEsAFArt
@@ -1818,6 +1824,7 @@ fa3a1716, hrgiger
 fa5e4f28, (tokki girl)
 fa735519, <lora:conceptscene_b2:1>
 fab2577c, modelshoot style|analog style|mdjrny-v4 style
+fab53a35, rcnz_niji style
 fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
 fb8354fa, kpt digital artstyle|gui
 fbaed9a3, dskyart1|deetz1
