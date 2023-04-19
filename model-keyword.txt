@@ -365,6 +365,7 @@
 14e1ef5d, swpunk|synthwave|paint splatters, synthpunkSearch_raw.ckpt
 14fe5bd7, nousr robot
 150ed84f, Comic Style|Illustration|Line Art|Comic Poster|Realistic
+15110206, realistic|photorealistic
 151f0afb, @Spirited, spiritedAwayGeneralModel_Spirited.ckpt
 151f0afb, mobian, sonicdiffusion_v2Anything.ckpt
 15254b92, analog style|chromav5|nvinkpunk
@@ -487,6 +488,7 @@
 27d7d4a1, vapodusk1
 27ea8c02, snthwve style|nvinkpunk
 28ae9d27, tk-char|tk-env
+28b48bd6, <niji-se-3d>
 28c385a0, Bloodborne Style
 291b67b8, maxwell the cat
 291e7dc8, monochrome
@@ -990,6 +992,7 @@
 81f77d29, HARDblend
 8206821b, woman
 820c4a3e, by sy4
+8217678b, <niji-se-3d>
 822b8799, pepestyle person
 82780037, tpkify
 82978554, anidzk2
@@ -1841,6 +1844,6 @@ fe3c6142, ilsgiovannibattistapiranesi|etching, giovanniBattista_piranesiV10.safe
 fe3c6142, sphereworldmap|sphere-height-map-texture|sphere-colour-texture, planet_Sphereworldmaptexture.safetensors
 fe3c6142, themechwarriorrpgart, theMechwarriorRPGArt_theMechwarriorRPGArt.safetensors
 fe5aae36, telltale style
-fec48964, in OliDisco style
+fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
 ff7616f1, FRPGFaceGen
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
