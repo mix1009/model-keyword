@@ -412,6 +412,7 @@
 1b51225c, mobian, sonicdiffusion_sd21.ckpt
 1b51225c, pixel art, pxl8V1_v1.ckpt
 1b51225c, rckrll, rickRollStyle_v1.ckpt
+1b598321, architectural sketch model|wooden|simple geometry block|wooden surface|mechanical linkages|partially metal|hard-surface|parametric|abstract sculpture
 1b6effda, general
 1b7ee812, wlop|nixeu
 1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
@@ -946,6 +947,7 @@
 7824a38b, aerialstyle
 7867176b, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 78825d24, ayanokouji|1boy
+78ada753, realistic
 78c98245, shuimobysim|shukezouma
 78d68104, sincity_iamyork
 78d9c09e, digidsk1
