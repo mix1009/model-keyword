@@ -312,6 +312,7 @@
 0eb3318b, wwone, djzWwoneV21_0.safetensors
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
 0ed9b4a6, embroidery by embarg
+0f63c656, insertNameHere
 101d2d78, barbieworld
 10206b6c, clothes_jingju
 10209fd6, dalcefo
@@ -768,6 +769,7 @@
 5bba81f8, 3d product render|product render
 5bcbb8a5, sks person
 5bcd62ae, megapals|megapals style
+5bd6ab22, Dread
 5c3af880, ai protest|ai protest|3d logo
 5c7e6e88, 80sFashionRobot, 80sFashionRobot_v1.ckpt
 5c7e6e88, 80sfashionrobot, 80sfashionrobot_v10.ckpt
