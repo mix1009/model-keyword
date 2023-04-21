@@ -792,7 +792,8 @@
 5eaba4b4, a photo of mabaoguo
 5ec42e28, as a t-shirt logo in the style of <magifactory> art
 5ef236a8, darkflatartai
-5f06aa6f, ttdddd
+5f06aa6f, Fran, testFranmodelf_v10.ckpt
+5f06aa6f, ttdddd, froggyStyle_toad.ckpt
 5f1199a7, adl|cae|fck|gsp|hta|httr|lun|olis|omd|rcn|sown|rps|tux|waj|gote|dbz|ulf
 5fb8c5f9, sks man
 5fc312dd, newvegaschar
@@ -912,6 +913,7 @@
 7267c1a1, suzumecat
 727f0812, modelshoot style
 72922615, looney tunes style|disney style|classic animation style
+73012bca, 3D model
 730b9cb5, m_style
 73771530, kazuya
 73aebb03, rammstein
