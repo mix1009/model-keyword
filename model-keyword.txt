@@ -388,7 +388,7 @@
 17bb0452, discodifland
 17e77d7e, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo
 1848190c, sd-pulp|dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories
-1861f018, SDArt, sdartAliceInDiffusion_base15.safetensors
+1861f018, SDArt, sdartEncapsulated_base15.safetensors
 1861f018, dskbbb1, bubbleToysTHEMODEL_1.safetensors
 1861f018, elem flowers|fire|water|earth|air|multielem, sdartElemental_v2ClassicVersion.safetensors
 1861f018, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc, sdartElemental_v1UserTokenVersion.safetensors
@@ -1162,6 +1162,7 @@
 993f2358, ioasdf, krio70_001.ckpt
 993f2358, jennawan, jennawan_v10.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
+993f2358, mario, marioBrosV1_v10.ckpt
 993f2358, master, toper_10.ckpt
 993f2358, mcmirella, mcmirella_v10.ckpt
 993f2358, meitu, animatedDreams_1.ckpt
@@ -1676,6 +1677,7 @@ de2f2560, mdrga, donRamonMadruga_v10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
+de2f2560, shiny_skin, realshinymixV1_v10.safetensors
 de2f2560, yorha2b, yorha2b_v20Animation.safetensors
 def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
