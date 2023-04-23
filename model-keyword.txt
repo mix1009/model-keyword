@@ -547,6 +547,7 @@
 31d96181, dreamlikeart
 31db8fec, daizky1
 31f96e8b, duskametrik
+3272e7dd, masterpiece|best quality
 32b08cff, gotou hitori|inoue takina|kita ikuyo|kubo nagisa|nishikigi chisato|sabine|sendou erika|shiina mahiru|yamano mitsuha|shuka high school uniform|lycoris uniform
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
 33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime, dgspitzerArt_Diffusion.safetensors
@@ -942,6 +943,7 @@
 767f517f, dmmid style
 76956df2, celsoricardo1, celsoRicardoNerd_celsoRicardoV10.ckpt
 76956df2, guttonerdvision1, guttoNerdVision_v10.ckpt
+76956df2, guttonerdvision2, guttoNerdVision2_guttoNerdVision2.ckpt
 76c86ec0, modelshoot style|swpunk|synthwave|paint splatters
 76e59a65, sincity_iamyork
 771880e5, 82pigeon style|akai sashimi style|algae makku style|belko style|braveking style|chocofing style|dako style|esuna style|evaaviva style|fengweic style|gomennasai style|hitokomoru style|ibukichi style|ishikei style|jidao style|junc style|khyle style|kyuyongeom style|lam style|lovecacao style|mamamba style|matcha style|mdastarou style|melanbread style|melodyoflost style|mikapikazo style|morry style|murata range style|naruko hanaharu style|navigavi style|rei 17 style|rupid style|scottie style|spacezin style|tahra style|timrougami style|tira style|tsutomu style|uekura eku style|xiayu style|yi1zhi style|yomu style|yoneyama style|yoshio style|yueko|lunachan
@@ -1053,6 +1055,7 @@
 883f759a, jwl watercolor
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
 890cb2e4, photorealistic
+89abf451, masterpiece|best quality
 8a0a6f86, svtbuild
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
 8a312ffc, masterpiece|novelAI|trending on 500px
@@ -1166,6 +1169,7 @@
 993f2358, ioasdf, krio70_001.ckpt
 993f2358, jennawan, jennawan_v10.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
+993f2358, lol, prueva1NoDecargar_v10.ckpt
 993f2358, mario, marioBrosV1_v10.ckpt
 993f2358, master, toper_10.ckpt
 993f2358, mcmirella, mcmirella_v10.ckpt
