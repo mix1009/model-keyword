@@ -674,6 +674,7 @@
 4a3dfda4, p5r style
 4a9c3831, ahrender
 4aef3692, sks woman
+4af11463, game icon
 4b327a2e, anime
 4bfacf36, by t6
 4c42236e, TVClown
@@ -1619,7 +1620,8 @@ d4fd8843, rotungwoka person
 d52fc124, kurisu|1girl
 d56a53f3, aodai|cotrang
 d57fa787, by hanaarare
-d634b8cb, Hina
+d634b8cb, Hina, itshinaInstagramModel_hina.ckpt
+d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d659f794, rcnz_niji style
 d65c923a, 1girl
 d676dd55, deetz1
