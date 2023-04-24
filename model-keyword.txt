@@ -733,6 +733,7 @@
 5502af6a, nkoctst
 550719bf, realistic
 55537280, temp
+556b18ab, rcnz_niji style
 557350e1, Lilith Morgan, lilithMorgan_v11.ckpt
 557350e1, Rainbowpatch, rainbowpatch12_rainbowpatchV12.ckpt
 557350e1, colorfulsurrealismai|surrealism, colorfulsurrealismai_V10.ckpt
@@ -756,9 +757,11 @@
 585879fc, portrait+ style
 58819dc1, anime|realistic|masterpiece|best quality
 5896f8d5, modelshoot style|analog style|mdjrny-v4 style|nousr robot
+58db528f, rcnz_niji style
 59139221, man s4ntos
 5942a771, xyz
 59724734, IconsMi
+597a8e99, MajinVegeta
 5998441b, redshift style|seconddusk
 59aa3b7d, humanoid robot
 59cc6f73, <niji-se-3d>
@@ -1055,6 +1058,7 @@
 883f759a, jwl watercolor
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
 890cb2e4, photorealistic
+89a3f11a, gatto
 89abf451, masterpiece|best quality
 8a0a6f86, svtbuild
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
@@ -1688,6 +1692,7 @@ de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photo
 de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 de2f2560, shiny_skin, realshinymixV1_v10.safetensors
 de2f2560, yorha2b, yorha2b_v20Animation.safetensors
+deb6b205, gatto
 def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
 df9e36bd, leagueofstyle
