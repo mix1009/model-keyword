@@ -317,6 +317,7 @@
 101d2d78, barbieworld
 10206b6c, clothes_jingju
 10209fd6, dalcefo
+1027d657, httr
 10419930, hassanfantasy style
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
 10a66fa5, romcom style
@@ -1808,6 +1809,7 @@ f05f9963, lisafrankstyle
 f0803e20, sjh style
 f098482b, masterpiece|best quality|ultra-detailed|illustration|an extremely delicate and beautiful|dynamic angle|floating|beautiful detailed eyes|bright eyes|detailed light|solo|
 f0ddc933, realistic
+f1e11c37, smhcgty
 f22d0019, PiroxiumDiffusion style
 f22ff389, trixiemattel drag queen
 f2635ceb, mhdolls
