@@ -723,6 +723,7 @@
 523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
 52395e18, none
 52500c41, masterpiece|best quality
+5301c7c5, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration
 5346a314, modernartst
 535673be, pixarstyle|fantasy|rpg
 535bde27, anime girl
@@ -1246,6 +1247,7 @@
 9d9ea029, fantadsk2
 9da87c34, none
 9dc1d702, sks woman
+9dddaced, girl
 9e12b5d1, JennaO
 9e6f914a, armpit
 9e828d82, lqt
@@ -1284,6 +1286,7 @@ a149572b, sticker|vector-art, stickerArt_sticker.safetensors
 a149572b, vector-art, vectorArt_Beta.safetensors
 a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a184fedc, gigafractal artstyle
+a1f0ad54, insertNameHere
 a2073f09, by mika pikazo
 a21b69c5, bigbrains
 a22399ba, analog style|chromav5|nvinkpunk
@@ -1854,6 +1857,7 @@ f6b4b362, newhorrorfantasy_style
 f6ca0e2b, comicmay
 f6cd8eee, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
 f6ed99c8, {colorful}|{vivid colors}|{vivid}|{flat color}
+f71f0232, insertNameHere
 f757b10b, orbai
 f75d242c, monster girls|etc....
 f76c4afc, duskspider
