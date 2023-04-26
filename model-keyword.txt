@@ -1169,6 +1169,7 @@
 993f2358, MCSkin, minecraftskin_v11.ckpt
 993f2358, PokeModel, pokemodel_BETA10.ckpt
 993f2358, PrintDesign, tShirtPrintDesignsTest_v01.ckpt
+993f2358, barbaramom|tonydad|anthonybro|lizasis|ajnep|michaelnep, micheleFamily_v10.ckpt
 993f2358, bynispart, nispArtSketchModelV05_v051.ckpt
 993f2358, canetaazul, canetaAzulManoelGomes_canetaazul.ckpt
 993f2358, cbzbb, cuteRichstyle15_cuteRichstyle.ckpt
@@ -1192,6 +1193,7 @@
 993f2358, meitu, animatedDreams_1.ckpt
 993f2358, microworld, microworldsRemake_version3.ckpt
 993f2358, miniwool, miniwool_1.ckpt
+993f2358, mjimenez, mjimenez_v10.ckpt
 993f2358, mjv5|food photography|portrait|interior design photography|achitecture photography, vitalityMidjourneyV5_v10.ckpt
 993f2358, neonskiesai, neonskiesai_V10.ckpt
 993f2358, nerdfusao1, guttoNerdfusO1_nerdfusao1.ckpt
