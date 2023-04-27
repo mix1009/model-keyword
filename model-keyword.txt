@@ -419,6 +419,7 @@
 1b598321, architectural sketch model|wooden|simple geometry block|wooden surface|mechanical linkages|partially metal|hard-surface|parametric|abstract sculpture
 1b6effda, general
 1b7ee812, wlop|nixeu
+1b80316b, hcmv
 1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 1c254752, vulcan
 1c348ac5, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
@@ -1688,6 +1689,7 @@ dab15164, microworld, microworldsRemake_version2.ckpt
 dab15164, wawavawa, model1_ver1.ckpt
 dab3bb51, marblesh|marblee|marblee style
 daecbd84, FleischerStyle
+db0d4f46, fluffy furry beastman
 db10a0ee, sks woman
 db1c462d, luna
 db470e5e, I don't know.
