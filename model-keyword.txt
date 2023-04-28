@@ -44,7 +44,8 @@
 0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_01.safetensors
 0250e61d, 35mmneon
 029cc27d, SLE|mksks style|detailed background
-02f311af, jsklr
+02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
+02f311af, poggers, pactWithWhitch_v10.ckpt
 02faa048, sphx style
 030933d0, l4lisa
 03f434be, MTG card art
@@ -955,6 +956,7 @@
 752d657c, m_cyberware|style|mechanical parts
 753c101f, 2d dnd battlemap
 75555781, Batfleck
+755bd415, elle fanning|3113fann1ng3
 75967262, joemadureira|valorant|samdoesarts
 7606f40e, scrbackrooms
 7614fc55, PBOldRifRPGStyle
@@ -1503,7 +1505,8 @@ b9f30719, flonixreddit
 ba158946, goldenglass
 ba210b22, sks woman
 bb029452, kindigitstyle
-bb36de97, fantasy art
+bb36de97, fantasy art, larryElmoreStyle_v10.safetensors
+bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
 bb8034db, pattern
 bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bc26ee23, samylady
@@ -1625,6 +1628,7 @@ d0bbd388, pre-rendered|3d graphics
 d0ce5e98, stoneocean
 d0d6dd90, saito_naoki
 d0efcea0, "GretchenRoss Person", gretchenRossJenaMalones_v10.safetensors
+d0efcea0, Mikelindell Person, theMyPillowGuy_v10.safetensors
 d0efcea0, Topnotch Artstyle, TopnotchArtstyleVolume118_v10.safetensors
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
 d1a8d83f, isometricfuture
