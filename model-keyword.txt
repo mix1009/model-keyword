@@ -974,6 +974,7 @@
 7746fc20, boc, bocGirls_docGirls.ckpt
 7746fc20, gmyh, komowataHarukaCGStyle_v10.ckpt
 7746fc20, marongcheng art, mrcV1_.ckpt
+7746fc20, titlefont, titlefontOriental_v10.ckpt
 7775c5b3, ky_d
 7791b0e6, monx style
 77c6d270, by narae
