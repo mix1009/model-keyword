@@ -85,6 +85,7 @@
 09d7878a, pixarstyle
 0a4320df, dalcefo
 0acd5bea, martianwarlord
+0ad612b8, painting|Allen Anderson|Earle Bergey|Frank Frazetta|George Gross|Gil Elvgren|Glen Orbik|Robert Maguire|Robert Stanley|Tom Lovell|pulp style|Action|Western|Romance|Scifi|Fantasy
 0ae9e220, goosebumps art by tim jacobus
 0aed3741, modelshoot style
 0b02fdb1, Master of everything|photography
@@ -464,6 +465,7 @@
 202360be, by t6, t6Model_t6V115k.safetensors
 202360be, by vima, vimaModel_vimaV13k.safetensors
 205e0248, fking_scifi_v2
+20692aa7, painting|Allen Anderson|Earle Bergey|Frank Frazetta|George Gross|Gil Elvgren|Glen Orbik|Robert Maguire|Robert Stanley|Tom Lovell|scifi|fantasy|western|crime|mystery|pulp style
 208f75ce, lamia
 20c6a837, Nvinkpunk|samdoesarts
 218cee5d, mksks style|detailed background
@@ -692,6 +694,7 @@
 4d59b795, evang
 4d5cca44, TinyPlanet|TinyCityPlanet
 4d63cb83, mbb
+4d75ad63, chilloutWorld|chilloutWorld_v1
 4dadf5f3, analog style
 4db8fda3, PokeModel
 4dc372a6, art by yaguru magiku
@@ -1110,6 +1113,7 @@
 8e121fec, none
 8e145533, claymation|80's anime style
 8e194b43, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+8e6777fc, masterpiece|best quality
 8e9d93c1, lamia
 8ea93b04, girl
 8ec89baa, massakasma
