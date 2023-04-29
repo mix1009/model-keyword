@@ -471,6 +471,8 @@
 218cee5d, mksks style|detailed background
 219cbfe8, RKart style
 2206906b, guofeng|chinese|bokeh|silk dress
+22268e04, Bardock
+223531c6, anime, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, gakki, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, kimono girl|anime girl|green hair, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, lamia, vae-ft-mse-840000-ema-pruned.ckpt
@@ -1441,6 +1443,7 @@ ad10f3a2, irmntro person
 ad38c466, silverfox5213|
 ad4470e8, eldmeisterog style|sks style
 ad53ab6f, comic book style|comic book wallpaper|illustration
+ad73b609, anime
 ad9d6205, fart62
 ae1f0d66, dskyart1
 ae998e33, DarkSouls Style
@@ -1571,6 +1574,7 @@ c49a4c5c, photorealistic
 c4b23842, albumcover
 c4d39ec6, massakasma
 c4e365bf, lightroom red:34% blue:53% green:43% filmgrain_minimal|texture:+25%|clarity: +40%|Contrast:+4%|shadows: +11%|sharpen:70%
+c534c25d, 1girl
 c55e0d84, virtual youtuber|masterpiece|best quality|hololive|lastname name:1.2
 c5943e55, mdjrny-pprct
 c59c7da7, realistic
@@ -1637,6 +1641,7 @@ d0d6dd90, saito_naoki
 d0efcea0, "GretchenRoss Person", gretchenRossJenaMalones_v10.safetensors
 d0efcea0, Mikelindell Person, theMyPillowGuy_v10.safetensors
 d0efcea0, Topnotch Artstyle, TopnotchArtstyleVolume118_v10.safetensors
+d0efcea0, Tuckercarlson Person, tuckerCarlsonTuckercarlson_v10.safetensors
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
 d1a8d83f, isometricfuture
 d1b390d3, girl
@@ -1660,6 +1665,7 @@ d37aed3d, 80's anime style|90's anime style
 d386996c, 3d|render|japparii|cinema4d|photoshop|album cover|minimalism|digital|print|vibrant
 d3f3df02, all|hyperrealistic mix, mixRealisticPhotoV5_v15.ckpt
 d3f3df02, realistic, mixRealisticPhotoV5_15.ckpt
+d409472c, kamita
 d4288eeb, photograph|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|lk artstyle legend of korra artstyle|hg artstyle realistic 3d renders|cw artstyle starwars: the clone wars artstyle|kd artstyle ghibli movies artstyle|wy artstyle makoto shinkai artstyle|tn artstyle disney 3d artstyle|hq artstyle high-quality digital art|aa artstyle digital line art|dd artstyle darkest dungeon artstyle|toc artstyle turtle of canada artstyle with their permission|skimpy sg outfit with cape supergirl outfit|gs outfit with cape generic superhero outfit|videl wearing sy outfit with cape and helmet great saiyawoman outfit|cor korra doesnt translate well into other artstyles|with sd hairstyle season 1-3|with sh hairstyle season 4|wearing df outfit season 1|wearing sc outfit season 1 winter|wearing pb outfit season 1 probending|wearing fs outfit season 4|wearing ek outfit season 4 earth kingdom|oyla with ay hairstyle wearing hz outfit aloy wearing standard outfit doesnt translate well into other artstyles|akos wearing sw outfit ahsoka wearing season 7 outfit doesnt translate well into other artstyles|woman with pointed ears elfs|futuristic outfit|futuristic armor|fantasy armor|fantasy outfit|tribal fantasy outfit|cl outfit post-apocalyptic outfit|giant woman works best with "hg artstyle" is biased towards naked women|tiny woman works best with "hg artstyle" is biased towards naked women
 d48dcfd9, aniki
 d4a6454e, elden ring style|postapocalypse|knollingcase|analog style|dreamlikeart|swpunk|synthwave|modelshoot style|cyborgdiffusion
