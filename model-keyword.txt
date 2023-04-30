@@ -479,6 +479,7 @@
 223531c6, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, luna, vae-ft-mse-840000-ema-pruned.ckpt
+223531c6, masterpiece, vae-ft-mse-840000-ema-pruned.ckpt
 2258c119, CNDigitalArt Style
 2275f2cf, 90s retro anime style|xx year anime style
 22ca4aaa, guigubahuang|1girl|chinese style
@@ -1454,6 +1455,7 @@ aef3d307, zukki_style
 af44b653, mmk
 af571dfc, trending on artstation|8k|ultra hd|1woman
 af5f6f0b, satellite image of oeax location|mapsatimageeu|gamelandscapeheightmap512
+af6fe107, masterpiece
 afc6eaf9, Oldjourney
 afde7fdc, satellite image of oeax location
 b0093a9d, jian guo
@@ -1518,7 +1520,7 @@ b9f30719, flonixreddit
 ba158946, goldenglass
 ba210b22, sks woman
 bb029452, kindigitstyle
-bb36de97, fantasy art, larryElmoreStyle_v10.safetensors
+bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
 bb8034db, pattern
 bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
@@ -1568,7 +1570,8 @@ c3277c7d, modelshoot style
 c32814de, hellraiser
 c3466734, by t6
 c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
-c361dd5f, tiny
+c361dd5f, masterpiece, sarabasmix_v1.safetensors
+c361dd5f, tiny, beenyou_v1.safetensors
 c37cd72c, blurry background|depth of field
 c3b103e8, lvmd aesthetic|3d render
 c3cfd75d, powa
@@ -1708,6 +1711,7 @@ da9c5ae7, HistorischeUniformen
 dab15164, BLoMDress, model1_ver2.ckpt
 dab15164, MC, minecraftArtStyle_v10.ckpt
 dab15164, hestyle, hestylev15Rooms_v15.ckpt
+dab15164, interiors, interiorDesign_v1.ckpt
 dab15164, microworld, microworldsRemake_version2.ckpt
 dab15164, wawavawa, model1_ver1.ckpt
 dab3bb51, marblesh|marblee|marblee style
