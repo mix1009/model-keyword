@@ -316,6 +316,7 @@
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
 0ed9b4a6, embroidery by embarg
 0f63c656, insertNameHere
+1016dbcd, Mobian or Sonic character name
 101d2d78, barbieworld
 10206b6c, clothes_jingju
 10209fd6, dalcefo
@@ -610,6 +611,7 @@
 3a2feee5, by kuroume
 3a35396c, dvAuto
 3a41ce5b, rlmrcs gem
+3a41dbca, read description
 3a4bafd1, liquid splash|porcelain doll|papercut
 3afdc872, bedroomai
 3b214cf8, style
@@ -686,6 +688,7 @@
 4a146754, Topnotch Artstyle
 4a2eab64, SDArt|appt|ohwx|asr|aten|fcu|chor|cpec|pfa|kprc|kuro|asot|elis|sill|exe|bsp|grl|hap|byes|lpg|yler|avel|vaw|zaki|ohn|guin|vini|pz|crit|shma|doa|sks|szn|phol|utm|uy|dds|pte|oxi|ynna
 4a3dfda4, p5r style
+4a5715f0, Defoko
 4a9c3831, ahrender
 4aef3692, sks woman
 4af11463, game icon
@@ -928,6 +931,7 @@
 6eff939c, sks person
 6f4ab0a0, duskgem|jem and the holograms
 6f5fc35d, 3d render of|3d cartoon of
+6fb99464, depth of field|film
 6fb9cedf, Zskuijia|armor|Chinese armor|
 6feb162d, evang
 6fff1ab3, Mike Mignola
@@ -1186,6 +1190,7 @@
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
 9912cb8d, danmumford style
 993f2358, G2FFace, g2fface_01.ckpt
+993f2358, KasaneTeto, kasaneTeto_v10.ckpt
 993f2358, MCSkin, minecraftskin_v11.ckpt
 993f2358, PokeModel, pokemodel_BETA10.ckpt
 993f2358, PrintDesign, tShirtPrintDesignsTest_v01.ckpt
@@ -1477,6 +1482,7 @@ b245152f, powercolor.v1|Drippy watercolor|Vivid watercolor
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
 b29ef034, analog style
 b2de9d62, silverfox5213|
+b2e6aef1, aptic|zgambuf
 b2fb8eba, m_robutts|illustration style|art by cutesexyrobutts
 b3276bb9, Umbreon|Vaporeon|Glaceon|Sylveon|Espeon|Jolteon|Flareon|Eevee
 b3454578, kipteitei|art by better with salt|woot|squarewave|big belly|fat|full list on biggergirls page
@@ -1624,6 +1630,7 @@ cda39816, ccdwr illustration, conceptCharacter_ccdwrIllustrationBV0.safetensors
 cda836aa, aimoji
 cde643bb, dalcefo
 cdec87a5, chaingirldark style
+ce1e267a, korean beauty|korean mixed|realistic
 ce21b743, sjh style
 ce6d2934, masterpiece|best quality
 ce787c96, evang
@@ -1649,6 +1656,7 @@ d0efcea0, Mikelindell Person, theMyPillowGuy_v10.safetensors
 d0efcea0, Topnotch Artstyle, TopnotchArtstyleVolume118_v10.safetensors
 d0efcea0, Tuckercarlson Person, tuckerCarlsonTuckercarlson_v10.safetensors
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
+d1a80918, thanhph
 d1a8d83f, isometricfuture
 d1b390d3, girl
 d1b93ddb, flrmrbl
