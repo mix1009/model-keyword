@@ -55,6 +55,7 @@
 048f8871, dalcefo
 04a81662, official art|yu-gi-oh!
 04baab99, a 3d render of|a 3d cartoon of
+04cdb6b7, Burgie|prilosecotc1
 0586db75, cornflower
 05e6c91b, by kokuto
 061e5178, kk
@@ -576,6 +577,7 @@
 34cc3331, close up
 35035503, putinclown
 35133590, person_in_Jar
+3582eab3, school uniform|1lady|1girl
 35a0bad3, starsectorportrait
 35aa200e, masterpiece|best_quality|ultra_detailed|illustration|volumetric_light|
 35dc3dbf, evang
@@ -872,6 +874,7 @@
 64e73fcb, dbz style
 650839e4, superhero
 65bbd026, pitchmeetgeorge
+6606c451, 1girl
 6606d2db, ttw style
 66473eff, rpgicondiff
 6648a62e, gGWoman, ggwoman_v1.ckpt
@@ -1522,6 +1525,7 @@ b78b4650, filfigari
 b7ba5b22, effeff9 woman|effeff9 man|effeff9 creature|effeff9 architecture, effeffixConcept_main.ckpt
 b7ba5b22, orna santa, ornamentalSanta_default10.ckpt
 b7c86dad, scrpoolrooms|scrbackrooms
+b8124a83, identity v|button eyes
 b81c4a6d, source4 style
 b895edc4, mdjrny-v4 style
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
@@ -1753,6 +1757,7 @@ de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV20_v13.safetensors
 de2f2560, anime, decxcris_v10.safetensors
+de2f2560, aroamoyasi|kishida mel|amamiya yuko|shihou matsuri|hiten|mituk1|yohaku, alusStew_v10.safetensors
 de2f2560, dal, dalcefoKanim_v3.safetensors
 de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
 de2f2560, indoor_lhl, indoorLhl_indoorLhlV10.safetensors
