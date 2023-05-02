@@ -67,6 +67,7 @@
 081c78a3, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
 081f8a15, 123, zxcvbnm_v10.safetensors
 081f8a15, korean, juuny_v11.safetensors
+08343055, person
 0851890f, realistic
 08839519, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime
 0886f57a, superhero
@@ -83,6 +84,7 @@
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
 09d7878a, pixarstyle
+09edc9b2, furry|anime|woman|animal|pastel
 0a4320df, dalcefo
 0acd5bea, martianwarlord
 0ad612b8, painting|Allen Anderson|Earle Bergey|Frank Frazetta|George Gross|Gil Elvgren|Glen Orbik|Robert Maguire|Robert Stanley|Tom Lovell|pulp style|Action|Western|Romance|Scifi|Fantasy
@@ -693,6 +695,7 @@
 4a9c3831, ahrender
 4aef3692, sks woman
 4af11463, game icon
+4b2f4987, person
 4b327a2e, anime
 4bfacf36, by t6
 4c42236e, TVClown
