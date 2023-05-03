@@ -728,6 +728,7 @@
 4f124f15, model|anime
 4f3ec643, rlcrtn
 4f6e5417, oil painting style|oil painting
+4f6f68bf, 无
 4fb1bbf3, padoru
 4fb23b6b, wa-vy style
 4fb24cb3, realistic
@@ -1022,6 +1023,7 @@
 79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_1.safetensors
 79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.safetensors
 7a0fd151, mksks style|detailed background
+7a13fc78, detailed face textures
 7a16febb, thecat, chikomokiiStyle_v1.ckpt
 7a16febb, yuqikun, yuqikunStyle_v1.ckpt
 7a182a74, wjqarnpomo
