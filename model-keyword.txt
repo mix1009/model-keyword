@@ -83,6 +83,7 @@
 096596d8, pow artstyle
 097a6c2e, 植物|动物
 097e0a8a, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc
+09a268c0, mksks style
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
 09d7878a, pixarstyle
@@ -677,6 +678,7 @@
 4583e79e, samdoesarts
 45cd0473, tsukasa|hair patch|long hair|blue sailor collar|white shirt|neck ribbon|long sleeves|red ribbon|breast pocket|blue collar|school uniform|serafuku
 45f682e2, sincity_iamyork
+46314e53, close up character design|multiple concept designs|
 4689ff28, nvinkpunk|samdoesarts
 471291b4, by oekakizuki
 474774e5, sks man|sks woman|neundies style
@@ -722,6 +724,7 @@
 4e7736b5, designmeld|design|stunning|album cover|chrometype|japparii|m0.studio|manuals|foxrocket|gs.aya|mkalabic|josephmelhuish|designbysalome|alexvxvxvxvx|fkkwu|hellorabbitdesign|hvnt.ter|ivndrr|mateo.mace|nisheink|obby.jappari|sometimes__always|behance|iamcollaps|swissgraphic|grafikfeed
 4e80d0e0, masterpiece|best qualtiy|ultra high res|RAW photo|intricate details|soft lighting|portrait
 4ef65125, warrior
+4f06227a, mksks style
 4f124f15, model|anime
 4f3ec643, rlcrtn
 4f6e5417, oil painting style|oil painting
@@ -1304,6 +1307,8 @@
 9ef9f138, gigafractal artstyle
 9f195bbc, blackphoto|1girl
 9f45927e, Comic Style|Illustration|Line Art|Comic Poster|Realistic, kl-f8-anime2.ckpt
+9f45927e, Nvinkpunk|samdoesarts, kl-f8-anime2.ckpt
+9f45927e, mksks style, kl-f8-anime2.ckpt
 9f45927e, vae|kl-f8-anime2, klF8Anime2VAE_klF8Anime2VAE.ckpt
 9f59a736, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog
 9f675a83, ClaymationXmas
@@ -1546,6 +1551,7 @@ ba210b22, sks woman
 bb029452, kindigitstyle
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
+bb666a18, 3d product render|product render
 bb8034db, pattern
 bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bc26ee23, samylady
@@ -1813,6 +1819,7 @@ e37a18ee, evang
 e3ad5893, dskyart1|gendigi
 e3af0732, btywtrclr
 e3e5eba1, _
+e3fd6fba, insertNameHere
 e426a38f, dskyart1
 e476ecf5, justyeaa
 e494d7b5, takeON
