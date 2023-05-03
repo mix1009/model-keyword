@@ -44,6 +44,7 @@
 0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_01.safetensors
 0250e61d, 35mmneon
 029cc27d, SLE|mksks style|detailed background
+02f311af, David, modelguyyy_v10.ckpt
 02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
 02f311af, poggers, pactWithWhitch_v10.ckpt
 02faa048, sphx style
@@ -439,6 +440,7 @@
 1d9814e5, shuimobysim|shukezouma
 1da401ba, style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
 1da7b9f4, e
+1de806f4, rcnz_hqr style
 1df99c75, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1e6822b7, comics style|analog style|illustration|lineart
@@ -506,6 +508,7 @@
 26bde476, vrass
 274d0bb6, trending on artstation|8k|ultra hd|1woman
 276edfa7, evang
+27a594ef, GIRL 3D SUBJECT RENDER PHOTOREALISTIC FEMALE RETRO ANATOMICAL ART INTRICATE ACCURATE WOMAN ILLUSTRATION CARS CARTOON CINEMATIC FANTASY PHOTOGRAPHY REALISTIC
 27b791e4, pow style|sometimes8916|526christian2526|akumetsu9719982|andretheapache9587|bitspirit31653|bwm_nubby6416|crazykazoo2431|eppinette-chi6220|espasmo9486|flowwolf4607|guizmus7459|h20_dancing8979|horvallis7915|jeremy6194|jrw19948464|junglerally3955|max headroom6734|meezy1963|millennium_gun6377|munkyfoot7944|nerfgun37508|nicogj2781|noofthebeast8209|omnia2931|owleye1290|phaff1970|piscabo8649|ras6722|residentchiefnz6989|rhapsody8685|satyam_ssj107387|tazi2574|trash--panda6213|valanya6869|vcm077281|vil0404|wpatzz5836|xthisisbotoxx8765
 27d7d4a1, vapodusk1
 27ea8c02, snthwve style|nvinkpunk
@@ -862,6 +865,7 @@
 6329328a, lds
 6360ab7c, angel
 63746d4f, rtrophto1
+638ca327, jp_style person
 6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 6414e2dc, liquid splash|papercut|porcelain doll
 6418d85d, person_in_Jar
@@ -1037,6 +1041,7 @@
 7e6c193b, Real|realistics
 7e8d1b0b, coralchar
 7ebe8fad, buzz Lightyear  eat hotdrynoodle
+7ec31957, beth woman
 7edc8e08, mksks style
 7f62d94b, VoxelArt
 7fa1e7c6, SDArt
@@ -1400,6 +1405,7 @@ a7e848cb, shaded, shadedDiffusion_v10.ckpt
 a7e848cb, vffxxdx, model2_v1.ckpt
 a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 a8372572, wooditize
+a84b8518, rcnz_hqr style
 a8d2f3e7, SDArt
 a8e2a894, no trigger words
 a910c8e4, watercolor
@@ -1964,6 +1970,7 @@ fd7a0fd0, wltzwthbshr
 fdb81729, batik|traditional attire|bali|balinese|javanese|sundanese|thailand|hijab|hindi|korean|japanese
 fdbb23ad, d&d character
 fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
+fe2725bb, <SIZE> BREASTS|<size> ass|<size> belly|hyperbreasts|hyperass|flat chest|caricature
 fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_1990sV10.safetensors
 fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
 fe3c6142, dragzkz, dragonDiffusion_4500Steps.safetensors
