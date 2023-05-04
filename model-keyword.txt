@@ -420,6 +420,7 @@
 1ad16feb, multiarm
 1af66ab9, fntsy1
 1b08178f, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
+1b0f1051, lqo_adrn
 1b30cc76, eva123xyzmendes
 1b51225c, ClaymationXmas, claymationXmas_sd2.ckpt
 1b51225c, Mosaic Art, mosaicArt_v2768.ckpt
@@ -1191,6 +1192,7 @@
 95f8d0a7, portrait, 3d_magmixV10.safetensors
 9600da17, master|chief
 962c3253, anisenti88
+965c5e50, mashu_yuino
 9695a9cd, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 96e9bd73, art by yaguru magiku
 972c5030, gendigi
@@ -1265,6 +1267,7 @@
 99af29f7, archer style|arcane style|modern disney style
 99b10427, cornflower
 99b46941, yae miko from genshin impact|ei from genshin impact
+99be5c6c, newgorillaz
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 99e78387, SinCityMovie Style
 9a427588, ada wu
@@ -1981,6 +1984,7 @@ fd294ceb, nvinkpunk|modelshoot style|samdoesart|dreamlikeart|kuvshinov
 fd433acd, dal
 fd496cc1, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 fd7a0fd0, wltzwthbshr
+fdadb916, girl|sexy|model|photo|photo realistic|beauty|strong|fit|scene|space|girl|model|photo|scene
 fdb81729, batik|traditional attire|bali|balinese|javanese|sundanese|thailand|hijab|hindi|korean|japanese
 fdbb23ad, d&d character
 fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
