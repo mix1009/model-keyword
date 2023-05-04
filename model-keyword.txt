@@ -71,6 +71,7 @@
 081f8a15, korean, juuny_v11.safetensors
 08343055, person
 0851890f, realistic
+085f345b, Read Description
 08839519, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime
 0886f57a, superhero
 088b509a, ieieie, 34343_v10.safetensors
@@ -949,6 +950,7 @@
 6f5fc35d, 3d render of|3d cartoon of
 6fb99464, depth of field|film, unrealityV20_v20Asian.safetensors
 6fb99464, depth of field|film|evening, sexSexyEasternExperienceV1_sexV10.safetensors
+6fb99464, depth of field|film|portrait|realistic, sexSexyEasternExperienceV1_sexV20.safetensors
 6fb9cedf, Zskuijia|armor|Chinese armor|
 6feb162d, evang
 6fff1ab3, Mike Mignola
@@ -1023,7 +1025,6 @@
 79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_1.safetensors
 79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.safetensors
 7a0fd151, mksks style|detailed background
-7a13fc78, detailed face textures
 7a16febb, thecat, chikomokiiStyle_v1.ckpt
 7a16febb, yuqikun, yuqikunStyle_v1.ckpt
 7a182a74, wjqarnpomo
@@ -1818,6 +1819,7 @@ e2d2e2c3, irmntro person
 e35930da, rachelwalker style
 e35af7e4, 1girl|dynamic angle|dynamic pose|chinese style architecture|hanfu
 e37a18ee, evang
+e3ac27b1, bioluminescence:1.2|dark background|darkness|negative space|best quality|masterpiece
 e3ad5893, dskyart1|gendigi
 e3af0732, btywtrclr
 e3e5eba1, _
