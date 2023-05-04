@@ -149,7 +149,8 @@
 030bc6db, zhixue
 030eaaea, batgirl
 031bbeb7, soobin
-031cc5ad, feisan| a boy with glasses and a tie on
+031cc5ad, feisan| a boy with glasses and a tie on, 1532162250.safetensors
+031cc5ad, feisan| a boy with glasses on his face, 1532162250.safetensors
 031e577a, zenvotsrs sports car
 031ef83b, djongong man
 032921ad, sks woman
@@ -1236,6 +1237,7 @@
 17b22996, 1990s (style)| retro artstyle
 17b56371, blackparadejacket
 17badf82, neverlate style
+17bffdeb, Koubuin Yuuhi|blue eyes|purple hair|blue hair|high ponytail
 17c81835, short hair|blue hair|blue hair_ornament|blue eyes
 17c89061, natsume rin
 17d0983b, olivia (fire emblem)|dancer|hairband|thighhighs|navel
@@ -1609,6 +1611,7 @@
 1f19945f, zeiss_style, zeissLensStyle_v10.safetensors
 1f1b86c7, rubilia|armor|bangs|red eyes|girl
 1f2d0d16, charayesha|ayesha altugle
+1f2fce49, Minamoto_(mutton)
 1f3476d6, ump45
 1f36d6ea, highrise_mask|smile
 1f3c8f17, miia|facial mark
@@ -1807,6 +1810,7 @@
 22cf543f, lactation through clothes|lactating into cup|lactation
 22d890ce, shiisaa_right
 22da563b, mash kyrielight (dangerous beast) (cosplay)
+22ddc3bc, logo
 22e3e89f, mecha|armor|robot gril|mechanical_body
 22e6763b, splatoon|octoling|marina
 22e80d05, kmaid|kuniform|kshirt
@@ -2004,6 +2008,7 @@
 263326d1, mayano topgun (umamusume)
 263b4119, chrisevans person
 263ce81a, haven_trooper
+263f5440, ngl
 264273cc, breasts_apart|puffy_nipples|large_areola|torpedo_breasts
 2647a1dc, Isabeau
 2649a274, Nami, test_v10.safetensors
@@ -2370,6 +2375,7 @@
 2dac40f2, audi80s2
 2dadaac6, jacket|braided hair|robot
 2db3512e, furry|weapon|armor
+2db35a1b, tomo takino|school uniform|serafuku
 2db89e6e, midjourney style
 2dc269a2, andou (girls und panzer)
 2dc49ab8, momosuzu nene|nene_official| double bun| two side up| corset| cleavage cutout| multicolored bow| orange skirt|nene_original| bun cover| two side up| bell| ribbon| yellow dress| blue capelet| blue skirt| white pantyhose|nene_casual| twintails| brown sweater| red skirt| sailor collar| neckerchief| white socks|nene_kimono| short hair| hair bow| japanese clothes| white shirt| bare shoulders| floral print|bear ears| paw gloves|side ponytail| pom pom hair ornament
@@ -2448,6 +2454,7 @@
 2f490d80, ak-47|akm|kalashnikov_rifle|assault_rifle|holding_gun|finger_on_trigger|trigger_discipline|aiming
 2f4c91a1, nose hook
 2f52f9cf, kanae(original)
+2f57d03c, kajal
 2f582be4, condom belt
 2f5c8106, ayaka nishiwaki
 2f5ea2be, kaga nazuna
@@ -2555,6 +2562,7 @@
 319d7cb8, petrpavel
 319e84c6, pandora (mega man)
 31a14f70, chloe bennet
+31a3aa6a, Milly(milly)\|ponytail
 31a73f8f, person|boy|girl
 31af7f1e, cornelia arnim
 31b9f61c, zorianv2
@@ -2667,6 +2675,7 @@
 343243bc, xifu|shengjue|danjue|jingjue|choujue
 34381d7a, shingenseiji|idol master side m
 3439ed2e, wrcrft
+343de571, ayumu kasuga|school uniform|serafuku|gym uniform
 3448db71, guofeng
 344d26da, character (series)
 344e3920, pinku
@@ -3279,6 +3288,7 @@
 3f225372, marota (character)|cow ears|cow horns|ear tag
 3f272697, vaz2113
 3f2b8842, okita_souji
+3f32ae5a, djeeta (granblue fantasy)|pink hairband|dress|thigh boots
 3f39e8e9, dorothy
 3f3aab4d, music theater|influenced by a physical conceptual model with glowing soft led lighting|architectural photography|active|architecture|archdaily|composition
 3f3b3465, no trigger words
@@ -3353,6 +3363,7 @@
 40dcb838, e7 Luna
 40e10c05, zagreus
 40e49719, gufeng style
+40eaa86e, Winona
 40ed97c0, pokemon_penny_dan
 40efdb7b, hypnoLora|empty eyes
 40f14f67, ogiwara sayu|1girl|solo|uniform school|bikini|higehiro
@@ -3660,6 +3671,7 @@
 4726a788, CarcanoStrawberry|CarcanoStrawberrySmall
 472f062d, mummification|bondage|gagged
 47342614, haru urara
+473987ed, race_queen|leotard|jacket|highleg
 473c4a50, sinnerart
 4741add5, ichinose_shiki
 4752e2cb, nanase rumi
@@ -4327,6 +4339,7 @@
 549dce5e, lee_nabi| shorts| bodystocking|
 54a1928d, kobori
 54ae1b11, Faina Bona
+54b73b3c, all fours
 54c652f8, 1boy|black hair|red eyes
 54cd54e9, light brown hair| very long hair|[[side ponytail]]| yellow eyes|hair ornament|school uniform| pink jacket|blue checkered skirt| miniskirt| black pantyhose
 54d0821a, dross|femboy|trap
@@ -4366,6 +4379,7 @@
 556c01b2, a beautiful|complex and detailed medieval european village|a foreground|a rather dark sky|but bright|sacred|nestled around a mountain range where enormous amounts of golden veins are buried|landscape|indirect lighting|4k|overall brightness|volumetric lighting|epic composition|photorealism|ultra hd|ultra detailed
 5570eeb8, ears down|rabbit ears|cat ears|wolf ears|bunny ears|fox ears|floppy ears|bat ears
 557dbce6, quickdraw
+558665ea, squigly
 55909644, pixelpc
 55979409, water_torture
 559b797c, sirsean
@@ -4408,6 +4422,7 @@
 566f1d90, indiaeisley, indiaEisley_V15c1.safetensors
 566f1d90, lapislazuli, lapisLazuliSteven_v1.safetensors
 567892ec, zutuki tukuru
+567aa642, xyzheidi
 568ad732, multiplebreasts|4 breasts|breasts
 56976f90, al mainz|military uniform|white jacket|white hair|blue eyes|1girl
 5697a797, misha (kemonomichi)
@@ -4735,6 +4750,7 @@
 5d182bfc, tattoo|no_humans
 5d19b68e, l3nag
 5d1c7ee5, Luffy
+5d1d86b9, downblouse|extended downblouse
 5d1db027, kimsohee
 5d1fc293, mature female
 5d219bd2, Egor Letov
@@ -5020,6 +5036,7 @@
 62a12f5c, wargirls|see tags
 62ad3132, inflatable sexdoll|cheap|oface
 62afb958, village_succubus|obscenity_tattoo|darkness_tattoo
+62b0d7dd, ahqipao
 62b2aa05, Endsinger
 62ba8c2f, cbzbb
 62bb6855, nahida
@@ -5168,6 +5185,7 @@
 660ef214, Shido
 66143f66, bronya zaychik (silverwing n-ex)
 661bf18b, wtrcolor style
+6639926e, lineagew(magician)
 663dcb0c, mathayom uniform|mathayom shoes|white shirt short sleeves|navy_blue pleated skirt|ribbon worn below|necktie worn below|bowtie worn below
 664c090a, wink|half-closed eye|open mouth|closed mouth|uvula|teeth|upper teeth|lower teeth|close-up|rolling eyes
 66523dd0, techwear
@@ -5196,6 +5214,7 @@
 66b2f117, lobapex
 66bae7d5, gertrude| gertrude clothes| gertrude head|
 66bb5f8a, OSS117
+66c14a95, optical illusion
 66c1fd12, pcr_(hulit)|pcr_(hulis)
 66c23ba5, Roiadan Vanzey|Osenayan
 66cf3b6a, Candy|GemPunk|Geode
@@ -5256,6 +5275,7 @@
 67dfcd5b, yuanyizhezhi
 67e1bb70, saekob
 67ecf38d, cumgar
+67faae72, slim body
 6801ed46, shadow_lee|li dousha
 68043f56, sut
 6812abcb, character (series)
@@ -5277,6 +5297,7 @@
 686d150c, shirogane
 687122f4, turanga leela
 6875ee2b, iono|ionojacket
+6879c932, dudou|red_dudou|green_dudou|pink_dudou|black_dudou|white_dudou
 687bf34b, modern disney style
 68819ced, master
 6884dc6d, coutom
@@ -5388,6 +5409,7 @@
 6a76ffef, 1girl|lips|realistic
 6a833223, akina-nakamori
 6a89ecf6, colored inner hair
+6a9f97ab, by Andrei Tarkovsky
 6aa3cc73, rainbowfusion
 6aa4ab50, sakura chiyono o (umamusume)
 6aa4af7c, chris (konosuba)
@@ -6722,6 +6744,7 @@
 847129cf, mg5
 84736884, leonams
 847bceaa, mxmksccubuss
+8488bd19, pantyhose
 848ab864, Shiro Masamune
 848e219c, 无
 849da937, 1girl|solo|bangs|hair ornament|hair flower||blue eyes|short hair|blue hair|hair between eye|black hair|
@@ -6761,6 +6784,7 @@
 853d3cb3, BrookeMonk
 853fc23b, venetoorigin
 85410a64, furrycobra
+85447fd0, lindacardellini
 8547ea8f, yunying
 85506bf3, chantel3d|
 8553599d, shoebillkf| 1girl| bangs| closed mouth| necktie| white necktie| yellow eyes| grey hair| grey shirt| grey shorts| solo
@@ -6843,6 +6867,7 @@
 86e45384, tropical beach
 86e59679, enrico_pucci|c-moon|white_snake|made_in_heaven
 86ebf55b, johnny test|blue eyes|open jacket|short sleeves|radiation symbol
+86fa55b1, kawakami princess (umamusume)
 8700b8fb, momochitanba|black hair|long hair|ninja|navy blue suite|red eyes|navy blue scarf|pantyhose|
 87054cbe, sks person
 8706e76f, lucoa
@@ -7010,6 +7035,7 @@
 8a254f3c, Zabrak
 8a29c61e, Liang Xing
 8a3ca563, big lips|big red lips|huge lips
+8a3e0e05, engorged-fC|veiny breasts|veins
 8a3f8feb, aderet|white hair|blue eyes
 8a3fbd42, vanessa hudgens
 8a4e9e50, 1girl| kei karuizawa|blue shirt| white skirt|clothes around waist
@@ -7039,6 +7065,7 @@
 8aca88c2, hiqcgbody
 8acea0f8, snsdtaeyeon
 8ad34e7d, d.va|long hair
+8ad88863, ngl
 8ad8c018, komiya kaho
 8add604f, easter
 8ae1269a, hikaru_r_gohouka
@@ -7134,6 +7161,7 @@
 8cb9b0f0, casualRe|armorRe
 8cc1ceb3, ro635
 8cc4368b, khyle style|khyle
+8ccc0e24, jenna|ponytail| purple cape| red shirt| vest| brown skirt| shoes
 8cd1d605, easter
 8cd80f84, yuel(gbf)
 8cd85237, inari kuromu
@@ -7224,6 +7252,7 @@
 8e876673, breasts
 8e87844a, tadokoro megumi|megumichef|megumiuniform
 8e89c8c8, No-one33
+8e974c8e, angry
 8e9bc085, summy
 8e9d2abb, widow-normal|widow-lily|widow-cotedazur|purple skin|head-mounted display|eyewear on head|sunglasses|china dress|chinese clothes|ponytail|bodysuit|blue bikini
 8e9de58a, HL2Beta001|Half-Life 2 beta|HL2 concept art|train station|city 17|Combine|air exchange|depot|prison|technology|quarrytown|wasteland|seafloor|palace|Citadel|grey-green sky|grey-yellow sky|grey-blue sky|grey-orange sky|grey-red sky
@@ -7477,6 +7506,7 @@
 93fd60cf, jiva
 940e0e81, monicabellucci|woman
 940ecdf8, Ayane Ichijou
+940f7f67, emma millstein|glasses|newsboy hat|braided ponytail| blue ascot| school uniform| plaid skirt| black thighhighs| loafers|braided ponytail| purple sleeveless coat| white shirt| green skirt| belts| white boots
 9414ac05, Arad Winwin|awinwin|muscular male|beard|forearm tattoo
 941b6cb1, swlawrence
 941bf313, UrethralBlowjob
@@ -7839,6 +7869,7 @@
 9b505101, retro artstyle| 1990s (style)
 9b5326d1, 1girl|
 9b635fbf, atlanta /(kancolle/)| pink hair| twin tails| grey eyes| large breasts
+9b6f0812, Koubuin Yuuhi|blue eyes|high ponytail|blue hair|purple hair
 9b76826f, 1girl
 9b783700, lt
 9b796064, masterpiece|best quality|alhaitham(genshin impact)|boy|solo|grey hair|gloves|bangs|aqua eyes|symmetrical eyes|ahoge|short hair|hair between eyes|swept bangs|elbow gloves|parted bangs|wallpaper
@@ -7872,6 +7903,7 @@
 9c36f103, tsubaki (blue archive)
 9c40cdce, bubblesuds|bubble foam
 9c4482e5, large penis||flaccid
+9c486ccd, doll|puppet|cute
 9c510492, shallistera
 9c52852b, mirabel_garlick
 9c595398, OliviaDunne
@@ -8098,7 +8130,8 @@ a0188af3, senyaa
 a01ac091, licking-nipple handjob
 a01beef3, natsuiro matsuri|matsuri_2|matsuri_beach|matsuri_idol1|matsuri_idol2
 a01c08c5, nephlite
-a020785b, feisan| a boy with glasses and a tie on
+a020785b, feisan| a boy with glasses and a pink tie|feisan| a boy with glasses and a pink marker on his forehead|feisan| a boy with glasses and a tie on|feisan| a boy with glasses on his face, 1524121500.safetensors
+a020785b, feisan| a boy with glasses and a tie on, 1524121500.safetensors
 a0210a0c, darknessrises-luna|frilled bra|frilled panties
 a022f816, Miss Martian
 a02a1796, grab
@@ -8577,6 +8610,7 @@ a88415f6, RCCLYS
 a885a0a7, centaur|taur
 a88806f8, japanese girl
 a88809b8, lego
+a8908cb2, sonyeeun
 a894231c, capybara|muscle
 a8a0d10a, mia_summer
 a8a3996b, anadearmas
@@ -8597,6 +8631,7 @@ a907b4f0, momoe maria
 a909e64a, fairy knight lancelot (fate)| 1girl| white hair| long hair| forked eyebrows| looking at viewer| open mouth| bangs| dress| solo| long sleeves| small breasts| flower| breasts| blue dress| sidelocks| smile| cape| brown eyes
 a90de359, epoxy_skull
 a90ed865, tohsaka rin
+a9150a3c, buruaka miku
 a917b8aa, Omertosa|blue fingerless gloves||black pantyhose||white boots|
 a91ba12c, nozomi
 a921a4d6, nami|orange hair|blue pants|long hair|bikini top only|long hair|brown eyes
@@ -8952,6 +8987,7 @@ b0ad5386, 1boy|male focus|head|clothing|necklace|tatto
 b0c07889, ganyu (genshin impact), ganyuGenshinImpact_v20.safetensors
 b0c07889, selena /punishing gray raven, selena_v10.safetensors
 b0c31f9d, originaloutfit|armor|hat|thighhigh|glorypurple|white dress|white gloves|off shoulder|corset|white legwear|knee pads|belt pouch
+b0c3580c, sr-asta|default-outfit
 b0c432e3, splatoon|octoling|shiver|fan
 b0cd56ea, 1990s (style)|messy hair|afro
 b0d3d702, sakuraairi
@@ -8988,6 +9024,7 @@ b15e193e, ErisCostume1|ErisCostume2
 b1683e79, Zarestia
 b1721266, lili|tekken
 b173a8a6, nababa style
+b1764c0d, nico
 b176ae20, mgq_alice16
 b1777b3e, roxy migurdia
 b17a6b13, keqingdef|keqingopulent|keqingrnd
@@ -9146,6 +9183,7 @@ b464c93d, cm_(blr2023)
 b469e9f6, watercolor painting
 b4754ab3, dainsleif(genshin impact)
 b4768f59, tweetfur|anthro
+b477577b, c5x7
 b47a759a, m3
 b47b6392, cspov
 b47d77d1, koyuki
@@ -9164,6 +9202,7 @@ b4a733f4, avaaddams
 b4aa7334, Yuki Izumi
 b4aa7e31, megurine luka
 b4abf33b, neo universe|shobofuku
+b4ad75b1, shengti|yizima
 b4adfc26, minazuki natuki
 b4b687f1, 1girl|untold stories
 b4beb5af, joel (the last of us)
@@ -9644,6 +9683,7 @@ bea55e06, bishounen
 beaa783f, electricshock|no humans|skeleton|bone|skull
 beafbfef, M-YUKATA
 beb4f5ec, soul
+beb5c36b, anupama
 beb8a180, princess bubblegum|marceline|flame princess|breakfast princess|jungle princess|doctor princess|ice queen|huntress wizard|lumpy space princess
 bebbf821, mrtmcfl
 bec1e669, yamatowanpi
@@ -10082,6 +10122,7 @@ c70bd4d5, mask|furry|kindred
 c7122ba2, claired
 c716c00c, multicolored_hair| tail| virtual_youtuber| gawr_gura|
 c71893af, facial close-up
+c7189559, QueenDraco|QueenDracoHead
 c718d891, gldot
 c71da642, 1girl|keai, FlyingBird_fbStyleV10.safetensors
 c71da642, keai|1girl, FlyingBird_v10.safetensors
@@ -10117,6 +10158,7 @@ c7b41150, vsk|vskdress
 c7bc16b5, 失败的盔甲作品
 c7be821f, feifei|glasses
 c7c39ec0, 1girl| Dasha
+c7ca739c, Joey Wong
 c7cc93e6, asdf123
 c7cee931, kagase uno
 c7d193ec, irene|irenehead|holding lamp
@@ -10414,6 +10456,7 @@ cd95ed9e, 1girl kuki shinobu|crop top shorts open jacket|armor shoulder armor|ma
 cda0984a, harem outfit|dancer|mouth veil|face veil|dancing|see-through
 cda0f4e0, china paopao
 cda6e2bb, boob heart
+cda804b3, LeTriomphantDefault
 cdbaf84a, hiei|white_hhorns
 cdbcf462, tsukasa_suou|knights_ensemble_stars|1boy
 cdc0074f, cyber|future|mezzy hair|floating hair novafrogstyle, Chilloutmixni_LoraKoreandolllikeness.safetensors
@@ -10626,6 +10669,7 @@ d24e2837, baikenms
 d24ef6d7, isold
 d252bb23, korotsukestylems
 d2557d9e, Alex Kingston
+d259551d, Chuu
 d263e8cb, pearl_(green)|green|frog|pearl_(light blue)|light blue|pearl_(black)|black|pearl_(gray)|gray|pearl_(pure white)|pure white|snowflake|jellyfish|pearl_(yellow)|yellow|flower|pearl_(red)|red|pearl_(pink)|pink
 d265c9fe, vaporeon
 d26b7ed9, 1girl|long_hair|blonde_hair|dress|nurse
@@ -11289,6 +11333,7 @@ de2f2560, Acerola|:3, pokemonAcerola_v10.safetensors
 de2f2560, Agnea, agneaOctopathTravelerII_v10.safetensors
 de2f2560, Allister /(pokemon/), pokemonAllister_v10.safetensors
 de2f2560, Arigameplays, arigameplaysLora_arigameplaysV01.safetensors
+de2f2560, Asuna, Asuna-10.safetensors
 de2f2560, Aurea juniper, pokemonProfessor_v10.safetensors
 de2f2560, BW, bwGeoabstract_v10.safetensors
 de2f2560, BWHeart, bwHeartabstract_v10.safetensors
@@ -11436,6 +11481,7 @@ de2f2560, beltbra, beltbra_v10.safetensors
 de2f2560, bethel, alchemyStarsBethel_v10.safetensors
 de2f2560, blackeyeglow|blueeyeglow|greeneyeglow|pinkeyeglow|purpleeyeglow|redeyeglow|whiteeyeglow, glowingEyesFor_01.safetensors
 de2f2560, blackfire, blackfire-10.safetensors
+de2f2560, blackwidowWI, blackwidowWI-10.safetensors
 de2f2560, blue eyes|halo|green hair, mayoiShigureBlue_v10.safetensors
 de2f2560, blue eyes|short hair|blonde hair|multicolored hair|ahoge|hair between eyes, planyaChanVtuber_v1.safetensors
 de2f2560, bravestarr|cowboy, bravestarr1987_v10.safetensors
@@ -11480,6 +11526,7 @@ de2f2560, eida|long hair|blue hair|pink hair|multicolored hair|blue eyes|lips|tw
 de2f2560, eirika fe, eirikaFireEmblemSacred_v10.safetensors
 de2f2560, elin, teraElinRaceLora_elinDress.safetensors
 de2f2560, elinalise, elinaliseDragonroad_v1NAI.safetensors
+de2f2560, eliolsen1, eliolsen1-10.safetensors
 de2f2560, emcordelia, EndingMaker_CordeliaChase_v1.safetensors
 de2f2560, emilico, emilicoShadowHouse_v10.safetensors
 de2f2560, enderLily, lilyEnderLiliesQuietusOf_v10.safetensors
@@ -11602,6 +11649,8 @@ de2f2560, long nipples| puffy nipples| nipples|, longNipples_v10.safetensors
 de2f2560, loraine summer|bikini, loraineSummerOutfits_v10.safetensors
 de2f2560, lucy(game), lucyTheEternitySheWishedFor_v02.safetensors
 de2f2560, luongms, luongTheKingOfFighters_1.safetensors
+de2f2560, lyria|ahoge|blue eyes|blue hair|very long hair, StS-LyriaGranBlue-Detailed.safetensors
+de2f2560, lyria|ahoge|blue eyes|blue hair|very long hair|white dress, StS-LyriaGranBlue-Simple.safetensors
 de2f2560, maam|dragon quest, maamDragonQuestThe_v10.safetensors
 de2f2560, madotsuki|pink sweater|logo|skirt, madotsukiYumeNikki_v10.safetensors
 de2f2560, mae fe, maeFireEmblem_v10.safetensors
@@ -11726,6 +11775,7 @@ de2f2560, senatorarmstrong|muscular male, senatorArmstrong.safetensors
 de2f2560, serafuku|neckerchief, coloredSerafuku_v10.safetensors
 de2f2560, seras victoria|hellsing, serasVictoria_v10.safetensors
 de2f2560, sharena|sharena (fire emblem), sharena-10.safetensors
+de2f2560, sharon| 1girl| witch hat| blue hat| blue robe| smile| one eye open| blue hair| short hair| white background| brooch| flower hat decoration| blue ribbon| small dress| white dress| blue bow| green eyes|, sharonmajonotabitabi-01.safetensors
 de2f2560, shauntal_pk, shauntalPokemon_v10.safetensors
 de2f2560, shebelf|hebelf, sxzBloodElvesWarcraft_sxzBloodElves.safetensors
 de2f2560, shedrn|hedrn, sxzDraeneiWarcraft_sxzDraenei.safetensors
@@ -13270,6 +13320,7 @@ fa35f8a0, solusgalvus
 fa3bfdf1, white heart|1girl|blue hair|red eyes|short hair with long locks|bare shoulders|symbol-shaped pupils|white bodysuit
 fa450e73, blue skirt|green bow|blue shirt|detached sleeves|bare shoulders|hair rings
 fa482d10, kasumi
+fa493a0d, meimei|hair over one eye|turtleneck dress|puffy long sleeves
 fa56225c, bolide|sports car|blue and black|black and blue
 fa60a0bd, 1girl| ayatori|
 fa658bec, finger wave hair
@@ -13466,6 +13517,7 @@ fdb8d897, lowleo leotard
 fdbc414a, girls und panzer|nonna
 fdbd0047, fgo sprite
 fdc2b2ad, citroenc6
+fdc4c736, leifang
 fdc6bea4, pyra
 fdca55ee, cst/kbds|cst/kbds nice
 fdcba1ee, long hair|grey eyes|hair accessories blue|pleated skirt|
@@ -13476,7 +13528,8 @@ fde8abd3, akane bunny
 fdebc00f, yakumo beni
 fdfdaaac, animal| bear
 fdffb8c4, mariana prinsilla|school uniform|white serafuku|blue sailor collar|blue pleated skirt|large breasts
-fe017852, feisan| a boy with glasses and a tie on
+fe017852, feisan| a boy with glasses and a tie on, 2250152412.safetensors
+fe017852, feisan| a boy with glasses on his face, 2250152412.safetensors
 fe022866, meruccubus (merunyaa)|merunyaa
 fe04ea45, jlawrence
 fe0572c6, Zinnia
