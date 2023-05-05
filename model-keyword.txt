@@ -898,6 +898,7 @@
 66c3d376, caebhx|dark purple hair|red eyes
 66ed97f9, 1
 670c1702, photo of rafivai person
+672d1e3e, lea-seydoux person|lea-seydoux
 673ca4ea, modelshoot style
 6785492c, nier9s
 67e8a0ae, analog style|dreamlikeart|knollingcase|modelshoot style|elden ring style|bf|sci-fi
@@ -1567,6 +1568,7 @@ bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safet
 bb666a18, 3d product render|product render
 bb8034db, pattern
 bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
+bc200496, digital art|warlockandboobs|cartoon
 bc26ee23, samylady
 bcb60ee3, twinklestardodo
 bcbe94c2, frutigeraero
@@ -1790,6 +1792,7 @@ de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, mdrga, donRamonMadruga_v10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
+de2f2560, p, test_v10.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 de2f2560, shiny_skin, realshinymixV1_v10.safetensors
