@@ -750,6 +750,7 @@
 518d78a0, 35mmstyle
 51935af1, by chon
 51bfb216, chibi
+51f16ca3, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
 521893a1, voxel-ish
 523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
 52395e18, none
@@ -800,6 +801,7 @@
 5942a771, xyz
 59724734, IconsMi
 597a8e99, MajinVegeta, majinVegeta_majinVegetaV10.ckpt
+597a8e99, christina_, womenCris_v10.ckpt
 597a8e99, women, christina_v10.ckpt
 5998441b, redshift style|seconddusk
 59aa3b7d, humanoid robot
@@ -1822,6 +1824,7 @@ e0a3ab60, xivcine person
 e0a60e11, dskyart1|style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
 e0d019bb, samdoesarts
 e0dcec61, 1girl
+e0f5c75f, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
 e13105fc, masterpiece|best quality
 e136d291, None
 e1b7c805, woolitize
