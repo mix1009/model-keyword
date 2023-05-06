@@ -410,6 +410,7 @@
 1861f018, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc, sdartElemental_v1UserTokenVersion.safetensors
 187550ac, 80sanimestyle
 18756300, analog style|modelshoot style|nsfw|nudity
+190bc75e, 1girl|mecha|
 191173a0, 1
 194778a2, wkc
 19b72626, analog style|dreamlikeart|redshift style
@@ -502,6 +503,7 @@
 24a516fb, tpmpanlab person
 250e12ad, humanoid robot
 250eb705, watercolor
+25200a09, checpoint
 254fb5cd, hasanpiker person
 258f79e3, stylized game icon|sci-fi|steampunk|spell
 25ba4550, modelshoot style|swpunk|synthwave|paint splatters
@@ -850,6 +852,7 @@
 5fb8c5f9, sks man
 5fc312dd, newvegaschar
 5fd78ac3, laolei style
+600db6b8, Lauterbach, karlLauterbachLauterbach_v10.safetensors
 600db6b8, gerdbaier, grattlerDiffusionViper_v1.safetensors
 600db6b8, rainerwinkler, winklerDiffusion_v1.safetensors
 606224fd, groo_the_wanderer
@@ -1189,6 +1192,7 @@
 942395af, modelshoot style|swpunk|synthwave|paint splatters
 94674f07, nvinkpunk
 94c7fd10, nayeonnine
+950a18d8, sks person
 9518faa2, luna
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
