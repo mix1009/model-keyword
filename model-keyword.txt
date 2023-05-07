@@ -499,7 +499,8 @@
 234cc409, comicmay artsyle
 2386519a, 树|印象派|抽象
 2402f7e7, lamia
-24466c76, sketch
+24466c76, sketch, 经典漫画v2.0.safetensors
+24466c76, sketch||comic|, 经典漫画v2.5.safetensors
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 24a516fb, tpmpanlab person
 250e12ad, humanoid robot
@@ -1066,6 +1067,7 @@
 7fa1e7c6, SDArt
 7fd98345, desolated style painting
 80391624, analog style|chromav5|nvinkpunk
+80662a6e, hybrid
 809d41a0, hentai
 80a1b237, itojunji style
 80bb424c, sks woman|(sks woman)
@@ -1283,6 +1285,7 @@
 99b46941, yae miko from genshin impact|ei from genshin impact
 99be5c6c, newgorillaz
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
+99d08e67, latex
 99e78387, SinCityMovie Style
 9a427588, ada wu
 9a477cbc, manuscriptai
