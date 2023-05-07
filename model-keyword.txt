@@ -500,7 +500,7 @@
 2386519a, 树|印象派|抽象
 2402f7e7, lamia
 24466c76, sketch, 经典漫画v2.0.safetensors
-24466c76, sketch||comic|, 经典漫画v2.5.safetensors
+24466c76, sketch|, 经典漫画v2.5.safetensors
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 24a516fb, tpmpanlab person
 250e12ad, humanoid robot
@@ -703,6 +703,7 @@
 490b0a46, kukuhtw
 4928c317, abstractchaos
 496ed668, SDArt|dels|bnp|tobi|dif|abia|adl|dori|afs|apro|ufos|nwsl|dru|mth|arl|arum|asar|kuro|bpd|ecr|buda|exe|irgc|buka|buon|eet|cae|byes|ccd|chor|eha|aroa|elba|cep|emit|enei|enig|eoin|fara|fawn|fck|crit|fler|fol|gera|doa|cwgc|gsp|acu|oxi|gote
+49b5bcbf, newmarsmix
 4a0c37d8, supermarionation
 4a146754, Topnotch Artstyle
 4a2eab64, SDArt|appt|ohwx|asr|aten|fcu|chor|cpec|pfa|kprc|kuro|asot|elis|sill|exe|bsp|grl|hap|byes|lpg|yler|avel|vaw|zaki|ohn|guin|vini|pz|crit|shma|doa|sks|szn|phol|utm|uy|dds|pte|oxi|ynna
@@ -1697,6 +1698,7 @@ cf5ed516, @Spirited
 cfa305bc, by mankai kaika
 cfc1e734, mina|momo|jeongyeon|chaer|sana|tzuyu|naeyeon|dahyun|jihyo
 cfc5de0e, modelshoot style|analog style|mdjrny-v4 style
+d0003adb, ohwx|library
 d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 d04d8a1f, lamia
