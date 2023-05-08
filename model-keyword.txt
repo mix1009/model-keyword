@@ -484,6 +484,7 @@
 218cee5d, mksks style|detailed background
 219cbfe8, RKart style
 2206906b, guofeng|chinese|bokeh|silk dress
+223531c6, 1, vae-ft-mse-840000-ema-pruned.vae.ckpt
 223531c6, anime, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, gakki, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, kimono girl|anime girl|green hair, vae-ft-mse-840000-ema-pruned.ckpt
