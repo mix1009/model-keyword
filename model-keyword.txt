@@ -1409,6 +1409,7 @@ a5c134f5, newhorrorfantasy_style, NewhorrorfantasyStyle_v20.ckpt
 a5c134f5, pulp-diffusion, pulpDiffusion_pulpDiffusionAlpha.ckpt
 a5c134f5, vntgcrm style, VintageCream.ckpt
 a5e6f199, color|flat|high contrast
+a5e9c481, brutalism|brutalist|building
 a60545fc, itojunji style
 a62a688d, anime style|illustration|oil painting|analog style|realistic|photorealistic
 a6428756, holliemengert artstyle
@@ -1485,6 +1486,7 @@ ab201ab4, chinese|chinese dress
 ab377a68, FlonixApterus
 ab4941a7, fantasticmrfox
 ab9d9647, sks man
+abae8e8b, rcnz_hqr style
 abaf5445, 2d videogame minimap
 abb47775, sks woman
 abce398b, arthx
@@ -1642,6 +1644,7 @@ c49a4c5c, photorealistic
 c4b23842, albumcover
 c4d39ec6, massakasma
 c4e365bf, lightroom red:34% blue:53% green:43% filmgrain_minimal|texture:+25%|clarity: +40%|Contrast:+4%|shadows: +11%|sharpen:70%
+c4f33c50, rcnz_hqr style
 c534c25d, 1girl
 c55e0d84, virtual youtuber|masterpiece|best quality|hololive|lastname name:1.2
 c5943e55, mdjrny-pprct
@@ -1811,6 +1814,7 @@ de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
 de2f2560, indoor_lhl, indoorLhl_indoorLhlV10.safetensors
 de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
+de2f2560, m, mmGirlm_v10.safetensors
 de2f2560, mdrga, donRamonMadruga_v10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 de2f2560, p, test_v10.safetensors
