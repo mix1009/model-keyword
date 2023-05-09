@@ -345,6 +345,7 @@
 11c35df3, bganidusk
 1221b4fa, jian guo
 1231b645, none
+12485093, rcnz_niji style
 1249edb0, by michihasu
 124de6a9, eldmeisterog
 126f21de, Zwxthej
@@ -895,6 +896,7 @@
 649dfd0a, chibi
 64afe6d2, CALARTS
 64c46184, masterpiece|best quality|re-badprompt|anime|realistic
+64d91f3a, rcnz_niji style
 64e73fcb, dbz style
 650839e4, superhero
 65bbd026, pitchmeetgeorge
