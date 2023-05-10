@@ -604,6 +604,7 @@
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 3747a99f, iayuso person
 37b1ec55, t
+37dd5eba, fking_scifi
 37deca87, dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories|startling stories|sd-pulp
 37e5ce18, owhx 3dicon
 37f2669e, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
@@ -1024,6 +1025,7 @@
 7746fc20, gmyh, komowataHarukaCGStyle_v10.ckpt
 7746fc20, marongcheng art, mrcV1_.ckpt
 7746fc20, titlefont, titlefontOriental_v10.ckpt
+7746fc20, vector|raster|exaggerate body proportion|big, modill_v10.ckpt
 7775c5b3, ky_d
 7791b0e6, monx style
 77c6d270, by narae
@@ -1959,6 +1961,7 @@ f2ca12bd, zombie_vector
 f2caf204, posing for the camera|posing for a photo|a close up of
 f2ea5e14, woolitize
 f3172f53, rcnz_niji style
+f317afa4, sks woman
 f3196d59, carbon|duochrome|holographic
 f32626be, estilovintedois
 f341184d, msfluentui style
