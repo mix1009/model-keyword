@@ -58,6 +58,7 @@
 04a81662, official art|yu-gi-oh!
 04baab99, a 3d render of|a 3d cartoon of
 04cdb6b7, Burgie|prilosecotc1
+04dc4f68, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|Analog Style|Watercolor
 0586db75, cornflower
 05e6c91b, by kokuto
 061e5178, kk
@@ -487,6 +488,7 @@
 219cbfe8, RKart style
 2206906b, guofeng|chinese|bokeh|silk dress
 223531c6, 1, vae-ft-mse-840000-ema-pruned.vae.ckpt
+223531c6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, anime, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, gakki, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, kimono girl|anime girl|green hair, vae-ft-mse-840000-ema-pruned.ckpt
@@ -636,7 +638,7 @@
 3a4bafd1, liquid splash|porcelain doll|papercut
 3afdc872, bedroomai
 3b214cf8, style
-3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration
+3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor
 3bbfd044, modelshoot style
 3c018217, bondrewd|1boy
 3c1ac307, 海洋|女性|天空|温泉|枫叶|雪花|温暖|超清|艺术|生理|shape|草原|樱花
@@ -765,7 +767,7 @@
 523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
 52395e18, none
 52500c41, masterpiece|best quality
-5301c7c5, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration
+5301c7c5, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor
 5346a314, modernartst
 535673be, pixarstyle|fantasy|rpg
 535bde27, anime girl
@@ -1058,6 +1060,7 @@
 7b9572be, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 7bfb80d6, sks style
 7bfd4934, modelshoot style
+7c2024f8, sks person
 7c4971d4, timeless style
 7c83b897, monochrome
 7c8eef56, analog style|chromav5|nvinkpunk
