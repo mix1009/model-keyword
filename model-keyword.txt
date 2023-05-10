@@ -488,7 +488,7 @@
 219cbfe8, RKart style
 2206906b, guofeng|chinese|bokeh|silk dress
 223531c6, 1, vae-ft-mse-840000-ema-pruned.vae.ckpt
-223531c6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor, vae-ft-mse-840000-ema-pruned.ckpt
+223531c6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, anime, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, gakki, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, kimono girl|anime girl|green hair, vae-ft-mse-840000-ema-pruned.ckpt
@@ -639,7 +639,7 @@
 3a4bafd1, liquid splash|porcelain doll|papercut
 3afdc872, bedroomai
 3b214cf8, style
-3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor
+3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 3bbfd044, modelshoot style
 3c018217, bondrewd|1boy
 3c1ac307, 海洋|女性|天空|温泉|枫叶|雪花|温暖|超清|艺术|生理|shape|草原|樱花
@@ -768,7 +768,7 @@
 523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
 52395e18, none
 52500c41, masterpiece|best quality
-5301c7c5, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor
+5301c7c5, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 5346a314, modernartst
 535673be, pixarstyle|fantasy|rpg
 535bde27, anime girl
@@ -1600,6 +1600,7 @@ bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safet
 bb666a18, 3d product render|product render
 bb8034db, pattern
 bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
+bbfb82f1, realistic
 bc200496, digital art|warlockandboobs|cartoon
 bc26ee23, samylady
 bcb60ee3, twinklestardodo
@@ -1710,6 +1711,7 @@ ce787c96, evang
 cebf8122, modelshoot style
 cec8722d, iayuso person
 cf24bbd9, man|armor|cyborg|royal|engrave
+cf3a5f9e, sun wukong|Beijing opera
 cf3bdffe, CHV3CWrestler|CHV3CReptile|CHV3CAnimal|CHV3CNinja|CHV3CAnthro|CHV3CDino|CHV3CFoodPorn|CHV3CDeepSea|CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDiner|CHV3SGarden|CHV3SFair|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld
 cf5ed516, @Spirited
 cfa305bc, by mankai kaika
@@ -1765,6 +1767,7 @@ d4fd8843, rotungwoka person
 d52fc124, kurisu|1girl
 d56a53f3, aodai|cotrang
 d57fa787, by hanaarare
+d5b1726a, Masterpiece|Best Quality
 d634b8cb, Hina, itshinaInstagramModel_hina.ckpt
 d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d659f794, rcnz_niji style
