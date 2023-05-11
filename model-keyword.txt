@@ -114,6 +114,7 @@
 0c91adf8, chinazhengzhou
 0c93a576, name|oumeifeng style|redshift style
 0cdb758d, tea picker
+0cf442f0, dakota person
 0d102d86, kawahara
 0e828029, sks woman|(sks woman)
 0e8f2dbe, masterpiece|best quality
@@ -540,6 +541,7 @@
 29bfa344, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 2a3e365b, arcane style
 2a68cd03, pattern
+2a717851, klcdrx person
 2a747832, SDArt
 2aa8c665, GuardianE
 2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
@@ -643,6 +645,7 @@
 3b214cf8, style
 3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 3bbfd044, modelshoot style
+3bf381eb, Pris
 3c018217, bondrewd|1boy
 3c1ac307, 海洋|女性|天空|温泉|枫叶|雪花|温暖|超清|艺术|生理|shape|草原|樱花
 3c1ee4c5, wewulzkz
@@ -1251,6 +1254,7 @@
 993f2358, G2FFace, g2fface_01.ckpt
 993f2358, KasaneTeto, kasaneTeto_v10.ckpt
 993f2358, MCSkin, minecraftskin_v11.ckpt
+993f2358, NewArchitecture, newarchitectureModern_v10.ckpt
 993f2358, PokeModel, pokemodel_BETA10.ckpt
 993f2358, PrintDesign, tShirtPrintDesignsTest_v01.ckpt
 993f2358, barbaramom|tonydad|anthonybro|lizasis|ajnep|michaelnep, micheleFamily_v10.ckpt
