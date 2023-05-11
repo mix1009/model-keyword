@@ -113,6 +113,7 @@
 0c91adf8, chinazhengzhou
 0c93a576, name|oumeifeng style|redshift style
 0cdb758d, tea picker
+0d102d86, kawahara
 0e828029, sks woman|(sks woman)
 0e8f2dbe, masterpiece|best quality
 0eb3318b, Airlock, djzAirlockV21768V21512_21768.safetensors
@@ -999,6 +1000,7 @@
 73aebb03, rammstein
 73d359a0, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 73df0f6b, no trigger word required
+741eefee, fantassified icon
 745d84b2, character|girl
 7460a6fa, sk man
 74d7d300, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
@@ -1068,6 +1070,7 @@
 7c8eef56, analog style|chromav5|nvinkpunk
 7cb76003, poolsuite style
 7d4239bf, elem flowers|fire|water|earth|air|multielem
+7d4ca959, penelope
 7d6c3acc, photorealistic
 7de2ea0f, ishizuka
 7e67267b, eldmeisterOG
@@ -1451,6 +1454,7 @@ a7e848cb, shaded, shadedDiffusion_v10.ckpt
 a7e848cb, vffxxdx, model2_v1.ckpt
 a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 a8372572, wooditize
+a8434aad, CCDDA Artstyle
 a84b8518, rcnz_hqr style
 a8af5a13, erduh man
 a8d2f3e7, SDArt
