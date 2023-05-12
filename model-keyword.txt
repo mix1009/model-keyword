@@ -1543,6 +1543,7 @@ b0093a9d, jian guo
 b047abbc, cmodel
 b0557e7c, 马
 b078aa3e, by greatmosu
+b109bf50, diffusable
 b18cb707, pretty girl
 b1aa0d33, nauskaavalofw
 b1b6cc01, none|just prompt
@@ -2035,6 +2036,7 @@ fa735519, <lora:conceptscene_b2:1>
 fab2577c, modelshoot style|analog style|mdjrny-v4 style
 fab53a35, rcnz_niji style
 fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
+fb82c754, realistic|photrealistic
 fb8354fa, kpt digital artstyle|gui
 fbaed9a3, dskyart1|deetz1
 fbb35184, mapsatimageeu
