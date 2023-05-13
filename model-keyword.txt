@@ -116,6 +116,7 @@
 0cdb758d, tea picker
 0cf442f0, dakota person
 0d102d86, kawahara
+0e5bd0bf, CCDDA  artstyle
 0e828029, sks woman|(sks woman)
 0e8f2dbe, masterpiece|best quality
 0eb3318b, Airlock, djzAirlockV21768V21512_21768.safetensors
@@ -931,6 +932,7 @@
 685ff1cd, soft_lighting|soft_skin_tone|feminin_hair|white background|simple background
 6864b87d, caebhx|dark purple hair|red eyes
 6873ad1a, neonHorror style
+68a6ed7a, evang
 68b463ba, clazy style
 69389227, borderlands
 69462e0c, furry
@@ -1205,6 +1207,7 @@
 920e21fa, rcnz_hqr
 92144649, yuzu$style
 92189423, comics|vector
+9242d421, CCDDA artstyle
 9256ed1a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
 92c083af, redshift|nvinkpunk|lndskp
 92cf4ceb, nayeonnine
@@ -1922,6 +1925,7 @@ e8c8476a, by kayahara
 e8d24e03, pattern
 e93cb7f3, hrrzg
 e952eaf1, Riko|shift dress|cold outfit|Reg|aubade helmet|aubade cape|arm extended|Shiggy|Nat|Kiyui|bell|Jiruo|child|moon whistle|Habo|black whistle|Marulk|maid outfit|Ozen|ozen white whistle|ozen armor|Lyza|lyza white whistle|Bondrewd|bondrewd white whistle|Nanachi|abyssal hat|young|human Nanachi|Mitty|human Mitty|delver outfit|delver helmet|red whistle|blue whistle|backpack|blaze reap|bleeding curse|Orth town|the abyss|windmill|gondola platform|orphanage|the first layer|gondola|eternal fortunes|cliffs|upper second layer|lower second layer|seeker camp|the third layer|the fourth layer|garden of eternal fortunes|nanachi's hideout|exterior|backyard|the fifth layer|ido front|playroom|crimson splitjaw|corpse weeperorb piercer|narehate|Meinya|dreamlikeart
+e95310af, CCDDA artstyle
 e96904c7, sks juri
 e97f7a1c, focal points on attractive face|sly grin that reaches eyes|eyes gleaming with joy|1woman|vivid colors|complex patterns|motion|action|leading lines|visual cues|rule of thirds, simplePromptWithA_v01.safetensors
 e97f7a1c, human, alignmentTurnHumansTo_2000Steps.safetensors
@@ -1940,6 +1944,7 @@ eb70ff01, concept-art
 ebb17c4d, pow style|ofi|mohd|rmb|dca|muc|onex|toid|sura|juli|veli|gsp|tux|tvc|pbc|pgs|rps|dbz|soca|suru|nips|rune|pafc|nlwx|fck|cae|sohn|dori|zawa|revs|hmv|whoo|asar|blob|xiao|kilt|ulf|loeb|bnha|gote|omd|adl|shld|waj|sown|rcn|httr|dits|hta|lun|olis
 ebc4e0a9, RottingZombie person
 ebd5057f, photo of a potion
+ec664923, undercucho
 ec8cd4c8, BalloonArt
 ec9f8c2e, CharacterChan Style
 ecd908cb, sks woman|(sks woman)
@@ -2035,6 +2040,7 @@ fa5e4f28, (tokki girl)
 fa735519, <lora:conceptscene_b2:1>
 fab2577c, modelshoot style|analog style|mdjrny-v4 style
 fab53a35, rcnz_niji style
+fad41caf, kawakaze azur lane|silver hair|blue eyes
 fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
 fb82c754, realistic|photrealistic
 fb8354fa, kpt digital artstyle|gui
