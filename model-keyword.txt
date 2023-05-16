@@ -587,6 +587,7 @@
 31d96181, dreamlikeart
 31db8fec, daizky1
 31f96e8b, duskametrik
+3219d551, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 3272e7dd, masterpiece|best quality
 32b08cff, gotou hitori|inoue takina|kita ikuyo|kubo nagisa|nishikigi chisato|sabine|sendou erika|shiina mahiru|yamano mitsuha|shuka high school uniform|lycoris uniform
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
@@ -1016,6 +1017,7 @@
 741eefee, fantassified icon
 745d84b2, character|girl
 7460a6fa, sk man
+747ef805, illustration|comic style|realistic|Comic Poster|Line Art
 74d7d300, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 74e33b7a, masterpiece|best quality|furry|kemono
 74f4c61c, redshift style
@@ -1367,6 +1369,7 @@
 9f195bbc, blackphoto|1girl
 9f45927e, Comic Style|Illustration|Line Art|Comic Poster|Realistic, kl-f8-anime2.ckpt
 9f45927e, Nvinkpunk|samdoesarts, kl-f8-anime2.ckpt
+9f45927e, illustration|comic style|realistic|Comic Poster|Line Art, kl-f8-anime2.ckpt
 9f45927e, mksks style, kl-f8-anime2.ckpt
 9f45927e, vae|kl-f8-anime2, klF8Anime2VAE_klF8Anime2VAE.ckpt
 9f59a736, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog
@@ -1835,6 +1838,7 @@ db0d4f46, fluffy furry beastman
 db10a0ee, sks woman
 db1c462d, luna
 db470e5e, I don't know.
+db4f8fe5, chilloutWorld|chilloutWorld_v1
 db5960c1, OOKZA Vampire Style
 dc01dfdd, ohwx|demon|werewolf|minotaur|zombie|
 dc05355d, sksi object|sksi
@@ -1988,6 +1992,7 @@ f0803e20, sjh style
 f094a27f, Mobian or Sonic character name
 f098482b, masterpiece|best quality|ultra-detailed|illustration|an extremely delicate and beautiful|dynamic angle|floating|beautiful detailed eyes|bright eyes|detailed light|solo|
 f0ddc933, realistic
+f1aafbbe, estilovintedois
 f1e11c37, smhcgty
 f22d0019, PiroxiumDiffusion style
 f22ff389, trixiemattel drag queen
