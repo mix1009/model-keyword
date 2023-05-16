@@ -110,6 +110,7 @@
 0b910e4b, fldsky1, floraFauna_1.safetensors
 0bd9f938, hyperrealistic
 0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
+0c4c983e, realistic
 0c4ca61b, furry|anthropomorphic
 0c702268, moametal person
 0c91adf8, chinazhengzhou
@@ -1593,6 +1594,7 @@ b5453f75, OOKZAVampire Style, vampireStyle_V20.ckpt
 b5453f75, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.ckpt
 b5453f75, dbfantasyart, fantasyArtStyle_fantasyArtStyleV18.ckpt
 b5564717, dal
+b591bf20, masterpiece|best quality
 b5c0b653, modelshoot style
 b5e156ba, vskeei1
 b5f6fe6c, pepe_frog
