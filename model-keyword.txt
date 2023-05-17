@@ -605,10 +605,12 @@
 35035503, putinclown
 35133590, person_in_Jar
 3582eab3, school uniform|1lady|1girl
+358923a7, unstablephotoreal|unstablediffusion
 35a0bad3, starsectorportrait
 35aa200e, masterpiece|best_quality|ultra_detailed|illustration|volumetric_light|
 35dc3dbf, evang
 363ee931, microworld|mdjrny-shttr
+365859e2, banchan
 36606926, jimjorcraflogo art style|dan mumford style
 366915ea, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 36833c3d, jirai kei|jirai fashion|eye shadow|dark lips|twin tails|fishnet stockings
@@ -1289,6 +1291,7 @@
 993f2358, guttonerd02, guttoNerd02CorpoE_guttonerd02.ckpt
 993f2358, guttonerd1, guttoNerdRostos_guttonerd1.ckpt
 993f2358, guttonerd2, guttoNerdCorpoTodo_guttonerd2.ckpt
+993f2358, guttonerdinho1, guttoNerdinho1_guttonerdinhov10.ckpt
 993f2358, ioasdf, krio70_001.ckpt
 993f2358, jennawan, jennawan_v10.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
@@ -1553,6 +1556,7 @@ ae19a9dd, pspp man
 ae1f0d66, dskyart1
 ae998e33, DarkSouls Style
 aef3d307, zukki_style
+af1ac3ce, banchan
 af44b653, mmk
 af571dfc, trending on artstation|8k|ultra hd|1woman
 af5f6f0b, satellite image of oeax location|mapsatimageeu|gamelandscapeheightmap512
