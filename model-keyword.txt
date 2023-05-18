@@ -45,6 +45,7 @@
 0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_01.safetensors
 0250e61d, 35mmneon
 029cc27d, SLE|mksks style|detailed background
+02acd63c, unstablephotoreal|unstablediffusion
 02f311af, David, modelguyyy_v10.ckpt
 02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
 02f311af, poggers, pactWithWhitch_v10.ckpt
@@ -606,7 +607,6 @@
 35035503, putinclown
 35133590, person_in_Jar
 3582eab3, school uniform|1lady|1girl
-358923a7, unstablephotoreal|unstablediffusion
 35a0bad3, starsectorportrait
 35aa200e, masterpiece|best_quality|ultra_detailed|illustration|volumetric_light|
 35dc3dbf, evang
@@ -1336,6 +1336,7 @@
 9a427588, ada wu
 9a477cbc, manuscriptai
 9a61c132, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
+9aae0d4a, painting by mse
 9ad0f262, masterpiece|best quality|ultra-detailed|illustration|detailed light|an extremely delicate and beautiful|dramatic_shadow|ray_tracing|8-year-old girl|1 girl|fox ears|fox tail|blush|dress|blonde_hair|huge ahoge|two side up|orange eyes|glowing eyes|pigeon-toed|cinematic lighting|style of arknights
 9af8fb8d, guigubahuang
 9b1cddb6, detailed_skin|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin
@@ -1776,6 +1777,7 @@ d0efcea0, Mikelindell Person, theMyPillowGuy_v10.safetensors
 d0efcea0, Topnotch Artstyle, TopnotchArtstyleVolume118_v10.safetensors
 d0efcea0, Tuckercarlson Person, tuckerCarlsonTuckercarlson_v10.safetensors
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
+d1708df8, sd-prohib|broad brushstrokes|medium brushstrokes|fine brushstrocks|painterly|sentimental|pictorial|idealism|family life|romance|adventure|action|1914|1920|1924|1925|1928|1930|1933|1934|1937
 d1a80918, thanhph
 d1a8d83f, isometricfuture
 d1b390d3, girl
@@ -1999,6 +2001,7 @@ ee624815, xmascookie
 ee685731, cute|chibi
 eef06b18, masterpiece|best quality|nfixer|nfixernext|re-badprompt
 eefa7e96, girl|face|beautiful
+ef2267bd, LIQUID SPLASH|BRTDRPP|Fruitfusion
 ef36e488, romerorzlucy
 ef4be3fb, swpunk|synthwave|paint splatters
 ef6ecf6d, alloldrpgarts1
@@ -2008,7 +2011,7 @@ f0803e20, sjh style
 f094a27f, Mobian or Sonic character name
 f098482b, masterpiece|best quality|ultra-detailed|illustration|an extremely delicate and beautiful|dynamic angle|floating|beautiful detailed eyes|bright eyes|detailed light|solo|
 f0ddc933, realistic
-f1aafbbe, estilovintedois
+f1aafbbe, estilovintedois|lexicaart
 f1e11c37, smhcgty
 f22d0019, PiroxiumDiffusion style
 f22ff389, trixiemattel drag queen
