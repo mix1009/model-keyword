@@ -1057,6 +1057,7 @@
 77342b4b, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 7746fc20, DDicon, ddicon_v20.ckpt
 7746fc20, boc, bocGirls_docGirls.ckpt
+7746fc20, editorial illustration, modill_v20.ckpt
 7746fc20, gmyh, komowataHarukaCGStyle_v10.ckpt
 7746fc20, marongcheng art, mrcV1_.ckpt
 7746fc20, titlefont, titlefontOriental_v10.ckpt
@@ -1287,6 +1288,7 @@
 993f2358, NewArchitecture, newarchitectureModern_v10.ckpt
 993f2358, PokeModel, pokemodel_BETA10.ckpt
 993f2358, PrintDesign, tShirtPrintDesignsTest_v01.ckpt
+993f2358, Selena Gomez, selenadiffusion_v10.ckpt
 993f2358, Selena Gomez|Jenna Ortega|Celeb, selenaortega_v10.ckpt
 993f2358, barbaramom|tonydad|anthonybro|lizasis|ajnep|michaelnep, micheleFamily_v10.ckpt
 993f2358, bynispart, nispArtSketchModelV05_v051.ckpt
@@ -1925,7 +1927,8 @@ e0d019bb, samdoesarts
 e0dcec61, 1girl
 e0e1b606, FURRY|ANTHROPOMORPHIC|FURRY ART|DIGITAL ART|UPLOADED_ON_E621:1.4|ANTHRO FURRY:1.5
 e0f5c75f, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
-e13105fc, masterpiece|best quality
+e13105fc, masterpiece|best quality, bbMIXALICE_v10.safetensors
+e13105fc, masterpiece|best quality|white theme|black theme, bbmixRUIS_bbmixRUIS.safetensors
 e136d291, None
 e1b7c805, woolitize
 e1e66020, entp
