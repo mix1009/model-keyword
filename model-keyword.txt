@@ -529,6 +529,7 @@
 269b8567, general
 26acd9f3, furrender style
 26bde476, vrass
+26c85a2d, Nintendo mii|modern_mii|classic_mii|highres|eye_whites|fighting|tennis
 274d0bb6, trending on artstation|8k|ultra hd|1woman
 276edfa7, evang
 27a594ef, GIRL 3D SUBJECT RENDER PHOTOREALISTIC FEMALE RETRO ANATOMICAL ART INTRICATE ACCURATE WOMAN ILLUSTRATION CARS CARTOON CINEMATIC FANTASY PHOTOGRAPHY REALISTIC
@@ -795,6 +796,7 @@
 538d7157, pcrc style
 53b388b3, analog style|modelshoot style|nsfw|nudity
 53d6b1c7, tattoo|tattoos|tattooed|tattooed face|tattooed body|BigDarkTattoos
+53e3a763, 1girl
 5412e2d7, comicmay artsyle|redshift style
 547baf67, ykgl girl|ykgl girls|cgi artstyle
 548481b9, SDArt|bnp|aved|bgs|aten|fcu|cees|chor|nrf|elio|pfa|kprc|dita|kuro|dprk|asot|bsp|psst|sqm|irgc|buka|byes|dany|lpg|vaw|nmwx|nyrd|guin|perm|urd|nasi|rags|rimo|shai|doa|suma|isch|utm|vedi|dds|weho|pte|yui
@@ -1163,6 +1165,7 @@
 86baad27, daizu
 86bd187b, elxchavo
 872bdd84, zedra1 girl
+876e83c8, game icon
 879054f9, portrait style|selfie photo|casting photo full shot naked|rlfce realistic person|fkfce fake person|closeup photo face
 87c5d24e, dra|vinyl record cover|12-inch|electronic|<decade> album cover|the designers republic
 87fb604f, 3d render|3d cartoon
@@ -1185,6 +1188,7 @@
 8b917b1c, xixiprincess
 8ba5b787, dal
 8c36d946, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
+8c3b86ce, chilloutmix-Ni.safetensors
 8c7efd5f, itojunji style
 8ca5c5a1, zero_two_101
 8cb4ebda, znchn style
