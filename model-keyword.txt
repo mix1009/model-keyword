@@ -559,6 +559,7 @@
 2bb2342e, rotoscopee
 2bd7a434, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 2be73e30, by b-ginga
+2c28fcaf, painting by mse
 2cc9e101, pixarstyle
 2cd4cf48, sjh style
 2ce026e5, photorealistic
@@ -734,6 +735,7 @@
 4a9c3831, ahrender
 4aef3692, sks woman
 4af11463, game icon
+4b075428, 8k|RAW photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.37|omertosa|1girl|Kpop idol|aegyo sal:1best quality|ultra high res|photorealistic:1.4|1woman:1.5|best quality|illustration，beautiful detailed eyes，extremely detailed CG unity 8k wallpaper|art of light novel|from side below|fish-eye shot|In the sea of flowers，[dusk:0.6|stars:0.4]，sunset，1girl:1.5，blond long hair，gary pupils，wear a wreath，white veil，red roses adorn the skirt，white gauze short cloak，long dress，white silk stockings，{young girl}，rose headdress，sitting，{{masterpiece}}，hang head，Hold a bunch of white rose，lowered eyebrows，small|1girl:1.5|
 4b2f4987, person
 4b327a2e, anime
 4bfacf36, by t6
@@ -1337,7 +1339,6 @@
 9a427588, ada wu
 9a477cbc, manuscriptai
 9a61c132, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
-9aae0d4a, painting by mse
 9ad0f262, masterpiece|best quality|ultra-detailed|illustration|detailed light|an extremely delicate and beautiful|dramatic_shadow|ray_tracing|8-year-old girl|1 girl|fox ears|fox tail|blush|dress|blonde_hair|huge ahoge|two side up|orange eyes|glowing eyes|pigeon-toed|cinematic lighting|style of arknights
 9af8fb8d, guigubahuang
 9b1cddb6, detailed_skin|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin
@@ -1882,6 +1883,7 @@ de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
 de2f2560, indoor_lhl, indoorLhl_indoorLhlV10.safetensors
 de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
+de2f2560, lapis lazuli, lapis_v10.safetensors
 de2f2560, m, mmGirlm_v10.safetensors
 de2f2560, mdrga, donRamonMadruga_v10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
