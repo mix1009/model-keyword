@@ -246,7 +246,7 @@
 0eb3318b, gasmasksenpai, djzGasmaskSenpai_v21.safetensors
 0eb3318b, gatekeeper, djzGatekeeper_v21.safetensors
 0eb3318b, gingertomcat, djzGingertomcatV21768V21_21768.safetensors
-0eb3318b, girl, replicantV20_v20.safetensors
+0eb3318b, girl, replicantV30_v20.safetensors
 0eb3318b, glitchstick, djzGlitchStick_v21768.safetensors
 0eb3318b, glitchwave, djzGlitchWave_v21.safetensors
 0eb3318b, goldroom, djzGoldRoom_v21.safetensors
@@ -1372,6 +1372,7 @@
 9cf9ef13, realistic
 9cfc4e43, SDArt
 9d24e3d5, best quality
+9d45143a, noble ai|nobleai|noblemixfix
 9d7c69e8, photo of skibidibop person
 9d9d6f38, .bsp
 9d9ea029, fantadsk2
@@ -1889,6 +1890,7 @@ de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV20_v13.safe
 de2f2560, anime, decxcris_v10.safetensors
 de2f2560, aroamoyasi|kishida mel|amamiya yuko|shihou matsuri|hiten|mituk1|yohaku, alusStew_v10.safetensors
 de2f2560, dal, dalcefoKanim_v3.safetensors
+de2f2560, girl, replicantV30_v30.safetensors
 de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
 de2f2560, indoor_lhl, indoorLhl_indoorLhlV10.safetensors
 de2f2560, kari byron person, kariByron_realkari.safetensors
