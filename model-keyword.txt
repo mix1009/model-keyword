@@ -1675,6 +1675,7 @@ bdd04c5e, noble ai|nobleai|noblemixfix
 bde477d2, junemodel
 bdec7588, richevans
 be4652f1, samdoesarts
+be6ca5be, there is no trigger word
 be7c545d, darkestdungeon style|darkest dungeon style|clonewars style|clone wars style|jojo style|newstl
 be7ddafc, classic disney style
 be82dca2, Altira|Altira style
@@ -1892,6 +1893,7 @@ dde11c1e, smitsv
 de2f2560, 6girls+, theGoldenMirage_v11.safetensors
 de2f2560, Asian|Man|Female|Cute, asianMix_alpha30.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
+de2f2560, ae, tokeaa_mancet.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV20_v13.safetensors
 de2f2560, anime, decxcris_v10.safetensors
