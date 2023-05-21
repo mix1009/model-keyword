@@ -513,6 +513,7 @@
 22ca4aaa, guigubahuang|1girl|chinese style
 2323d67c, SLE|mksks style|detailed background
 234cc409, comicmay artsyle
+2375d404, P4U14
 2386519a, 树|印象派|抽象
 2402f7e7, lamia
 24466c76, sketch, 经典漫画v2.0.safetensors
@@ -1662,6 +1663,7 @@ bb8034db, pattern
 bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bbfb82f1, realistic
 bc26ee23, samylady
+bc39c10a, zainabt
 bcb60ee3, twinklestardodo
 bcbe94c2, frutigeraero
 bd158d39, 80's anime style|90's anime style
@@ -1906,6 +1908,7 @@ de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, lapis lazuli, lapis_v10.safetensors
 de2f2560, m, mmGirlm_v10.safetensors
+de2f2560, masterpiece|best quality|white theme|black theme, bbmixEIMI_v10.safetensors
 de2f2560, mdrga, donRamonMadruga_v10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 de2f2560, p, test_v10.safetensors
