@@ -1311,6 +1311,7 @@
 993f2358, ioasdf, krio70_001.ckpt
 993f2358, jennawan, jennawan_v10.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
+993f2358, kylin, akalinLinky_v20.ckpt
 993f2358, lol, prueva1NoDecargar_v10.ckpt
 993f2358, mario, marioBrosV1_v10.ckpt
 993f2358, master, toper_10.ckpt
@@ -1497,6 +1498,7 @@ a7e848cb, Bardock, bardock_V10.ckpt
 a7e848cb, SJstyle, createASJStyleMask_beta.ckpt
 a7e848cb, Syrdrin|Syrdrin style, syrdrinSciFi_syrdrinV1.ckpt
 a7e848cb, analog style|a photo of mary elizabeth winstead, maryElizabeth_v1.ckpt
+a7e848cb, kylin, akalinLinky_v10.ckpt
 a7e848cb, pimploy|thai model, pimploy_V10.ckpt
 a7e848cb, shaded, shadedDiffusion_v10.ckpt
 a7e848cb, vffxxdx, model2_v1.ckpt
