@@ -1286,7 +1286,9 @@
 98aca856, digital art|warlockandboobs|cartoon|masterpiece|<SIZE> BREASTS|<size> ass|<size> belly|hyperbreasts|hyperass|flat chest
 98c37fb6, 美女
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
+9907dc3a, yusufduman person
 9912cb8d, danmumford style
+993cd75a, sks woman
 993f2358, G2FFace, g2fface_01.ckpt
 993f2358, KasaneTeto, kasaneTeto_v10.ckpt
 993f2358, MCSkin, minecraftskin_v11.ckpt
@@ -1327,6 +1329,8 @@
 993f2358, nerdfusao1, guttoNerdfusO1_nerdfusao1.ckpt
 993f2358, nerdfusao2, nerdFusao2_.ckpt
 993f2358, nerdinho1, guttoNerdinho1_guttoNerdinho01.ckpt
+993f2358, nvjobaim, nvjobaimV10For_v10.ckpt
+993f2358, nvjobmagiccircle, nvjobmagiccircleV10For_v10.ckpt
 993f2358, ocds, 1930sCartoonRichstyle_ocds.ckpt
 993f2358, orbai, orbai_V10.ckpt
 993f2358, paperai, paperai_V30.ckpt
@@ -1592,6 +1596,7 @@ b047abbc, cmodel
 b0557e7c, 马
 b078aa3e, by greatmosu
 b109bf50, diffusable
+b13930b7, nvjobmagiccircle
 b18cb707, pretty girl
 b1aa0d33, nauskaavalofw
 b1b6cc01, none|just prompt
@@ -1763,6 +1768,7 @@ cc11c0ef, masterpiece|best quality|
 cc30ad23, lamia|harpy|centaur|etc....|most mge girls half work
 cc49ac37, bigbadejo alien_monster
 cc5b68d0, lndskp|nvinkpunk|redshift
+cce02454, nvjobaim
 cceb87e1, analog style|modelshoot style|nsfw|nudity
 ccf3615f, modern disney style
 cd22968e, whatif style
