@@ -1879,6 +1879,7 @@ da9c5ae7, HistorischeUniformen
 dab15164, BLoMDress, model1_ver2.ckpt
 dab15164, MC, minecraftArtStyle_v10.ckpt
 dab15164, hestyle, hestylev15Rooms_v15.ckpt
+dab15164, hnrycvll, henryCavillUltimate_v10.ckpt
 dab15164, interiors, interiorDesign_v1.ckpt
 dab15164, microworld, microworldsRemake_version2.ckpt
 dab15164, wawavawa, model1_ver1.ckpt
@@ -1917,6 +1918,7 @@ de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, lapis lazuli, lapis_v10.safetensors
 de2f2560, m, mmGirlm_v10.safetensors
+de2f2560, masterpiece|best quality|dark theme|pink theme, bbmixKALI_v10.safetensors
 de2f2560, masterpiece|best quality|white theme|black theme, bbmixEIMI_v10.safetensors
 de2f2560, mdrga, donRamonMadruga_v10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
