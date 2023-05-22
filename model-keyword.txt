@@ -48,6 +48,7 @@
 02acd63c, unstablephotoreal|unstablediffusion
 02f311af, David, modelguyyy_v10.ckpt
 02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
+02f311af, kylxn, akalinLinky_kylxn.ckpt
 02f311af, poggers, pactWithWhitch_v10.ckpt
 02faa048, sphx style
 030933d0, l4lisa
@@ -575,6 +576,7 @@
 2e6bbced, vectorartz
 2e719f2a, CHV3CWrestler|CHV3CReptile|CHV3CAnimal|CHV3CNinja|CHV3CAnthro|CHV3CDino|CHV3CFoodPorn|CHV3CDeepSea|CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDiner|CHV3SGarden|CHV3SFair|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld
 2eb2f2cc, cyberpunk
+2ee24e88, kylxn
 2f122e47, HarryPotterStyle
 2f17d5f4, 8k|raw photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.37|high detailed background|1girl in a blue shirt|shy expression|cute|cityscape|night|rain|wet|professional lighting|photon mapping|radiosity|physically-based rendering||beautiful breasts|medium breast|look at viewer|high detail raw color photo|near shot|of girl wearing ancient chinese dress|wearing thin white shirt|clothed|standing in the middle of the battlefield|dragon tattoos on breast|elegant|beautiful face|blue eyes|girl|30 yeas old|light blonde|light curls|cybernetic impalnts:1.2|augmentations|detailed skin|supple skin pores|silicon|metal|intricately detailed|fine details|hyperdetailed|bloom:0.4|raytracing|subsurface scattering|diffused lighting|side lighting:0.5|shallow depth of field|photographed on a canon eos r5|85mm lens|f/2.8|sharp focus|smooth|cinematic film still <lora:mix4:0.8
 2f4e14a4, litebrite
@@ -1575,6 +1577,7 @@ acdcf3cb, aucv
 ace48f71, photograph|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|lk artstyle legend of korra artstyle|hg artstyle realistic 3d renders|cw artstyle starwars: the clone wars artstyle|kd artstyle ghibli movies artstyle|wy artstyle makoto shinkai artstyle|tn artstyle disney 3d artstyle|hq artstyle high-quality digital art|aa artstyle digital line art|dd artstyle darkest dungeon artstyle|toc artstyle turtle of canada artstyle with their permission|skimpy sg outfit with cape supergirl outfit|gs outfit with cape generic superhero outfit|videl wearing sy outfit with cape and helmet great saiyawoman outfit|cor korra doesnt translate well into other artstyles|with sd hairstyle season 1-3|with sh hairstyle season 4|wearing df outfit season 1|wearing sc outfit season 1 winter|wearing pb outfit season 1 probending|wearing fs outfit season 4|wearing ek outfit season 4 earth kingdom|oyla with ay hairstyle wearing hz outfit aloy wearing standard outfit doesnt translate well into other artstyles|akos wearing sw outfit ahsoka wearing season 7 outfit doesnt translate well into other artstyles|woman with pointed ears elfs|futuristic outfit|futuristic armor|fantasy armor|fantasy outfit|tribal fantasy outfit|cl outfit post-apocalyptic outfit|giant woman works best with "hg artstyle" is biased towards naked women|tiny woman works best with "hg artstyle" is biased towards naked women
 acfa8753, future style
 ad10f3a2, irmntro person
+ad14174f, FLUIDART|LIQUID SPLASH|Knollingcase|FOOD_CRIT|Beeple
 ad38c466, silverfox5213|
 ad4470e8, eldmeisterog style|sks style
 ad53ab6f, comic book style|comic book wallpaper|illustration
