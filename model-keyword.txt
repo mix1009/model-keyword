@@ -599,7 +599,8 @@
 31db8fec, daizky1
 31f96e8b, duskametrik
 3219d551, Comic Style|Illustration|Line Art|Comic Poster|Realistic
-3272e7dd, masterpiece|best quality
+3272e7dd, masterpiece|best quality, bbMIXLUCI_v10.safetensors
+3272e7dd, masterpiece|best quality|pink theme|yellow theme, bbmixLUCI_v10.safetensors
 3288c45d, GOOSEBUMPS ART BY TIM JACOBUS|RAINBOWPATCH|FOOD_CRIT|TK-CHAR|TK-ENV|LIQUID SPLASH|PAPERCUT|PORCELAIN DOLL|artificial-journey style|SURREALISM|COLORFULSURREALISMAI|CARBON|DUOCHROME|HOLOGRAPHIC|in OliDisco style|FLAT COLOR|FLAT ILLUSTRATION|VECTORSTYLE|MECHA
 32b08cff, gotou hitori|inoue takina|kita ikuyo|kubo nagisa|nishikigi chisato|sabine|sendou erika|shiina mahiru|yamano mitsuha|shuka high school uniform|lycoris uniform
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
@@ -1288,7 +1289,7 @@
 98aca856, digital art|warlockandboobs|cartoon|masterpiece|<SIZE> BREASTS|<size> ass|<size> belly|hyperbreasts|hyperass|flat chest
 98c37fb6, 美女
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
-9907dc3a, yusufduman person
+9907dc3a, sanane
 9912cb8d, danmumford style
 993cd75a, sks woman
 993f2358, G2FFace, g2fface_01.ckpt
@@ -1919,6 +1920,7 @@ de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, lapis lazuli, lapis_v10.safetensors
 de2f2560, m, mmGirlm_v10.safetensors
 de2f2560, masterpiece|best quality|dark theme|pink theme, bbmixKALI_v10.safetensors
+de2f2560, masterpiece|best quality|orange theme|pink theme, bbmixLUCI_v20.safetensors
 de2f2560, masterpiece|best quality|white theme|black theme, bbmixEIMI_v10.safetensors
 de2f2560, mdrga, donRamonMadruga_v10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
