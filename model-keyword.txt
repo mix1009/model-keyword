@@ -124,6 +124,7 @@
 0e5bd0bf, CCDDA  artstyle
 0e828029, sks woman|(sks woman)
 0e8f2dbe, masterpiece|best quality
+0e98aa3f, InToThe2KGothClub
 0eb3318b, Airlock, djzAirlockV21768V21512_21768.safetensors
 0eb3318b, AssassinKahb, djzAssassinKahbV21_0.safetensors
 0eb3318b, AssassinMihq, djzAssassinMihqV21_0.safetensors
