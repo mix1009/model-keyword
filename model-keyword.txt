@@ -828,6 +828,7 @@
 55f8aa74, mobian or sonic character name
 561e042a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti
 564d5ca4, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
+566842ff, janadefi
 56e29f8a, tk-char|tk-env
 5714e58c, woolitize
 572aac4e, .bsp
@@ -1051,7 +1052,8 @@
 75555781, Batfleck
 755bd415, elle fanning|3113fann1ng3
 75967262, joemadureira|valorant|samdoesarts
-75c7f3b6, ohwx devil
+75c7f3b6, bnha|ske, shivjiModel2_v10.safetensors
+75c7f3b6, ohwx devil, dimensiontwist_v10.safetensors
 7606f40e, scrbackrooms
 7614fc55, PBOldRifRPGStyle
 7665f8c3, itrobo2022
