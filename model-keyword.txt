@@ -643,6 +643,7 @@
 38c1ebe3, star guardian neeko, starGuardianNeeko_sgNeekoAnythingv3.ckpt
 38c1ebe3, zero_two_101, anythingZeroTwo_zeroTwoDarlingInThe.ckpt
 38c588d9, synthpunk|cyberpunk|fantasy
+38cee4b1, Mariia|Anna
 38e36880, nighttime|lighting|photorealistic|dynamic_color_range
 38e75709, analog style|modelshoot style|nsfw|nudity
 38e89fda, itojunji style
@@ -1611,6 +1612,7 @@ b18cb707, pretty girl
 b1aa0d33, nauskaavalofw
 b1b6cc01, none|just prompt
 b1b9d236, furrender style
+b1be66e9, dreamworks artstyle
 b1c32576, anime pencil concept style
 b1df6170, realistic
 b1f4f421, 1girl
