@@ -870,6 +870,7 @@
 5c742e44, CCDDA artstyle
 5c7e6e88, 80sFashionRobot, 80sFashionRobot_v1.ckpt
 5c7e6e88, 80sfashionrobot, 80sfashionrobot_v10.ckpt
+5c9b51d3, dreamworks artstyle
 5cc1bba0, style of ohwx
 5cc9b7ba, modelshoot style
 5d2a695e, sdclrdrk style
@@ -2048,6 +2049,7 @@ ed0b4125, anime style|illustration|oil painting|analog style|realistic|photoreal
 ed87e89c, tchnclr style
 ed977a93, dicuki, dinosRichstyle15_dicuki.ckpt
 ed977a93, dvmech, dvmech_100.ckpt
+ed977a93, gdmint luxury modern interior design, gdmLuxuryModern_v10.ckpt
 ed977a93, groo, grooTheWanderer_style.ckpt
 ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
