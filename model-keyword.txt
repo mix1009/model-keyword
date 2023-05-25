@@ -1109,6 +1109,7 @@
 7b9572be, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 7bfb80d6, sks style
 7bfd4934, modelshoot style
+7c175441, mmwtsn woman
 7c2024f8, sks person
 7c4971d4, timeless style
 7c83b897, monochrome
@@ -1223,6 +1224,7 @@
 8e121fec, none
 8e145533, claymation|80's anime style
 8e194b43, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+8e4fc5a6, sks woman
 8e6777fc, masterpiece|best quality
 8e9d93c1, lamia
 8ea93b04, girl
@@ -1324,6 +1326,7 @@
 993f2358, guttonerd02, guttoNerd02CorpoE_guttonerd02.ckpt
 993f2358, guttonerd1, guttoNerdRostos_guttonerd1.ckpt
 993f2358, guttonerd2, guttoNerdCorpoTodo_guttonerd2.ckpt
+993f2358, guttonerdinho01, guttoNerdinho01Real_nerdinhoOficial01.ckpt
 993f2358, guttonerdinho1, guttoNerdinho1_guttonerdinhov10.ckpt
 993f2358, ioasdf, krio70_001.ckpt
 993f2358, jennawan, jennawan_v10.ckpt
@@ -1660,6 +1663,7 @@ b725e575, wtrcolor style
 b742bc35, 8k|raw photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.37|high detailed background|1girl in a blue shirt|shy expression|cute|cityscape|night|rain|wet|professional lighting|photon mapping|radiosity|physically-based rendering||beautiful breasts|medium breast|look at viewer, girlMix_girlsmix.safetensors
 b742bc35, m, girlMix_girlsmix.safetensors
 b78b4650, filfigari
+b7a08fdf, ohwx monster|ohwx monster devil|ohwx devil
 b7ba5b22, effeff9 woman|effeff9 man|effeff9 creature|effeff9 architecture, effeffixConcept_main.ckpt
 b7ba5b22, orna santa, ornamentalSanta_default10.ckpt
 b7c86dad, scrpoolrooms|scrbackrooms
@@ -2026,6 +2030,7 @@ ea1e7cc7, FlonixMatyukhinft|FlonixApterus|Danmumford style
 ea2dccc5, tracerx
 ea35b744, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 eaaed320, SuperBolinha2
+eae4113f, 没有/none
 eae95c5e, cardassian
 eb01f3b2, NijiFTB
 eb3a4159, dal
@@ -2150,6 +2155,7 @@ fc88eb89, sks person
 fcbf8265, evang
 fcd6b416, sks woman
 fd294ceb, nvinkpunk|modelshoot style|samdoesart|dreamlikeart|kuvshinov
+fd357580, latex|latex hood|latex mask|full face latex mask
 fd433acd, dal
 fd496cc1, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 fd7a0fd0, wltzwthbshr
