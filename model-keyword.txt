@@ -606,6 +606,7 @@
 3288c45d, GOOSEBUMPS ART BY TIM JACOBUS|RAINBOWPATCH|FOOD_CRIT|TK-CHAR|TK-ENV|LIQUID SPLASH|PAPERCUT|PORCELAIN DOLL|artificial-journey style|SURREALISM|COLORFULSURREALISMAI|CARBON|DUOCHROME|HOLOGRAPHIC|in OliDisco style|FLAT COLOR|FLAT ILLUSTRATION|VECTORSTYLE|MECHA
 32b08cff, gotou hitori|inoue takina|kita ikuyo|kubo nagisa|nishikigi chisato|sabine|sendou erika|shiina mahiru|yamano mitsuha|shuka high school uniform|lycoris uniform
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
+3317d761, solo|blurry|depth_of_field|blue sky and clouds
 33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime, dgspitzerArt_Diffusion.safetensors
 33290d4a, rfktrstyle, rfktrsDarkdream_v16.safetensors
 33290d4a, rfktr|rfktrstyle, rfktrsDarkdream_v10.safetensors
@@ -1178,6 +1179,7 @@
 853e5ff4, wvebg1
 85b77ff9, samdoesarts style
 85c66939, csalpha artstyle
+85ce3559, zhidiao
 8624248c, analog style|modelshoot style|nsfw|nudity
 864e0609, Anime|Manga|Cartoon
 866f9274, sakimi mix
@@ -1223,6 +1225,7 @@
 8cf258c7, mchozn
 8cf4478f, sks girl
 8d0bf1ed, Nvinkpunk|samdoesarts
+8d3a4cb3, inessa
 8d9aaa54, nvinkpunk
 8d9f015b, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 8e121fec, none
@@ -1833,6 +1836,7 @@ d0efcea0, Mikelindell Person, theMyPillowGuy_v10.safetensors
 d0efcea0, Topnotch Artstyle, TopnotchArtstyleVolume118_v10.safetensors
 d0efcea0, Tuckercarlson Person, tuckerCarlsonTuckercarlson_v10.safetensors
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
+d164c734, 4x-animesharp
 d1708df8, sd-prohib|broad brushstrokes|medium brushstrokes|fine brushstrocks|painterly|sentimental|pictorial|idealism|family life|romance|adventure|action|1914|1920|1924|1925|1928|1930|1933|1934|1937
 d1a80918, thanhph
 d1a8d83f, isometricfuture
@@ -1889,6 +1893,7 @@ d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
 d84b15d9, none
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
 d89bc06c, m
+d8e16309, realistic|photorealistic
 d90a034f, yuzu$style
 d947f2cd, jisoo
 d9761e1d, ashenhard style
