@@ -1787,6 +1787,7 @@ cb1c3003, SDArt
 cb3c351a, 1girl，|chinese clothes|best quality|masterpiece|1boy
 cba4df56, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 cbdb9b2a, arthur-leywin
+cbdd62b4, realistic
 cbe19f18, chinese|chinese weidness
 cc11c0ef, masterpiece|best quality|
 cc30ad23, lamia|harpy|centaur|etc....|most mge girls half work
@@ -2052,6 +2053,7 @@ ed0b4125, anime style|illustration|oil painting|analog style|realistic|photoreal
 ed87e89c, tchnclr style
 ed977a93, dicuki, dinosRichstyle15_dicuki.ckpt
 ed977a93, dvmech, dvmech_100.ckpt
+ed977a93, gdmext luxury modern house, gdmLuxuryModernHouseAnd_v10.ckpt
 ed977a93, gdmint luxury modern interior design, gdmLuxuryModern_v10.ckpt
 ed977a93, groo, grooTheWanderer_style.ckpt
 ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
