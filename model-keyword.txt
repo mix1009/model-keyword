@@ -1328,6 +1328,7 @@
 993f2358, diovasnsc, del2_v2.ckpt
 993f2358, duskfll, duskfallAlters_duskfallAlters05.ckpt
 993f2358, dvarchinteriormodern|dvarchinteriorvictorian|dvarchinteriorgothic, dvarchMultiPrompt_dvarchInterior.ckpt
+993f2358, gdmint luxury modern interior design, gdmLuxuryModern_v2GDMHighEnd.ckpt
 993f2358, guttonerd02, guttoNerd02CorpoE_guttonerd02.ckpt
 993f2358, guttonerd1, guttoNerdRostos_guttonerd1.ckpt
 993f2358, guttonerd2, guttoNerdCorpoTodo_guttonerd2.ckpt
@@ -1928,6 +1929,7 @@ dde11c1e, smitsv
 de2f2560, 6girls+, theGoldenMirage_v11.safetensors
 de2f2560, Asian|Man|Female|Cute, asianMix_alpha30.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
+de2f2560, JukyungLim, jukyunglim_v10.safetensors
 de2f2560, ae, tokeaa_mancet.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV20_v13.safetensors
@@ -1952,6 +1954,7 @@ de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photo
 de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 de2f2560, shiny_skin, realshinymixV1_v10.safetensors
 de2f2560, yorha2b, yorha2b_v20Animation.safetensors
+de2f2560, zephyr, zephyr_v10.safetensors
 deb6b205, gatto
 def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
