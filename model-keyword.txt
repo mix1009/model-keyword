@@ -526,6 +526,7 @@
 250e12ad, humanoid robot
 250eb705, watercolor
 25200a09, checpoint
+253ccabe, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
 254fb5cd, hasanpiker person
 258f79e3, stylized game icon|sci-fi|steampunk|spell
 25ba4550, modelshoot style|swpunk|synthwave|paint splatters
@@ -932,6 +933,7 @@
 63746d4f, rtrophto1
 638ca327, jp_style person
 6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
+63ec42c3, noble ai|noble mix fix|reality|noblemixfix|person|character|photograph
 63f63601, estilovintedois
 6414e2dc, liquid splash|papercut|porcelain doll
 6418d85d, person_in_Jar
@@ -1613,6 +1615,7 @@ ad9d6205, fart62
 ae19a9dd, pspp man
 ae1f0d66, dskyart1
 ae998e33, DarkSouls Style
+aeb47ec2, noble ai|noble mix fix|reality|noblemixfix|person|character|photograph
 aef3d307, zukki_style
 af1ac3ce, banchan
 af44b653, mmk
@@ -2020,6 +2023,7 @@ e5541f03, by Jean Leon|oil painting, jeanLeon0Ckpt_.ckpt
 e5541f03, midjourneyi, 21SDModernBuildings_midjourneyBuildings.ckpt
 e56b39fb, <lora:koreandolllikeness_v15:0.7>|ultra detailed|raw photo|best quality|realistic:1.2|1 korean|16k|realistic photography|professional color graded|physically based rendering|highres|b-cup|hair wave|suwon hwaseongmun gate|front|casual suit|f 2.4|35mm
 e5787969, ratatatat74
+e58f3d77, sks woman
 e5afc733, zrpgstyle
 e5d0d591, shiny skin
 e5e811ce, pixelart|#pixelart
@@ -2079,6 +2083,7 @@ eda667c4, chaingirldark style
 edda855e, none
 edf5c25b, sks woman
 ee5b91da, ligne claire
+ee5e8d13, Sheeroawan
 ee624815, xmascookie
 ee685731, cute|chibi
 eef06b18, masterpiece|best quality|nfixer|nfixernext|re-badprompt
