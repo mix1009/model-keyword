@@ -650,6 +650,7 @@
 38e75709, analog style|modelshoot style|nsfw|nudity
 38e89fda, itojunji style
 390d2cdf, FluidArt
+39318762, realistic|overall
 396450f6, lomo style
 399391b8, sphax style
 39c38163, itojunji style
@@ -1017,6 +1018,7 @@
 6eff939c, sks person
 6f4ab0a0, duskgem|jem and the holograms
 6f5fc35d, 3d render of|3d cartoon of
+6fa714ba, janadefi
 6fb99464, depth of field|film, unrealityV20_v20Asian.safetensors
 6fb99464, depth of field|film|evening, sexSexyEasternExperienceV3_sexV10.safetensors
 6fb99464, depth of field|film|portrait|realistic, sexSexyEasternExperienceV3_sexV20.safetensors
@@ -1960,6 +1962,7 @@ de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo styl
 de2f2560, shiny_skin, realshinymixV1_v10.safetensors
 de2f2560, yorha2b, yorha2b_v20Animation.safetensors
 de2f2560, zephyr, zephyr_v10.safetensors
+de41984b, no
 deb6b205, gatto
 def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
@@ -2099,6 +2102,7 @@ f287b25e, agp
 f2b82853, junobirch drag queen
 f2ca12bd, zombie_vector
 f2caf204, posing for the camera|posing for a photo|a close up of
+f2e5f721, DZ
 f2ea5e14, woolitize
 f3172f53, rcnz_niji style
 f317afa4, sks woman
