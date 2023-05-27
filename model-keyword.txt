@@ -852,6 +852,7 @@
 59724734, IconsMi
 597a8e99, MajinVegeta, majinVegeta_majinVegetaV10.ckpt
 597a8e99, christina_, womenCris_v10.ckpt
+597a8e99, jsscbppler, jessicabepperv1_v10.ckpt
 597a8e99, women, christina_v10.ckpt
 5998441b, redshift style|seconddusk
 59aa3b7d, humanoid robot
@@ -1166,6 +1167,7 @@
 82cbe3e7, sks woman|(sks woman)
 8300ecaa, artificial-journey style
 83078a1e, 抽象|色块
+830b6ebd, masterpiece|best quality
 8312b529, bigbadejo alien_monster
 83295fd6, mdjrny-pntrt
 832c6e6a, analog style|modelshoot style|nsfw|nudity
@@ -2072,7 +2074,7 @@ ed87e89c, tchnclr style
 ed977a93, dicuki, dinosRichstyle15_dicuki.ckpt
 ed977a93, dvmech, dvmech_100.ckpt
 ed977a93, gdmext luxury modern house, gdmLuxuryModernHouseAnd_v10.ckpt
-ed977a93, gdmint luxury modern interior design, gdmLuxuryModern_v10.ckpt
+ed977a93, gdmint luxury modern interior design, gdmLuxuryModern_v10GDMLuxuryModern.ckpt
 ed977a93, groo, grooTheWanderer_style.ckpt
 ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
@@ -2082,6 +2084,7 @@ eda3e3ec, close-up|portrait photo|raw|ultra macro, neurogenV11_v10.safetensors
 eda667c4, chaingirldark style
 edda855e, none
 edf5c25b, sks woman
+ee30c7db, Goku
 ee5b91da, ligne claire
 ee5e8d13, Sheeroawan
 ee624815, xmascookie
