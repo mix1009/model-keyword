@@ -910,6 +910,7 @@
 606224fd, groo_the_wanderer
 6076842b, nvinkpunk|dreamlikeart|samdoesart|kuvshinov
 60851177, dgs illustration style
+60cbc38b, Isometric|No Humans
 60fe2f34, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 60fe3f35, ricknmorty style
 610879f9, flat color
@@ -1437,6 +1438,7 @@
 9ef9f138, gigafractal artstyle
 9f195bbc, blackphoto|1girl
 9f45927e, Comic Style|Illustration|Line Art|Comic Poster|Realistic, kl-f8-anime2.ckpt
+9f45927e, Isometric|No Humans, kl-f8-anime2.ckpt
 9f45927e, Nvinkpunk|samdoesarts, kl-f8-anime2.ckpt
 9f45927e, illustration|comic style|realistic|Comic Poster|Line Art, kl-f8-anime2.ckpt
 9f45927e, mksks style, kl-f8-anime2.ckpt
