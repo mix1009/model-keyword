@@ -845,6 +845,7 @@
 582e14a8, plump
 585879fc, portrait+ style
 58819dc1, anime|realistic|masterpiece|best quality
+58959faa, photo of zwx yu lexuan
 5896f8d5, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 58db528f, rcnz_niji style
 59139221, man s4ntos
@@ -1411,6 +1412,7 @@
 9c55fd12, mirrormask
 9ca13f02, analog style
 9ce5cea2, nvinkpunk|snthwve style|style of joemadureira
+9cec73d3, photorealistic|anime|cartoon
 9cf9ef13, realistic
 9cfc4e43, SDArt
 9d24e3d5, best quality
@@ -1521,6 +1523,7 @@ a64b9e1f, sdart|bnp|abia|abit|adl|afs|aon|lpg|apro|nwsl|mth|arl|arum|asar|batt|b
 a6590543, mksks style|detailed background
 a69bb214, Oldjourney
 a69f9ce1, best quality|sksTakuya
+a6b4eaf3, no
 a6dbd500, tchnclr
 a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
