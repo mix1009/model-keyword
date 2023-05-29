@@ -50,6 +50,7 @@
 02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
 02f311af, kylxn, akalinLinky_kylxn.ckpt
 02f311af, poggers, pactWithWhitch_v10.ckpt
+02f311af, resha, lyrielWithResha_v10.ckpt
 02faa048, sphx style
 030933d0, l4lisa
 03f434be, MTG card art
@@ -548,6 +549,7 @@
 28c385a0, Bloodborne Style
 291b67b8, maxwell the cat
 291e7dc8, monochrome
+29323d76, Ligne Claire|PC-98
 2933589a, bld aesthetic
 29342dcf, a strawberry|butter|pink|vector illustration|cartoon|anime|cute|baby|kirby|strawberries with whipped butter
 2943d1df, analog style|modelshoot style|nsfw|nudity
@@ -1708,6 +1710,7 @@ b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
 ba158946, goldenglass
 ba210b22, sks woman
+ba468443, no
 bb029452, kindigitstyle
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
@@ -1809,6 +1812,7 @@ cafd0b18, analog|photography
 cb144970, by k-suwabe
 cb1c3003, SDArt
 cb3c351a, 1girl，|chinese clothes|best quality|masterpiece|1boy
+cb6c01eb, masterpiece|best quality
 cba4df56, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 cbdb9b2a, arthur-leywin
 cbdd62b4, realistic
