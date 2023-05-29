@@ -718,6 +718,7 @@
 4449cdac, samdoesarts
 445461df, fking_scifi_v2
 44bf0551, booru tags
+44c43db2, no
 4507a9f0, Makima
 4509a913, by mitsudoue
 456c0bfb, sks woman
@@ -1566,6 +1567,7 @@ a910c8e4, watercolor
 a919edc0, MechBattleTechClassicTR3025
 a927e35a, none
 a940803e, modelshoot style
+a9c65c4e, no
 a9cf1812, cozmikduzk1
 a9e3e060, ChromaV5
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
