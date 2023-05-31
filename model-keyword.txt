@@ -57,6 +57,7 @@
 042435b0, photo of morgen person
 04324700, 波普艺术|十二生肖|抽象
 0440e296, MASTERPICE sharp focus portrait
+044370f6, cult of cthulhu|giger|Cthulhu|post-apocalypse|biomechanical
 048f8871, dalcefo
 04a81662, official art|yu-gi-oh!
 04baab99, a 3d render of|a 3d cartoon of
@@ -674,6 +675,7 @@
 3b214cf8, style
 3b35f9ee, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
 3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
+3bb264a1, Furry|Hentai|Nude|Yiff|Breasts|Naked|Fur|NSFW|porn|sex
 3bbfd044, modelshoot style
 3c018217, bondrewd|1boy
 3c1ac307, 海洋|女性|天空|温泉|枫叶|雪花|温暖|超清|艺术|生理|shape|草原|樱花
@@ -684,6 +686,7 @@
 3caeeaf3, vintage polaroid analog portrait photography of
 3cb52e96, shuimobysim|shukezouma
 3d28e095, 3D Style|Rick Roll|fullbody shot|bad cosplay man
+3d61b720, 3D product render|3D product render style
 3e008b4d, bethharmon
 3e832815, kochergin
 3eac54e3, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
@@ -714,6 +717,7 @@
 42eefbf3, nauskaavalofw
 4326c062, ppllnnn
 436dd50e, 3d product render|product render
+4391d84b, smart car|smart forfour|forfour|smart 454
 439f64ec, midjourney model 1.5v|model v1.5, warriorGirlOfArmorSD_armorGirlWarrior.ckpt
 439f64ec, realistic|all|photorealistic|fantasy, modelMovieRealistic_v20.ckpt
 43a5955f, photorealistic
@@ -897,6 +901,7 @@
 5da2da2e, mdj style
 5dac79de, sks person
 5dbcf115, feralplmr
+5dffdc36, Furry|Hentai|Nude|Yiff|Breasts|Naked|Fur|NSFW|porn|sex
 5e081326, Matchapix
 5e107da3, ComplexLA style
 5e2f08a1, ltsbbl style
@@ -1298,7 +1303,8 @@
 94c7fd10, nayeonnine
 950a18d8, sks person
 9518faa2, luna
-9549a897, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical
+9549a897, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical, terrorYamerV2_terrorYamerV2.safetensors
+9549a897, cult of cthulhu|giger|post-apocalypse|biomechanicals, terrorYamerV1_terrorV2.safetensors
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
 958eaa52, rcnz_niji style
@@ -1637,6 +1643,7 @@ ad73b609, anime
 ad9d6205, fart62
 ae19a9dd, pspp man
 ae1f0d66, dskyart1
+ae40b48d, cult of cthulhu|giger|Cthulhu|post-apocalypse|biomechanical
 ae998e33, DarkSouls Style
 aeb47ec2, noble ai|noble mix fix|reality|noblemixfix|person|character|photograph
 aef3d307, zukki_style
@@ -1885,7 +1892,8 @@ d21b2894, none
 d21c153e, ChromaV5|nvinkpunk
 d229bfec, manwha1
 d28922ac, rcnz_niji style
-d2972917, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical
+d2972917, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical, terrorYamerV2_terrorYamerV2.safetensors
+d2972917, cult of cthulhu|giger|post-apocalypse|biomechanicals, terrorYamerV1_terrorV2.safetensors
 d2a84d7f, slime|slime girl|curss
 d2beeabf, girl
 d2e96167, masterpiece|best quality|nfixer|nfixernext|re-badprompt
