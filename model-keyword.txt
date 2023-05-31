@@ -874,6 +874,7 @@
 5a4b600e, none
 5a639898, ink style|ink wash painting
 5a747794, mechanical parts|mechanical 'body part or object|cyberware style
+5aceb664, kor_mixed 1girl
 5ad07226, art by yaguru magiku
 5b2d4455, EmiliaClarke woman
 5b4e980d, style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
@@ -1831,6 +1832,7 @@ cb3c351a, 1girl，|chinese clothes|best quality|masterpiece|1boy
 cb6c01eb, masterpiece|best quality
 cb96d21b, MASTERPIECE|BEST QUALITY|photorealistic
 cba4df56, chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
+cbc3b90e, pretty asian|pretty asian girl
 cbdb9b2a, arthur-leywin
 cbdd62b4, realistic
 cbe19f18, chinese|chinese weidness
@@ -1977,7 +1979,7 @@ dde11c1e, smitsv
 de2f2560, 6girls+, theGoldenMirage_v11.safetensors
 de2f2560, Asian|Man|Female|Cute, asianMix_alpha30.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
-de2f2560, JukyungLim, jukyunglim_v10.safetensors
+de2f2560, JukyungLim, jukyunglim_v20.safetensors
 de2f2560, ae, tokeaa_mancet.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV20_v13.safetensors
