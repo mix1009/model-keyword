@@ -675,6 +675,7 @@
 3b214cf8, style
 3b35f9ee, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
 3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
+3ba5a0d8, photorealistic|textured skin|skin pores|skin imperfections|raw|8k|intricate details
 3bb264a1, Furry|Hentai|Nude|Yiff|Breasts|Naked|Fur|NSFW|porn|sex
 3bbfd044, modelshoot style
 3c018217, bondrewd|1boy
@@ -1359,6 +1360,7 @@
 993f2358, chubasart, chubas_v10.ckpt
 993f2358, comidusk, cajunBelle_10.ckpt
 993f2358, crovira, crovira_10.ckpt
+993f2358, cum, qgoPromptingreal_bonusCumDreambooth.ckpt
 993f2358, desertranger, desertRanger_desertRangerV10.ckpt
 993f2358, diovasnsc, del2_v2.ckpt
 993f2358, duskfll, duskfallAlters_duskfallAlters05.ckpt
@@ -1970,6 +1972,7 @@ dc01dfdd, ohwx|demon|werewolf|minotaur|zombie|
 dc05355d, sksi object|sksi
 dccb4eb7, head
 dcdf0425, dgs illustration style
+dced2560, cum
 dcff916b, modelshoot style|swpunk|synthwave|paint splatters
 dd47c9f1, nabongs|jeongie|hiraimomo|minatozaki sana|godjihyo|myouimina|dubu|chaengie|choutzuyu
 dd539c7c, dsktaro1
