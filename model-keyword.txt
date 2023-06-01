@@ -96,6 +96,7 @@
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
 09d7878a, pixarstyle
 09edc9b2, furry|anime|woman|animal|pastel
+09f31518, no
 0a4320df, dalcefo
 0a92be44, 1girl|cat_ears
 0acd5bea, martianwarlord
@@ -407,6 +408,7 @@
 15540f03, gigafractal artstyle
 1578af98, bigbadejo alien_monster
 1604613a, muscular
+16552af2, sks woman
 168f95ca, asim style
 16d2a02c, dreamlikeart|samdoesart|kuvshinov
 16d77205, elden ring style
@@ -885,6 +887,7 @@
 5bcbb8a5, sks person
 5bcd62ae, megapals|megapals style
 5bd6ab22, Dread
+5c347b90, no
 5c3af880, ai protest|ai protest|3d logo
 5c742e44, CCDDA artstyle
 5c7e6e88, 80sFashionRobot, 80sFashionRobot_v1.ckpt
@@ -1010,6 +1013,7 @@
 6b4ca475, knollingcase
 6b54ddb0, ABYR23 person
 6b7b4735, Danmumford style
+6ba298ae, sks woman
 6ba9c09a, girl
 6baa48b3, modelshoot style
 6bb23006, elden ring style
@@ -1084,8 +1088,9 @@
 75967262, joemadureira|valorant|samdoesarts
 75c7f3b6, bnha|ske, shivjiModel2_v10.safetensors
 75c7f3b6, ohwx devil, dimensiontwist_v10.safetensors
-75c7f3b6, p1xindianajones, indianaJonesAndTheFate_v10.safetensors
-75c7f3b6, p1xriven, rivenTheSequelToMYST_v10.safetensors
+75c7f3b6, p1xanotherworld, anotherWorldRetro_v10.safetensors
+75c7f3b6, p1xindianajones, indianaJonesAndTheFateOf_v10.safetensors
+75c7f3b6, p1xriven, rivenTheSequelToMYST_v12.safetensors
 7606f40e, scrbackrooms
 7614fc55, PBOldRifRPGStyle
 7665f8c3, itrobo2022
@@ -1264,6 +1269,7 @@
 8e145533, claymation|80's anime style
 8e194b43, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 8e4fc5a6, sks woman
+8e59f3a4, sks woman
 8e6777fc, masterpiece|best quality
 8e9d93c1, lamia
 8ea93b04, girl
@@ -2180,6 +2186,7 @@ f5bf5a19, SDArt
 f5d9c703, snthwve style
 f61ceeaf, xao-arab-girl
 f6239527, brtdrpp
+f6412c6b, 1girl
 f69b7a31, Nothing
 f6a9004f, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 f6b07b0a, "GretchenRoss Person"
