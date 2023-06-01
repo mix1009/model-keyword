@@ -395,7 +395,7 @@
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
 14e1ef5d, gianthulk, mysteriousCharacter_dreamlike20.ckpt
 14e1ef5d, ginkddd, del2_v1.ckpt
-14e1ef5d, gksrnrghk|rlaghdeh, koreanPaintingModel_v10.ckpt
+14e1ef5d, gksrnrghk|rlaghdeh, koreanSumukhwaModel_v10.ckpt
 14e1ef5d, phse, prettyHouseSo_v1.ckpt
 14e1ef5d, sksi, csGOMapGenerator_v1.ckpt
 14e1ef5d, swpunk|synthwave|paint splatters, synthpunkSearch_raw.ckpt
@@ -462,6 +462,7 @@
 1c83d3db, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 1d0d03ee, botw style
 1d132f9e, whatif style|tdst style
+1d812301, photorealistic|textured skin|skin pores|skin imperfections|raw|8k|intricate details
 1d95bf0b, lamborghinixyz
 1d9814e5, shuimobysim|shukezouma
 1da401ba, style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
@@ -469,6 +470,7 @@
 1de806f4, rcnz_hqr style
 1df99c75, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
+1e2b3832, lula
 1e6822b7, comics style|analog style|illustration|lineart
 1f258730, dbluth
 1f27bb0e, sks woman
@@ -678,7 +680,6 @@
 3b214cf8, style
 3b35f9ee, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
 3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
-3ba5a0d8, photorealistic|textured skin|skin pores|skin imperfections|raw|8k|intricate details
 3bb264a1, Furry|Hentai|Nude|Yiff|Breasts|Naked|Fur|NSFW|porn|sex
 3bbfd044, modelshoot style
 3c018217, bondrewd|1boy
@@ -1244,6 +1245,7 @@
 8a5302eb, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
 8a648075, sks jinx|jinx
 8a697671, yorha2b
+8a6eadcf, lula
 8a7088c5, JzzyeonAi_v5
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
 8ae4d0fb, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
@@ -1734,6 +1736,7 @@ b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view
 b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
 b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style, aargArchitecture_v10.safetensors
 b9ac173c, SDArt
+b9c3fe1b, ohwx|bnha
 b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
 ba158946, goldenglass
@@ -1791,6 +1794,7 @@ c16a2a6b, wjqfrottage
 c1a72459, girl
 c203ddb4, sam yang
 c230a4e3, AK-47-Asiimov|AK-47-Gold-Arabesque|AK-47-Hydroponic|AK-47-Neon-Rider|AK-47-Vulcan|AK-47-X-Ray
+c23c9f4d, 1girl
 c25693d5, best quality
 c326880c, masterpiece|best quality
 c3277c7d, modelshoot style
@@ -2142,6 +2146,7 @@ ee624815, xmascookie
 ee685731, cute|chibi
 eef06b18, masterpiece|best quality|nfixer|nfixernext|re-badprompt
 eefa7e96, girl|face|beautiful
+ef01c1e8, Henry Cavill|hnrycvll
 ef2267bd, LIQUID SPLASH|BRTDRPP|Fruitfusion
 ef36e488, romerorzlucy
 ef4be3fb, swpunk|synthwave|paint splatters
