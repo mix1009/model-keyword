@@ -868,6 +868,7 @@
 58db528f, rcnz_niji style
 59139221, man s4ntos
 5942a771, xyz
+59591b48, masterpiece|best quality
 59724734, IconsMi
 597a8e99, MajinVegeta, majinVegeta_majinVegetaV10.ckpt
 597a8e99, christina_, womenCris_v10.ckpt
@@ -1490,6 +1491,7 @@ a06c6681, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle
 a0b3a1c3, sphx weapon
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
 a0f4bc4a, Macro
+a10f6a56, None needed|but sometimes "painting" or "background art" helps.
 a149572b, CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDark|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld, charhelperFineTuned_fineTunedV1.safetensors
 a149572b, battlemap|dungeon|outdoor, dDBattlemaps_1024V10.safetensors
 a149572b, chv3cbigchief|chv3cboxer|chv3sworld|chv3sscifi|chv3smacro|chv3scute|chv3slighthouse|chv3seldritch|chv3surban|chv3sdark|chv3calien|chv3crogue|chv3creaper|chv3ctroll|chv3cvehicle|chv3cbarb|chv3cwizard|chv3cknight|chv3mdragon|chv3czombie|chv3cbird|chv3crobot|chv3csamurai|chv3ccyberpunk|chv3cgolem|chv3cganesh|chv3curban|chv3corc, mangledMerge_v2.safetensors
@@ -1680,6 +1682,7 @@ b152939a, depth of field
 b18cb707, pretty girl
 b1aa0d33, nauskaavalofw
 b1b6cc01, none|just prompt
+b1b7d525, None needed|but sometimes "painting" or "background art" helps.
 b1b9d236, furrender style
 b1be66e9, dreamworks artstyle
 b1c32576, anime pencil concept style
