@@ -555,6 +555,7 @@
 282b4e08, Fraufembot
 28ae9d27, tk-char|tk-env
 28c385a0, Bloodborne Style
+28d20569, sks woman
 291b67b8, maxwell the cat
 291e7dc8, monochrome
 29323d76, Ligne Claire|PC-98
@@ -627,6 +628,8 @@
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
 341b1b4d, dragzkz
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
+34a92094, p1xbladerunner, bladeRunnerRetro_v10.safetensors
+34a92094, p1xslavicbeasts, bestiariuszSOwiaSki_v10.safetensors
 34cc3331, close up
 35035503, putinclown
 35133590, person_in_Jar
