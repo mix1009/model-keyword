@@ -729,6 +729,7 @@
 439f64ec, realistic|all|photorealistic|fantasy, modelMovieRealistic_v20.ckpt
 43a5955f, photorealistic
 43eb72ee, lineart|monochrome
+442e1b76, style bse
 4449cdac, samdoesarts
 445461df, fking_scifi_v2
 44bf0551, booru tags
@@ -809,6 +810,7 @@
 50b09182, flonixreddit
 510c4b84, dal
 510c5845, modelshoot style|nousr robot
+511d6e1f, 触发词1|触发词2
 5141b47d, loli
 514a1db3, rcnz_hqr
 515a5199, circetorre
@@ -2160,6 +2162,7 @@ ef27e17b, Anime
 ef36e488, romerorzlucy
 ef4be3fb, swpunk|synthwave|paint splatters
 ef6ecf6d, alloldrpgarts1
+ef91d6a9, Jacey
 efdd9fcf, game icon
 f05f9963, lisafrankstyle
 f0803e20, sjh style
