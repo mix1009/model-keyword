@@ -809,6 +809,7 @@
 4fb24cb3, realistic
 50444ca2, trnlgcy
 50481b4d, anime|girl
+505f27ef, Oofa
 508104ff, isohomes
 50ad914b, e621
 50b09182, flonixreddit
@@ -1076,6 +1077,7 @@
 718c368e, mikeidsk1
 71b0b5fb, tyznedsk1
 71d46dd0, Bocchi|KitaIkuyo|IjichiNijika|YamadaRyo|IjichiSeika|PAsan|HiroiKikuri|ShimizuEliza|IwashitaShima|Bfan1|BoFa2|GotoFutari
+71e034f6, wuxia
 72186363, <niji-se-flowers>
 72644878, evang
 7267c1a1, suzumecat
@@ -1266,6 +1268,7 @@
 8b8efdcc, best quality|masterpiece|
 8b917b1c, xixiprincess
 8ba5b787, dal
+8bf784bb, Comics style|Comics|Cartoon style|
 8c36d946, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 8c3b86ce, chilloutmix-Ni.safetensors
 8c7efd5f, itojunji style
@@ -1586,6 +1589,7 @@ a74ca246, microworld|clayitization, microclayMerge_10.ckpt
 a74ca246, microworld|knollingcase, microcasingMerge_10.ckpt
 a7694188, sks woman
 a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1|photrealistic:1.1
+a7c6cf65, pony
 a7e848cb, 90902k, krio70_002.ckpt
 a7e848cb, Bardock, bardock_V10.ckpt
 a7e848cb, SJstyle, createASJStyleMask_beta.ckpt
