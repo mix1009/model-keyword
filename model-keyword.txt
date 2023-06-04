@@ -628,6 +628,7 @@
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
 341b1b4d, dragzkz
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
+34a92094, p1xanotherworld, anotherWorldRetro_v20.safetensors
 34a92094, p1xbladerunner, bladeRunnerRetro_v10.safetensors
 34a92094, p1xslavicbeasts, bestiariuszSOwiaSki_v10.safetensors
 34cc3331, close up
@@ -1009,6 +1010,7 @@
 68a6ed7a, evang
 68b463ba, clazy style
 68beb121, Nintendo mii|modern_mii|classic_mii|highres|eye_whites|fighting|tennis
+69134511, sks woman
 69389227, borderlands
 69462e0c, furry
 6965c077, iayuso person
@@ -1039,7 +1041,8 @@
 6c481f5c, mksks style
 6c5dc775, kpt digital artstyle|gui
 6c7102ea, botw style
-6d15da60, Dw
+6d15da60, 0dawon, 0dawon_v10.safetensors
+6d15da60, Dw, AnalGapeCreampie-v4.safetensors
 6d2a5077, by vima
 6d384d32, melkor_manchin art style
 6d3ad2a9, Margot|Margot person
@@ -1483,6 +1486,7 @@
 9e86175c, MJv4
 9e8a16f7, Macro_Bug
 9ec1e884, hanbok|mecha musume
+9ecb88d8, photo of zhy zhangyi
 9ed4ea56, Oldjourney
 9ede614e, 80's anime style
 9ef9f138, gigafractal artstyle
@@ -1624,6 +1628,7 @@ aa366209, source4 style, source4V10_v1Safetensors.safetensors
 aa366209, wewulzkz, werewolfDiffusion_1.safetensors
 aa49e01c, anime pencil concept style
 aa7001cf, COLR_001, coloringBook_.ckpt
+aa7001cf, badbunny, benitoBed_v10.ckpt
 aa7001cf, blacksun, djzBlackSunDEEPSTUDY_blip2.ckpt
 aa7001cf, cbzbb, cuteRichstyle21_cuteRichstyle.ckpt
 aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charhelperFineTuned_v1.ckpt
