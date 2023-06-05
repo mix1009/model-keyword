@@ -729,6 +729,7 @@
 42eefbf3, nauskaavalofw
 4326c062, ppllnnn
 436dd50e, 3d product render|product render
+4391d84b, citroen, citroenDS_v10.safetensors
 4391d84b, saab, saab900Coupe_v10.safetensors
 4391d84b, smart car|smart forfour|forfour|smart 454, smartForfour454_v10.safetensors
 439f64ec, midjourney model 1.5v|model v1.5, warriorGirlOfArmorSD_armorGirlWarrior.ckpt
@@ -2089,6 +2090,7 @@ e24a9c03, 2d|masterpiece|best quality|anime
 e2b8b39c, sks person
 e2d2e2c3, irmntro person
 e3373f54, Japanese|Korean
+e3423ef2, evang
 e35930da, rachelwalker style
 e35af7e4, 1girl|dynamic angle|dynamic pose|chinese style architecture|hanfu
 e37a18ee, evang
@@ -2180,6 +2182,7 @@ ef2267bd, LIQUID SPLASH|BRTDRPP|Fruitfusion
 ef27e17b, Anime
 ef36e488, romerorzlucy
 ef4be3fb, swpunk|synthwave|paint splatters
+ef54e94e, c
 ef6ecf6d, alloldrpgarts1
 ef91d6a9, Jacey
 efdd9fcf, game icon
