@@ -989,6 +989,7 @@
 66473eff, rpgicondiff
 6648a62e, gGWoman, ggwoman_v1.ckpt
 6648a62e, ggwoman, Ggwoman_v10.ckpt
+666a05ad, margot
 66ab1e7a, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 66ab1e7a, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 66b4c45e, archer style
@@ -1656,6 +1657,7 @@ ab16976f, stylized game icon|sci-fi|steampunk|spell
 ab201ab4, chinese|chinese dress
 ab377a68, FlonixApterus
 ab4941a7, fantasticmrfox
+ab770255, Anime
 ab9d9647, sks man
 abae8e8b, rcnz_hqr style
 abaf5445, 2d videogame minimap
