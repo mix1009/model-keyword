@@ -113,6 +113,7 @@
 0b84ef8c, analog style|modelshoot style|nsfw|nudity|erotic|cyborgdiffusion
 0b910e4b, duskametrik, isometricDreams_1.safetensors
 0b910e4b, fldsky1, floraFauna_1.safetensors
+0bd469b6, evang
 0bd9f938, hyperrealistic
 0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
 0c4c983e, realistic
@@ -1663,6 +1664,7 @@ ab9d9647, sks man
 abae8e8b, rcnz_hqr style
 abaf5445, 2d videogame minimap
 abb47775, sks woman
+abc2ad52, nqartst style
 abce398b, arthx
 ac039af9, 90s retro anime style|xx year anime style
 ac25001a, fwatch style
@@ -2245,6 +2247,7 @@ f76c4afc, duskspider
 f77fb4cb, ohwx|ske
 f781810b, by kyoani
 f8159da6, ftnadusk3
+f81f36e7, girl|woman
 f846e100, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 f86aeb35, renne
 f8b2fd9e, girl
