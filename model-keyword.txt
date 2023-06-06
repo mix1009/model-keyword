@@ -1428,6 +1428,7 @@
 993f2358, orbai, orbai_V10.ckpt
 993f2358, paperai, paperai_V30.ckpt
 993f2358, pdalns, alienPdalnsRichstyle1_pdaln.ckpt
+993f2358, sac, sac_v15.ckpt
 993f2358, satoworks, silentHillCGI_01.ckpt
 993f2358, sofcorrbell, sofcorrbell_.ckpt
 993f2358, steampunkai, steampunkai_steampunkV10.ckpt
@@ -1944,6 +1945,7 @@ d2089202, modelshoot style|nousr robot
 d21b2894, none
 d21c153e, ChromaV5|nvinkpunk
 d229bfec, manwha1
+d24cac70, masterpiece|best quality
 d28922ac, rcnz_niji style
 d2972917, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical, terrorYamerV2_terrorYamerV2.safetensors
 d2972917, cult of cthulhu|giger|post-apocalypse|biomechanicals, terrorYamerV1_terrorV2.safetensors
@@ -2215,7 +2217,8 @@ f2ea5e14, woolitize
 f3172f53, rcnz_niji style
 f317afa4, sks woman
 f3196d59, carbon|duochrome|holographic
-f32626be, estilovintedois
+f32626be, estilovintedois, vintedoisDiffusionV0_v01.ckpt
+f32626be, heixuan furry, kuroteroHeixuanFurry_v10.ckpt
 f341184d, msfluentui style
 f3694755, modelshoot style
 f3a2ad84, rcnz_niji style
