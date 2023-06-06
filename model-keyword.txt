@@ -49,6 +49,7 @@
 02f311af, David, modelguyyy_v10.ckpt
 02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
 02f311af, kylxn, akalinLinky_kylxn.ckpt
+02f311af, megan, megan_v15.ckpt
 02f311af, poggers, pactWithWhitch_v10.ckpt
 02f311af, resha, lyrielWithResha_v10.ckpt
 02faa048, sphx style
@@ -1837,6 +1838,7 @@ c361dd5f, masterpiece, sarabasmix_v1.safetensors
 c361dd5f, tiny, beenyou_v1.safetensors
 c37cd72c, blurry background|depth of field
 c3b103e8, lvmd aesthetic|3d render
+c3c086d6, artstyle bse
 c3cfd75d, powa
 c44bb585, duskametrick15
 c49a4c5c, photorealistic
