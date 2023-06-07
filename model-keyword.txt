@@ -641,6 +641,7 @@
 35a0bad3, starsectorportrait
 35aa200e, masterpiece|best_quality|ultra_detailed|illustration|volumetric_light|
 35dc3dbf, evang
+361eef19, photo|analog style
 363ee931, microworld|mdjrny-shttr
 365859e2, banchan
 36606926, jimjorcraflogo art style|dan mumford style
@@ -1361,6 +1362,7 @@
 97777800, swpunk|synthwave|paint splatters
 978e9ff8, h4zza
 979864ce, Meowskulls, meowskullsModel_v20.ckpt
+979864ce, haruno, harunomodel_v10.ckpt
 979864ce, meowskulls, meowskullsModel_meowskulls.ckpt
 979de0ab, 2xdrdisrespect
 97a0eac5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
