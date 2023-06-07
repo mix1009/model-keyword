@@ -535,6 +535,7 @@
 24466c76, sketch|, 经典漫画v2.5.safetensors
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 24a516fb, tpmpanlab person
+24f62767, fff
 250e12ad, humanoid robot
 250eb705, watercolor
 25200a09, checpoint
@@ -1973,6 +1974,7 @@ d4c52a91, evang
 d4cee16a, ratatatat74
 d4fd8843, rotungwoka person
 d52fc124, kurisu|1girl
+d5438b80, 1girl
 d56a53f3, aodai|cotrang
 d57fa787, by hanaarare
 d5b1726a, Masterpiece|Best Quality
