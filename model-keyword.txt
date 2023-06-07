@@ -440,6 +440,7 @@
 19b72626, analog style|dreamlikeart|redshift style
 19d911b0, djct woman|djct
 19f6cc8a, woman
+19f865cb, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 1a58ecf4, chaingirldark style
 1a78ec5a, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 1a7d3df5, masterpiece|best quality|anime|realistic|photorealisitc|exceptional|instagram|re-badprompt|nfixer|nfixernext
@@ -640,6 +641,7 @@
 3582eab3, school uniform|1lady|1girl
 35a0bad3, starsectorportrait
 35aa200e, masterpiece|best_quality|ultra_detailed|illustration|volumetric_light|
+35d51e2e, RAW photo of
 35dc3dbf, evang
 361eef19, photo|analog style
 363ee931, microworld|mdjrny-shttr
@@ -828,6 +830,7 @@
 51748799, analog style|modelshoot style|nsfw|nudity
 518d78a0, 35mmstyle
 51935af1, by chon
+51b47801, RAW photo of
 51bfb216, chibi
 51f16ca3, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
 521893a1, voxel-ish
@@ -2091,6 +2094,7 @@ e0f5c75f, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional
 e13105fc, masterpiece|best quality, bbMIXALICE_v10.safetensors
 e13105fc, masterpiece|best quality|white theme|black theme, bbmixRUIS_bbmixRUIS.safetensors
 e136d291, None
+e13c6405, RAW photo of|Analog photo of
 e1b7c805, woolitize
 e1e66020, entp
 e246da64, syberart
@@ -2241,6 +2245,7 @@ f5d9c703, snthwve style
 f61ceeaf, xao-arab-girl
 f6239527, brtdrpp
 f6412c6b, 1girl
+f661ebc1, 2dskillicon
 f69b7a31, Nothing
 f6a9004f, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 f6b07b0a, "GretchenRoss Person"
@@ -2274,6 +2279,7 @@ fa199e0c, analog style|modelshoot style|nsfw|nudity
 fa3a1716, hrgiger
 fa5e4f28, (tokki girl)
 fa735519, <lora:conceptscene_b2:1>
+faa16408, Analog Style|Photorealistic|Realistic|Mature Adult|Fantasy Art|Illustration|Watercolor|Concept Art|Oil Painting|Surrealism|Brush Strokes|Pointillism|Hyperrealistic|Perfect Shading|Masterpiece|Subsurface Scattering|Perfect Lighting|Volumetric Lighting
 fab2577c, modelshoot style|analog style|mdjrny-v4 style
 fab53a35, rcnz_niji style
 fad41caf, kawakaze azur lane|silver hair|blue eyes
