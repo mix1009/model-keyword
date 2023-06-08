@@ -478,6 +478,7 @@
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1e2b3832, lula
 1e6822b7, comics style|analog style|illustration|lineart
+1f19191c, UnstableDiffusion|unstablephotoreal
 1f258730, dbluth
 1f27bb0e, sks woman
 1fb30a55, aimoji
@@ -527,6 +528,7 @@
 2275f2cf, 90s retro anime style|xx year anime style
 22ca4aaa, guigubahuang|1girl|chinese style
 2323d67c, SLE|mksks style|detailed background
+2344718e, moyou
 234cc409, comicmay artsyle
 235ea42c, sks woman
 2375d404, P4U14
@@ -961,6 +963,7 @@
 6110cdda, photo of shkya person
 6178413b, wvert1
 61b6da58, dskyart1
+61cb8fec, Science fiction|Mechanical|Sci-fi background|Cyberpunk style|robot|Helmet|Streamlined mechanical body
 61d9038b, takeON_v2
 61db76e6, xianxia style|guofeng style
 61f22d0a, iayuso person
@@ -1135,6 +1138,7 @@
 76956df2, guttonerdvision1, guttoNerdVision_v10.ckpt
 76956df2, guttonerdvision2, guttoNerdVision2_guttoNerdVision2.ckpt
 76956df2, guttonerdvision3, guttoNerdVision3_guttoNerdVision3.ckpt
+76956df2, guttonerdvision4, guttoNerdVision4_nerdvisionV4.ckpt
 76c86ec0, modelshoot style|swpunk|synthwave|paint splatters
 76e59a65, sincity_iamyork
 771880e5, 82pigeon style|akai sashimi style|algae makku style|belko style|braveking style|chocofing style|dako style|esuna style|evaaviva style|fengweic style|gomennasai style|hitokomoru style|ibukichi style|ishikei style|jidao style|junc style|khyle style|kyuyongeom style|lam style|lovecacao style|mamamba style|matcha style|mdastarou style|melanbread style|melodyoflost style|mikapikazo style|morry style|murata range style|naruko hanaharu style|navigavi style|rei 17 style|rupid style|scottie style|spacezin style|tahra style|timrougami style|tira style|tsutomu style|uekura eku style|xiayu style|yi1zhi style|yomu style|yoneyama style|yoshio style|yueko|lunachan
@@ -1312,6 +1316,7 @@
 8ea93b04, girl
 8ec89baa, massakasma
 8ec9d746, amongus man
+8ed66211, neon|sci-fi|colorful
 8f488fb6, seconddusk
 8f495d3d, shuimobysim|shukezouma
 8f5eeef9, gnd man
@@ -2144,6 +2149,7 @@ e717e83f, infp
 e728ca1e, Mogeko|Okegom|Funamusea
 e7300f3d, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 e79c8e1c, jckmn person
+e7e92734, moyou
 e8468071, panamera04
 e85e8888, AYU23 person
 e8a0ce25, by kayahara
