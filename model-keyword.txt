@@ -436,6 +436,7 @@
 189e3972, shinyunbok painting
 18b7217d, game icon
 18b72c7b, zainabt
+19014c4a, estiloventidois
 190bc75e, 1girl|mecha|
 191173a0, 1
 194778a2, wkc
@@ -1418,6 +1419,7 @@
 993f2358, diovasnsc, del2_v2.ckpt
 993f2358, duskfll, duskfallAlters_duskfallAlters05.ckpt
 993f2358, dvarchinteriormodern|dvarchinteriorvictorian|dvarchinteriorgothic, dvarchMultiPrompt_dvarchInterior.ckpt
+993f2358, fox, fox_v15.ckpt
 993f2358, gdmint luxury modern interior design, gdmLuxuryModern_v2GDMHighEnd.ckpt
 993f2358, guttonerd02, guttoNerd02CorpoE_guttonerd02.ckpt
 993f2358, guttonerd1, guttoNerdRostos_guttonerd1.ckpt
@@ -2196,6 +2198,7 @@ ed977a93, gdmint luxury modern interior design, gdmLuxuryModern_v10GDMLuxuryMode
 ed977a93, groo, grooTheWanderer_style.ckpt
 ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
+ed977a93, sinsun, sinsun_v10.ckpt
 ed977a93, tlw, trihighsDreambooth_v31.ckpt
 eda3e3ec, carbon|duochrome|holographic, neurogenV11_v11.safetensors
 eda3e3ec, close-up|portrait photo|raw|ultra macro, neurogenV11_v10.safetensors
