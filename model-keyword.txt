@@ -1289,6 +1289,7 @@
 8a6eadcf, bolsonaro
 8a7088c5, JzzyeonAi_v5
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
+8ad6ce64, Evan
 8ae4d0fb, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
 8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle
 8b8efdcc, best quality|masterpiece|
@@ -1492,6 +1493,7 @@
 9bdc6717, none|just prompt
 9c3572e7, realistic|best quality|masterpiece
 9c55fd12, mirrormask
+9c5da18d, girl|boy
 9ca13f02, analog style
 9ce5cea2, nvinkpunk|snthwve style|style of joemadureira
 9cec73d3, photorealistic|anime|cartoon
@@ -2089,6 +2091,7 @@ def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
 df62a361, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 df9e36bd, leagueofstyle
+dfa06e02, evang
 dfafd600, duskametric15|microworld
 dfb90adf, by kyoani
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
