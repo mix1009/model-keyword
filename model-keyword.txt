@@ -1623,6 +1623,7 @@ a74ca246, microworld|clayitization, microclayMerge_10.ckpt
 a74ca246, microworld|knollingcase, microcasingMerge_10.ckpt
 a7694188, sks woman
 a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1|photrealistic:1.1
+a77d8ca7, sks woman
 a7c6cf65, pony
 a7e848cb, 90902k, krio70_002.ckpt
 a7e848cb, Bardock, bardock_V10.ckpt
