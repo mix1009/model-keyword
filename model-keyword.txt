@@ -536,6 +536,7 @@
 2375d404, P4U14
 2386519a, 树|印象派|抽象
 2402f7e7, lamia
+24362016, fiat
 24466c76, sketch, 经典漫画v2.0.safetensors
 24466c76, sketch|, 经典漫画v2.5.safetensors
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
@@ -581,6 +582,7 @@
 2a717851, klcdrx person
 2a747832, SDArt
 2aa8c665, GuardianE
+2aaa1306, evang
 2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 2b059ac7, fldsky1
 2b066feb, mmk
@@ -1309,6 +1311,7 @@
 8cf4478f, sks girl
 8d0bf1ed, Nvinkpunk|samdoesarts
 8d3a4cb3, inessa
+8d4eea3a, girl|woman
 8d6f9c6b, sks woman
 8d9aaa54, nvinkpunk
 8d9f015b, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
@@ -1493,7 +1496,7 @@
 9bdc6717, none|just prompt
 9c3572e7, realistic|best quality|masterpiece
 9c55fd12, mirrormask
-9c5da18d, girl|boy
+9c5da18d, girl
 9ca13f02, analog style
 9ce5cea2, nvinkpunk|snthwve style|style of joemadureira
 9cec73d3, photorealistic|anime|cartoon
@@ -1685,6 +1688,7 @@ aae14d50, sci-fi|caspian sci-fi|star atlas|star citizen|render
 ab16976f, stylized game icon|sci-fi|steampunk|spell
 ab201ab4, chinese|chinese dress
 ab377a68, FlonixApterus
+ab38b8e3, ouka_studio
 ab4941a7, fantasticmrfox
 ab770255, Anime
 ab9d9647, sks man
