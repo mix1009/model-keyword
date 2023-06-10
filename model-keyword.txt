@@ -1290,7 +1290,8 @@
 8a5302eb, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
 8a648075, sks jinx|jinx
 8a697671, yorha2b
-8a6eadcf, bolsonaro
+8a6eadcf, bolsonaro, bigbolsonaro_v10.safetensors
+8a6eadcf, eneias, bigeneias_v10.safetensors
 8a7088c5, JzzyeonAi_v5
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
 8ad6ce64, Evan
