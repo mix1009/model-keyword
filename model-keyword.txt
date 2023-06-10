@@ -117,6 +117,8 @@
 0b910e4b, fldsky1, floraFauna_1.safetensors
 0bd469b6, evang
 0bd9f938, hyperrealistic
+0bedca16, Illustration of|Drawing of|Sketch of
+0bf0ac13, masterpiece|high quality
 0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
 0c4c983e, realistic
 0c4ca61b, furry|anthropomorphic
@@ -2003,6 +2005,7 @@ d5438b80, 1girl
 d56a53f3, aodai|cotrang
 d57fa787, by hanaarare
 d5b1726a, Masterpiece|Best Quality
+d5cea653, gege
 d634b8cb, Hina, itshinaInstagramModel_hina.ckpt
 d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d659f794, rcnz_niji style
