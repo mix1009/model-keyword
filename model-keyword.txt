@@ -999,6 +999,7 @@
 643afbd9, Microscopic
 6447d29d, master
 645a42cf, newstl
+648c45b6, Evang
 649dfd0a, chibi
 64afe6d2, CALARTS
 64c46184, masterpiece|best quality|re-badprompt|anime|realistic
