@@ -1399,6 +1399,7 @@
 97e16013, 여자
 97fc027e, weriart style
 97fd8cc4, iwanagakotoko
+980005ba, Evang
 981d1719, color fur|red fur|orange fur|purple fur|blue fur|green fur|species furry gender|anthro|fursona|anthropomorphic, sevensMixFurryModel_7thmixV2Anythingbake.safetensors
 981d1719, color fur|red fur|orange fur|yellow fur|green fur|blue fur|species gender furry|fursona|anthro|anthropomorphic, sevensMixFurryModel_7thmixV2OrangebakeS.safetensors
 98684a1b, jammin
@@ -1954,6 +1955,7 @@ cfc5de0e, modelshoot style|analog style|mdjrny-v4 style
 d0003adb, ohwx|library
 d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+d049af0b, Evang
 d04d8a1f, lamia
 d0503c73, hanbok
 d081535b, doang woman
