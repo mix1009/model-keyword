@@ -404,6 +404,7 @@
 14e1ef5d, ginkddd, del2_v1.ckpt
 14e1ef5d, gksrnrghk|rlaghdeh, koreanSumukhwaModel_v10.ckpt
 14e1ef5d, phse, prettyHouseSo_v1.ckpt
+14e1ef5d, rapture, rapitu_v10.ckpt
 14e1ef5d, sksi, csGOMapGenerator_v1.ckpt
 14e1ef5d, swpunk|synthwave|paint splatters, synthpunkSearch_raw.ckpt
 14fe5bd7, nousr robot
@@ -562,6 +563,7 @@
 26acd9f3, furrender style
 26bde476, vrass
 26c85a2d, Nintendo mii|modern_mii|classic_mii|highres|eye_whites|fighting|tennis, nintendoMiiStyle_v11.safetensors
+26c85a2d, euro-american equipment icon, westernStyleEquipment_v10.safetensors
 26c85a2d, q skill icon, qSkillIcon_v10.safetensors
 26c85a2d, q style, qStyle_v10.safetensors
 274d0bb6, trending on artstation|8k|ultra hd|1woman
@@ -1347,6 +1349,7 @@
 8f675f3e, Evang
 8f7d98c0, by mon
 8f89e96b, anime pencil concept style
+8fee0468, v2
 8fefc581, tk-char|tk-env
 8ffb0774, prilosecotc1|burgie|dskfll
 900b847e, shiny skin
@@ -2285,7 +2288,7 @@ f3a2ad84, rcnz_niji style
 f3f858a1, moyou
 f457c3e6, shiinamashiro
 f47ae1fa, sks woman
-f4a70244, female|girl|woman
+f4a70244, female|girl|woman|man|boy
 f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte
 f4d8697e, lastname name
 f4dd44ad, svtbuild
