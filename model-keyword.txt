@@ -767,6 +767,7 @@
 4571d7f2, starfox
 457348b3, girl|female|woman
 457435c3, blue skin, avatarlook_avatarStyle200.ckpt
+457435c3, emina, eminanas_v10.ckpt
 457435c3, na'vi|Avatar|Blue skin, avatarlook_avatarStyle50.ckpt
 4583e79e, samdoesarts
 45cd0473, tsukasa|hair patch|long hair|blue sailor collar|white shirt|neck ribbon|long sleeves|red ribbon|breast pocket|blue collar|school uniform|serafuku
@@ -1283,6 +1284,7 @@
 87fb604f, 3d render|3d cartoon
 883f759a, jwl watercolor
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
+88ff0293, evang
 890cb2e4, photorealistic
 89372903, none
 89a3f11a, gatto
@@ -1740,6 +1742,7 @@ b0093a9d, jian guo
 b047abbc, cmodel
 b0557e7c, 马
 b078aa3e, by greatmosu
+b0a8dd3c, me
 b109bf50, diffusable
 b13930b7, nvjobmagiccircle
 b152939a, depth of field
