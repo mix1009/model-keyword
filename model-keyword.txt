@@ -69,6 +69,7 @@
 0586db75, cornflower
 05e6c91b, by kokuto
 061e5178, kk
+061ee127, Yulia
 0655784d, gtav style
 06a9d223, mengersponge|sierpsponge
 071b2e26, tk-char|tk-env
@@ -101,6 +102,7 @@
 09d7878a, pixarstyle
 09edc9b2, furry|anime|woman|animal|pastel
 09f31518, no
+0a2a8967, aerith|bowsette|mercy|widowmaker|tracer|dva|black cat dva|star guardian jinx|star guardian lux|irelia|nidalee|kda seraphine|kda kaisa|akali|katarinaclassicoutfit|pokemon|animal|realistic|portrait|woman|closeup|selfie|instagram
 0a4320df, dalcefo
 0a92be44, 1girl|cat_ears
 0acd5bea, martianwarlord
@@ -555,7 +557,6 @@
 25200a09, checpoint
 253ccabe, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
 254fb5cd, hasanpiker person
-255757ab, moyou
 258f79e3, stylized game icon|sci-fi|steampunk|spell
 25ba4550, modelshoot style|swpunk|synthwave|paint splatters
 265e757d, Sidon|Sidon style
@@ -1251,7 +1252,6 @@
 820c4a3e, by sy4
 8217678b, <niji-se-3d>
 822b8799, pepestyle person
-8254a5f7, moyou
 82780037, tpkify
 82978554, anidzk2
 82cb7b65, germy
@@ -1883,6 +1883,7 @@ c1582649, dmmid style
 c1589bf7, vapodusk1|wvert1|paint splatters|swpunk|mdjrny-pntrt|synthwave|dskyart1
 c16a2a6b, wjqfrottage
 c1a72459, girl
+c1b3477b, skin texture，moyou，1girl|solo|black hair|realistic|lips
 c203ddb4, sam yang
 c230a4e3, AK-47-Asiimov|AK-47-Gold-Arabesque|AK-47-Hydroponic|AK-47-Neon-Rider|AK-47-Vulcan|AK-47-X-Ray
 c23c9f4d, 1girl
@@ -2196,7 +2197,6 @@ e717e83f, infp
 e728ca1e, Mogeko|Okegom|Funamusea
 e7300f3d, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 e79c8e1c, jckmn person
-e7e92734, moyou
 e8468071, panamera04
 e85e8888, AYU23 person
 e8635c3a, multipla
@@ -2294,7 +2294,6 @@ f32626be, heixuan furry, kuroteroHeixuanFurry_v10.ckpt
 f341184d, msfluentui style
 f3694755, modelshoot style
 f3a2ad84, rcnz_niji style
-f3f858a1, moyou
 f457c3e6, shiinamashiro
 f47ae1fa, sks woman
 f4a70244, female|girl|woman|man|boy
