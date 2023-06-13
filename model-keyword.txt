@@ -119,7 +119,7 @@
 0bd469b6, evang
 0bd9f938, hyperrealistic
 0bedca16, Illustration of|Drawing of|Sketch of
-0bf0ac13, masterpiece|high quality
+0bf0ac13, masterpiece|Best Quality
 0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
 0c4c983e, realistic
 0c4ca61b, furry|anthropomorphic
@@ -1559,6 +1559,7 @@
 a06436da, wtrcolor style
 a06c6681, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 a0b3a1c3, sphx weapon
+a0ded949, masterpiece
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
 a0f4bc4a, Macro
 a10f6a56, None needed|but sometimes "painting" or "background art" helps.
@@ -1921,6 +1922,8 @@ c8e3bfca, AnimeChan Style
 c91be480, Dloz|Dloz style
 c9a2e2a1, GGH23 person
 c9c45d16, Pris
+ca198d1c, actionauf, actionauf_v10.safetensors
+ca198d1c, chibi, qteamixQ_omegaFp16.safetensors
 ca4fcc12, snnmrn|snnmrn woman
 ca682192, sjh style
 cadfbc28, Comic Style|Illustration|Line Art|Comic Poster|Realistic
