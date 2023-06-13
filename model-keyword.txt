@@ -1317,6 +1317,7 @@
 8bf784bb, Comics style|Comics|Cartoon style|
 8c36d946, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 8c3b86ce, chilloutmix-Ni.safetensors
+8c7b6bc3, Evang
 8c7efd5f, itojunji style
 8ca5c5a1, zero_two_101
 8cb4ebda, znchn style
@@ -1755,6 +1756,7 @@ b0557e7c, 马
 b078aa3e, by greatmosu
 b0a8dd3c, me
 b109bf50, diffusable
+b125a56f, See Version Notes
 b13930b7, nvjobmagiccircle
 b152939a, depth of field
 b18cb707, pretty girl
@@ -1807,6 +1809,7 @@ b7244379, mecha hanbok|techwear hanbok|mechanical arm|mecha wear
 b725e575, wtrcolor style
 b742bc35, 8k|raw photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.37|high detailed background|1girl in a blue shirt|shy expression|cute|cityscape|night|rain|wet|professional lighting|photon mapping|radiosity|physically-based rendering||beautiful breasts|medium breast|look at viewer, girlMix_girlsmix.safetensors
 b742bc35, m, girlMix_girlsmix.safetensors
+b744269d, Evang
 b78b4650, filfigari
 b7a08fdf, ohwx monster|ohwx monster devil|ohwx devil
 b7ba5b22, effeff9 woman|effeff9 man|effeff9 creature|effeff9 architecture, effeffixConcept_main.ckpt
