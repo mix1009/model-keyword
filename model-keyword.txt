@@ -675,7 +675,6 @@
 36833c3d, jirai kei|jirai fashion|eye shadow|dark lips|twin tails|fishnet stockings
 369da414, 1girl
 36b82728, zhaojun
-36fd1a27, Comics style|Werecreature|Furry|Vector
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 3747a99f, iayuso person
 37b1ec55, t
@@ -1374,7 +1373,6 @@
 91ec9ea6, dwspop style|dwspop space|dwspop forest|dwspop landscape
 920e21fa, rcnz_hqr
 92144649, yuzu$style
-92189423, comics|vector
 9242d421, CCDDA artstyle
 9256ed1a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
 92c083af, redshift|nvinkpunk|lndskp
@@ -1837,6 +1835,7 @@ b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
 ba158946, goldenglass
 ba210b22, sks woman
+ba2d4b1a, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic|mature adult|oil painting|comic poster
 ba468443, no
 bb029452, kindigitstyle
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
@@ -2226,6 +2225,7 @@ ea2dccc5, tracerx
 ea35b744, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 eaaed320, SuperBolinha2
 eae4113f, 没有/none
+eae836b4, mommy
 eae95c5e, cardassian
 eb01f3b2, NijiFTB
 eb3a4159, dal
