@@ -567,6 +567,7 @@
 26bde476, vrass
 26c85a2d, Nintendo mii|modern_mii|classic_mii|highres|eye_whites|fighting|tennis, nintendoMiiStyle_v11.safetensors
 26c85a2d, euro-american equipment icon, westernStyleEquipment_v10.safetensors
+26c85a2d, moba game icon, mobaGameEquipment_v10.safetensors
 26c85a2d, q skill icon, qSkillIcon_v10.safetensors
 26c85a2d, q style, qStyle_v10.safetensors
 274d0bb6, trending on artstation|8k|ultra hd|1woman
@@ -816,6 +817,7 @@
 4c42236e, TVClown
 4cac193b, sks person|(sks person)
 4cdc58f8, tarasische
+4d4d1bc5, girl
 4d59b795, evang
 4d5cca44, TinyPlanet|TinyCityPlanet
 4d63cb83, mbb
@@ -945,6 +947,7 @@
 5c7e6e88, 80sfashionrobot, 80sfashionrobot_v10.ckpt
 5c9b51d3, dreamworks artstyle
 5cc1bba0, style of ohwx
+5cc891f2, pixar|C4D|blender|3d
 5cc9b7ba, modelshoot style
 5d2a695e, sdclrdrk style
 5d39b377, rainey|rainey style
@@ -1886,7 +1889,7 @@ c1582649, dmmid style
 c1589bf7, vapodusk1|wvert1|paint splatters|swpunk|mdjrny-pntrt|synthwave|dskyart1
 c16a2a6b, wjqfrottage
 c1a72459, girl
-c1b3477b, skin texture，moyou，1girl|solo|black hair|realistic|lips
+c1b3477b, 1girl|moyou|realistic|masterpiece|best quality
 c203ddb4, sam yang
 c230a4e3, AK-47-Asiimov|AK-47-Gold-Arabesque|AK-47-Hydroponic|AK-47-Neon-Rider|AK-47-Vulcan|AK-47-X-Ray
 c23c9f4d, 1girl
@@ -1916,6 +1919,7 @@ c59c7da7, realistic
 c5c54e28, dreamlikeart
 c6211d26, bedroomai
 c6bb6991, hearthstone card
+c6bd9e1d, Rori
 c76b8b8e, sks woman
 c79ac359, lqt
 c7b28773, wvebg1
