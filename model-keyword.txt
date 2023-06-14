@@ -1169,6 +1169,7 @@
 771880e5, 82pigeon style|akai sashimi style|algae makku style|belko style|braveking style|chocofing style|dako style|esuna style|evaaviva style|fengweic style|gomennasai style|hitokomoru style|ibukichi style|ishikei style|jidao style|junc style|khyle style|kyuyongeom style|lam style|lovecacao style|mamamba style|matcha style|mdastarou style|melanbread style|melodyoflost style|mikapikazo style|morry style|murata range style|naruko hanaharu style|navigavi style|rei 17 style|rupid style|scottie style|spacezin style|tahra style|timrougami style|tira style|tsutomu style|uekura eku style|xiayu style|yi1zhi style|yomu style|yoneyama style|yoshio style|yueko|lunachan
 77342b4b, DeathNote notebook|Light Yagami man|Ryuk demon|LLawliet man|Misa Amane girl|Soichiro Yagami man|Sayou Yagami girl|Raye Penber man|Naomi Misora girl|DNStyle style
 7746fc20, DDicon, ddicon_v20.ckpt
+7746fc20, Pixar|blender|C4D|3D, ipDESIGN3D_v10.ckpt
 7746fc20, boc, bocGirls_docGirls.ckpt
 7746fc20, editorial illustration, modill_v20.ckpt
 7746fc20, gmyh, komowataHarukaCGStyle_v10.ckpt
@@ -1387,7 +1388,7 @@
 950a18d8, sks person
 9518faa2, luna
 9549a897, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical, terrorYamerV2_terrorYamerV2.safetensors
-9549a897, cult of cthulhu|giger|post-apocalypse|biomechanicals, terrorYamerV1_terrorV2.safetensors
+9549a897, cult of cthulhu|giger|post-apocalypse|biomechanicals, terrorYamerComplete_terrorV2.safetensors
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
 958eaa52, rcnz_niji style
@@ -1411,6 +1412,7 @@
 979864ce, meowskulls, meowskullsModel_meowskulls.ckpt
 979de0ab, 2xdrdisrespect
 97a0eac5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
+97a9eca6, cult of cthulhu|giger|post-apocalypse|biomechanicals
 97db9b40, woolitize
 97e16013, 여자
 97fc027e, weriart style
@@ -2011,7 +2013,7 @@ d229bfec, manwha1
 d24cac70, masterpiece|best quality
 d28922ac, rcnz_niji style
 d2972917, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical, terrorYamerV2_terrorYamerV2.safetensors
-d2972917, cult of cthulhu|giger|post-apocalypse|biomechanicals, terrorYamerV1_terrorV2.safetensors
+d2972917, cult of cthulhu|giger|post-apocalypse|biomechanicals, terrorYamerComplete_terrorV2.safetensors
 d2a84d7f, slime|slime girl|curss
 d2beeabf, girl
 d2e96167, masterpiece|best quality|nfixer|nfixernext|re-badprompt
