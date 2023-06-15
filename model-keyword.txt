@@ -12,6 +12,7 @@
 019cc77b, masterpiece|face portrait|ultra detailed
 01a35826, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 01f61612, clonewars style
+020f5e3f, R2-D2
 02150926, aellagirl
 022ce84d, EmmaW|Photo of EmmaW Woman
 0248da5c, 35mmneon, 35mmneon_v10.safetensors
@@ -485,6 +486,7 @@
 1da7b9f4, e
 1de806f4, rcnz_hqr style
 1df99c75, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
+1e1e49e4, sks woman
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1e2b3832, lula
 1e6822b7, comics style|analog style|illustration|lineart
@@ -1437,6 +1439,7 @@
 993f2358, PrintDesign, tShirtPrintDesignsTest_v01.ckpt
 993f2358, Selena Gomez, selenadiffusion_v10.ckpt
 993f2358, Selena Gomez|Jenna Ortega|Celeb, selenaortega_v10.ckpt
+993f2358, XXXtranger, Xxxstranger_xxxtrangerV10.ckpt
 993f2358, barbaramom|tonydad|anthonybro|lizasis|ajnep|michaelnep, micheleFamily_v10.ckpt
 993f2358, bynispart, nispArtSketchModelV05_v051.ckpt
 993f2358, canetaazul, canetaAzulManoelGomes_canetaazul.ckpt
