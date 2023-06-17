@@ -618,6 +618,7 @@
 2cee5111, intjpastel
 2cf88589, irmntro person
 2d447b0f, tk-char|tk-env
+2d527bd2, Evang
 2dd53706, SDArt|agne|ohwx|bnp|atum|aved|bsf|aten|fcu|cees|chor|cna|nrf|elio|gani|pfa|kprc|kuro|asot|elis|bsp|psst|sqm|irgc|byes|dany|lpg|miro|avel|vaw|zaki|guin|pz|reys|crit|doa|suma|taku|ufos|phol|vedi|dds|weho|pte|oxi|yuck|zas
 2dd7cc12, by b-ginga
 2e6bbced, vectorartz
@@ -688,6 +689,7 @@
 37e5ce18, owhx 3dicon
 37f2669e, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
 3814a52a, surrealsteampunkai
+3824f0fa, woman|man
 382d6ed3, sks person
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 38ab73a7, shinyunbok painting
@@ -1031,6 +1033,7 @@
 65bbd026, pitchmeetgeorge
 6606c451, 1girl
 6606d2db, ttw style
+6618bdd6, girl|boy|man|woman|robo
 66473eff, rpgicondiff
 6648a62e, gGWoman, ggwoman_v1.ckpt
 6648a62e, ggwoman, Ggwoman_v10.ckpt
@@ -1532,7 +1535,7 @@
 9bdc6717, none|just prompt
 9c3572e7, realistic|best quality|masterpiece
 9c55fd12, mirrormask
-9c5da18d, girl
+9c5da18d, girl|woman|man|boy
 9ca13f02, analog style
 9ce5cea2, nvinkpunk|snthwve style|style of joemadureira
 9cec73d3, photorealistic|anime|cartoon
