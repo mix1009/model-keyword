@@ -692,7 +692,8 @@
 3824f0fa, woman|man
 382d6ed3, sks person
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
-38ab73a7, shinyunbok painting
+38ab73a7, game icon institute|game icon|Anthropomorphism, gameiconinstitute_v10.safetensors
+38ab73a7, shinyunbok painting, shinyunbok_v20.safetensors
 38bbdc40, dvPNW
 38c1ebe3, base lux skin, luxannaCrownguardFrom_luxannaCrownguardLol.ckpt
 38c1ebe3, star guardian neeko, starGuardianNeeko_sgNeekoAnythingv3.ckpt
@@ -1602,6 +1603,7 @@ a149572b, vector-art, vectorArt_Beta.safetensors
 a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a184fedc, gigafractal artstyle
 a1f0ad54, insertNameHere
+a1f49fa9, A visual title screen
 a2073f09, by mika pikazo
 a20bdefa, Evang
 a21b69c5, bigbrains
@@ -1881,6 +1883,7 @@ be7c545d, darkestdungeon style|darkest dungeon style|clonewars style|clone wars 
 be7ddafc, classic disney style
 be82dca2, Altira|Altira style
 beab2cb2, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
+beb6bcfd, Evang
 beb87f9d, furry|girl
 becdbc5d, Kavellion|Kavellion style
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
