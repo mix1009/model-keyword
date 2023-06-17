@@ -48,6 +48,7 @@
 0250e61d, 35mmneon
 029cc27d, SLE|mksks style|detailed background
 02acd63c, unstablephotoreal|unstablediffusion
+02cb660f, 1 girl
 02f311af, David, modelguyyy_v10.ckpt
 02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
 02f311af, kylxn, akalinLinky_kylxn.ckpt
@@ -486,6 +487,7 @@
 1d9814e5, shuimobysim|shukezouma
 1da401ba, style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
 1da7b9f4, e
+1dafb778, 1 girl
 1de806f4, rcnz_hqr style
 1df99c75, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
 1e1e49e4, sks woman
@@ -1956,6 +1958,7 @@ c9a2e2a1, GGH23 person
 c9c45d16, Pris
 ca198d1c, actionauf, actionauf_v10.safetensors
 ca198d1c, chibi, qteamixQ_omegaFp16.safetensors
+ca198d1c, paleolithic, paleolithicArt10_paleoartV10.safetensors
 ca4fcc12, snnmrn|snnmrn woman
 ca682192, sjh style
 cadfbc28, Comic Style|Illustration|Line Art|Comic Poster|Realistic
