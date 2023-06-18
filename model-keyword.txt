@@ -482,6 +482,7 @@
 1c348ac5, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
 1c83d3db, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
+1cecdd34, anime|girl|boy|woman|man|robo
 1d0d03ee, botw style
 1d132f9e, whatif style|tdst style
 1d812301, photorealistic|textured skin|skin pores|skin imperfections|raw|8k|intricate details
@@ -661,6 +662,7 @@
 33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime, dgspitzerArt_Diffusion.safetensors
 33290d4a, rfktrstyle, rfktrsDarkdream_v16.safetensors
 33290d4a, rfktr|rfktrstyle, rfktrsDarkdream_v10.safetensors
+333a860f, female|male|girl|boy|robo
 333ecf3c, sks woman|(sks woman)|((sks woman))
 33c549f1, swpunk|synthwave|paint splatters
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
@@ -693,7 +695,8 @@
 37e5ce18, owhx 3dicon
 37f2669e, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
 3814a52a, surrealsteampunkai
-3824f0fa, woman|man
+3824f0fa, female|male|robo, matrixRealistic_v15VAE.safetensors
+3824f0fa, woman|man, matrixRealistic_v15VAE.safetensors
 382d6ed3, sks person
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 38ab73a7, game icon institute|game icon, gameiconinstitute_v10.safetensors
@@ -1521,7 +1524,8 @@
 99d08e67, latex
 99e78387, SinCityMovie Style
 9a427588, ada wu
-9a46bc81, landscape
+9a46bc81, heart, loveForever_v10.safetensors
+9a46bc81, landscape, vindiaLandscape_v10.safetensors
 9a477cbc, manuscriptai
 9a61c132, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 9a695832, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic|mature adult|oil painting|comic poster
@@ -2108,7 +2112,8 @@ dab15164, interiors, interiorDesign_v1.ckpt
 dab15164, microworld, microworldsRemake_version2.ckpt
 dab15164, wawavawa, model1_ver1.ckpt
 dab3bb51, marblesh|marblee|marblee style
-dad06477, female|male|landscapes|realistic|man|woman|SCIFI
+dad06477, Realistic, matrixStellar_v11VAE.safetensors
+dad06477, female|male|landscapes|realistic|man|woman|SCIFI, matrixStellar_v11VAE.safetensors
 daecbd84, FleischerStyle
 db0d4f46, fluffy furry beastman
 db10a0ee, sks woman
@@ -2313,6 +2318,7 @@ f22d0019, PiroxiumDiffusion style
 f22ff389, trixiemattel drag queen
 f25bd13a, futanari
 f2635ceb, mhdolls
+f263e029, Hentai
 f2676846, anime|manga|cartoon
 f26b7ad6, sam yang
 f287b25e, agp
