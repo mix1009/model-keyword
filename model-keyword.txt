@@ -696,6 +696,7 @@
 3824f0fa, woman|man
 382d6ed3, sks person
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
+38ab73a7, game icon institute|game icon, gameiconinstitute_v10.safetensors
 38ab73a7, game icon institute|game icon|Anthropomorphism, gameiconinstitute_v10.safetensors
 38ab73a7, shinyunbok painting, shinyunbok_v20.safetensors
 38bbdc40, dvPNW
