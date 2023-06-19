@@ -701,6 +701,7 @@
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 38ab73a7, game icon institute|game icon, gameiconinstitute_v10.safetensors
 38ab73a7, game icon institute|game icon|Anthropomorphism, gameiconinstitute_v10.safetensors
+38ab73a7, ikun, ikunAvatorV10_v10.safetensors
 38ab73a7, shinyunbok painting, shinyunbok_v20.safetensors
 38bbdc40, dvPNW
 38c1ebe3, base lux skin, luxannaCrownguardFrom_luxannaCrownguardLol.ckpt
@@ -1314,6 +1315,7 @@
 86baad27, daizu
 86bd187b, elxchavo
 872bdd84, zedra1 girl
+874c83a1, A photo of a BiYaoYao Animated Young Woman|biyaoyao
 876e83c8, game icon
 879054f9, portrait style|selfie photo|casting photo full shot naked|rlfce realistic person|fkfce fake person|closeup photo face
 87c5d24e, dra|vinyl record cover|12-inch|electronic|<decade> album cover|the designers republic
@@ -1970,6 +1972,7 @@ ca198d1c, chibi, qteamixQ_omegaFp16.safetensors
 ca198d1c, paleolithic, paleolithicArt10_paleoartV10.safetensors
 ca4fcc12, snnmrn|snnmrn woman
 ca682192, sjh style
+cab77b73, ANIME CARTOON
 cadfbc28, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 caea14ad, lvngvncnt
 cafd0b18, analog|photography
