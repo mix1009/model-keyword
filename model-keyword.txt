@@ -1526,6 +1526,7 @@
 9a427588, ada wu
 9a46bc81, heart, loveForever_v10.safetensors
 9a46bc81, landscape, vindiaLandscape_v10.safetensors
+9a46bc81, safe word, luvletter_v10.safetensors
 9a477cbc, manuscriptai
 9a61c132, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 9a695832, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic|mature adult|oil painting|comic poster
@@ -2082,6 +2083,7 @@ d6e9d2b1, dvMJv4
 d7049739, cat
 d7149094, lnkdn photography
 d7cc8710, manyakis art style|rabbit girl
+d7d31a4e, motion design|C4D|rendering|light and shadow
 d7f82d9e, melkor_manchin art style
 d7ffea1e, sks style
 d80ad84b, mdjrny-grfft
