@@ -699,7 +699,7 @@
 3824f0fa, woman|man, matrixRealistic_v15VAE.safetensors
 382d6ed3, sks person
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
-38ab73a7, game icon institute|game icon, gameiconinstitute_v10.safetensors
+38ab73a7, game icon institute|game icon, gameiconinstitute_v20.safetensors
 38ab73a7, game icon institute|game icon|Anthropomorphism, gameiconinstitute_v10.safetensors
 38ab73a7, ikun, ikunAvatorV10_v10.safetensors
 38ab73a7, shinyunbok painting, shinyunbok_v20.safetensors
@@ -1119,6 +1119,7 @@
 6d9fa060, 2d dnd battlemap
 6dac6e24, JangEunYoung
 6ddfb1a6, skmkt
+6de4c8e7, furry|fur
 6e199947, rfktrstyle
 6ea179f4, mobian or sonic character name
 6ed90084, photorealistic
@@ -1375,6 +1376,7 @@
 8ec89baa, massakasma
 8ec9d746, amongus man
 8ed66211, neon|sci-fi|colorful
+8f2e1466, art by Boris Groh
 8f488fb6, seconddusk
 8f495d3d, shuimobysim|shukezouma
 8f5eeef9, gnd man
@@ -1620,6 +1622,7 @@ a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a184fedc, gigafractal artstyle
 a1f0ad54, insertNameHere
 a1f49fa9, A visual title screen
+a1f8c83a, shinyunbok painting
 a2073f09, by mika pikazo
 a20bdefa, Evang
 a21b69c5, bigbrains
@@ -2065,6 +2068,7 @@ d37aed3d, 80's anime style|90's anime style
 d386996c, 3d|render|japparii|cinema4d|photoshop|album cover|minimalism|digital|print|vibrant
 d3f3df02, all|hyperrealistic mix, mixRealisticPhotoV5_v15.ckpt
 d3f3df02, realistic, mixRealisticPhotoV5_15.ckpt
+d4021aa4, art by Boris Groh
 d409472c, kamita
 d4288eeb, photograph|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|lk artstyle legend of korra artstyle|hg artstyle realistic 3d renders|cw artstyle starwars: the clone wars artstyle|kd artstyle ghibli movies artstyle|wy artstyle makoto shinkai artstyle|tn artstyle disney 3d artstyle|hq artstyle high-quality digital art|aa artstyle digital line art|dd artstyle darkest dungeon artstyle|toc artstyle turtle of canada artstyle with their permission|skimpy sg outfit with cape supergirl outfit|gs outfit with cape generic superhero outfit|videl wearing sy outfit with cape and helmet great saiyawoman outfit|cor korra doesnt translate well into other artstyles|with sd hairstyle season 1-3|with sh hairstyle season 4|wearing df outfit season 1|wearing sc outfit season 1 winter|wearing pb outfit season 1 probending|wearing fs outfit season 4|wearing ek outfit season 4 earth kingdom|oyla with ay hairstyle wearing hz outfit aloy wearing standard outfit doesnt translate well into other artstyles|akos wearing sw outfit ahsoka wearing season 7 outfit doesnt translate well into other artstyles|woman with pointed ears elfs|futuristic outfit|futuristic armor|fantasy armor|fantasy outfit|tribal fantasy outfit|cl outfit post-apocalyptic outfit|giant woman works best with "hg artstyle" is biased towards naked women|tiny woman works best with "hg artstyle" is biased towards naked women
 d48dcfd9, aniki
