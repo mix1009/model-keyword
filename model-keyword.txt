@@ -776,6 +776,7 @@
 4326c062, ppllnnn
 436dd50e, 3d product render|product render
 4391d84b, citroen, citroenDS_v10.safetensors
+4391d84b, honda, hondaJazzFit_v10.safetensors
 4391d84b, saab, saab900Coupe_v10.safetensors
 4391d84b, smart car|smart forfour|forfour|smart 454, smartForfour454_v10.safetensors
 439f64ec, midjourney model 1.5v|model v1.5, warriorGirlOfArmorSD_armorGirlWarrior.ckpt
@@ -1553,6 +1554,7 @@
 9c55fd12, mirrormask
 9c5da18d, girl|woman|man|boy
 9ca13f02, analog style
+9cde17f8, Cartoon Girl
 9ce5cea2, nvinkpunk|snthwve style|style of joemadureira
 9cec73d3, photorealistic|anime|cartoon
 9cf9ef13, realistic
@@ -2105,6 +2107,7 @@ d9a0e90d, Margot|Margot person
 d9aa872b, food_crit
 d9d42da0, fantassified icon
 d9e8b72c, 3d render|3d cartoon
+d9f5f699, Cartoon Girl
 da02d76b, HarryPotterStyle
 da1b42e0, sks woman|(sks woman)
 da3d89ca, sks
