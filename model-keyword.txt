@@ -787,6 +787,7 @@
 439f64ec, midjourney model 1.5v|model v1.5, warriorGirlOfArmorSD_armorGirlWarrior.ckpt
 439f64ec, realistic|all|photorealistic|fantasy, modelMovieRealistic_v20.ckpt
 43a5955f, photorealistic
+43c1d91f, furry
 43eb72ee, lineart|monochrome
 442e1b76, style bse
 4449cdac, samdoesarts
