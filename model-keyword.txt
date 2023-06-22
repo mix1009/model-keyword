@@ -684,6 +684,7 @@
 35133590, person_in_Jar
 3582eab3, school uniform|1lady|1girl
 35a0bad3, starsectorportrait
+35a3cd1a, MedabotsV1
 35aa200e, masterpiece|best_quality|ultra_detailed|illustration|volumetric_light|
 35d51e2e, RAW photo of
 35dc3dbf, evang
@@ -1700,6 +1701,7 @@ a6dbd500, tchnclr
 a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 a6f96d80, BelleDelphine|woman
+a72de66c, MedabotV2
 a73b3094, 3d render of|3d cartoon of
 a74ca246, cbzbb|microworld, microcharsMerge_10.ckpt
 a74ca246, food_crit|microworld, microcrittersMerge_10.ckpt
@@ -1724,6 +1726,7 @@ a8372572, wooditize
 a8434aad, CCDDA Artstyle
 a84b8518, rcnz_hqr style
 a8af5a13, erduh man
+a8c7eec2, fking_mtg
 a8d2f3e7, SDArt
 a8e2a894, no trigger words
 a910c8e4, watercolor
@@ -2402,7 +2405,9 @@ f6b4b362, newhorrorfantasy_style
 f6ca0e2b, comicmay
 f6cd8eee, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
 f6ed99c8, {colorful}|{vivid colors}|{vivid}|{flat color}
+f6fb8fde, lala_satalin_deviluke|momo_velia_deviluke|nana_asta_deviluke|konjiki_no_yami|yuuki_mikan|sairenji_haruna|kotegawa_yui|kurosaki meia|
 f71f0232, insertNameHere
+f74f4ebd, sketch|illustration
 f757b10b, orbai
 f75d242c, monster girls|etc....
 f76c4afc, duskspider
