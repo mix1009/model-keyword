@@ -76,6 +76,7 @@
 0655784d, gtav style
 06a9d223, mengersponge|sierpsponge
 071b2e26, tk-char|tk-env
+071eb7b2, evang
 07737b93, hotporn
 0786845e, trained with chilloutmix|chinabeauty|dreamlike|a lot of others
 079b172e, illustration style kurzgesagtish
@@ -424,6 +425,7 @@
 151f0afb, mobian, sonicdiffusion_v2Anything.ckpt
 15254b92, analog style|chromav5|nvinkpunk
 152ae695, furry|Anthropomorphic|furry art|Digital art|uploaded_on_e621:1.4|anthro furry:1.5
+15376d1f, girl
 15540f03, gigafractal artstyle
 1578af98, bigbadejo alien_monster
 1604613a, muscular
