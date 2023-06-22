@@ -12,7 +12,8 @@
 019cc77b, masterpiece|face portrait|ultra detailed
 01a35826, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 01f61612, clonewars style
-020f5e3f, R2-D2
+020f5e3f, R2-D2, r2D2Diffusion_v10.safetensors
+020f5e3f, nomanssky style, noMansDiffusion_betaV02.safetensors
 02150926, aellagirl
 022ce84d, EmmaW|Photo of EmmaW Woman
 0248da5c, 35mmneon, 35mmneon_v10.safetensors
@@ -623,6 +624,7 @@
 2caa7a2f, SEE INTRODUCTION|见模型介绍|導入セクションを見る
 2cc9e101, pixarstyle
 2cd4cf48, sjh style
+2cdfd31d, evang
 2ce026e5, photorealistic
 2cee5111, intjpastel
 2cf88589, irmntro person
