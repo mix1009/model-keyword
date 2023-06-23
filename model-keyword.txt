@@ -1748,6 +1748,7 @@ aa366209, wewulzkz, werewolfDiffusion_1.safetensors
 aa49e01c, anime pencil concept style
 aa7001cf, COLR_001, coloringBook_.ckpt
 aa7001cf, badbunny, benitoBed_v10.ckpt
+aa7001cf, baskleon, baskleon_v10.ckpt
 aa7001cf, blacksun, djzBlackSunDEEPSTUDY_blip2.ckpt
 aa7001cf, cbzbb, cuteRichstyle21_cuteRichstyle.ckpt
 aa7001cf, charhelper|character art|close-up character portrait|mid-range character portrait|digital painting|digital illustration|stylized|anime, charhelperFineTuned_v1.ckpt
