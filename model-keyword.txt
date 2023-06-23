@@ -11,9 +11,10 @@
 0149de1f, linus sebastian person
 019cc77b, masterpiece|face portrait|ultra detailed
 01a35826, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
+01b659b9, nomanssky style|starship
 01f61612, clonewars style
 020f5e3f, R2-D2, r2D2Diffusion_v10.safetensors
-020f5e3f, nomanssky style, noMansDiffusion_betaV02.safetensors
+020f5e3f, nomanssky style, noMansDiffusion_v02.safetensors
 02150926, aellagirl
 022ce84d, EmmaW|Photo of EmmaW Woman
 0248da5c, 35mmneon, 35mmneon_v10.safetensors
@@ -964,6 +965,7 @@
 5a4b600e, none
 5a639898, ink style|ink wash painting
 5a747794, mechanical parts|mechanical 'body part or object|cyberware style
+5a75e4b5, man|woman|boy|girl|etc
 5aceb664, kor_mixed 1girl
 5ad07226, art by yaguru magiku
 5b2d4455, EmiliaClarke woman
