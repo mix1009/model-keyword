@@ -685,6 +685,7 @@
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
 341b1b4d, dragzkz
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
+3470a2b3, 1girl
 34a92094, p1xanotherworld, anotherWorldRetro_v20.safetensors
 34a92094, p1xbladerunner, bladeRunnerRetro_v10.safetensors
 34a92094, p1xslavicbeasts, bestiariuszSOwiaSki_v10.safetensors
@@ -1912,6 +1913,7 @@ b9ac173c, SDArt
 b9c3fe1b, ohwx|bnha
 b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
+ba0eff40, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|D&D character|fantasy poster|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|masterpiece|intricate|detailed|hyperrealistic
 ba158946, goldenglass
 ba210b22, sks woman
 ba2d4b1a, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic|mature adult|oil painting|comic poster
@@ -2337,6 +2339,7 @@ ec664923, undercucho
 ec8cd4c8, BalloonArt
 ec9f8c2e, CharacterChan Style
 ecd908cb, sks woman|(sks woman)
+ecf14450, male|female
 ecf98c5e, valorant style
 ed0b4125, anime style|illustration|oil painting|analog style|realistic|photorealistic
 ed87e89c, tchnclr style
@@ -2369,7 +2372,8 @@ ef4be3fb, swpunk|synthwave|paint splatters
 ef54e94e, c
 ef6ecf6d, alloldrpgarts1
 ef91d6a9, Jacey
-efdd9fcf, game icon
+efdd9fcf, GAME ICON, gameIconInstitute_v20.safetensors
+efdd9fcf, game icon, gameIconInstitute_v21.safetensors
 efe608ac, Clay Mann
 f00b92e0, detailed|official art|colorful|accessories|fractal art|aesthetic|chinese clothes
 f05f9963, lisafrankstyle
