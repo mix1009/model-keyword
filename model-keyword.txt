@@ -12,6 +12,7 @@
 019cc77b, masterpiece|face portrait|ultra detailed
 01a35826, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 01b659b9, nomanssky style|starship
+01e48467, anime
 01f61612, clonewars style
 020f5e3f, R2-D2, r2D2Diffusion_v10.safetensors
 020f5e3f, nomanssky style, noMansDiffusion_v02.safetensors
@@ -580,6 +581,7 @@
 254fb5cd, hasanpiker person
 258f79e3, stylized game icon|sci-fi|steampunk|spell
 25ba4550, modelshoot style|swpunk|synthwave|paint splatters
+25e42458, Evang
 265e757d, Sidon|Sidon style
 26621fc2, tdst style
 2684c304, cr1m3
@@ -1948,6 +1950,7 @@ beb87f9d, furry|girl
 becdbc5d, Kavellion|Kavellion style
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
 bf7386ef, diovasnsc
+bfa01b88, photo of ohwx woman|ohwx woman
 bfa54420, ChromaV5|nvinkpunk
 bfc6e6ca, miriabyt
 bfccd521, roypop style
@@ -2061,6 +2064,7 @@ cf3a5f9e, sun wukong|Beijing opera
 cf3bdffe, CHV3CWrestler|CHV3CReptile|CHV3CAnimal|CHV3CNinja|CHV3CAnthro|CHV3CDino|CHV3CFoodPorn|CHV3CDeepSea|CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDiner|CHV3SGarden|CHV3SFair|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld
 cf5c8a2a, margot
 cf5ed516, @Spirited
+cf6e2f43, anime
 cfa305bc, by mankai kaika
 cfc1e734, mina|momo|jeongyeon|chaer|sana|tzuyu|naeyeon|dahyun|jihyo
 cfc5de0e, modelshoot style|analog style|mdjrny-v4 style
