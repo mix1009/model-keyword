@@ -958,6 +958,7 @@
 597a8e99, MajinVegeta, majinVegeta_majinVegetaV10.ckpt
 597a8e99, christina_, womenCris_v10.ckpt
 597a8e99, jsscbppler, jessicabepperv1_v10.ckpt
+597a8e99, woman|sexy|female|nsfw|girl|realistic, victoriaVital_v10.ckpt
 597a8e99, women, christina_v10.ckpt
 5998441b, redshift style|seconddusk
 59aa3b7d, humanoid robot
@@ -1407,6 +1408,7 @@
 8f675f3e, Evang
 8f7d98c0, by mon
 8f89e96b, anime pencil concept style
+8fced5c4, turino
 8fee0468, v2
 8fefc581, tk-char|tk-env
 8ffb0774, prilosecotc1|burgie|dskfll
@@ -1767,6 +1769,7 @@ aa7001cf, discostyle, discoDiffusionStyle_discostyle21768.ckpt
 aa7001cf, dmvc, dmvc2V2_v20.ckpt
 aa7001cf, dvmech, dvmech_200.ckpt
 aa7001cf, facesakimiboy, facesakimiboy_v1.ckpt
+aa7001cf, facesbask, facesbask_v10.ckpt
 aa7001cf, food_crit, jaksCreepyCritter_sd21768px.ckpt
 aa7001cf, ggg, gggStep1600_.ckpt
 aa7001cf, jlryst, goldArmorPortraits21_goldArmorPortraits21.ckpt
