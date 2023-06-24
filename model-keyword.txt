@@ -18,6 +18,7 @@
 02150926, aellagirl
 022ce84d, EmmaW|Photo of EmmaW Woman
 0248da5c, 35mmneon, 35mmneon_v10.safetensors
+0248da5c, Evang, klofmanAndSneek_v1Safetensers.safetensors
 0248da5c, Rainbowpatch, rainbowpatch12_rainbowpatchV12.safetensors
 0248da5c, SDArt|agne|ohwx|bnp|atum|aved|bsf|aten|fcu|cees|chor|cna|nrf|elio|gani|pfa|kprc|kuro|asot|elis|bsp|psst|sqm|irgc|byes|dany|lpg|miro|avel|vaw|zaki|guin|pz|reys|crit|doa|suma|taku|ufos|phol|vedi|dds|weho|pte|oxi|yuck|zas, sdartSomewhere_v2.safetensors
 0248da5c, SDArt|appt|ohwx|asr|aten|fcu|chor|cpec|pfa|kprc|kuro|asot|elis|sill|exe|bsp|grl|hap|byes|lpg|yler|avel|vaw|zaki|ohn|guin|vini|pz|crit|shma|doa|sks|szn|phol|utm|uy|dds|pte|oxi|ynna, sdartUnderwater_v2.safetensors
@@ -452,6 +453,7 @@
 1861f018, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc, sdartElemental_v1UserTokenVersion.safetensors
 187550ac, 80sanimestyle
 18756300, analog style|modelshoot style|nsfw|nudity
+1877a743, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|D&D character|fantasy poster|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|masterpiece|intricate|detailed|hyperrealistic
 189e3972, shinyunbok painting
 18b7217d, game icon
 18b72c7b, zainabt
@@ -561,6 +563,7 @@
 235ea42c, sks woman
 2375d404, P4U14
 2386519a, 树|印象派|抽象
+23f104f6, Evang
 2402f7e7, lamia
 24362016, fiat, fiatPanda_v10.safetensors
 24362016, x90, suzukiX90_v10.safetensors
@@ -628,7 +631,8 @@
 2caa7a2f, SEE INTRODUCTION|见模型介绍|導入セクションを見る
 2cc9e101, pixarstyle
 2cd4cf48, sjh style
-2cdfd31d, evang
+2cdfd31d, Evang, atomicDreamlook_v10.ckpt
+2cdfd31d, evang, atomiccomicV3_v3.ckpt
 2ce026e5, photorealistic
 2cee5111, intjpastel
 2cf88589, irmntro person
@@ -646,7 +650,8 @@
 2f7b2f79, mj-sphere
 2fd6057b, Batman_the_animated_series
 2fdd0123, guweiz|nixeu|wlop
-2ffe0d53, evang
+2ffe0d53, Evang, mummy_v10.ckpt
+2ffe0d53, evang, mummy_v2.ckpt
 3013bb9f, 80sDarkSouls style|80sDarkSoul style|knight|armour|castle
 3031dfb2, marsattacks
 3061461b, analog style
@@ -1620,6 +1625,7 @@
 9f59a736, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog
 9f675a83, ClaymationXmas
 9f856288, aniscreen|amityblight|edalynclawthorne|emperorbelos|gusporter|huntergoldenguard|lilithclawthorne|luznoceda|rainewhispers|thecollector|willowpark|kingclawthorne
+9fc108a7, Evang
 9ff4bcf1, dalcefo
 9ff529c8, anime
 a06436da, wtrcolor style
@@ -1811,6 +1817,7 @@ ad38c466, silverfox5213|
 ad4470e8, eldmeisterog style|sks style
 ad53ab6f, comic book style|comic book wallpaper|illustration
 ad73b609, anime
+ad82a9dd, Evang
 ad9d6205, fart62
 ae19a9dd, pspp man
 ae1f0d66, dskyart1
@@ -1877,6 +1884,7 @@ b5e156ba, vskeei1
 b5f6fe6c, pepe_frog
 b6310dde, saukztf|arinax|1girl|ktjtn
 b63a47bb, synthpunk|cyberpunk|fantasy
+b63e1a80, zelda style image of
 b69a7398, photo of zky zhong kunyi
 b6a25334, yaju-senpai
 b7010dfe, Mosaic Art
