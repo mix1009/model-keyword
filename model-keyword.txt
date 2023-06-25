@@ -1210,6 +1210,7 @@
 75c7f3b6, p1xanotherworld, anotherWorldRetro_v10.safetensors
 75c7f3b6, p1xindianajones, indianaJonesAndTheFateOf_v10.safetensors
 75c7f3b6, p1xriven, rivenTheSequelToMYST_v12.safetensors
+75e3f00c, cult of cthulhu|giger|post-apocalypse|biomechanicals|terror|horror|Cthulhu|creepy|dread
 7606f40e, scrbackrooms
 7614fc55, PBOldRifRPGStyle
 7665f8c3, itrobo2022
@@ -1376,6 +1377,7 @@
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
 8ad6ce64, Evan
 8ae4d0fb, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
+8b3a0e37, wearing randoseru backpack and buruma and gym uniform with colored hem
 8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle
 8b8efdcc, best quality|masterpiece|
 8b917b1c, xixiprincess
@@ -1451,7 +1453,7 @@
 950a18d8, sks person
 9518faa2, luna
 9549a897, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical, terrorYamerV2_terrorYamerV2.safetensors
-9549a897, cult of cthulhu|giger|post-apocalypse|biomechanicals, terrorYamerComplete_terrorV2.safetensors
+9549a897, cult of cthulhu|giger|post-apocalypse|biomechanicals|Cthulhu, terrorYamerComplete_v2Biomachinery.safetensors
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
 958eaa52, rcnz_niji style
@@ -1475,7 +1477,7 @@
 979864ce, meowskulls, meowskullsModel_meowskulls.ckpt
 979de0ab, 2xdrdisrespect
 97a0eac5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
-97a9eca6, cult of cthulhu|giger|post-apocalypse|biomechanicals
+97a9eca6, cult of cthulhu|giger|post-apocalypse|biomechanicals|terror|horror|Cthulhu|creepy
 97db9b40, woolitize
 97e16013, 여자
 97fc027e, weriart style
@@ -1524,6 +1526,7 @@
 993f2358, jennawan, jennawan_v10.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
 993f2358, kylin, akalinLinky_v20.ckpt
+993f2358, lastzuri, lastzuri_sukiBaby.ckpt
 993f2358, lol, prueva1NoDecargar_v10.ckpt
 993f2358, mario, marioBrosV1_v10.ckpt
 993f2358, master, toper_10.ckpt
@@ -2106,7 +2109,7 @@ d229bfec, manwha1
 d24cac70, masterpiece|best quality
 d28922ac, rcnz_niji style
 d2972917, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical, terrorYamerV2_terrorYamerV2.safetensors
-d2972917, cult of cthulhu|giger|post-apocalypse|biomechanicals, terrorYamerComplete_terrorV2.safetensors
+d2972917, cult of cthulhu|giger|post-apocalypse|biomechanicals|Cthulhu, terrorYamerComplete_v2Biomachinery.safetensors
 d2a84d7f, slime|slime girl|curss
 d2beeabf, girl
 d2e96167, masterpiece|best quality|nfixer|nfixernext|re-badprompt
@@ -2176,6 +2179,7 @@ dab15164, hestyle, hestylev15Rooms_v15.ckpt
 dab15164, hnrycvll, henryCavillUltimate_v10.ckpt
 dab15164, interiors, interiorDesign_v1.ckpt
 dab15164, microworld, microworldsRemake_version2.ckpt
+dab15164, oc_bolinha2|superbolinha2|cat, vtuberSuperbolinha2_vtuberBrasileiroV20.ckpt
 dab15164, wawavawa, model1_ver1.ckpt
 dab3bb51, marblesh|marblee|marblee style
 dad06477, Realistic, matrixStellar_v11VAE.safetensors
@@ -2336,6 +2340,7 @@ ebb17c4d, pow style|ofi|mohd|rmb|dca|muc|onex|toid|sura|juli|veli|gsp|tux|tvc|pb
 ebb66e32, water
 ebc4e0a9, RottingZombie person
 ebd5057f, photo of a potion
+ec3b35a3, cult of cthulhu|giger|post-apocalypse|biomechanicals|terror|horror|Cthulhu|creepy|dread
 ec664923, undercucho
 ec8cd4c8, BalloonArt
 ec9f8c2e, CharacterChan Style
