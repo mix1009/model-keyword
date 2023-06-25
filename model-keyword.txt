@@ -1453,7 +1453,7 @@
 950a18d8, sks person
 9518faa2, luna
 9549a897, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical, terrorYamerV2_terrorYamerV2.safetensors
-9549a897, cult of cthulhu|giger|post-apocalypse|biomechanicals|Cthulhu, terrorYamerComplete_v2Biomachinery.safetensors
+9549a897, cult of cthulhu|giger|post-apocalypse|biomechanicals|Cthulhu, terrorModelsComplete_v2Biomachinery.safetensors
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
 958eaa52, rcnz_niji style
@@ -2109,7 +2109,7 @@ d229bfec, manwha1
 d24cac70, masterpiece|best quality
 d28922ac, rcnz_niji style
 d2972917, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical, terrorYamerV2_terrorYamerV2.safetensors
-d2972917, cult of cthulhu|giger|post-apocalypse|biomechanicals|Cthulhu, terrorYamerComplete_v2Biomachinery.safetensors
+d2972917, cult of cthulhu|giger|post-apocalypse|biomechanicals|Cthulhu, terrorModelsComplete_v2Biomachinery.safetensors
 d2a84d7f, slime|slime girl|curss
 d2beeabf, girl
 d2e96167, masterpiece|best quality|nfixer|nfixernext|re-badprompt
