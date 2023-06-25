@@ -826,7 +826,8 @@
 46314e53, close up character design|multiple concept designs|
 4689ff28, nvinkpunk|samdoesarts
 471291b4, by oekakizuki
-4723b6ed, hentai|anime
+4723b6ed, female|male, notRealAnimeStyle_v10.safetensors
+4723b6ed, hentai|anime, matrixNewAnimeStyle_v10VAE.safetensors
 474774e5, sks man|sks woman|neundies style
 475eae91, vintage polaroid analog portrait photography of
 47745337, MCwrld
