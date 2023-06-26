@@ -131,6 +131,7 @@
 0bd9f938, hyperrealistic
 0bedca16, Illustration of|Drawing of|Sketch of
 0bf0ac13, masterpiece|Best Quality
+0c1c9d52, ys
 0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
 0c4c983e, realistic
 0c4ca61b, furry|anthropomorphic
@@ -1369,7 +1370,8 @@
 890cb2e4, photorealistic
 89372903, none
 89a3f11a, gatto
-89abf451, masterpiece|best quality
+89abf451, masterpiece|best quality, clearvae_main.safetensors
+89abf451, masterpiece|intricate details, clearvae_main2.safetensors
 8a0a6f86, svtbuild
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
 8a312ffc, masterpiece|novelAI|trending on 500px
@@ -2114,7 +2116,8 @@ d2089202, modelshoot style|nousr robot
 d21b2894, none
 d21c153e, ChromaV5|nvinkpunk
 d229bfec, manwha1
-d24cac70, masterpiece|best quality
+d24cac70, masterpiece|best quality, bbmixRUIS_v15.safetensors
+d24cac70, masterpiece|intricate details, bbmixANIMEMIX_v10.safetensors
 d28922ac, rcnz_niji style
 d2972917, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical, terrorYamerV2_terrorYamerV2.safetensors
 d2972917, cult of cthulhu|giger|post-apocalypse|biomechanicals|Cthulhu, terrorModelsComplete_v2Biomachinery.safetensors
