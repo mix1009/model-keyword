@@ -2219,6 +2219,7 @@ de2f2560, 6girls+, theGoldenMirage_v11.safetensors
 de2f2560, Asian|Man|Female|Cute, asianMix_alpha30.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, JukyungLim, jukyunglim_v20.safetensors
+de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
 de2f2560, ae, tokeaa_mancet.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV20_v13.safetensors
