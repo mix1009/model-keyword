@@ -542,6 +542,7 @@
 202360be, by vima, vimaModel_vimaV13k.safetensors
 205e0248, fking_scifi_v2
 20692aa7, painting|Allen Anderson|Earle Bergey|Frank Frazetta|George Gross|Gil Elvgren|Glen Orbik|Robert Maguire|Robert Stanley|Tom Lovell|scifi|fantasy|western|crime|mystery|pulp style
+206c6d91, polyna
 208f75ce, lamia
 20c6a837, Nvinkpunk|samdoesarts
 218cee5d, mksks style|detailed background
@@ -575,6 +576,7 @@
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 24a516fb, tpmpanlab person
 24c2e368, Evang
+24eee13e, girl
 24f62767, fff
 250e12ad, humanoid robot
 250eb705, watercolor
@@ -681,7 +683,8 @@
 33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime, dgspitzerArt_Diffusion.safetensors
 33290d4a, rfktrstyle, rfktrsDarkdream_v16.safetensors
 33290d4a, rfktr|rfktrstyle, rfktrsDarkdream_v10.safetensors
-333a860f, female|male|girl|boy|robo
+333a860f, female|male|girl|boy|robo, matrixAsianParadise_v653VAE.safetensors
+333a860f, male|female, matrixAsianParadise_v653VAE.safetensors
 333ecf3c, sks woman|(sks woman)|((sks woman))
 33c549f1, swpunk|synthwave|paint splatters
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
@@ -1460,6 +1463,7 @@
 942aab5b, masterpiece|anime|1girl
 94674f07, nvinkpunk
 94c7fd10, nayeonnine
+94f647d2, female|male
 950a18d8, sks person
 9518faa2, luna
 9549a897, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical|horror|monster|blood|death|terror, etherealmix_terrorV2.safetensors
@@ -1989,6 +1993,7 @@ c1589bf7, vapodusk1|wvert1|paint splatters|swpunk|mdjrny-pntrt|synthwave|dskyart
 c16a2a6b, wjqfrottage
 c1a72459, girl
 c203ddb4, sam yang
+c206be84, azhiichigo style，big eyes|thick lines，cute
 c230a4e3, AK-47-Asiimov|AK-47-Gold-Arabesque|AK-47-Hydroponic|AK-47-Neon-Rider|AK-47-Vulcan|AK-47-X-Ray
 c23c9f4d, 1girl
 c25693d5, best quality
@@ -2132,6 +2137,7 @@ d357b061, dreamlikeart|kuvshinov|snthwve style|nvinkpunk
 d35823ba, jgba
 d37aed3d, 80's anime style|90's anime style
 d386996c, 3d|render|japparii|cinema4d|photoshop|album cover|minimalism|digital|print|vibrant
+d38ddb80, female|male
 d3921bc9, armor|1boy
 d3f3df02, all|hyperrealistic mix, mixRealisticPhotoV5_v15.ckpt
 d3f3df02, realistic, mixRealisticPhotoV5_15.ckpt
