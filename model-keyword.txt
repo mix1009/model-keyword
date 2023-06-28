@@ -864,6 +864,7 @@
 4c42236e, TVClown
 4cac193b, sks person|(sks person)
 4cdc58f8, tarasische
+4d12a089, sks person
 4d4d1bc5, girl
 4d59b795, evang
 4d5cca44, TinyPlanet|TinyCityPlanet
@@ -1430,7 +1431,8 @@
 8f675f3e, Evang
 8f7d98c0, by mon
 8f89e96b, anime pencil concept style
-8fced5c4, turino
+8fced5c4, realism|kina, lorina.ckpt
+8fced5c4, turino, lorina.ckpt
 8fee0468, v2
 8fefc581, tk-char|tk-env
 8ffb0774, prilosecotc1|burgie|dskfll
