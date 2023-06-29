@@ -1259,7 +1259,7 @@
 78d9c09e, digidsk1
 7906524a, cornflower
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
-79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV30_v20NoVAE.safetensors
+79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV30_v20Novae.safetensors
 79587710, zombie, wendigo_v20.safetensors
 7960116e, evang
 79b55ef7, bigbadejo alien_monster
