@@ -2316,6 +2316,7 @@ e3e5eba1, _
 e3fd6fba, insertNameHere
 e426a38f, dskyart1
 e476ecf5, justyeaa
+e492ca3d, Bright LUT|Cinematic LUT|Horror LUT|Instagram LUT|Romance LUT|Winter LUT|Vintage LUT|Wedding LUT
 e494d7b5, takeON
 e4a91381, realistic
 e4d945bf, origtron
@@ -2353,6 +2354,7 @@ e95310af, CCDDA artstyle
 e96904c7, sks juri
 e97f7a1c, focal points on attractive face|sly grin that reaches eyes|eyes gleaming with joy|1woman|vivid colors|complex patterns|motion|action|leading lines|visual cues|rule of thirds, simplePromptWithA_v01.safetensors
 e97f7a1c, human, alignmentTurnHumansTo_2000Steps.safetensors
+e9a220ba, 1girl|solo|mole under eye
 e9c42a35, meitu|sailor moon style|anime style|manga
 e9caaf6a, analog style|chromav5|nvinkpunk
 e9cbb77e, musician
