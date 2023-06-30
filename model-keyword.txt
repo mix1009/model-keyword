@@ -106,6 +106,7 @@
 09a268c0, mksks style
 09a74379, shrot|shrots|hoodie
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, analog style|modelshoot style|nsfw|nudity, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
 09c6d455, JangEunYoung
 09d7878a, pixarstyle
@@ -626,6 +627,8 @@
 2aa8c665, GuardianE
 2aaa1306, evang
 2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
+2ad02959, bdicon
+2add6091, shinyunbok anime
 2b059ac7, fldsky1
 2b066feb, mmk
 2b694ba7, modelshoot style|nousr robot
@@ -1377,7 +1380,7 @@
 89372903, none
 89a3f11a, gatto
 89abf451, masterpiece|best quality, clearvae_main.safetensors
-89abf451, masterpiece|intricate details, clearvae_main2.safetensors
+89abf451, masterpiece|intricate details, clearvae_main.safetensors
 8a0a6f86, svtbuild
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
 8a312ffc, masterpiece|novelAI|trending on 500px
@@ -2116,6 +2119,7 @@ d0efcea0, Tuckercarlson Person, tuckerCarlsonTuckercarlson_v10.safetensors
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
 d164c734, 4x-animesharp
 d1708df8, sd-prohib|broad brushstrokes|medium brushstrokes|fine brushstrocks|painterly|sentimental|pictorial|idealism|family life|romance|adventure|action|1914|1920|1924|1925|1928|1930|1933|1934|1937
+d184f857, bdicon
 d1a80918, thanhph
 d1a8d83f, isometricfuture
 d1b390d3, girl
@@ -2129,7 +2133,7 @@ d21b2894, none
 d21c153e, ChromaV5|nvinkpunk
 d229bfec, manwha1
 d24cac70, masterpiece|best quality, bbmixRUIS_v15.safetensors
-d24cac70, masterpiece|intricate details, bbmixANIMEMIX_v10.safetensors
+d24cac70, masterpiece|intricate details, bbmixANIMEMIX_v20.safetensors
 d28922ac, rcnz_niji style
 d2972917, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical|horror|monster|blood|death|terror, etherealmix_terrorV2.safetensors
 d2972917, cult of cthulhu|giger|post-apocalypse|biomechanicals|Cthulhu, terrorModelsComplete_v2Biomachinery.safetensors
