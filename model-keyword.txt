@@ -390,6 +390,7 @@
 126f21de, Zwxthej
 12c978ba, Shigenori Style
 12cc710c, vjt
+12d0e504, chibi
 12ec3add, glock|pistol
 1351eaf1, cgi|cgi style
 13a6777c, modelshoot style|nousr robot
@@ -1430,6 +1431,7 @@
 8ec89baa, massakasma
 8ec9d746, amongus man
 8ed66211, neon|sci-fi|colorful
+8f0bf53d, battle_map
 8f2e1466, art by Boris Groh
 8f488fb6, seconddusk
 8f495d3d, shuimobysim|shukezouma
@@ -1950,6 +1952,7 @@ ba158946, goldenglass
 ba210b22, sks woman
 ba2d4b1a, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic|mature adult|oil painting|comic poster
 ba468443, no
+baf83ef9, 3D modeling|photos|real world
 bb029452, kindigitstyle
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
@@ -2099,6 +2102,7 @@ cf3a5f9e, sun wukong|Beijing opera
 cf3bdffe, CHV3CWrestler|CHV3CReptile|CHV3CAnimal|CHV3CNinja|CHV3CAnthro|CHV3CDino|CHV3CFoodPorn|CHV3CDeepSea|CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDiner|CHV3SGarden|CHV3SFair|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld
 cf5c8a2a, margot
 cf5ed516, @Spirited
+cf64a27d, pee|peeing|urine|splash
 cf6e2f43, anime
 cfa305bc, by mankai kaika
 cfc1e734, mina|momo|jeongyeon|chaer|sana|tzuyu|naeyeon|dahyun|jihyo
@@ -2501,6 +2505,7 @@ f90e49b9, this model is a mixture
 f91d47e4, Xiaowu from Douluo Dalu
 f946d98c, SDArt
 f9718fa8, realistic|photorealistic
+f97af94a, 1 girl
 f97ba63a, phse
 f9c02b32, 100memories
 f9d8ee86, modelshoot style|swpunk|synthwave|paint splatters
