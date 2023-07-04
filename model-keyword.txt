@@ -1459,6 +1459,7 @@
 91099850, Muscular|Anime
 910fb637, btdmnky, stableBTD6_btd6.ckpt
 910fb637, btdmnky|primary|military|magic|support|hero, stableBTD6_v10.ckpt
+9116f7ed, aodai
 914137b7, all|realistic
 915383b6, AbstrAnm spritesheet
 916ea38c, pixelsprite|16bitscene
@@ -2423,6 +2424,7 @@ ee5b91da, ligne claire
 ee5e8d13, Sheeroawan
 ee624815, xmascookie
 ee685731, cute|chibi
+eec5b397, hungpham
 eef06b18, masterpiece|best quality|nfixer|nfixernext|re-badprompt
 eefa7e96, girl|face|beautiful
 ef01c1e8, Henry Cavill|hnrycvll
