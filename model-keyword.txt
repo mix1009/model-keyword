@@ -687,6 +687,7 @@
 32ccf42a, JangYouSun
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
 3317d761, solo|blurry|depth_of_field|blue sky and clouds
+3323215b, 1girl|short hair|long hair|very long hair
 33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime, dgspitzerArt_Diffusion.safetensors
 33290d4a, rfktrstyle, rfktrsDarkdream_v16.safetensors
 33290d4a, rfktr|rfktrstyle, rfktrsDarkdream_v10.safetensors
@@ -2328,7 +2329,8 @@ e3373f54, Japanese|Korean
 e3423ef2, evang
 e35930da, rachelwalker style
 e35af7e4, 1girl|dynamic angle|dynamic pose|chinese style architecture|hanfu
-e37a18ee, evang
+e37a18ee, Evang, vector2_v10.safetensors
+e37a18ee, evang, vector2_v1.safetensors
 e3ac27b1, bioluminescence:1.2|dark background|darkness|negative space|best quality|masterpiece
 e3ad5893, dskyart1|gendigi
 e3af0732, btywtrclr
