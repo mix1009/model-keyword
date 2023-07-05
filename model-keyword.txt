@@ -4,7 +4,6 @@
 #model_hash,keyword,filename.ckpt
 0001af3a, db01
 0003ba25, SmolOne
-0057775d, girl|art|fantashy
 007edaa3, clayitization
 00d62a36, photorealistic|naked
 00ee24b4, modelshoot style|analog style|mdjrny-v4 style
@@ -551,6 +550,7 @@
 218cee5d, mksks style|detailed background
 219cbfe8, RKart style
 2206906b, guofeng|chinese|bokeh|silk dress
+221cc153, aodai
 222b3565, teletext
 223531c6, 1, vae-ft-mse-840000-ema-pruned.vae.ckpt
 223531c6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art, vae-ft-mse-840000-ema-pruned.ckpt
@@ -593,6 +593,7 @@
 265e757d, Sidon|Sidon style
 26621fc2, tdst style
 2684c304, cr1m3
+26945dab, female|male
 269b8567, general
 26acd9f3, furrender style
 26bde476, vrass
@@ -629,6 +630,7 @@
 2a747832, SDArt
 2aa8c665, GuardianE
 2aaa1306, evang
+2ac54074, girl|art|fantashy
 2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 2ad02959, bdicon
 2add6091, shinyunbok anime
@@ -731,6 +733,7 @@
 37e5ce18, owhx 3dicon
 37f2669e, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
 3814a52a, surrealsteampunkai
+3824f0fa, female|male, matrixRealistic_v15VAE.safetensors
 3824f0fa, female|male|robo, matrixRealistic_v15VAE.safetensors
 3824f0fa, woman|man, matrixRealistic_v15VAE.safetensors
 382d6ed3, sks person
@@ -798,6 +801,7 @@
 40ada8c2, watercolor
 413c9e87, best quality|tifa lockhart _cosplay_|aqua eyes|black hair|closed mouth|outdoors|solo|allur|ultra detailed|8k|hdr|octane render|unreal engine 5|amazing depth|rich colors|powerful imagery|psychedelic overtones|4k|8k.
 413f6b0f, nomanssky style
+4166d47f, aodai|style of ...
 416a7f7c, dreamlikeart
 4192fc16, kurzgesagt style
 41d721c0, swpunk|synthwave|paint splatters
@@ -1097,6 +1101,7 @@
 6606c451, 1girl
 6606d2db, ttw style
 6618bdd6, girl|boy|man|woman|robo
+663b7cc5, aodai|3dcharacter|3dcutecharacter|chibi
 66473eff, rpgicondiff
 6648a62e, gGWoman, ggwoman_v1.ckpt
 6648a62e, ggwoman, Ggwoman_v10.ckpt
@@ -2450,6 +2455,7 @@ f094a27f, Mobian or Sonic character name
 f098482b, masterpiece|best quality|ultra-detailed|illustration|an extremely delicate and beautiful|dynamic angle|floating|beautiful detailed eyes|bright eyes|detailed light|solo|
 f0ddc933, realistic
 f125fab8, P4U14
+f15eaf3f, RAW photo of|Analog photo of
 f1aafbbe, estilovintedois|lexicaart
 f1e11c37, smhcgty
 f22d0019, PiroxiumDiffusion style
@@ -2522,6 +2528,7 @@ f8fb379d, a photo of a sks woman with white hair
 f90e49b9, this model is a mixture
 f91d47e4, Xiaowu from Douluo Dalu
 f946d98c, SDArt
+f963da04, 3dcharacter|3dcutecharacter|chibi|waves|cloud|gradient background|simple background
 f9718fa8, realistic|photorealistic
 f97af94a, 1 girl
 f97ba63a, phse
