@@ -511,8 +511,8 @@
 1e1e49e4, sks woman
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1e2b3832, lula
-1e2c90cc, moyou|1girl|realistic, MIXMoyoumixNature_v102.safetensors
-1e2c90cc, moyou|1girl|realistic|masterpiece|best quality, MIXMoyoumixNature_v101.safetensors
+1e2c90cc, moyou|1girl|realistic, 墨幽MIX_MoYouMIX_nature_v10.2修剪-fp16-no-ema.safetensors
+1e2c90cc, moyou|1girl|realistic|masterpiece|best quality, 墨幽MIX_MoYouMIX_nature_v10.1修剪-fp16-no-ema.safetensors
 1e6822b7, comics style|analog style|illustration|lineart
 1e8c4a0a, GIRL Oil Painting
 1f19191c, UnstableDiffusion|unstablephotoreal
@@ -550,6 +550,7 @@
 20c6a837, Nvinkpunk|samdoesarts
 218cee5d, mksks style|detailed background
 219cbfe8, RKart style
+21a7aaa4, 1girl|moyou
 2206906b, guofeng|chinese|bokeh|silk dress
 221cc153, aodai
 222b3565, teletext
@@ -2020,7 +2021,7 @@ c022d9d2, asiangirlslikeness
 c0302f10, Gllltchy style|Gllltchy, gllltchy_v1.ckpt
 c0302f10, filmation motu style, filmationMOTU_v1.ckpt
 c09d432b, photorealistic|nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
-c0c8c2cb, ligne claire
+c0c8c2cb, ligne claire|Roy Krenkel|Jean-Pierre Gibrat|Milo Manara|Francois Schuiten|Edgar P Jacobs
 c0dfdd2c, lolita fashion
 c0e7c884, snthwve style|nvinkpunk
 c0ed7dfb, l4lisa
@@ -2376,6 +2377,7 @@ e728ca1e, Mogeko|Okegom|Funamusea
 e7300f3d, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 e79c8e1c, jckmn person
 e80f12bb, Evang
+e83d3aa7, Ligne claire
 e8468071, panamera04
 e85e8888, AYU23 person
 e8635c3a, multipla
@@ -2405,6 +2407,7 @@ eae4113f, 没有/none
 eae836b4, mommy
 eae95c5e, cardassian
 eb01f3b2, NijiFTB
+eb1666ba, 1girl|moyou
 eb3a4159, dal
 eb70ff01, concept-art
 ebb17c4d, pow style|ofi|mohd|rmb|dca|muc|onex|toid|sura|juli|veli|gsp|tux|tvc|pbc|pgs|rps|dbz|soca|suru|nips|rune|pafc|nlwx|fck|cae|sohn|dori|zawa|revs|hmv|whoo|asar|blob|xiao|kilt|ulf|loeb|bnha|gote|omd|adl|shld|waj|sown|rcn|httr|dits|hta|lun|olis
