@@ -142,6 +142,7 @@
 0cdb758d, tea picker
 0cf442f0, dakota person
 0d102d86, kawahara
+0d53acd4, beatniks|retro futurism|hip|blue note album cover design
 0d8373ed, realistic|photorealistic
 0d985eef, sks woman
 0e5bd0bf, CCDDA  artstyle
@@ -653,6 +654,7 @@
 2cf88589, irmntro person
 2d447b0f, tk-char|tk-env
 2d527bd2, Evang
+2dceb6e8, fgsdgdfgh dr
 2dd53706, SDArt|agne|ohwx|bnp|atum|aved|bsf|aten|fcu|cees|chor|cna|nrf|elio|gani|pfa|kprc|kuro|asot|elis|bsp|psst|sqm|irgc|byes|dany|lpg|miro|avel|vaw|zaki|guin|pz|reys|crit|doa|suma|taku|ufos|phol|vedi|dds|weho|pte|oxi|yuck|zas
 2dd7cc12, by b-ginga
 2e6bbced, vectorartz
@@ -917,7 +919,8 @@
 50b09182, flonixreddit
 510c4b84, dal
 510c5845, modelshoot style|nousr robot
-511d6e1f, 触发词1|触发词2
+511d6e1f, 11, 11_v10.safetensors
+511d6e1f, 触发词1|触发词2, 眼睛双.safetensors
 5141b47d, loli
 514a1db3, rcnz_hqr
 515a5199, circetorre
@@ -2113,6 +2116,7 @@ cdec87a5, chaingirldark style
 ce1e267a, korean beauty|korean mixed|realistic
 ce21b743, sjh style
 ce273db5, lolsplashart
+ce59d07b, female|male
 ce6d2934, masterpiece|best quality
 ce787c96, evang
 cebf8122, modelshoot style
