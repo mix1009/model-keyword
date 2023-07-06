@@ -511,8 +511,8 @@
 1e1e49e4, sks woman
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1e2b3832, lula
-1e2c90cc, moyou|1girl|realistic, 墨幽MIX_MoYouMIX_nature_v10.2修剪-fp16-no-ema.safetensors
-1e2c90cc, moyou|1girl|realistic|masterpiece|best quality, 墨幽MIX_MoYouMIX_nature_v10.1修剪-fp16-no-ema.safetensors
+1e2c90cc, moyou|1girl|realistic, MoyouArtificial_v102.safetensors
+1e2c90cc, moyou|1girl|realistic|masterpiece|best quality, MoyouArtificial_v101.safetensors
 1e6822b7, comics style|analog style|illustration|lineart
 1e8c4a0a, GIRL Oil Painting
 1f19191c, UnstableDiffusion|unstablephotoreal
