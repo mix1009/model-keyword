@@ -452,6 +452,7 @@
 17e77d7e, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo
 17ea864a, masterpiece|best quality
 1848190c, sd-pulp|dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories
+1861f018, Evang, vintageArtStyle_v10.safetensors
 1861f018, SDArt, sdartEncapsulated_base15.safetensors
 1861f018, dskbbb1, bubbleToysTHEMODEL_1.safetensors
 1861f018, elem flowers|fire|water|earth|air|multielem, sdartElemental_v2ClassicVersion.safetensors
@@ -654,6 +655,7 @@
 2ce026e5, photorealistic
 2cee5111, intjpastel
 2cf88589, irmntro person
+2d168544, Evang
 2d447b0f, tk-char|tk-env
 2d527bd2, Evang
 2dceb6e8, fgsdgdfgh dr
@@ -1292,6 +1294,7 @@
 79b55ef7, bigbadejo alien_monster
 79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_1.safetensors
 79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.safetensors
+79c63bd9, Landscape design
 7a0fd151, mksks style|detailed background
 7a16febb, thecat, chikomokiiStyle_v1.ckpt
 7a16febb, yuqikun, yuqikunStyle_v1.ckpt
@@ -2269,6 +2272,7 @@ dccb4eb7, head
 dcdf0425, dgs illustration style
 dced2560, cum
 dcff916b, modelshoot style|swpunk|synthwave|paint splatters
+dd3a8609, Evang
 dd47c9f1, nabongs|jeongie|hiraimomo|minatozaki sana|godjihyo|myouimina|dubu|chaengie|choutzuyu
 dd539c7c, dsktaro1
 dd74bb1c, gilgamesh|1boy
@@ -2313,6 +2317,7 @@ def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
 df62a361, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 df8c7cab, moyou|1girl|realistic|masterpiece|best quality
+df989f31, Hentai|anime|male|female|girl|boy
 df9e36bd, leagueofstyle
 dfa06e02, evang
 dfafd600, duskametric15|microworld
