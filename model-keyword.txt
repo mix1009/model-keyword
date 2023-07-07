@@ -452,7 +452,7 @@
 17e77d7e, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo
 17ea864a, masterpiece|best quality
 1848190c, sd-pulp|dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories
-1861f018, Evang, vintageArtStyle_v10.safetensors
+1861f018, Evang, vintageArtStyle_safetensor.safetensors
 1861f018, SDArt, sdartEncapsulated_base15.safetensors
 1861f018, dskbbb1, bubbleToysTHEMODEL_1.safetensors
 1861f018, elem flowers|fire|water|earth|air|multielem, sdartElemental_v2ClassicVersion.safetensors
@@ -811,6 +811,7 @@
 4166d47f, aodai|style of ...
 416a7f7c, dreamlikeart
 4192fc16, kurzgesagt style
+41c67857, minchien
 41d721c0, swpunk|synthwave|paint splatters
 41fef4bd, nousr robot
 4207b96d, Nothing
@@ -1717,6 +1718,7 @@ a149572b, snowapocalypse, snowapocalypseV10_v10.safetensors
 a149572b, sticker|vector-art, stickerArt_sticker.safetensors
 a149572b, vector-art, vectorArt_Beta.safetensors
 a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
+a150faa4, icon|blender|C4D
 a184fedc, gigafractal artstyle
 a1f0ad54, insertNameHere
 a1f49fa9, A visual title screen
@@ -2194,6 +2196,7 @@ d37aed3d, 80's anime style|90's anime style
 d386996c, 3d|render|japparii|cinema4d|photoshop|album cover|minimalism|digital|print|vibrant
 d38ddb80, female|male
 d3921bc9, armor|1boy
+d3a9cef0, hanfu
 d3f3df02, all|hyperrealistic mix, mixRealisticPhotoV5_v15.ckpt
 d3f3df02, realistic, mixRealisticPhotoV5_15.ckpt
 d4021aa4, art by Boris Groh
