@@ -678,6 +678,7 @@
 2ffe0d53, Evang, mummy_v10.ckpt
 2ffe0d53, evang, mummy_v2.ckpt
 3013bb9f, 80sDarkSouls style|80sDarkSoul style|knight|armour|castle
+301a6744, bezyminka|
 3031dfb2, marsattacks
 3061461b, analog style
 3080b312, mobian or sonic character name
@@ -888,6 +889,7 @@
 4b2f4987, person
 4b327a2e, anime
 4b64ace6, SDXL 0.9
+4bc53419, frozen style|anna frozen|elsa frozen|olaf frozen|sven frozen|kristoff frozen|ice castle|duke of weselton frozen|prince hans frozen
 4bfacf36, by t6
 4c42236e, TVClown
 4cac193b, sks person|(sks person)
@@ -1566,6 +1568,7 @@
 993f2358, Selena Gomez|Jenna Ortega|Celeb, selenaortega_v10.ckpt
 993f2358, XXXtranger, Xxxstranger_xxxtrangerV10.ckpt
 993f2358, barbaramom|tonydad|anthonybro|lizasis|ajnep|michaelnep, micheleFamily_v10.ckpt
+993f2358, bezyminka, bezyminka8_v10.ckpt
 993f2358, bynispart, nispArtSketchModelV05_v051.ckpt
 993f2358, canetaazul, canetaAzulManoelGomes_canetaazul.ckpt
 993f2358, cbzbb, cuteRichstyle15_cuteRichstyle.ckpt
@@ -2280,6 +2283,7 @@ db4f8fe5, chilloutWorld|chilloutWorld_v1
 db5960c1, OOKZA Vampire Style
 dc01dfdd, ohwx|demon|werewolf|minotaur|zombie|
 dc05355d, sksi object|sksi
+dc234f3c, frozen style|anna frozen|elsa frozen|olaf frozen|sven frozen|kristoff frozen|ice castle|duke of weselton frozen|prince hans frozen
 dccb4eb7, head
 dcdf0425, dgs illustration style
 dced2560, cum
