@@ -1498,6 +1498,7 @@
 914137b7, all|realistic
 915383b6, AbstrAnm spritesheet
 916ea38c, pixelsprite|16bitscene
+918c71de, furry girl
 91cf8f7b, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 91d18805, 
 91ec9ea6, dwspop style|dwspop space|dwspop forest|dwspop landscape
@@ -2300,6 +2301,7 @@ dd539c7c, dsktaro1
 dd74bb1c, gilgamesh|1boy
 dd847c89, oilpainting
 dd95fcaf, wabori|tatoo
+ddb22bf6, emaiti
 ddc6edf2, mdjrny-v4 style
 dde11c1e, smitsv
 de2f2560, 6girls+, theGoldenMirage_v11.safetensors
@@ -2541,6 +2543,7 @@ f5bf5a19, SDArt
 f5d9c703, snthwve style
 f61ceeaf, xao-arab-girl
 f6239527, brtdrpp
+f63dafbe, Realistic
 f6412c6b, 1girl
 f661ebc1, 2dskillicon
 f69b7a31, Nothing
