@@ -500,6 +500,7 @@
 1c348ac5, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
 1c83d3db, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
+1cd32833, nightmare|horror|dark atmosphere|creepy|dread|post-apocalypse|cult of cthulhu
 1cecdd34, anime|girl|boy|woman|man|robo
 1d0d03ee, botw style
 1d132f9e, whatif style|tdst style
@@ -1528,6 +1529,7 @@
 95f8d0a7, portrait, 3d_magmixV10.safetensors
 95f8d0a7, マスターチーフ, chilloutmix_NiPrunedFp32Fix.safetensors
 9600da17, master|chief
+9629c708, nightmare|horror|dark atmosphere|creepy|dread|post-apocalypse|cult of cthulhu
 962c3253, anisenti88
 965c5e50, mashu_yuino
 9695a9cd, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
@@ -2018,7 +2020,7 @@ bda49b29, ashenhard style
 bda7821c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_1.ckpt
 bda7821c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.ckpt
 bdb4b12c, by popqn
-bdc33bf0, nightmare|horror|dark atmosphere|creepy|dread|post-apocalypse
+bdc33bf0, nightmare|horror|dark atmosphere|creepy|dread|post-apocalypse|cult of cthulhu
 bdd04c5e, noble ai|nobleai|noblemixfix
 bde477d2, junemodel
 bdec7588, richevans
