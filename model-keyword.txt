@@ -680,7 +680,8 @@
 2ffe0d53, Evang, mummy_v10.ckpt
 2ffe0d53, evang, mummy_v2.ckpt
 3013bb9f, 80sDarkSouls style|80sDarkSoul style|knight|armour|castle
-301a6744, bezyminka|
+301a6744, bezyminka|, bezyminka_v10.ckpt
+301a6744, ya beronika, galina_v10.ckpt
 3031dfb2, marsattacks
 3061461b, analog style
 3080b312, mobian or sonic character name
@@ -1524,7 +1525,8 @@
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
 958eaa52, rcnz_niji style
-959c96cf, Arnold Person
+959c96cf, Arnold Person, arnoldSchwarzeneggerTotal_arnoldSchwarzenegger.safetensors
+959c96cf, Elonmusk Person, elonMuskCurrentDayHQ_v10.safetensors
 95f8d0a7, armpit, module1_train1.safetensors
 95f8d0a7, graffiti illustrations|chilloutmix, graffitiArt_httpsCivitaiComModels.safetensors
 95f8d0a7, ol|都市|性感, chilloutmix_NiPrunedFp32Fix.safetensors
