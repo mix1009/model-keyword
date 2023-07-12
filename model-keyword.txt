@@ -1119,6 +1119,7 @@
 645a42cf, newstl
 648c45b6, Evang
 649dfd0a, chibi
+64ae4b26, WGG
 64afe6d2, CALARTS
 64c46184, masterpiece|best quality|re-badprompt|anime|realistic
 64cf95bb, asd
