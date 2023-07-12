@@ -397,6 +397,7 @@
 12ec3add, glock|pistol
 1351eaf1, cgi|cgi style
 13a6777c, modelshoot style|nousr robot
+13c19cad, female|male
 13c3e49f, collage style
 1400e684, Airlock, djzAirlockV21768V21512_v15.safetensors
 1400e684, Ascendents, djzAscendentsV21V15_v15.safetensors
@@ -1347,6 +1348,7 @@
 7f62d94b, VoxelArt
 7fa1e7c6, SDArt
 7fa460a0, illustration|comic style|realistic|Comic Poster|Line Art
+7fb4ae02, AVTR|Avatar Style
 7fd98345, desolated style painting
 7fed101a, sks woman
 80391624, analog style|chromav5|nvinkpunk
@@ -1804,6 +1806,7 @@ a69bb214, Oldjourney
 a69f9ce1, best quality|sksTakuya
 a6b4eaf3, no
 a6dbd500, tchnclr
+a6ea17df, female|male
 a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 a6f96d80, BelleDelphine|woman
