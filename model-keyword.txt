@@ -973,6 +973,7 @@
 548481b9, SDArt|bnp|aved|bgs|aten|fcu|cees|chor|nrf|elio|pfa|kprc|dita|kuro|dprk|asot|bsp|psst|sqm|irgc|buka|byes|dany|lpg|vaw|nmwx|nyrd|guin|perm|urd|nasi|rags|rimo|shai|doa|suma|isch|utm|vedi|dds|weho|pte|yui
 548c2413, woman android
 54b6a6d5, photo by Miroslav Tichy
+54de5e98, nkneghmn
 54eedb49, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 5502af6a, nkoctst
 550719bf, realistic
@@ -1177,6 +1178,7 @@
 6ae1720a, in the artstyle of dd
 6af039d7, red hair|freckles|ginger|brass & sass
 6affc7f9, furrender style
+6b20febb, catsuit|ponygirl|eha|latex
 6b3ac2d3, 3dmdt1
 6b4688c7, modelshoot style|nousr robot
 6b4ca475, knollingcase
@@ -1915,7 +1917,8 @@ ad38c466, silverfox5213|
 ad4470e8, eldmeisterog style|sks style
 ad53ab6f, comic book style|comic book wallpaper|illustration
 ad73b609, anime
-ad7d89e9, empresshacker
+ad7d89e9, empresshacker, hackerEmpressCracker_v10.safetensors
+ad7d89e9, lyndacarter, lyndaCarter1980s_v10.safetensors
 ad82a9dd, Evang
 ad9d6205, fart62
 ae19a9dd, pspp man
