@@ -154,6 +154,7 @@
 0e8f2dbe, masterpiece|best quality
 0e98aa3f, InToThe2KGothClub
 0e9d328e, Chinese style
+0eb3318b, #spoonbanal#|#rotten#output#|#ammazza#che#cagata#|rkomi|ferragnez, hellcoderUncensored_v10.safetensors
 0eb3318b, Airlock, djzAirlockV21768V21512_21768.safetensors
 0eb3318b, AssassinKahb, djzAssassinKahbV21_0.safetensors
 0eb3318b, AssassinMihq, djzAssassinMihqV21_0.safetensors
@@ -376,6 +377,7 @@
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
 10a66fa5, romcom style
 10c6aa67, studio_ghibli_anime_style style
+10d8b227, samanthafox
 10eaf341, masterpiece|best quality|re-badprompt|anime|realistic
 1108cf15, by miyase mahiro
 11292c55, Bulma, bulma_V10.ckpt
@@ -977,6 +979,7 @@
 547baf67, ykgl girl|ykgl girls|cgi artstyle
 548481b9, SDArt|bnp|aved|bgs|aten|fcu|cees|chor|nrf|elio|pfa|kprc|dita|kuro|dprk|asot|bsp|psst|sqm|irgc|buka|byes|dany|lpg|vaw|nmwx|nyrd|guin|perm|urd|nasi|rags|rimo|shai|doa|suma|isch|utm|vedi|dds|weho|pte|yui
 548c2413, woman android
+54b1ac96, ray tracing
 54b6a6d5, photo by Miroslav Tichy
 54de5e98, nkneghmn
 54eedb49, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
@@ -1314,6 +1317,7 @@
 78c98245, shuimobysim|shukezouma
 78d68104, sincity_iamyork
 78d9c09e, digidsk1
+78e79d23, helenmirren
 7906524a, cornflower
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
 79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV40_v20Novae.safetensors
