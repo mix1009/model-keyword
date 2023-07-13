@@ -115,6 +115,7 @@
 0a2a8967, aerith|bowsette|mercy|widowmaker|tracer|dva|black cat dva|star guardian jinx|star guardian lux|irelia|nidalee|kda seraphine|kda kaisa|akali|katarinaclassicoutfit|pokemon|animal|realistic|portrait|woman|closeup|selfie|instagram
 0a4320df, dalcefo
 0a92be44, 1girl|cat_ears
+0ac67c6e, sybildanning
 0acd5bea, martianwarlord
 0ad612b8, painting|Allen Anderson|Earle Bergey|Frank Frazetta|George Gross|Gil Elvgren|Glen Orbik|Robert Maguire|Robert Stanley|Tom Lovell|pulp style|Action|Western|Romance|Scifi|Fantasy
 0ae9e220, goosebumps art by tim jacobus
@@ -574,6 +575,7 @@
 223531c6, masterpiece, vae-ft-mse-840000-ema-pruned.ckpt
 2258c119, CNDigitalArt Style
 2275f2cf, 90s retro anime style|xx year anime style
+22a55888, insertNameHere
 22ca4aaa, guigubahuang|1girl|chinese style
 2323d67c, SLE|mksks style|detailed background
 234cc409, comicmay artsyle
@@ -758,6 +760,7 @@
 3824f0fa, female|male|robo, matrixRealistic_v15VAE.safetensors
 3824f0fa, woman|man, matrixRealistic_v15VAE.safetensors
 382d6ed3, sks person
+384b447c, aimoji
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 38ab73a7, game icon institute|game icon, gameiconinstitute_v20.safetensors
 38ab73a7, game icon institute|game icon|Anthropomorphism, gameiconinstitute_v10.safetensors
@@ -801,10 +804,12 @@
 3c30b472, analog style|modelshoot style|nsfw|nudity
 3c401697, redshift style
 3c752646, snvhs
+3c7538b7, mecha
 3caeeaf3, vintage polaroid analog portrait photography of
 3cb52e96, shuimobysim|shukezouma
 3d28e095, 3D Style|Rick Roll|fullbody shot|bad cosplay man
 3d61b720, 3D product render|3D product render style
+3da648f5, in the style of AImanhwa
 3dd9c14a, moyou|1girl|White hair|
 3e008b4d, bethharmon
 3e832815, kochergin
@@ -1424,6 +1429,7 @@
 872bdd84, zedra1 girl
 874c83a1, A photo of a BiYaoYao Animated Young Woman|biyaoyao
 876e83c8, game icon
+87758a47, SEE APPENDIX A|见附录A
 879054f9, portrait style|selfie photo|casting photo full shot naked|rlfce realistic person|fkfce fake person|closeup photo face
 87c5d24e, dra|vinyl record cover|12-inch|electronic|<decade> album cover|the designers republic
 87fb604f, 3d render|3d cartoon
@@ -2542,6 +2548,7 @@ f32626be, heixuan furry, kuroteroHeixuanFurry_v10.ckpt
 f341184d, msfluentui style
 f3694755, modelshoot style
 f3a2ad84, rcnz_niji style
+f44e6e9c, 1boy|young|cute
 f457c3e6, shiinamashiro
 f47ae1fa, sks woman
 f4a70244, female|girl|woman|man|boy
