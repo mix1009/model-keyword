@@ -467,6 +467,7 @@
 187550ac, 80sanimestyle
 18756300, analog style|modelshoot style|nsfw|nudity
 1877a743, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|D&D character|fantasy poster|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|masterpiece|intricate|detailed|hyperrealistic
+187fe5c1, female|male
 189e3972, shinyunbok painting
 18b7217d, game icon
 18b72c7b, zainabt
@@ -885,6 +886,7 @@
 4792ff92, ech_gen
 47a34de9, sticker|vector-art
 47bcfb66, goldenglass
+47bdf85a, male|female
 481ba411, there are too many please see the description
 4859814c, TransX
 48823be0, coralchar
@@ -892,6 +894,7 @@
 490b0a46, kukuhtw
 4928c317, abstractchaos
 496ed668, SDArt|dels|bnp|tobi|dif|abia|adl|dori|afs|apro|ufos|nwsl|dru|mth|arl|arum|asar|kuro|bpd|ecr|buda|exe|irgc|buka|buon|eet|cae|byes|ccd|chor|eha|aroa|elba|cep|emit|enei|enig|eoin|fara|fawn|fck|crit|fler|fol|gera|doa|cwgc|gsp|acu|oxi|gote
+4980b790, Furry girl
 49b5bcbf, newmarsmix
 4a0c37d8, supermarionation
 4a146754, Topnotch Artstyle
@@ -1035,6 +1038,7 @@
 5a1eeb22, m_wlop
 5a4b600e, none
 5a639898, ink style|ink wash painting
+5a6ba593, male|female
 5a747794, mechanical parts|mechanical 'body part or object|cyberware style
 5a75e4b5, female|male, matrixAnime_v16VAE.safetensors
 5a75e4b5, man|woman|boy|girl|etc, matrixAnime_v16VAE.safetensors
@@ -1463,6 +1467,7 @@
 8b8efdcc, best quality|masterpiece|
 8b917b1c, xixiprincess
 8ba5b787, dal
+8bc10cce, female|male
 8bf784bb, Comics style|Comics|Cartoon style|
 8c36d946, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 8c3b86ce, chilloutmix-Ni.safetensors
@@ -1495,6 +1500,7 @@
 8ec89baa, massakasma
 8ec9d746, amongus man
 8ed66211, neon|sci-fi|colorful
+8ef9e10a, male|female
 8f0bf53d, battle_map
 8f2e1466, art by Boris Groh
 8f488fb6, seconddusk
@@ -2655,4 +2661,5 @@ fe5aae36, telltale style
 feb09aa5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
 ff7616f1, FRPGFaceGen
+ff838ac8, fantasy
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
