@@ -642,6 +642,7 @@
 29801141, tf2map|team fortress 2|map|tf2 map
 29bfa344, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 29d0de58, personal|lakage her pussy|harem
+29d35db2, 1man|male:1.2
 2a1f96ec, anime
 2a3e365b, arcane style
 2a68cd03, pattern
@@ -999,6 +1000,7 @@
 557350e1, duskfll, duskfallAlters_11PortraitPlus.ckpt
 557350e1, flrmrbl, floralmarblesModel15_copiaDeFloralmarble.ckpt
 557350e1, leagueofstyle, stablearcane_20.ckpt
+557350e1, photography of a woman, photographyStyleAi_v10.ckpt
 557350e1, radar-topview|biome-radar-topview|cache-radar-topview|cobblestone-radar-topview|dust2-radar-topview|inferno-radar-topview|mirage-radar-topview|nuke-radar-topview|overpass-radar-topview|subzero-radar-topview|train-radar-topview|vertigo-radar-topview, csgoImprovedRadarTop_v20.ckpt
 557350e1, radar-topview|spectator-radar-topview, csgoTopViewMapLayout_1.ckpt
 55f8aa74, mobian or sonic character name
