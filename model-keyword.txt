@@ -988,6 +988,7 @@
 53e3a763, 1girl
 53e74d40, 1girl|elegant floral dress|beautiful eyes|upper body|8k
 5412e2d7, comicmay artsyle|redshift style
+5475fa02, mbeezus person
 547baf67, ykgl girl|ykgl girls|cgi artstyle
 548481b9, SDArt|bnp|aved|bgs|aten|fcu|cees|chor|nrf|elio|pfa|kprc|dita|kuro|dprk|asot|bsp|psst|sqm|irgc|buka|byes|dany|lpg|vaw|nmwx|nyrd|guin|perm|urd|nasi|rags|rimo|shai|doa|suma|isch|utm|vedi|dds|weho|pte|yui
 548c2413, woman android
@@ -1631,6 +1632,7 @@
 993f2358, cum, qgoPromptingreal_bonusCumDreambooth.ckpt
 993f2358, desertranger, desertRanger_desertRangerV10.ckpt
 993f2358, diovasnsc, del2_v2.ckpt
+993f2358, dreneieredarwor, worldOfWarcraft_v10.ckpt
 993f2358, duskfll, duskfallAlters_duskfallAlters05.ckpt
 993f2358, dvarchinteriormodern|dvarchinteriorvictorian|dvarchinteriorgothic, dvarchMultiPrompt_dvarchInterior.ckpt
 993f2358, fox, fox_v15.ckpt
@@ -1760,6 +1762,7 @@
 a06436da, wtrcolor style
 a06c6681, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 a0b3a1c3, sphx weapon
+a0cdcf4f, laowang
 a0db84f0, landscapes
 a0ded949, masterpiece
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
@@ -2135,6 +2138,7 @@ c3c086d6, artstyle bse
 c3cfd75d, powa
 c448dc23, wide hips|narrow waist|qi lolita|
 c44bb585, duskametrick15
+c46ce622, ray tracing|
 c49a4c5c, photorealistic
 c4b23842, albumcover
 c4d39ec6, massakasma
