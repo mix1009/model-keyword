@@ -381,6 +381,7 @@
 1108cf15, by miyase mahiro
 11292c55, Bulma, bulma_V10.ckpt
 11292c55, Gohan, sonGohanSSJ2_gohanV10.ckpt
+11292c55, anime, bambaaV1_v10.ckpt
 11292c55, dgfgdfdgf, bambaa_v10.ckpt
 116d5535, coralchar
 117c269c, catherinebach
@@ -808,6 +809,7 @@
 3c018217, bondrewd|1boy
 3c1ac307, 海洋|女性|天空|温泉|枫叶|雪花|温暖|超清|艺术|生理|shape|草原|樱花
 3c1ee4c5, wewulzkz
+3c22d47f, nkneghmn
 3c30b472, analog style|modelshoot style|nsfw|nudity
 3c401697, redshift style
 3c752646, snvhs
@@ -899,6 +901,7 @@
 4928c317, abstractchaos
 496ed668, SDArt|dels|bnp|tobi|dif|abia|adl|dori|afs|apro|ufos|nwsl|dru|mth|arl|arum|asar|kuro|bpd|ecr|buda|exe|irgc|buka|buon|eet|cae|byes|ccd|chor|eha|aroa|elba|cep|emit|enei|enig|eoin|fara|fawn|fck|crit|fler|fol|gera|doa|cwgc|gsp|acu|oxi|gote
 4980b790, Furry girl
+49962996, nkneghmn
 49b5bcbf, newmarsmix
 4a0c37d8, supermarionation
 4a146754, Topnotch Artstyle
@@ -1295,6 +1298,7 @@
 75e3f00c, cult of cthulhu|giger|post-apocalypse|biomechanicals|terror|horror|Cthulhu|creepy|dread
 7606f40e, scrbackrooms
 7614fc55, PBOldRifRPGStyle
+762438bc, beverlydangelo
 7665f8c3, itrobo2022
 7675f1a1, stilovintedois
 767f517f, dmmid style
@@ -1564,6 +1568,7 @@
 958eaa52, rcnz_niji style
 959c96cf, Arnold Person, arnoldSchwarzeneggerTotal_arnoldSchwarzenegger.safetensors
 959c96cf, Elonmusk Person, elonMuskCurrentDayHQ_v10.safetensors
+95a1510a, donnaewin
 95f8d0a7, armpit, module1_train1.safetensors
 95f8d0a7, graffiti illustrations|chilloutmix, graffitiArt_httpsCivitaiComModels.safetensors
 95f8d0a7, ol|都市|性感, chilloutmix_NiPrunedFp32Fix.safetensors
@@ -2624,6 +2629,7 @@ f91d47e4, Xiaowu from Douluo Dalu
 f946d98c, SDArt
 f963da04, 3dcharacter|3dcutecharacter|chibi|waves|cloud|gradient background|simple background
 f9718fa8, realistic|photorealistic
+f973721a, jenniferconnelly
 f97af94a, 1 girl
 f97ba63a, phse
 f9c02b32, 100memories
