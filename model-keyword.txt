@@ -461,7 +461,7 @@
 17e77d7e, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo
 17ea864a, masterpiece|best quality
 1848190c, sd-pulp|dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories
-1861f018, Evang, vintageArtStyle_safetensor.safetensors
+1861f018, Evang, watercolor2_safetenser.safetensors
 1861f018, SDArt, sdartEncapsulated_base15.safetensors
 1861f018, dskbbb1, bubbleToysTHEMODEL_1.safetensors
 1861f018, elem flowers|fire|water|earth|air|multielem, sdartElemental_v2ClassicVersion.safetensors
@@ -944,6 +944,7 @@
 4e4a0067, polumna
 4e7736b5, designmeld|design|stunning|album cover|chrometype|japparii|m0.studio|manuals|foxrocket|gs.aya|mkalabic|josephmelhuish|designbysalome|alexvxvxvxvx|fkkwu|hellorabbitdesign|hvnt.ter|ivndrr|mateo.mace|nisheink|obby.jappari|sometimes__always|behance|iamcollaps|swissgraphic|grafikfeed
 4e80d0e0, masterpiece|best qualtiy|ultra high res|RAW photo|intricate details|soft lighting|portrait
+4e89f77b, Heera
 4ee00b19, photorealistic|textured skin|skin pores|skin imperfections|raw|8k|intricate details
 4ef65125, warrior
 4ef73d57, sks woman
@@ -1000,6 +1001,7 @@
 54eedb49, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 5502af6a, nkoctst
 550719bf, realistic
+552bc41d, bolinhabolinha
 55537280, temp
 556b18ab, rcnz_niji style
 557350e1, Lilith Morgan, lilithMorgan_v11.ckpt
@@ -1558,6 +1560,7 @@
 92e61297, art by yaguru magiku
 93423a00, jaggy|ps_game_screenshot|pc_game_screenshot|gamecube_game_screenshot|blood_and_gore|intense_violence|zotov_game_screenshot|eroge_game_screenshot|life_sim_game_screenshot|alter_echo
 936c64e3, evang
+93e73bf3, sophialoren
 93f72c18, sks woman
 9422abbc, manyakis art style|rabbit girl
 942395af, modelshoot style|swpunk|synthwave|paint splatters
@@ -1732,7 +1735,8 @@
 9da87c34, none
 9dc1d702, sks woman
 9dddaced, girl
-9e01a1e4, male|female
+9e01a1e4, laowang, lwArchitecutralMIX_v01.safetensors
+9e01a1e4, male|female, matrixAsianParadise_v653VAE.safetensors
 9e12b5d1, JennaO
 9e2429cf, elxchavo
 9e2a8f19, girl
@@ -1741,6 +1745,7 @@
 9e828d82, lqt
 9e86175c, MJv4
 9e8a16f7, Macro_Bug
+9eb305e6, Landscape|girl
 9ec1e884, hanbok|mecha musume
 9ecb88d8, photo of zhy zhangyi
 9ed4ea56, Oldjourney
@@ -1764,7 +1769,6 @@
 a06436da, wtrcolor style
 a06c6681, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 a0b3a1c3, sphx weapon
-a0cdcf4f, laowang
 a0db84f0, landscapes
 a0ded949, masterpiece
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
@@ -2138,6 +2142,7 @@ c37cd72c, blurry background|depth of field
 c3b103e8, lvmd aesthetic|3d render
 c3c086d6, artstyle bse
 c3cfd75d, powa
+c40bd8e7, lanawood
 c448dc23, wide hips|narrow waist|qi lolita|
 c44bb585, duskametrick15
 c46ce622, ray tracing|
@@ -2473,6 +2478,7 @@ e6184e6b, sks woman|(sks woman)|((sks woman))
 e622b9c3, Read Description
 e695afa2, modelshoot style|nousr robot
 e6b83610, BTYLER23 person
+e6c793d7, DUNHUANG|HANFU|1960s \style\
 e6d571b6, ohwx|pianist
 e717e83f, infp
 e728ca1e, Mogeko|Okegom|Funamusea
@@ -2591,6 +2597,7 @@ f32626be, heixuan furry, kuroteroHeixuanFurry_v10.ckpt
 f341184d, msfluentui style
 f3694755, modelshoot style
 f3a2ad84, rcnz_niji style
+f3dae826, BRAV5_Realisianv50_PFv30
 f44e6e9c, 1boy|young|cute
 f457c3e6, shiinamashiro
 f47ae1fa, sks woman
