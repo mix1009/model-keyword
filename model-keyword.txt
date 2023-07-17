@@ -70,6 +70,7 @@
 048f8871, dalcefo
 04a81662, official art|yu-gi-oh!
 04baab99, a 3d render of|a 3d cartoon of
+04c04fc5, 1girl
 04cdb6b7, Burgie|prilosecotc1
 04dc4f68, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|Analog Style|Watercolor
 050f0bae, Analog Style|Photorealistic|Realistic|Mature Adult|Fantasy Art|Illustration|Watercolor|Concept Art|Oil Painting|Surrealism|Brush Strokes|Pointillism|Hyperrealistic|Perfect Shading|Masterpiece|Subsurface Scattering|Perfect Lighting|Volumetric Lighting
@@ -375,6 +376,7 @@
 10419930, hassanfantasy style
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
 10a66fa5, romcom style
+10a97182, julietmills
 10c6aa67, studio_ghibli_anime_style style
 10d8b227, samanthafox
 10eaf341, masterpiece|best quality|re-badprompt|anime|realistic
@@ -1406,6 +1408,7 @@
 81da0383, dvOldWorld
 81f23ca9, worst quality|lowres|easynegative|hermaphrodite|cropped|not in the frame|additional faces|jpeg large artifacts|jpeg small artifacts|ugly|tiling|poorly drawn hands|poorly drawn feet|poorly drawn face|out of frame|extra limbs|disfigured|deformed|body out of frame|blurry|bad anatomy|blurred|watermark|grainy|signature|cut off|draft|not finished drawing|unfinished image|bad eyes|doll|3d|cartoon|bad eyes:1.2|worst quality:1.2|low quality:1.2|bad-image-v2-39000|bad_prompt_version2:0.8
 81f77d29, HARDblend
+81fa8dc4, dunhuang|dunhuang_background|dunhuang_face
 8206821b, woman
 820c4a3e, by sy4
 8217678b, <niji-se-3d>
@@ -2569,6 +2572,7 @@ efe608ac, Clay Mann
 f00b92e0, detailed|official art|colorful|accessories|fractal art|aesthetic|chinese clothes
 f05f9963, lisafrankstyle
 f0803e20, sjh style
+f0916d71, mariawhittaker
 f094a27f, Mobian or Sonic character name
 f098482b, masterpiece|best quality|ultra-detailed|illustration|an extremely delicate and beautiful|dynamic angle|floating|beautiful detailed eyes|bright eyes|detailed light|solo|
 f0ddc933, realistic
