@@ -830,6 +830,7 @@
 3ede1968, analog|photography
 3ee44953, lwmn man
 3ee7d195, yoshin style
+3eec9a6c, Evang
 3f095502, mdjrny-shttr
 3f0edc49, mayichiii
 3f3fc921, Sks woman
@@ -997,6 +998,7 @@
 547baf67, ykgl girl|ykgl girls|cgi artstyle
 548481b9, SDArt|bnp|aved|bgs|aten|fcu|cees|chor|nrf|elio|pfa|kprc|dita|kuro|dprk|asot|bsp|psst|sqm|irgc|buka|byes|dany|lpg|vaw|nmwx|nyrd|guin|perm|urd|nasi|rags|rimo|shai|doa|suma|isch|utm|vedi|dds|weho|pte|yui
 548c2413, woman android
+549d9c9d, photo of Evang style
 54b1ac96, ray tracing
 54b6a6d5, photo by Miroslav Tichy
 54de5e98, nkneghmn
@@ -1317,6 +1319,7 @@
 76956df2, guttonerdvision3, guttoNerdVision3_guttoNerdVision3.ckpt
 76956df2, guttonerdvision4, guttoNerdVision4_nerdvisionV4.ckpt
 76956df2, guttonerdvision6, guttoNerdVision6_v10.ckpt
+76956df2, guttonerdvision7, guttoNerdVision7_v7.ckpt
 76c86ec0, modelshoot style|swpunk|synthwave|paint splatters
 76e59a65, sincity_iamyork
 771880e5, 82pigeon style|akai sashimi style|algae makku style|belko style|braveking style|chocofing style|dako style|esuna style|evaaviva style|fengweic style|gomennasai style|hitokomoru style|ibukichi style|ishikei style|jidao style|junc style|khyle style|kyuyongeom style|lam style|lovecacao style|mamamba style|matcha style|mdastarou style|melanbread style|melodyoflost style|mikapikazo style|morry style|murata range style|naruko hanaharu style|navigavi style|rei 17 style|rupid style|scottie style|spacezin style|tahra style|timrougami style|tira style|tsutomu style|uekura eku style|xiayu style|yi1zhi style|yomu style|yoneyama style|yoshio style|yueko|lunachan
@@ -1522,6 +1525,7 @@
 8ea93b04, girl
 8ec89baa, massakasma
 8ec9d746, amongus man
+8ecd9616, makima_chainsaw_man
 8ed66211, neon|sci-fi|colorful
 8ef9e10a, male|female
 8f0bf53d, battle_map
@@ -2495,6 +2499,7 @@ e8468071, panamera04
 e85e8888, AYU23 person
 e8635c3a, multipla
 e8a0ce25, by kayahara
+e8bf8633, DUNHUANG|HANFU
 e8c8476a, by kayahara
 e8d24e03, pattern
 e912a994, Evang
