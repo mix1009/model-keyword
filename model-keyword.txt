@@ -111,6 +111,7 @@
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
 09c6d455, JangEunYoung
 09d7878a, pixarstyle
+09d81b43, t3|model
 09edc9b2, furry|anime|woman|animal|pastel
 09f31518, no
 0a2a8967, aerith|bowsette|mercy|widowmaker|tracer|dva|black cat dva|star guardian jinx|star guardian lux|irelia|nidalee|kda seraphine|kda kaisa|akali|katarinaclassicoutfit|pokemon|animal|realistic|portrait|woman|closeup|selfie|instagram
@@ -391,6 +392,7 @@
 1192bd48, ancient|china|painting|landscapes, locsChinaLandscapes_locsChinaLandscapes.ckpt
 1192bd48, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog, locsChinaLandscapes_locsChinaLandscapes.ckpt
 1194073d, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
+11b66877, fish|fishes
 11c35df3, bganidusk
 1221b4fa, jian guo
 1231b645, none
@@ -759,6 +761,7 @@
 36833c3d, jirai kei|jirai fashion|eye shadow|dark lips|twin tails|fishnet stockings
 369da414, 1girl
 36b82728, zhaojun
+36ce47dc, 1gilr
 36f1e334, Evang
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 3747a99f, iayuso person
@@ -2010,6 +2013,7 @@ b1be66e9, dreamworks artstyle
 b1c32576, anime pencil concept style
 b1ca5929, handsome
 b1df6170, realistic
+b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
 b1f4f421, 1girl
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
