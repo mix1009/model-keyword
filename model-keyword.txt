@@ -564,6 +564,7 @@
 206c6d91, polyna
 208f75ce, lamia
 20c6a837, Nvinkpunk|samdoesarts
+2185ba37, bakirda|kridaba|DaKriDi|dikrida
 218cee5d, mksks style|detailed background
 219cbfe8, RKart style
 21a7aaa4, 1girl|moyou
@@ -1486,6 +1487,7 @@
 8a6eadcf, eneias, bigeneias_v10.safetensors
 8a7088c5, JzzyeonAi_v5
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
+8aca88c2, bakirda|kridaba|DaKriDi|dikrida
 8ad6ce64, Evan
 8ae4d0fb, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
 8b3a0e37, wearing randoseru backpack and buruma and gym uniform with colored hem
@@ -2100,6 +2102,7 @@ bdc33bf0, nightmare|horror|dark atmosphere|creepy|dread|post-apocalypse|cult of 
 bdd04c5e, noble ai|nobleai|noblemixfix
 bde477d2, junemodel
 bdec7588, richevans
+be141210, bakirda|kridaba|DaKriDi|dikrida
 be4652f1, samdoesarts
 be6ca5be, there is no trigger word
 be7c545d, darkestdungeon style|darkest dungeon style|clonewars style|clone wars style|jojo style|newstl
@@ -2111,6 +2114,7 @@ beb87f9d, furry|girl
 becdbc5d, Kavellion|Kavellion style
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
 bf7386ef, diovasnsc
+bf7aedf0, bakirda|kridaba|DaKriDi|dikrida
 bfa01b88, photo of ohwx woman|ohwx woman
 bfa54420, ChromaV5|nvinkpunk
 bfc6e6ca, miriabyt
@@ -2210,6 +2214,7 @@ cc11c0ef, masterpiece|best quality|
 cc30ad23, lamia|harpy|centaur|etc....|most mge girls half work
 cc49ac37, bigbadejo alien_monster
 cc5b68d0, lndskp|nvinkpunk|redshift
+cc781a63, s
 cce02454, nvjobaim
 cceb87e1, analog style|modelshoot style|nsfw|nudity
 ccf3615f, modern disney style
@@ -2608,6 +2613,7 @@ f32626be, estilovintedois, vintedoisDiffusionV0_v01.ckpt
 f32626be, heixuan furry, kuroteroHeixuanFurry_v10.ckpt
 f341184d, msfluentui style
 f3694755, modelshoot style
+f37775c3, photo of Evang style
 f3a2ad84, rcnz_niji style
 f3dae826, BRAV5_Realisianv50_PFv30
 f44e6e9c, 1boy|young|cute
