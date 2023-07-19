@@ -517,6 +517,7 @@
 1cecdd34, anime|girl|boy|woman|man|robo
 1d0d03ee, botw style
 1d132f9e, whatif style|tdst style
+1d2f8774, furry
 1d5f981e, emmasamms
 1d812301, photorealistic|textured skin|skin pores|skin imperfections|raw|8k|intricate details
 1d95bf0b, lamborghinixyz
@@ -1060,6 +1061,7 @@
 5a1e4b93, coralchar
 5a1eeb22, m_wlop
 5a4b600e, none
+5a526d93, jillstjohn
 5a639898, ink style|ink wash painting
 5a6ba593, male|female
 5a747794, mechanical parts|mechanical 'body part or object|cyberware style
@@ -2358,6 +2360,7 @@ da9c5ae7, HistorischeUniformen
 dab15164, BLoMDress, model1_ver2.ckpt
 dab15164, Gerrybrit, gerrybrit_v10.ckpt
 dab15164, MC, minecraftArtStyle_v10.ckpt
+dab15164, dmgdroblawtorner, dmgdroblawtorner_v10.ckpt
 dab15164, hestyle, hestylev15Rooms_v15.ckpt
 dab15164, hnrycvll, henryCavillUltimate_v10.ckpt
 dab15164, interiors, interiorDesign_v1.ckpt
@@ -2610,6 +2613,7 @@ f2e5f721, DZ, dz_v10.ckpt
 f2e5f721, eve, eve_v10.ckpt
 f2e5f721, noa, noa_v10.ckpt
 f2ea5e14, woolitize
+f2fd3bba, a photo of shanshui by jinliang
 f3172f53, rcnz_niji style
 f317afa4, sks woman
 f3196d59, carbon|duochrome|holographic
