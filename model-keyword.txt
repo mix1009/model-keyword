@@ -1754,8 +1754,7 @@
 9da87c34, none
 9dc1d702, sks woman
 9dddaced, girl
-9e01a1e4, laowang, lwArchitecutralMIX_v01.safetensors
-9e01a1e4, male|female, matrixAsianParadise_v653VAE.safetensors
+9e01a1e4, male|female
 9e12b5d1, JennaO
 9e2429cf, elxchavo
 9e2a8f19, girl
@@ -2595,6 +2594,7 @@ efdd9fcf, GAME ICON, gameIconInstitute_v20.safetensors
 efdd9fcf, game icon, gameIconInstitute_v21.safetensors
 efe608ac, Clay Mann
 f00b92e0, detailed|official art|colorful|accessories|fractal art|aesthetic|chinese clothes
+f00d9299, HighHumanion
 f05f9963, lisafrankstyle
 f0803e20, sjh style
 f0916d71, mariawhittaker
