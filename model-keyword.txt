@@ -1277,7 +1277,8 @@
 705ae506, None
 7088b556, lego man|lego|constructor
 7159aa58, shinyunbok
-717ae1a9, guttonerdvision5
+717ae1a9, guttonerdjul23, guttoNerdJulho23_v10.ckpt
+717ae1a9, guttonerdvision5, guttoNerdVision5_gnvV50.ckpt
 7185212f, evang
 718c368e, mikeidsk1
 71b0b5fb, tyznedsk1
@@ -2093,6 +2094,7 @@ bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
 bb666a18, 3d product render|product render
 bb8034db, pattern
+bbbd71ed, sks
 bbf68d8e, 1 girl
 bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bbfb82f1, realistic
