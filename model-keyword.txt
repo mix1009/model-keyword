@@ -1889,6 +1889,7 @@ a7694188, sks woman
 a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1|photrealistic:1.1
 a77d8ca7, sks woman
 a7c6cf65, pony
+a7e66513, t3 model|t3
 a7e848cb, 90902k, krio70_002.ckpt
 a7e848cb, Bardock, bardock_V10.ckpt
 a7e848cb, SJstyle, createASJStyleMask_beta.ckpt
@@ -2207,6 +2208,7 @@ c9a2e2a1, GGH23 person
 c9c45d16, Pris
 ca198d1c, actionauf, actionauf_v10.safetensors
 ca198d1c, chibi, qteamixQ_omegaFp16.safetensors
+ca198d1c, graphicart, graphicArt_15V10.safetensors
 ca198d1c, paleolithic, paleolithicArt10_paleoartV10.safetensors
 ca4fcc12, snnmrn|snnmrn woman
 ca682192, sjh style
@@ -2371,6 +2373,7 @@ dab15164, BLoMDress, model1_ver2.ckpt
 dab15164, Gerrybrit, gerrybrit_v10.ckpt
 dab15164, MC, minecraftArtStyle_v10.ckpt
 dab15164, dmgdroblawtorner, dmgdroblawtorner_v10.ckpt
+dab15164, graphicart, graphicArt_15V10.ckpt
 dab15164, hestyle, hestylev15Rooms_v15.ckpt
 dab15164, hnrycvll, henryCavillUltimate_v10.ckpt
 dab15164, interiors, interiorDesign_v1.ckpt
@@ -2604,6 +2607,7 @@ f0916d71, mariawhittaker
 f094a27f, Mobian or Sonic character name
 f098482b, masterpiece|best quality|ultra-detailed|illustration|an extremely delicate and beautiful|dynamic angle|floating|beautiful detailed eyes|bright eyes|detailed light|solo|
 f0ddc933, realistic
+f0f9c9ee, photo of luxury-arabic-1979
 f125fab8, P4U14
 f15eaf3f, RAW photo of|Analog photo of
 f1aafbbe, estilovintedois|lexicaart
