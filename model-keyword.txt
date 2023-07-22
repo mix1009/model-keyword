@@ -77,6 +77,7 @@
 0579cceb, pixiv masterpiece
 0586db75, cornflower
 05e6c91b, by kokuto
+0609d8f7, alizee|amy winehouse|ariana grande|audra miller|avril lavigne|billie eilish|camila cabello|charli xcx|christina aguilera|dua lipa|emma stone|emma watson|hayley williams|jennifer lawrence|katy perry|lady gaga|lana del rey|marina diamandis|miley cyrus|p!nk|rihanna|selena gomez|shakira|sophie ellis bextor|taylor swift|heart on cheek|lips piercing|nose piercing|nose stud|nose ring|verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 061e5178, kk
 061ee127, Yulia
 0655784d, gtav style
@@ -113,6 +114,7 @@
 09c6d455, JangEunYoung
 09d7878a, pixarstyle
 09d81b43, t3|model
+09dd2ae4, BDSM model
 09edc9b2, furry|anime|woman|animal|pastel
 09f31518, no
 0a2a8967, aerith|bowsette|mercy|widowmaker|tracer|dva|black cat dva|star guardian jinx|star guardian lux|irelia|nidalee|kda seraphine|kda kaisa|akali|katarinaclassicoutfit|pokemon|animal|realistic|portrait|woman|closeup|selfie|instagram
@@ -666,6 +668,7 @@
 2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 2ad02959, bdicon
 2add6091, shinyunbok anime
+2af6c425, catherinebach
 2b059ac7, fldsky1
 2b066feb, mmk
 2b694ba7, modelshoot style|nousr robot
@@ -768,6 +771,7 @@
 36b82728, zhaojun
 36ce47dc, 1gilr
 36f1e334, Evang
+3706616b, furry girl
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 3747a99f, iayuso person
 37b1ec55, t
@@ -935,7 +939,9 @@
 4b2f4987, person
 4b327a2e, anime
 4b64ace6, SDXL 0.9
+4b715a30, alizee|amy winehouse|ariana grande|audra miller|avril lavigne|billie eilish|camila cabello|charli xcx|christina aguilera|dua lipa|emma stone|emma watson|hayley williams|jennifer lawrence|katy perry|lady gaga|lana del rey|marina diamandis|miley cyrus|p!nk|rihanna|selena gomez|shakira|sophie ellis bextor|taylor swift|heart on cheek|lips piercing|nose piercing|nose stud|nose ring|verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 4bc53419, frozen style|anna frozen|elsa frozen|olaf frozen|sven frozen|kristoff frozen|ice castle|duke of weselton frozen|prince hans frozen
+4bdfc29c, BDSM model
 4bfacf36, by t6
 4c42236e, TVClown
 4cac193b, sks person|(sks person)
@@ -1494,6 +1500,7 @@
 8a0a6f86, svtbuild
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
 8a312ffc, masterpiece|novelAI|trending on 500px
+8a3afe58, asian|aodai|suonxam
 8a5302eb, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
 8a648075, sks jinx|jinx
 8a697671, yorha2b
@@ -1578,6 +1585,7 @@
 92144649, yuzu$style
 9242d421, CCDDA artstyle
 9256ed1a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
+928734f5, asian|aodai|suonxam
 92c083af, redshift|nvinkpunk|lndskp
 92cf4ceb, nayeonnine
 92e4c246, sks person
@@ -2189,6 +2197,7 @@ c5943e55, mdjrny-pprct
 c59c7da7, realistic
 c5c47935, in the style of AImanhwa
 c5c54e28, dreamlikeart
+c5ec95b4, loli
 c6211d26, bedroomai
 c6bb6991, hearthstone card
 c6bd9e1d, Rori
@@ -2731,7 +2740,8 @@ fd88bda9, PiroxiumRealism style
 fdadb916, girl|sexy|model|photo|photo realistic|beauty|strong|fit|scene|space|girl|model|photo|scene
 fdb81729, batik|traditional attire|bali|balinese|javanese|sundanese|thailand|hijab|hindi|korean|japanese
 fdbb23ad, d&d character
-fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix
+fdcf65e7, BDSM model, sweetness2_v10.safetensors
+fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix, portraitAndLandscape_portraitANDLADSCAPESV.safetensors
 fe2725bb, <SIZE> BREASTS|<size> ass|<size> belly|hyperbreasts|hyperass|flat chest|caricature
 fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_1990sV10.safetensors
 fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
