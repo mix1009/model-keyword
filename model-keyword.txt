@@ -620,6 +620,7 @@
 25ba4550, modelshoot style|swpunk|synthwave|paint splatters
 25e0ae7a, anime
 25e42458, Evang
+260ab54a, Photo Realistic
 2644427e, sks
 265e757d, Sidon|Sidon style
 26621fc2, tdst style
@@ -737,6 +738,7 @@
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
 3317d761, solo|blurry|depth_of_field|blue sky and clouds
 3323215b, 1girl|short hair|long hair|very long hair
+3323a6ed, Photo Realistic
 33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime, dgspitzerArt_Diffusion.safetensors
 33290d4a, rfktrstyle, rfktrsDarkdream_v16.safetensors
 33290d4a, rfktr|rfktrstyle, rfktrsDarkdream_v10.safetensors
@@ -1243,7 +1245,8 @@
 6bb23006, elden ring style
 6bb855f1, modelshoot style
 6bcb4769, trained with chilloutmix|chinabeauty|dreamlike|a lot of others
-6bccbcc6, blondee
+6bccbcc6, EduCH, edumodel_v10.ckpt
+6bccbcc6, blondee, blondeee_v10.ckpt
 6bdec634, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 6c0b3fc5, coralchar
 6c481f5c, mksks style
@@ -2025,6 +2028,7 @@ b078aa3e, by greatmosu
 b0a44c16, Evang
 b0a8dd3c, me
 b109bf50, diffusable
+b11200d1, samanthafox
 b125a56f, See Version Notes
 b13930b7, nvjobmagiccircle
 b152939a, depth of field
@@ -2056,6 +2060,7 @@ b360468c, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|
 b3a85bdf, dal
 b3aed361, caebhx
 b3b73d0d, masterpiece|best quality|virtual youtuber|character:1.2
+b3d63325, zwx art style|oxwbdtmv art style
 b47ad8fe, d&d character
 b482163d, xivcine style
 b4bec83f, depth of field|photo|film
