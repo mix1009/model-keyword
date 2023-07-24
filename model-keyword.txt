@@ -370,7 +370,8 @@
 0ed9b4a6, embroidery by embarg
 0f63c656, insertNameHere
 0fcfe533, wuxia 1girl|best quality
-100dbe92, Evang
+100dbe92, Evang, beejaydel_beejStickerModel.safetensors
+100dbe92, evang, lostBearChibiSketch_v10.safetensors
 1016dbcd, Mobian or Sonic character name
 101d2d78, barbieworld
 10206b6c, clothes_jingju
@@ -2407,6 +2408,7 @@ db1c462d, luna
 db470e5e, I don't know.
 db4f8fe5, chilloutWorld|chilloutWorld_v1
 db5960c1, OOKZA Vampire Style
+dba10b61, lyndacarter
 dbbf8175, in lomostyle
 dc01dfdd, ohwx|demon|werewolf|minotaur|zombie|
 dc05355d, sksi object|sksi
