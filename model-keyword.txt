@@ -117,6 +117,7 @@
 09dd2ae4, BDSM model
 09edc9b2, furry|anime|woman|animal|pastel
 09f31518, no
+09f5166e, sks woman
 0a2a8967, aerith|bowsette|mercy|widowmaker|tracer|dva|black cat dva|star guardian jinx|star guardian lux|irelia|nidalee|kda seraphine|kda kaisa|akali|katarinaclassicoutfit|pokemon|animal|realistic|portrait|woman|closeup|selfie|instagram
 0a4320df, dalcefo
 0a92be44, 1girl|cat_ears
@@ -820,6 +821,7 @@
 3a41dbca, read description
 3a4bafd1, liquid splash|porcelain doll|papercut
 3a548d27, N64style|psxstyle|ocarinaoftime
+3ae3405f, 70年式
 3afdc872, bedroomai
 3b214cf8, style
 3b35f9ee, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
@@ -1758,6 +1760,7 @@
 9c3572e7, realistic|best quality|masterpiece
 9c55fd12, mirrormask
 9c5da18d, girl|woman|man|boy
+9c88bb9e, PiroxiumDiffusion style
 9ca13f02, analog style
 9cde17f8, Cartoon Girl
 9ce5cea2, nvinkpunk|snthwve style|style of joemadureira
@@ -1969,7 +1972,7 @@ aa7001cf, vector-art, vectorArt_Beta.ckpt
 aa7001cf, wooditize, jaksWooditizeImage_wooditizeSD21768px.ckpt
 aa7001cf, woolitize, jaksWoolitizeImage_woolitizeSD21768px.ckpt
 aae14d50, sci-fi|caspian sci-fi|star atlas|star citizen|render
-ab121853, Photograhpy|Realism
+ab121853, Photo Realistic
 ab16976f, stylized game icon|sci-fi|steampunk|spell
 ab201ab4, chinese|chinese dress
 ab377a68, FlonixApterus
@@ -2232,6 +2235,7 @@ c9a2e2a1, GGH23 person
 c9c45d16, Pris
 ca198d1c, actionauf, actionauf_v10.safetensors
 ca198d1c, chibi, qteamixQ_omegaFp16.safetensors
+ca198d1c, dreamcore, dreamcoreDiffusion_v10.safetensors
 ca198d1c, graphicart, graphicArt_15V10.safetensors
 ca198d1c, paleolithic, paleolithicArt10_paleoartV10.safetensors
 ca4fcc12, snnmrn|snnmrn woman
@@ -2458,6 +2462,7 @@ de2f2560, masterpiece|best quality|white theme|black theme, bbmixEIMI_v10.safete
 de2f2560, mdrga, donRamonMadruga_v10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 de2f2560, p, test_v10.safetensors
+de2f2560, phantylia|phantylia honkai, phantylia_v10.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 de2f2560, shiny_skin, realshinymixV1_v10.safetensors
