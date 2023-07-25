@@ -470,7 +470,7 @@
 17e77d7e, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo
 17ea864a, masterpiece|best quality
 1848190c, sd-pulp|dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories
-1861f018, Evang, watercolor2_safetenser.safetensors
+1861f018, Evang, greenRobot_safetenser.safetensors
 1861f018, SDArt, sdartEncapsulated_base15.safetensors
 1861f018, dskbbb1, bubbleToysTHEMODEL_1.safetensors
 1861f018, elem flowers|fire|water|earth|air|multielem, sdartElemental_v2ClassicVersion.safetensors
@@ -734,6 +734,7 @@
 3272e7dd, masterpiece|best quality, bbMIXLUCI_v10.safetensors
 3272e7dd, masterpiece|best quality|pink theme|yellow theme, bbmixLUCI_v10.safetensors
 3288c45d, GOOSEBUMPS ART BY TIM JACOBUS|RAINBOWPATCH|FOOD_CRIT|TK-CHAR|TK-ENV|LIQUID SPLASH|PAPERCUT|PORCELAIN DOLL|artificial-journey style|SURREALISM|COLORFULSURREALISMAI|CARBON|DUOCHROME|HOLOGRAPHIC|in OliDisco style|FLAT COLOR|FLAT ILLUSTRATION|VECTORSTYLE|MECHA
+328ad29d, sks man
 32b08cff, gotou hitori|inoue takina|kita ikuyo|kubo nagisa|nishikigi chisato|sabine|sendou erika|shiina mahiru|yamano mitsuha|shuka high school uniform|lycoris uniform
 32ccf42a, JangYouSun
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
@@ -935,6 +936,7 @@
 4a2eab64, SDArt|appt|ohwx|asr|aten|fcu|chor|cpec|pfa|kprc|kuro|asot|elis|sill|exe|bsp|grl|hap|byes|lpg|yler|avel|vaw|zaki|ohn|guin|vini|pz|crit|shma|doa|sks|szn|phol|utm|uy|dds|pte|oxi|ynna
 4a3dfda4, p5r style
 4a5715f0, Defoko
+4a6720b1, sks carrie
 4a9c3831, ahrender
 4adec77d, InToThe2KGothClub
 4aef3692, sks woman
@@ -1150,6 +1152,7 @@
 61cb8fec, Science fiction|Mechanical|Sci-fi background|Cyberpunk style|robot|Helmet|Streamlined mechanical body
 61d9038b, takeON_v2
 61db76e6, xianxia style|guofeng style
+61e9302f, Evang
 61f22d0a, iayuso person
 61f439e0, evang
 61f9323f, lb2cc|archi
@@ -1376,7 +1379,7 @@
 78e79d23, helenmirren
 7906524a, cornflower
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
-79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV40_v20Novae.safetensors
+79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV50_v20Novae.safetensors
 79587710, zombie, wendigo_v20.safetensors
 7960116e, evang
 79b55ef7, bigbadejo alien_monster
@@ -1619,7 +1622,7 @@
 958eaa52, rcnz_niji style
 959c96cf, Arnold Person, arnoldSchwarzeneggerTotal_arnoldSchwarzenegger.safetensors
 959c96cf, Elonmusk Person, elonMuskCurrentDayHQ_v10.safetensors
-959c96cf, JasonAldean Person, jasonAldeanSmallTownExpert_v11.safetensors
+959c96cf, JasonAldean Person, jasonAldeanSmallTownExpert_v10Corrected.safetensors
 95a1510a, donnaewin
 95f8d0a7, armpit, module1_train1.safetensors
 95f8d0a7, graffiti illustrations|chilloutmix, graffitiArt_httpsCivitaiComModels.safetensors
@@ -2445,7 +2448,7 @@ de2f2560, JukyungLim, jukyunglim_v20.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
 de2f2560, ae, tokeaa_mancet.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
-de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV40_v13.safetensors
+de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV50_v13.safetensors
 de2f2560, anime, decxcris_v10.safetensors
 de2f2560, aroamoyasi|kishida mel|amamiya yuko|shihou matsuri|hiten|mituk1|yohaku, alusStew_v10.safetensors
 de2f2560, dal, dalcefoKanim_v3.safetensors
@@ -2715,7 +2718,6 @@ f81f36e7, girl|woman
 f846e100, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 f86aeb35, renne
 f86e4589, anime
-f885f32d, JasonAldean Person
 f8b2fd9e, girl
 f8c291fa, painting|girl
 f8e650bb, 3dmdt1
