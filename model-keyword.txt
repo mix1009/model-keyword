@@ -1075,6 +1075,7 @@
 597a8e99, women, christina_v10.ckpt
 5998441b, redshift style|seconddusk
 59aa3b7d, humanoid robot
+59c2b81f, Photo Realistic
 59cc6f73, <niji-se-3d>
 5a1ae211, by kaisen chuui
 5a1e4b93, coralchar
@@ -1618,6 +1619,7 @@
 958eaa52, rcnz_niji style
 959c96cf, Arnold Person, arnoldSchwarzeneggerTotal_arnoldSchwarzenegger.safetensors
 959c96cf, Elonmusk Person, elonMuskCurrentDayHQ_v10.safetensors
+959c96cf, JasonAldean Person, jasonAldeanSmallTownExpert_v11.safetensors
 95a1510a, donnaewin
 95f8d0a7, armpit, module1_train1.safetensors
 95f8d0a7, graffiti illustrations|chilloutmix, graffitiArt_httpsCivitaiComModels.safetensors
@@ -2713,6 +2715,7 @@ f81f36e7, girl|woman
 f846e100, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 f86aeb35, renne
 f86e4589, anime
+f885f32d, JasonAldean Person
 f8b2fd9e, girl
 f8c291fa, painting|girl
 f8e650bb, 3dmdt1
