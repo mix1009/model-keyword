@@ -2240,9 +2240,9 @@ c9a2e2a1, GGH23 person
 c9c45d16, Pris
 ca198d1c, actionauf, actionauf_v10.safetensors
 ca198d1c, chibi, qteamixQ_omegaFp16.safetensors
-ca198d1c, dreamcore, dreamcoreDiffusion_v10.safetensors
 ca198d1c, graphicart, graphicArt_15V10.safetensors
 ca198d1c, paleolithic, paleolithicArt10_paleoartV10.safetensors
+ca198d1c, weirdcore, dreamcoreDiffusion_v10.safetensors
 ca4fcc12, snnmrn|snnmrn woman
 ca682192, sjh style
 cab77b73, ANIME CARTOON
@@ -2530,6 +2530,7 @@ e476ecf5, justyeaa
 e492ca3d, Bright LUT|Cinematic LUT|Horror LUT|Instagram LUT|Romance LUT|Winter LUT|Vintage LUT|Wedding LUT
 e494d7b5, takeON
 e4a91381, realistic
+e4bd69b6, Photography|Realistic
 e4d945bf, origtron
 e516b6bd, samdoesarts
 e54968cb, clone wars style|ahsoka tano|Anakin Skywalker|Bo-Katan|Captain Rex|Count Dooku|Darth Maul|Mace Windu|Obi-Wan Kenobi|Padme Amidala|Palpatine|Yoda
