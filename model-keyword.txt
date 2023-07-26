@@ -379,6 +379,7 @@
 10209fd6, dalcefo
 1024463c, realistic|photorealistic
 1027d657, httr
+1034f5f1, masterpiece|best quality|
 10419930, hassanfantasy style
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
 10a66fa5, romcom style
@@ -2536,6 +2537,7 @@ e4a91381, realistic
 e4bd69b6, Photography|Realistic
 e4d945bf, origtron
 e516b6bd, samdoesarts
+e53e123b, sheenaeaston
 e54968cb, clone wars style|ahsoka tano|Anakin Skywalker|Bo-Katan|Captain Rex|Count Dooku|Darth Maul|Mace Windu|Obi-Wan Kenobi|Padme Amidala|Palpatine|Yoda
 e5541f03, by Jean Leon|oil painting, jeanLeon0Ckpt_.ckpt
 e5541f03, midjourneyi, 21SDModernBuildings_midjourneyBuildings.ckpt
