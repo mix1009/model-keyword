@@ -108,6 +108,7 @@
 097e0a8a, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc
 09a268c0, mksks style
 09a74379, shrot|shrots|hoodie
+09bcb72f, 1girl|girlvn01, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, analog style|modelshoot style|nsfw|nudity, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
@@ -456,6 +457,7 @@
 15376d1f, girl
 15540f03, gigafractal artstyle
 1578af98, bigbadejo alien_monster
+15f7afca, retro anime style|retro vibes
 1604613a, muscular
 16552af2, sks woman
 168f95ca, asim style
@@ -1304,6 +1306,7 @@
 703f7ff1, high fantasy
 705ae506, None
 7088b556, lego man|lego|constructor
+70f7b200, 1girl|girlvn01
 7159aa58, shinyunbok
 717ae1a9, guttonerdjul23, guttoNerdJulho23_v10.ckpt
 717ae1a9, guttonerdvision5, guttoNerdVision5_gnvV50.ckpt
@@ -2027,6 +2030,7 @@ ae19a9dd, pspp man
 ae1f0d66, dskyart1
 ae40b48d, cult of cthulhu|giger|Cthulhu|post-apocalypse|biomechanical
 ae998e33, DarkSouls Style
+aea008ef, afd
 aeb47ec2, noble ai|noble mix fix|reality|noblemixfix|person|character|photograph
 aef3d307, zukki_style
 af1ac3ce, banchan
@@ -2035,6 +2039,7 @@ af571dfc, trending on artstation|8k|ultra hd|1woman
 af5f6f0b, satellite image of oeax location|mapsatimageeu|gamelandscapeheightmap512
 af6fe107, masterpiece
 af8016c8, katebush
+af9bb53b, julietmills
 afc6eaf9, Oldjourney
 afde7fdc, satellite image of oeax location
 afe165d2, sybildanning
