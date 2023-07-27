@@ -769,6 +769,7 @@
 35dc3dbf, evang
 361eef19, photo|analog style
 363af6b3, sks
+363c6060, Evang
 363ee931, microworld|mdjrny-shttr
 365859e2, banchan
 36606926, jimjorcraflogo art style|dan mumford style
@@ -970,6 +971,7 @@
 4dcd8191, FFT
 4ddd5d17, JhnsT, sd1XAnimeFuturistic_sdAnimeFuturistic.ckpt
 4ddd5d17, gakki, gakkiAragakiYui_v10.ckpt
+4dea981f, Evang
 4df252a6, by mochizuki kei
 4dff2fdc, kazuma_kaneko
 4e4a0067, polumna
@@ -1530,6 +1532,7 @@
 8ae4d0fb, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
 8b3a0e37, wearing randoseru backpack and buruma and gym uniform with colored hem
 8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle
+8b694d34, Photography|Realistic
 8b8efdcc, best quality|masterpiece|
 8b917b1c, xixiprincess
 8ba5b787, dal
@@ -2215,6 +2218,7 @@ c44bb585, duskametrick15
 c46ce622, ray tracing|
 c49a4c5c, photorealistic
 c4b23842, albumcover
+c4d2723a, Evang
 c4d39ec6, massakasma
 c4d960d8, BeautifulFantagyRealMix
 c4e365bf, lightroom red:34% blue:53% green:43% filmgrain_minimal|texture:+25%|clarity: +40%|Contrast:+4%|shadows: +11%|sharpen:70%
