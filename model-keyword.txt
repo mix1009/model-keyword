@@ -786,6 +786,7 @@
 37deca87, dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories|startling stories|sd-pulp
 37e5ce18, owhx 3dicon
 37f2669e, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
+38137311, realistic|analog|hyperealistic|photography
 3814a52a, surrealsteampunkai
 3824f0fa, female|male, matrixRealistic_v15VAE.safetensors
 3824f0fa, female|male|robo, matrixRealistic_v15VAE.safetensors
@@ -1946,6 +1947,7 @@ a9c65c4e, no
 a9cf1812, cozmikduzk1
 a9e3e060, ChromaV5
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
+aa220ab4, Evang
 aa2b4089, modelshoot style
 aa366209, MechBattleTechClassicTR3025, battletechClassic_mechbattletechclassic.safetensors
 aa366209, TheOldShadowrunStyles, theOldShadowRunStyles_theoldshadowrunstyles.safetensors
@@ -2521,7 +2523,8 @@ e24a9c03, 2d|masterpiece|best quality|anime
 e2b8b39c, sks person
 e2d2e2c3, irmntro person
 e3373f54, Japanese|Korean
-e3423ef2, evang
+e3423ef2, evang, acSide_v10.ckpt
+e3423ef2, photo of evang person, sideView_acside.ckpt
 e35930da, rachelwalker style
 e35af7e4, 1girl|dynamic angle|dynamic pose|chinese style architecture|hanfu
 e37a18ee, Evang, vector2_v10.safetensors
