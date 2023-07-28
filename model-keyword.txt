@@ -15,6 +15,7 @@
 01b659b9, nomanssky style|starship
 01e48467, anime
 01f61612, clonewars style
+01f8af50, Evang
 020f5e3f, R2-D2, r2D2Diffusion_v10.safetensors
 020f5e3f, nomanssky style, noMansDiffusion_v02.safetensors
 02150926, aellagirl
@@ -2385,6 +2386,7 @@ d56a53f3, aodai|cotrang
 d57fa787, by hanaarare
 d5b1726a, Masterpiece|Best Quality
 d5cea653, gege
+d61a0cdc, egardiner
 d634b8cb, Hina, itshinaInstagramModel_hina.ckpt
 d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d634b8cb, kvn, myModelKevin_v10.ckpt
