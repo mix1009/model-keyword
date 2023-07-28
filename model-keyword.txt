@@ -112,6 +112,7 @@
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, analog style|modelshoot style|nsfw|nudity, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, ligne claire|by Roy Krenkel|by Jean-Pierre Gibrat, vae-ft-mse-840000-ema-pruned.safetensors
 09c6d455, JangEunYoung
 09d7878a, pixarstyle
 09d81b43, t3|model
@@ -579,6 +580,7 @@
 218cee5d, mksks style|detailed background
 219cbfe8, RKart style
 21a7aaa4, 1girl|moyou
+21d6cfcc, ligne claire|by Roy Krenkel|by Jean-Pierre Gibrat
 2206906b, guofeng|chinese|bokeh|silk dress
 221cc153, aodai
 2226dffe, Evang
@@ -1965,6 +1967,7 @@ aa366209, source4 style, source4V10_v1Safetensors.safetensors
 aa366209, wewulzkz, werewolfDiffusion_1.safetensors
 aa49e01c, anime pencil concept style
 aa7001cf, COLR_001, coloringBook_.ckpt
+aa7001cf, No, russianVision_v15.ckpt
 aa7001cf, badbunny, benitoBed_v10.ckpt
 aa7001cf, baskleon, baskleon_v10.ckpt
 aa7001cf, blacksun, djzBlackSunDEEPSTUDY_blip2.ckpt
