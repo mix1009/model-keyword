@@ -417,6 +417,7 @@
 12d0e504, chibi
 12ec3add, glock|pistol
 1351eaf1, cgi|cgi style
+1374389b, dal
 13a6777c, modelshoot style|nousr robot
 13c19cad, female|male
 13c3e49f, collage style
@@ -1167,6 +1168,7 @@
 6110cdda, photo of shkya person
 6178413b, wvert1
 61b6da58, dskyart1
+61c8dc00, by Boris Vallejo|by Brom|by Frank Frazetta|by Hajime Sorayama|by Kelly Freas|by Luis Royo|by Milo Manara|by Olivia De Berardinis|by Philippe Druillet|by Simon Bisley
 61cb8fec, Science fiction|Mechanical|Sci-fi background|Cyberpunk style|robot|Helmet|Streamlined mechanical body
 61d9038b, takeON_v2
 61db76e6, xianxia style|guofeng style
@@ -2088,7 +2090,8 @@ b1ca5929, handsome
 b1df6170, realistic
 b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
 b1f4f421, 1girl
-b1facb5b, mysterious
+b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
+b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
 b23ffcd4, a woman
@@ -2638,6 +2641,7 @@ eb3a4159, dal
 eb70ff01, concept-art
 eba3d197, helenmirren
 ebb17c4d, pow style|ofi|mohd|rmb|dca|muc|onex|toid|sura|juli|veli|gsp|tux|tvc|pbc|pgs|rps|dbz|soca|suru|nips|rune|pafc|nlwx|fck|cae|sohn|dori|zawa|revs|hmv|whoo|asar|blob|xiao|kilt|ulf|loeb|bnha|gote|omd|adl|shld|waj|sown|rcn|httr|dits|hta|lun|olis
+ebb5d44d, dal|nsfw
 ebb66e32, water
 ebc4e0a9, RottingZombie person
 ebd5057f, photo of a potion
