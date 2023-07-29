@@ -1224,6 +1224,7 @@
 672d1e3e, lea-seydoux person|lea-seydoux
 673ca4ea, modelshoot style
 6785492c, nier9s
+679df996, by Boris Vallejo|by Brom|by Frank Frazetta|by Hajime Sorayama|by Kelly Freas|by Luis Royo|by Milo Manara|by Olivia De Berardinis|by Philippe Druillet|by Simon Bisley
 67e8a0ae, analog style|dreamlikeart|knollingcase|modelshoot style|elden ring style|bf|sci-fi
 67eabc3f, anthro|body fur
 68120148, ashenhard style
@@ -1775,6 +1776,7 @@
 9b69308b, mangadusk1
 9b757411, detailed_skin|pores|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin, eden_v14.safetensors
 9b757411, detailed_skin|skin|green_skin|dark_skin|blue_skin|red_skin|brown_skin|pink_skin|veiny_skin|veins|mole|moles|freckles|wet_skin|grey_skin|pores, eden_v13.safetensors
+9b836ce6, by Boris Vallejo|by Brom|by Frank Frazetta|by Hajime Sorayama|by Kelly Freas|by Luis Royo|by Milo Manara|by Olivia De Berardinis|by Philippe Druillet|by Simon Bisley
 9b83a557, cmodel|clayitization|cbzbb|oldjourney|classicnegative|concept-art|redshift style|by vector-art|pulp-diffusion|chv3czombie|chv3calien|chv3cbird|chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3slighthouse|chv3scute|chv3smacro|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 9b8aa544, hoi4
 9ba8ee98, lisafrankstyle
