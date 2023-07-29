@@ -66,6 +66,7 @@
 03f434be, MTG card art
 042435b0, photo of morgen person
 04324700, 波普艺术|十二生肖|抽象
+04340f3b, cvmix|diffusion|anime
 0440e296, MASTERPICE sharp focus portrait
 044370f6, cult of cthulhu|giger|Cthulhu|post-apocalypse|biomechanical
 048f8871, dalcefo
@@ -95,6 +96,7 @@
 08343055, person
 0851890f, realistic
 085f345b, Read Description
+0880630d, dal
 08839519, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime
 0886f57a, superhero
 088b509a, ieieie, 34343_v10.safetensors
@@ -162,6 +164,7 @@
 0e8f2dbe, masterpiece|best quality
 0e98aa3f, InToThe2KGothClub
 0e9d328e, Chinese style
+0ea17fca, girl
 0eb3318b, #spoonbanal#|#rotten#output#|#ammazza#che#cagata#|rkomi|ferragnez, hellcoderUncensored_v10.safetensors
 0eb3318b, Airlock, djzAirlockV21768V21512_21768.safetensors
 0eb3318b, AssassinKahb, djzAssassinKahbV21_0.safetensors
@@ -1062,6 +1065,7 @@
 564a5547, chinses ink painting
 564d5ca4, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
 566842ff, janadefi
+56e15182, dal|nsfw
 56e29f8a, tk-char|tk-env
 5714e58c, woolitize
 5722bc55, BobbiAlthoff
@@ -1197,6 +1201,7 @@
 649dfd0a, chibi
 64ae4b26, WGG
 64afe6d2, CALARTS
+64ba8fc5, dal|nsfw
 64c46184, masterpiece|best quality|re-badprompt|anime|realistic
 64cf95bb, asd
 64d91f3a, rcnz_niji style
@@ -1291,6 +1296,7 @@
 6ddfb1a6, skmkt
 6de290f6, Evang
 6de4c8e7, furry|fur
+6e0a9783, dal
 6e199947, rfktrstyle
 6ea179f4, mobian or sonic character name
 6eaf3198, azhiichigo style，big eyes|thick lines|cute|
@@ -1338,6 +1344,7 @@
 741eefee, fantassified icon
 744098c7, my_dress|1girl|long_hair|makeup|solo|standing
 7441b04e, Stained Glass||SGFS|JGBA|SGFSJGBA
+744ea8e3, dal
 745d84b2, character|girl
 7460a6fa, sk man
 747ef805, illustration|comic style|realistic|Comic Poster|Line Art
@@ -1445,6 +1452,7 @@
 80391624, analog style|chromav5|nvinkpunk
 805a02a8, image in ukj style
 80662a6e, hybrid
+8094c728, dal
 809d41a0, hentai
 80a1b237, itojunji style
 80bb424c, sks woman|(sks woman)
@@ -1524,6 +1532,8 @@
 88ff0293, evang
 890cb2e4, photorealistic
 89372903, none
+895f5d25, dal|photo
+89892ec8, dal
 89a3f11a, gatto
 89abf451, 1 girl, 饱和度2-色彩清晰-ClearVAE.safetensors
 89abf451, masterpiece|best quality, clearvae_main.safetensors
@@ -1617,6 +1627,7 @@
 92144649, yuzu$style
 9242d421, CCDDA artstyle
 9256ed1a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
+9264dfbc, dal|nsfw
 928734f5, asian|aodai|suonxam
 92c083af, redshift|nvinkpunk|lndskp
 92cf4ceb, nayeonnine
@@ -2077,6 +2088,7 @@ b1ca5929, handsome
 b1df6170, realistic
 b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
 b1f4f421, 1girl
+b1facb5b, mysterious
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
 b23ffcd4, a woman
@@ -2131,6 +2143,7 @@ b7c86dad, scrpoolrooms|scrbackrooms
 b8124a83, identity v|button eyes
 b81c4a6d, source4 style
 b895edc4, mdjrny-v4 style
+b8d8a250, emaiti
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
 b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
 b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
@@ -2452,6 +2465,7 @@ db1c462d, luna
 db470e5e, I don't know.
 db4f8fe5, chilloutWorld|chilloutWorld_v1
 db5960c1, OOKZA Vampire Style
+db63da75, dal|photo
 dba10b61, lyndacarter
 dbbf8175, in lomostyle
 dc01dfdd, ohwx|demon|werewolf|minotaur|zombie|
@@ -2583,6 +2597,7 @@ e6d571b6, ohwx|pianist
 e717e83f, infp
 e728ca1e, Mogeko|Okegom|Funamusea
 e7300f3d, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
+e742f6fb, dal
 e79c8e1c, jckmn person
 e80f12bb, Evang
 e83d3aa7, Ligne claire
@@ -2663,6 +2678,7 @@ ef27e17b, Anime
 ef36e488, romerorzlucy
 ef4be3fb, swpunk|synthwave|paint splatters
 ef54e94e, c
+ef6890a5, dal
 ef6ecf6d, alloldrpgarts1
 ef91d6a9, Jacey
 efdd9fcf, GAME ICON, gameIconInstitute_v20.safetensors
@@ -2679,6 +2695,7 @@ f0ddc933, realistic
 f0f9c9ee, photo of luxury-arabic-1979
 f125fab8, P4U14
 f15eaf3f, RAW photo of|Analog photo of
+f1756e9b, dal
 f1aafbbe, estilovintedois|lexicaart
 f1e11c37, smhcgty
 f22d0019, PiroxiumDiffusion style
@@ -2729,6 +2746,7 @@ f6239527, brtdrpp
 f63dafbe, Realistic
 f6412c6b, 1girl
 f661ebc1, 2dskillicon
+f68b2ecb, woman
 f69b7a31, Nothing
 f6a9004f, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 f6b07b0a, "GretchenRoss Person"
