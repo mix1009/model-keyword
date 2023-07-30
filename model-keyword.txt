@@ -1379,6 +1379,7 @@
 76956df2, guttonerdvision4, guttoNerdVision4_nerdvisionV4.ckpt
 76956df2, guttonerdvision6, guttoNerdVision6_v10.ckpt
 76956df2, guttonerdvision7, guttoNerdVision7_v7.ckpt
+76956df2, guttonervision8, guttoNerVision8_v80.ckpt
 76c86ec0, modelshoot style|swpunk|synthwave|paint splatters
 76e59a65, sincity_iamyork
 771880e5, 82pigeon style|akai sashimi style|algae makku style|belko style|braveking style|chocofing style|dako style|esuna style|evaaviva style|fengweic style|gomennasai style|hitokomoru style|ibukichi style|ishikei style|jidao style|junc style|khyle style|kyuyongeom style|lam style|lovecacao style|mamamba style|matcha style|mdastarou style|melanbread style|melodyoflost style|mikapikazo style|morry style|murata range style|naruko hanaharu style|navigavi style|rei 17 style|rupid style|scottie style|spacezin style|tahra style|timrougami style|tira style|tsutomu style|uekura eku style|xiayu style|yi1zhi style|yomu style|yoneyama style|yoshio style|yueko|lunachan
@@ -2838,4 +2839,5 @@ feb09aa5, verism style|samdoesart style|thepit style|owler style|cherrmous style
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
 ff7616f1, FRPGFaceGen
 ff838ac8, fantasy
+fff0c339, dal
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
