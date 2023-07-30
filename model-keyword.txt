@@ -617,6 +617,7 @@
 24362016, x90, suzukiX90_v10.safetensors
 24466c76, sketch, 经典漫画v2.0.safetensors
 24466c76, sketch|, 经典漫画v2.5.safetensors
+2454d8fb, Pharmabro Person
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 24a516fb, tpmpanlab person
 24c2e368, Evang
@@ -732,6 +733,7 @@
 30833d87, luffy man|zoro man|nami woman|sanji man|nico woman|chopper boy|franky man|usopp man|brook man|jimbei man
 3087797c, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
 30a2dcbc, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
+30e45754, cityscape
 30ee044a, test
 30fbd8bc, sks person
 3148d4f3, female|male
@@ -1646,6 +1648,7 @@
 942aab5b, masterpiece|anime|1girl
 94674f07, nvinkpunk
 94c7fd10, nayeonnine
+94d62b9f, animegao
 94f647d2, female|male
 950a18d8, sks person
 9518faa2, luna
@@ -2095,6 +2098,7 @@ b1df6170, realistic
 b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
 b1f4f421, 1girl
 b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
+b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
 b1facb5b, realistic, copaxRealisticXLSDXL1_v2.safetensors
 b1fd9215, ginkddd
@@ -2144,6 +2148,7 @@ b742bc35, 8k|raw photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.
 b742bc35, m, girlMix_girlsmix.safetensors
 b744269d, Evang
 b78b4650, filfigari
+b79a53c1, greek
 b7a08fdf, ohwx monster|ohwx monster devil|ohwx devil
 b7ba5b22, effeff9 woman|effeff9 man|effeff9 creature|effeff9 architecture, effeffixConcept_main.ckpt
 b7ba5b22, orna santa, ornamentalSanta_default10.ckpt
