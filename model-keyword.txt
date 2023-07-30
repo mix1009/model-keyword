@@ -1899,6 +1899,7 @@ a2a802b2, starsectorportrait, starsectorPortraits_20.ckpt
 a2ac6777, lamia|harpy|centaur|etc.....|most mge girls half work
 a30f9103, SDArt
 a3c809ba, pattern
+a4066aa4, emaiti
 a41a2496, gigachad
 a42082e5, DarahanEyes
 a4281939, PORTRAIT of Dilmurat|Dilmurat|1girl
@@ -2093,6 +2094,7 @@ b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photoreali
 b1f4f421, 1girl
 b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
+b1facb5b, realistic, copaxRealisticXLSDXL1_v2.safetensors
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
 b23ffcd4, a woman
