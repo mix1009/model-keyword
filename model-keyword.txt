@@ -1545,6 +1545,7 @@
 89abf451, masterpiece|best quality, clearvae_main.safetensors
 89abf451, masterpiece|intricate details, clearvae_main.safetensors
 8a0a6f86, svtbuild
+8a20d25c, noradeevilh
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
 8a312ffc, masterpiece|novelAI|trending on 500px
 8a3afe58, asian|aodai|suonxam
@@ -2098,6 +2099,7 @@ b1ca5929, handsome
 b1df6170, realistic
 b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
 b1f4f421, 1girl
+b1facb5b, 1girl|anime, envyanimexl_v09.safetensors
 b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
@@ -2176,6 +2178,7 @@ baf83ef9, 3D modeling|photos|real world
 bb029452, kindigitstyle
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
+bb3992f1, Edsheeran Person
 bb666a18, 3d product render|product render
 bb8034db, pattern
 bbbd71ed, sks
@@ -2424,6 +2427,7 @@ d61a0cdc, egardiner
 d634b8cb, Hina, itshinaInstagramModel_hina.ckpt
 d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d634b8cb, kvn, myModelKevin_v10.ckpt
+d636e597, 1girl|anime
 d659f794, rcnz_niji style
 d65c923a, 1girl
 d676dd55, deetz1
