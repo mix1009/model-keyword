@@ -1410,7 +1410,7 @@
 78e79d23, helenmirren
 7906524a, cornflower
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
-79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV50_v20Novae.safetensors
+79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV51_v20Novae.safetensors
 79587710, zombie, wendigo_v20.safetensors
 7960116e, evang
 79b55ef7, bigbadejo alien_monster
@@ -2510,7 +2510,7 @@ de2f2560, JukyungLim, jukyunglim_v20.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
 de2f2560, ae, tokeaa_mancet.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
-de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV50_v13.safetensors
+de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV51_v13.safetensors
 de2f2560, anime, decxcris_v10.safetensors
 de2f2560, aroamoyasi|kishida mel|amamiya yuko|shihou matsuri|hiten|mituk1|yohaku, alusStew_v10.safetensors
 de2f2560, dal, dalcefoKanim_v3.safetensors
