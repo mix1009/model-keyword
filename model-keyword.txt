@@ -1019,6 +1019,7 @@
 514a1db3, rcnz_hqr
 515a5199, circetorre
 51748799, analog style|modelshoot style|nsfw|nudity
+51883359, anime
 518d78a0, 35mmstyle
 51935af1, by chon
 51b47801, RAW photo of
@@ -2102,6 +2103,7 @@ b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photoreali
 b1f4f421, 1girl
 b1facb5b, 1girl|anime, envyanimexl_v09.safetensors
 b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
+b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
 b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
 b1facb5b, realistic, copaxRealisticXLSDXL1_v2.safetensors
