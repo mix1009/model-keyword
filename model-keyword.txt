@@ -373,6 +373,7 @@
 0eb3318b, withoutfear, djzWithoutFear_v21768.safetensors
 0eb3318b, wwone, djzWwoneV21_0.safetensors
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
+0ec1ec9e, realistic
 0ec9b738, pixel art
 0ed9b4a6, embroidery by embarg
 0f63c656, insertNameHere
@@ -523,6 +524,8 @@
 1b7ee812, wlop|nixeu
 1b80316b, hcmv
 1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
+1be68457, 1girl|anime|masterpiece, osorubeshiAlphaXL_v01.safetensors
+1be68457, 1girl|anime|masterpiece|best quality, osorubeshiAlphaXL_v02.safetensors
 1c254752, vulcan
 1c348ac5, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
@@ -928,6 +931,7 @@
 45f855ea, 士官长
 46089527, Evang
 46314e53, close up character design|multiple concept designs|
+467df46e, 1girl|anime|mastepiece|best quality
 4689ff28, nvinkpunk|samdoesarts
 46a2fa64, ChilloutDiverseMix
 471291b4, by oekakizuki
@@ -1215,6 +1219,7 @@
 64e73fcb, dbz style
 650839e4, superhero
 65a9683a, chibi
+65bb0985, SYAHNK
 65bbd026, pitchmeetgeorge
 6606c451, 1girl
 6606d2db, ttw style
@@ -1318,6 +1323,7 @@
 6fb99464, depth of field|film|evening, sexSexyEasternExperienceV3_sexV10.safetensors
 6fb99464, depth of field|film|portrait|realistic, sexSexyEasternExperienceV3_sexV20.safetensors
 6fb9cedf, Zskuijia|armor|Chinese armor|
+6fbfba65, beautiful Chinese Landscape Art|Chinese Landscape Art|water colors
 6feb162d, evang
 6ff25eff, Evang
 6fff1ab3, Mike Mignola
@@ -1438,6 +1444,7 @@
 7c2024f8, sks person
 7c4971d4, timeless style
 7c83b897, monochrome
+7c8db7f9, Soft light|1girl|1boy
 7c8eef56, analog style|chromav5|nvinkpunk
 7cb76003, poolsuite style
 7d4239bf, elem flowers|fire|water|earth|air|multielem
