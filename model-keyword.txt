@@ -510,6 +510,7 @@
 1ad16feb, multiarm
 1ae0031d, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
 1af66ab9, fntsy1
+1b06a93e, suren|suren01
 1b08178f, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
 1b0f1051, lqo_adrn
 1b30cc76, eva123xyzmendes
@@ -1129,6 +1130,7 @@
 5bd6ab22, Dread
 5c347b90, no
 5c3af880, ai protest|ai protest|3d logo
+5c60eb9e, 1girl|female|ulzzang|masterpiece|aesthetic|cute
 5c742e44, CCDDA artstyle
 5c7e6e88, 80sFashionRobot, 80sFashionRobot_v1.ckpt
 5c7e6e88, 80sfashionrobot, 80sfashionrobot_v10.ckpt
@@ -1154,6 +1156,7 @@
 5e2f08a1, ltsbbl style
 5e51a380, Brawlhalla|brawlhalla style
 5e54b264, natsume|1girl
+5ea09cf3, sks man
 5eaba4b4, a photo of mabaoguo
 5ec42e28, as a t-shirt logo in the style of <magifactory> art
 5ef236a8, darkflatartai
@@ -2108,6 +2111,7 @@ b1ca5929, handsome
 b1df6170, realistic
 b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
 b1f4f421, 1girl
+b1facb5b, 1girl, nijiDiffusionXlBase1_v10.safetensors
 b1facb5b, 1girl|anime, envyanimexl_v09.safetensors
 b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
@@ -2438,7 +2442,8 @@ d61a0cdc, egardiner
 d634b8cb, Hina, itshinaInstagramModel_hina.ckpt
 d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d634b8cb, kvn, myModelKevin_v10.ckpt
-d636e597, 1girl|anime
+d636e597, 1girl, sdxl_vae.safetensors
+d636e597, 1girl|anime, sdxl_vae.safetensors
 d659f794, rcnz_niji style
 d65c923a, 1girl
 d676dd55, deetz1
