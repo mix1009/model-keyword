@@ -2113,10 +2113,12 @@ b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photoreali
 b1f4f421, 1girl
 b1facb5b, 1girl, nijiDiffusionXlBase1_v10.safetensors
 b1facb5b, 1girl|anime, envyanimexl_v09.safetensors
+b1facb5b, Mysterious|eyes detail|fox girl, LahMysteriousSDXL_v251.safetensors
 b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
 b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
+b1facb5b, pores|realistic, copaxRealisticXLSDXL1_v22SkinUpdate.safetensors
 b1facb5b, realistic, copaxRealisticXLSDXL1_v2.safetensors
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
@@ -2129,6 +2131,7 @@ b29ef034, analog style
 b2de9d62, silverfox5213|
 b2e6aef1, aptic|zgambuf
 b2fb8eba, m_robutts|illustration style|art by cutesexyrobutts
+b3057347, animal|pokemon|hybrid|LUT
 b3276bb9, Umbreon|Vaporeon|Glaceon|Sylveon|Espeon|Jolteon|Flareon|Eevee
 b3454578, kipteitei|art by better with salt|woot|squarewave|big belly|fat|full list on biggergirls page
 b360468c, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
@@ -2766,6 +2769,7 @@ f457c3e6, shiinamashiro
 f47ae1fa, sks woman
 f4a70244, female|girl|woman|man|boy
 f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte
+f4a9a8a6, pores|realistic
 f4d8697e, lastname name
 f4dd44ad, svtbuild
 f536a061, wvyari
