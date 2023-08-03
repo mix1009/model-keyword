@@ -768,6 +768,7 @@
 333a860f, female|male|girl|boy|robo, matrixAsianParadise_v653VAE.safetensors
 333a860f, male|female, matrixAsianParadise_v653VAE.safetensors
 333ecf3c, sks woman|(sks woman)|((sks woman))
+339c88c0, object|no humans|solo focus|items
 33c549f1, swpunk|synthwave|paint splatters
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
 341b1b4d, dragzkz
@@ -2180,6 +2181,7 @@ b7c86dad, scrpoolrooms|scrbackrooms
 b8124a83, identity v|button eyes
 b81c4a6d, source4 style
 b895edc4, mdjrny-v4 style
+b8a220c1, nebulaewisdomanimestyle
 b8d8a250, emaiti
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
 b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
