@@ -377,6 +377,7 @@
 0ec9b738, pixel art
 0ed9b4a6, embroidery by embarg
 0f63c656, insertNameHere
+0fb0560b, lizmont woman
 0fcfe533, wuxia 1girl|best quality
 100dbe92, Evang, beejaydel_beejStickerModel.safetensors
 100dbe92, evang, lostBearChibiSketch_v10.safetensors
@@ -1454,6 +1455,7 @@
 7c8db7f9, Soft light|1girl|1boy
 7c8eef56, analog style|chromav5|nvinkpunk
 7cb76003, poolsuite style
+7cd5be4f, model|merge model
 7d4239bf, elem flowers|fire|water|earth|air|multielem
 7d4ca959, penelope
 7d6c3acc, photorealistic
