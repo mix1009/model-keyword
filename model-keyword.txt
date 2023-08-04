@@ -420,6 +420,7 @@
 12ec3add, glock|pistol
 1351eaf1, cgi|cgi style
 1374389b, dal
+139f78c4, Evang
 13a6777c, modelshoot style|nousr robot
 13c19cad, female|male
 13c3e49f, collage style
@@ -676,6 +677,7 @@
 293dc728, Evang
 2943d1df, analog style|modelshoot style|nsfw|nudity
 29801141, tf2map|team fortress 2|map|tf2 map
+299f0871, Evang
 29bfa344, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 29d0de58, personal|lakage her pussy|harem
 29d35db2, 1man|male:1.2
@@ -782,6 +784,7 @@
 34cc3331, close up
 35035503, putinclown
 35133590, person_in_Jar
+352ceed9, usashiro mani
 3582eab3, school uniform|1lady|1girl
 35a0bad3, starsectorportrait
 35a3cd1a, MedabotsV1
@@ -1659,6 +1662,7 @@
 92e4c246, sks person
 92e61297, art by yaguru magiku
 93423a00, jaggy|ps_game_screenshot|pc_game_screenshot|gamecube_game_screenshot|blood_and_gore|intense_violence|zotov_game_screenshot|eroge_game_screenshot|life_sim_game_screenshot|alter_echo
+93616893, Evang
 936c64e3, evang
 93e73bf3, sophialoren
 93f72c18, sks woman
@@ -2125,6 +2129,7 @@ b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
 b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
 b1facb5b, pores|realistic, copaxRealisticXLSDXL1_v22SkinUpdate.safetensors
+b1facb5b, portrait|medium close-up shot|photo|photograph, SDXLPeople_v05.safetensors
 b1facb5b, realistic, copaxRealisticXLSDXL1_v2.safetensors
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
@@ -2186,11 +2191,13 @@ b895edc4, mdjrny-v4 style
 b8a220c1, nebulaewisdomanimestyle
 b8d8a250, emaiti
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
+b8e63a5d, Evang
 b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
 b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
 b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style, aargArchitecture_v10.safetensors
 b9ac173c, SDArt
 b9c3fe1b, ohwx|bnha
+b9ca767d, Evang
 b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
 ba0eff40, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|D&D character|fantasy poster|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|masterpiece|intricate|detailed|hyperrealistic
@@ -2790,6 +2797,7 @@ f5bf5a19, SDArt
 f5d9c703, snthwve style
 f61ceeaf, xao-arab-girl
 f6239527, brtdrpp
+f6355763, Evang
 f63dafbe, Realistic
 f6412c6b, 1girl
 f661ebc1, 2dskillicon
