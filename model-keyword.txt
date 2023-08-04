@@ -529,7 +529,7 @@
 1b80316b, hcmv
 1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 1be68457, 1girl|anime|masterpiece, osorubeshiAlphaXL_v01.safetensors
-1be68457, 1girl|anime|masterpiece|best quality, osorubeshiAlphaXL_v02.safetensors
+1be68457, 1girl|masterpiece|best quality, osorubeshiAlphaXL_v03.safetensors
 1c254752, vulcan
 1c348ac5, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
@@ -2864,6 +2864,7 @@ fc83c5ad, civsix style
 fc88eb89, sks person
 fcbf8265, evang
 fcd6b416, sks woman
+fd11bd81, nabru093
 fd294ceb, nvinkpunk|modelshoot style|samdoesart|dreamlikeart|kuvshinov
 fd357580, latex|latex hood|latex mask|full face latex mask
 fd433acd, dal
