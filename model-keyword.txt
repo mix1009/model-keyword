@@ -2790,7 +2790,8 @@ f457c3e6, shiinamashiro
 f47ae1fa, sks woman
 f4a70244, female|girl|woman|man|boy
 f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte
-f4a9a8a6, pores|realistic
+f4a9a8a6, greifer, sdxl_vae.safetensors
+f4a9a8a6, pores|realistic, sdxl_vae.safetensors
 f4d8697e, lastname name
 f4dd44ad, svtbuild
 f536a061, wvyari
