@@ -140,6 +140,7 @@
 0b84ef8c, analog style|modelshoot style|nsfw|nudity|erotic|cyborgdiffusion
 0b910e4b, duskametrik, isometricDreams_1.safetensors
 0b910e4b, fldsky1, floraFauna_1.safetensors
+0bd29ada, Alf Person
 0bd469b6, evang
 0bd9f938, hyperrealistic
 0bedca16, Illustration of|Drawing of|Sketch of
@@ -1427,6 +1428,7 @@
 78d68104, sincity_iamyork
 78d9c09e, digidsk1
 78e79d23, helenmirren
+79009b03, Evang
 7906524a, cornflower
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
 79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV51_v20Novae.safetensors
@@ -1686,6 +1688,7 @@
 959c96cf, Elonmusk Person, elonMuskCurrentDayHQ_v10.safetensors
 959c96cf, JasonAldean Person, jasonAldeanSmallTownExpert_v10Corrected.safetensors
 95a1510a, donnaewin
+95db88e5, Evang
 95f8d0a7, armpit, module1_train1.safetensors
 95f8d0a7, graffiti illustrations|chilloutmix, graffitiArt_httpsCivitaiComModels.safetensors
 95f8d0a7, ol|都市|性感, chilloutmix_NiPrunedFp32Fix.safetensors
@@ -2129,6 +2132,7 @@ b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
 b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
+b1facb5b, mysterious|fantasy|peplos|greek|anime, LahMysteriousSDXL_v256.safetensors
 b1facb5b, pores|realistic, copaxRealisticXLSDXL1_v22SkinUpdate.safetensors
 b1facb5b, portrait|medium close-up shot|photo|photograph, SDXLPeople_v05.safetensors
 b1facb5b, realistic, copaxRealisticXLSDXL1_v2.safetensors
