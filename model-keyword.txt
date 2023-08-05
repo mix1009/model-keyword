@@ -380,7 +380,7 @@
 0f63c656, insertNameHere
 0fb0560b, lizmont woman
 0fcfe533, wuxia 1girl|best quality
-100dbe92, Evang, beejaydel_beejStickerModel.safetensors
+100dbe92, Evang, chibi_8000OpenJourney.safetensors
 100dbe92, evang, lostBearChibiSketch_v10.safetensors
 1016dbcd, Mobian or Sonic character name
 101d2d78, barbieworld
@@ -2337,6 +2337,7 @@ c91be480, Dloz|Dloz style
 c9a2e2a1, GGH23 person
 c9c45d16, Pris
 ca198d1c, actionauf, actionauf_v10.safetensors
+ca198d1c, alstar, alstar_v10.safetensors
 ca198d1c, chibi, qteamixQ_omegaFp16.safetensors
 ca198d1c, graphicart, graphicArt_15V10.safetensors
 ca198d1c, paleolithic, paleolithicArt10_paleoartV10.safetensors
@@ -2488,6 +2489,7 @@ d84b15d9, none
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
 d89bc06c, m
 d8e16309, realistic|photorealistic
+d902a082, design|interrior|interriordesign
 d90a034f, yuzu$style
 d93640a6, chinese clothes|hanfu
 d947f2cd, jisoo
