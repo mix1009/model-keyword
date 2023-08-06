@@ -1189,6 +1189,7 @@
 60fe3f35, ricknmorty style
 610879f9, flat color
 6110cdda, photo of shkya person
+61756241, robot
 6178413b, wvert1
 61b6da58, dskyart1
 61c8dc00, by Boris Vallejo|by Brom|by Frank Frazetta|by Hajime Sorayama|by Kelly Freas|by Luis Royo|by Milo Manara|by Olivia De Berardinis|by Philippe Druillet|by Simon Bisley
@@ -1865,6 +1866,7 @@
 9ed4ea56, Oldjourney
 9ede614e, 80's anime style
 9ef9f138, gigafractal artstyle
+9f159502, *read notes*
 9f195bbc, blackphoto|1girl
 9f45927e, Comic Style|Illustration|Line Art|Comic Poster|Realistic, kl-f8-anime2.ckpt
 9f45927e, Havoc and Disorder, kl-f8-anime2.ckpt
@@ -2135,6 +2137,7 @@ b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
 b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
+b1facb5b, mysterious|fantasy|lofi style|anime, LahMysteriousSDXL_v295.safetensors
 b1facb5b, mysterious|fantasy|peplos|greek|anime, LahMysteriousSDXL_v256.safetensors
 b1facb5b, pores|realistic, copaxRealisticXLSDXL1_v22SkinUpdate.safetensors
 b1facb5b, portrait|medium close-up shot|photo|photograph, SDXLPeople_v05.safetensors
@@ -2449,6 +2452,7 @@ d3a9cef0, hanfu
 d3efb13c, comic
 d3f3df02, all|hyperrealistic mix, mixRealisticPhotoV5_v15.ckpt
 d3f3df02, realistic, mixRealisticPhotoV5_15.ckpt
+d4009145, Midjourney
 d4021aa4, art by Boris Groh
 d409472c, kamita
 d4288eeb, photograph|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|lk artstyle legend of korra artstyle|hg artstyle realistic 3d renders|cw artstyle starwars: the clone wars artstyle|kd artstyle ghibli movies artstyle|wy artstyle makoto shinkai artstyle|tn artstyle disney 3d artstyle|hq artstyle high-quality digital art|aa artstyle digital line art|dd artstyle darkest dungeon artstyle|toc artstyle turtle of canada artstyle with their permission|skimpy sg outfit with cape supergirl outfit|gs outfit with cape generic superhero outfit|videl wearing sy outfit with cape and helmet great saiyawoman outfit|cor korra doesnt translate well into other artstyles|with sd hairstyle season 1-3|with sh hairstyle season 4|wearing df outfit season 1|wearing sc outfit season 1 winter|wearing pb outfit season 1 probending|wearing fs outfit season 4|wearing ek outfit season 4 earth kingdom|oyla with ay hairstyle wearing hz outfit aloy wearing standard outfit doesnt translate well into other artstyles|akos wearing sw outfit ahsoka wearing season 7 outfit doesnt translate well into other artstyles|woman with pointed ears elfs|futuristic outfit|futuristic armor|fantasy armor|fantasy outfit|tribal fantasy outfit|cl outfit post-apocalyptic outfit|giant woman works best with "hg artstyle" is biased towards naked women|tiny woman works best with "hg artstyle" is biased towards naked women
@@ -2810,7 +2814,8 @@ f5bf5a19, SDArt
 f5d9c703, snthwve style
 f61ceeaf, xao-arab-girl
 f6239527, brtdrpp
-f6355763, Evang
+f6355763, Ajm, xxajm_v10.safetensors
+f6355763, Evang, beejaydel_bjd20000.safetensors
 f63dafbe, Realistic
 f6412c6b, 1girl
 f661ebc1, 2dskillicon
