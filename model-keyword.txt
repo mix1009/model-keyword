@@ -650,6 +650,7 @@
 268f2132, Pharmabro Person
 26945dab, female|male
 269b8567, general
+269de172, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION
 26acd9f3, furrender style
 26bde476, vrass
 26c85a2d, Nintendo mii|modern_mii|classic_mii|highres|eye_whites|fighting|tennis, nintendoMiiStyle_v11.safetensors
@@ -2797,6 +2798,7 @@ f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, pores|realistic, sdxl_vae.safetensors
 f4d8697e, lastname name
 f4dd44ad, svtbuild
+f5016ae0, horror theme
 f536a061, wvyari
 f56062de, nvinkpunk|mdjrny-v4 style|kairowez|lisdusk1|lisdusk2
 f588c09f, cloud
