@@ -1183,6 +1183,7 @@
 600db6b8, Lauterbach, karlLauterbachLauterbach_v10.safetensors
 600db6b8, gerdbaier, grattlerDiffusionViper_v1.safetensors
 600db6b8, rainerwinkler, winklerDiffusion_v1.safetensors
+602e6139, Midjourney
 606224fd, groo_the_wanderer
 6076842b, nvinkpunk|dreamlikeart|samdoesart|kuvshinov
 60851177, dgs illustration style
