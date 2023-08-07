@@ -613,6 +613,7 @@
 2275f2cf, 90s retro anime style|xx year anime style
 22a55888, insertNameHere
 22ca4aaa, guigubahuang|1girl|chinese style
+23234436, furry
 2323d67c, SLE|mksks style|detailed background
 23245ceb, realistic|realism|photo
 234cc409, comicmay artsyle
@@ -1082,6 +1083,7 @@
 557350e1, radar-topview|biome-radar-topview|cache-radar-topview|cobblestone-radar-topview|dust2-radar-topview|inferno-radar-topview|mirage-radar-topview|nuke-radar-topview|overpass-radar-topview|subzero-radar-topview|train-radar-topview|vertigo-radar-topview, csgoImprovedRadarTop_v20.ckpt
 557350e1, radar-topview|spectator-radar-topview, csgoTopViewMapLayout_1.ckpt
 55f8aa74, mobian or sonic character name
+55fded84, 1girl|clock hair ornament|fox ear|split-color white and pink hair|red eyes|hair scrunchie|
 561e042a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti
 564533e5, masterpiece|best quality
 564a5547, chinses ink painting
@@ -2406,6 +2408,7 @@ d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog s
 d049af0b, Evang
 d04d8a1f, lamia
 d0503c73, hanbok
+d05570b1, nieniezi girl|1girl|pink eye|purple eye|demon tail|ahoge|demon wings|hair ornament|horns|split-color purple hair and pink hair|hairclip|hat|white background|black bodysuit|purple bodysuit|purple coat
 d081535b, doang woman
 d098dada, dskbbb1
 d0b457ae, modelshoot style|analog style|mdjrny-v4 style
@@ -2669,7 +2672,8 @@ e742f6fb, dal
 e79c8e1c, jckmn person
 e80f12bb, Evang
 e83d3aa7, Ligne claire
-e842dcc7, 1girl
+e842dcc7, 1girl, ClearVAE_V2.3.safetensors
+e842dcc7, KingShark|Humanshark|Sharkman, CleanVAE.safetensors
 e8468071, panamera04
 e85e8888, AYU23 person
 e8635c3a, multipla
@@ -2912,3 +2916,4 @@ ff838ac8, fantasy
 fff0c339, 1girl|solo, nijiflat_v01.safetensors
 fff0c339, dal, xlPainting_v09Beta.safetensors
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
+fff4190b, oristyle
