@@ -374,7 +374,8 @@
 0eb3318b, withoutfear, djzWithoutFear_v21768.safetensors
 0eb3318b, wwone, djzWwoneV21_0.safetensors
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
-0ec1ec9e, realistic
+0ec1ec9e, league of legends|legends of runeterra|valorant|lolsplashart|mlbbsplashart, riotDiffusionXLRiotGames_v10.safetensors
+0ec1ec9e, realistic, realisticasiangirlface_v10.safetensors
 0ec9b738, pixel art
 0ed9b4a6, embroidery by embarg
 0f63c656, insertNameHere
