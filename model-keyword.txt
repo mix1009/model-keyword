@@ -529,6 +529,7 @@
 1b7ee812, wlop|nixeu
 1b80316b, hcmv
 1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
+1bd2e52a, 1girl|jiangye|helix angle|hair ornament|multicolored hair|purple hair|pink hair|pink pupils|purple eyebrows|earrings|pink background|white crop top|demon heart tail|arm  strap|student cardaround neck|purple and black short dress|handcuffs|thigh strap|bandaid on leg|torn single leg pantyhose|bandaged hands|One hand wrapped in a bandage|full body|long hair|
 1be68457, 1girl|anime|masterpiece, osorubeshiAlphaXL_v01.safetensors
 1be68457, 1girl|masterpiece|best quality, osorubeshiAlphaXL_v03.safetensors
 1c254752, vulcan
@@ -651,7 +652,6 @@
 268f2132, Pharmabro Person
 26945dab, female|male
 269b8567, general
-269de172, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION
 26acd9f3, furrender style
 26bde476, vrass
 26c85a2d, Nintendo mii|modern_mii|classic_mii|highres|eye_whites|fighting|tennis, nintendoMiiStyle_v11.safetensors
@@ -856,6 +856,7 @@
 3a41dbca, read description
 3a4bafd1, liquid splash|porcelain doll|papercut
 3a548d27, N64style|psxstyle|ocarinaoftime
+3ab0ed25, mksks
 3ae3405f, 70年式
 3afdc872, bedroomai
 3b214cf8, style
@@ -886,6 +887,7 @@
 3ee44953, lwmn man
 3ee7d195, yoshin style
 3eec9a6c, Evang
+3f0202c3, Donaldtrumpjr Person
 3f095502, mdjrny-shttr
 3f0edc49, mayichiii
 3f3fc921, Sks woman
@@ -1370,6 +1372,7 @@
 73012bca, 3D model
 730b9cb5, m_style
 73771530, kazuya
+738e9523, Beautiful women|pretty girls|and more
 73aebb03, rammstein
 73d359a0, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 73df0f6b, no trigger word required
@@ -2141,13 +2144,13 @@ b1facb5b, Mysterious|eyes detail|fox girl, LahMysteriousSDXL_v251.safetensors
 b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
 b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
-b1facb5b, colorful, copaxRealisticXLSDXL1_colorful.safetensors
+b1facb5b, colorful, copaxTimelessxlSDXL1_colorful.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
 b1facb5b, mysterious|fantasy|lofi style|anime, LahMysteriousSDXL_v295.safetensors
 b1facb5b, mysterious|fantasy|peplos|greek|anime, LahMysteriousSDXL_v256.safetensors
-b1facb5b, pores|realistic, copaxRealisticXLSDXL1_v22SkinUpdate.safetensors
+b1facb5b, pores|realistic, copaxTimelessxlSDXL1_v22SkinUpdate.safetensors
 b1facb5b, portrait|medium close-up shot|photo|photograph, SDXLPeople_v05.safetensors
-b1facb5b, realistic, copaxRealisticXLSDXL1_v2.safetensors
+b1facb5b, realistic, copaxTimelessxlSDXL1_v2.safetensors
 b1fd9215, ginkddd
 b2066f4d, laracroftsd
 b23ffcd4, a woman
@@ -2306,6 +2309,7 @@ c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 c361dd5f, masterpiece, sarabasmix_v1.safetensors
 c361dd5f, tiny, beenyou_v1.safetensors
 c37cd72c, blurry background|depth of field
+c3860cb4, furry
 c3b103e8, lvmd aesthetic|3d render
 c3c086d6, artstyle bse
 c3cfd75d, powa
@@ -2632,6 +2636,7 @@ e24a9c03, 2d|masterpiece|best quality|anime
 e2b8b39c, sks person
 e2d2e2c3, irmntro person
 e3373f54, Japanese|Korean
+e33d0a54, Masterpiece|Realistic|best quality
 e3423ef2, evang, acSide_v10.ckpt
 e3423ef2, photo of evang person, sideView_acside.ckpt
 e35930da, rachelwalker style
@@ -2810,7 +2815,6 @@ f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, pores|realistic, sdxl_vae.safetensors
 f4d8697e, lastname name
 f4dd44ad, svtbuild
-f5016ae0, horror theme
 f536a061, wvyari
 f56062de, nvinkpunk|mdjrny-v4 style|kairowez|lisdusk1|lisdusk2
 f588c09f, cloud
