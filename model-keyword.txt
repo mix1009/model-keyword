@@ -531,6 +531,7 @@
 1b80316b, hcmv
 1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 1bd2e52a, 1girl|jiangye|helix angle|hair ornament|multicolored hair|purple hair|pink hair|pink pupils|purple eyebrows|earrings|pink background|white crop top|demon heart tail|arm  strap|student cardaround neck|purple and black short dress|handcuffs|thigh strap|bandaid on leg|torn single leg pantyhose|bandaged hands|One hand wrapped in a bandage|full body|long hair|
+1be68457, 1girl|1boy, osorubeshiAlphaXL_v04.safetensors
 1be68457, 1girl|anime|masterpiece, osorubeshiAlphaXL_v01.safetensors
 1be68457, 1girl|masterpiece|best quality, osorubeshiAlphaXL_v03.safetensors
 1c254752, vulcan
@@ -2148,6 +2149,7 @@ b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
 b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
 b1facb5b, colorful, copaxTimelessxlSDXL1_colorful.safetensors
+b1facb5b, disney cartoon|cute cartoon, LahCuteCartoonSDXL_beta1.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
 b1facb5b, mysterious|fantasy|lofi style|anime, LahMysteriousSDXL_v295.safetensors
 b1facb5b, mysterious|fantasy|peplos|greek|anime, LahMysteriousSDXL_v256.safetensors
