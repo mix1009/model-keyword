@@ -1637,6 +1637,7 @@
 8ec9d746, amongus man
 8ecd9616, makima_chainsaw_man
 8ed66211, neon|sci-fi|colorful
+8ef1792d, indoor
 8ef9e10a, male|female
 8f0bf53d, battle_map
 8f2e1466, art by Boris Groh
@@ -1654,7 +1655,9 @@
 900b847e, shiny skin
 90203e33, zwx
 90501ecf, mechanical arms
-90626071, shuimobysim|shukezouma
+90626071, A_banana, kl-f8-anime2_fp16.safetensors
+90626071, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, kl-f8-anime2.vae.safetensors
+90626071, shuimobysim|shukezouma, kl-f8-anime2.vae.safetensors
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
 91099850, Muscular|Anime
 910fb637, btdmnky, stableBTD6_btd6.ckpt
@@ -1861,6 +1864,7 @@
 9d9d6f38, .bsp
 9d9ea029, fantadsk2
 9da87c34, none
+9db8946b, A_banana
 9dc1d702, sks woman
 9dddaced, girl
 9e01a1e4, male|female
@@ -2505,6 +2509,7 @@ d7f82d9e, melkor_manchin art style
 d7ffea1e, sks style
 d80ad84b, mdjrny-grfft
 d8116eef, hybrid
+d823e66d, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn
 d843660f, quinn \(league of legends\), quinnFromLeagueOf_quinnNaiMix.ckpt
 d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
 d84b15d9, none
@@ -2784,6 +2789,7 @@ f15eaf3f, RAW photo of|Analog photo of
 f1756e9b, dal
 f1aafbbe, estilovintedois|lexicaart
 f1e11c37, smhcgty
+f1e9d943, masterpiece|realistic|best quality
 f22d0019, PiroxiumDiffusion style
 f22ff389, trixiemattel drag queen
 f25bd13a, futanari
@@ -2921,6 +2927,7 @@ fe3c6142, themechwarriorrpgart, theMechwarriorRPGArt_theMechwarriorRPGArt.safete
 fe579299, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 fe5aae36, telltale style
 fe865c53, pamgrier
+fe8c63ee, cartoon|illustration
 feb09aa5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
 ff7616f1, FRPGFaceGen
