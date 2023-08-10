@@ -553,6 +553,7 @@
 1dafb778, 1 girl
 1de806f4, rcnz_hqr style
 1df99c75, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
+1e06ed13, gran
 1e1e49e4, sks woman
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1e2b3832, lula
@@ -2157,6 +2158,7 @@ b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
 b1facb5b, colorful, copaxTimelessxlSDXL1_colorfulV2.safetensors
 b1facb5b, disney cartoon|cute cartoon, LahCuteCartoonSDXL_beta1.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
+b1facb5b, mysterious|fantasy|dark fantasy|3D rendering|anime, LahMysteriousSDXL_v30.safetensors
 b1facb5b, mysterious|fantasy|lofi style|anime, LahMysteriousSDXL_v295.safetensors
 b1facb5b, mysterious|fantasy|peplos|greek|anime, LahMysteriousSDXL_v256.safetensors
 b1facb5b, pores|realistic, copaxTimelessxlSDXL1_v22SkinUpdate.safetensors
