@@ -1456,6 +1456,7 @@
 7a16febb, thecat, chikomokiiStyle_v1.ckpt
 7a16febb, yuqikun, yuqikunStyle_v1.ckpt
 7a182a74, wjqarnpomo
+7a74f7c2, lineart of {objects}
 7a77a7f5, yu-gi-oh!creature
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
 7a8ece1f, Evang
@@ -2490,6 +2491,7 @@ d56a53f3, aodai|cotrang
 d57fa787, by hanaarare
 d5b1726a, Masterpiece|Best Quality
 d5cea653, gege
+d5dfca31, beta01
 d61a0cdc, egardiner
 d634b8cb, Hina, itshinaInstagramModel_hina.ckpt
 d634b8cb, MRTA23 person, mrta23_v10.ckpt
@@ -2935,6 +2937,7 @@ feb09aa5, verism style|samdoesart style|thepit style|owler style|cherrmous style
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
 ff7616f1, FRPGFaceGen
 ff838ac8, fantasy
+fff0c339, 1girl|1boy, nijiflat_v02.safetensors
 fff0c339, 1girl|solo, nijiflat_v01.safetensors
 fff0c339, dal, xlPainting_v09Beta.safetensors
 fff0c339, xxmix_girl, xxmix9realisticsdxl_testV10.safetensors
