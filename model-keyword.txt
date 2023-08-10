@@ -2152,7 +2152,7 @@ b1facb5b, Mysterious|eyes detail|fox girl, LahMysteriousSDXL_v251.safetensors
 b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
 b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
-b1facb5b, colorful, copaxTimelessxlSDXL1_colorful.safetensors
+b1facb5b, colorful, copaxTimelessxlSDXL1_colorfulV2.safetensors
 b1facb5b, disney cartoon|cute cartoon, LahCuteCartoonSDXL_beta1.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
 b1facb5b, mysterious|fantasy|lofi style|anime, LahMysteriousSDXL_v295.safetensors
@@ -2495,6 +2495,7 @@ d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d634b8cb, kvn, myModelKevin_v10.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
+d636e597, ziov, sdxl_vae.safetensors
 d659f794, rcnz_niji style
 d65c923a, 1girl
 d676dd55, deetz1
@@ -2724,6 +2725,7 @@ eae836b4, mommy
 eae95c5e, cardassian
 eb01f3b2, NijiFTB
 eb1666ba, 1girl|moyou
+eb1b80e4, ziov
 eb3a4159, dal
 eb70ff01, concept-art
 eba3d197, helenmirren
@@ -2927,12 +2929,13 @@ fe3c6142, themechwarriorrpgart, theMechwarriorRPGArt_theMechwarriorRPGArt.safete
 fe579299, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 fe5aae36, telltale style
 fe865c53, pamgrier
-fe8c63ee, cartoon|illustration
+fe8c63ee, cartoon|illustration|flat cartoon|realistic illumination|realistic cartoon
 feb09aa5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
 ff7616f1, FRPGFaceGen
 ff838ac8, fantasy
 fff0c339, 1girl|solo, nijiflat_v01.safetensors
 fff0c339, dal, xlPainting_v09Beta.safetensors
+fff0c339, xxmix_girl, xxmix9realisticsdxl_testV10.safetensors
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
 fff4190b, oristyle
