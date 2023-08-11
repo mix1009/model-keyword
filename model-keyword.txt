@@ -480,6 +480,7 @@
 170bf445, pixel art
 1756bc0e, duskypie|kairowez
 1789d7b1, luna
+17a8d3c3, kasukanrasty
 17b7e1de, romerorzeternos
 17b8cc9c, woman|girl
 17bb0452, discodifland
@@ -914,6 +915,7 @@
 4207b96d, Nothing
 420cb71f, datou|white background|solo|upper body:1.5|
 42279ad8, claymation|80's anime style
+4252b916, jeanmessiha person|jeanmessiha
 425952fe, dalcefo
 4283ebdc, GOLDENGLASS|MAXWELL THE CAT|POKEMODEL|ChromaV5
 428509f3, meitu|sailor moon style|anime style|manga
@@ -1230,6 +1232,7 @@
 6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 63ec42c3, noble ai|noble mix fix|reality|noblemixfix|person|character|photograph
 63f63601, estilovintedois
+64113636, See Appendix A|见附录A
 6414e2dc, liquid splash|papercut|porcelain doll
 6418d85d, person_in_Jar
 643afbd9, Microscopic
@@ -1513,6 +1516,7 @@
 81369a90, supermarionation
 8154717a, realistic
 816a3e8a, shiny sissy luxury latex dress for doll
+81848ac2, alstar
 81869659, digital art|photograph
 818ed0ab, khrushchevka
 81b68188, tk_env|tk_char
@@ -2504,6 +2508,7 @@ d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d634b8cb, kvn, myModelKevin_v10.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
+d636e597, See Appendix A|见附录A, sdxl_vae.safetensors
 d636e597, ziov, sdxl_vae.safetensors
 d659f794, rcnz_niji style
 d65c923a, 1girl
