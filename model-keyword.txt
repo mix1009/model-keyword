@@ -1341,6 +1341,7 @@
 6ddfb1a6, skmkt
 6de290f6, Evang
 6de4c8e7, furry|fur
+6de8af70, figma|pvc
 6e0a9783, dal
 6e199947, rfktrstyle
 6ea179f4, mobian or sonic character name
@@ -1460,7 +1461,8 @@
 79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_1.safetensors
 79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.safetensors
 79c63bd9, Landscape design
-7a0fd151, mksks style|detailed background
+7a0fd151, BJ_Street-photo, anything_fp16.safetensors
+7a0fd151, mksks style|detailed background, blessed2.vae.safetensors
 7a12e74a, girl with big boobs|furry
 7a16febb, thecat, chikomokiiStyle_v1.ckpt
 7a16febb, yuqikun, yuqikunStyle_v1.ckpt
@@ -1836,6 +1838,7 @@
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 99d08e67, latex
 99e78387, SinCityMovie Style
+99ff99fd, BJ_Street-photo
 9a2f1953, 3D modeling|photos|real world
 9a427588, ada wu
 9a46bc81, heart, loveForever_v10.safetensors
@@ -2158,7 +2161,7 @@ b1b9d236, furrender style
 b1be66e9, dreamworks artstyle
 b1c32576, anime pencil concept style
 b1ca5929, handsome
-b1df6170, realistic
+b1df6170, realistic|photorealistic
 b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
 b1f4f421, 1girl
 b1facb5b, 1girl, nijiDiffusionXlBase1_v10.safetensors
@@ -2540,6 +2543,7 @@ d89bc06c, m
 d8e16309, realistic|photorealistic
 d902a082, design|interrior|interriordesign
 d90a034f, yuzu$style
+d927bc1a, 二维码
 d93640a6, chinese clothes|hanfu
 d947f2cd, jisoo
 d948a90d, LAOWANG
