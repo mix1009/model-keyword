@@ -53,6 +53,7 @@
 0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_01.safetensors
 0250e61d, 35mmneon
 029cc27d, SLE|mksks style|detailed background
+02a55bbe, ligne claire|By Roy Krenkel|By Jean-Pierre Gibrat
 02acd63c, unstablephotoreal|unstablediffusion
 02cb660f, 1 girl
 02f311af, David, modelguyyy_v10.ckpt
@@ -116,8 +117,9 @@
 09bcb72f, 1man, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, analog style|modelshoot style|nsfw|nudity, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
-09bcb72f, ligne claire|by Roy Krenkel|by Jean-Pierre Gibrat, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, 游戏角色|美术设计，全身，原创艺术设计，中国古装, vae-ft-mse-840000-ema-pruned.safetensors
 09c6d455, JangEunYoung
 09d7878a, pixarstyle
 09d81b43, t3|model
@@ -1947,6 +1949,7 @@ a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a150faa4, icon|blender|C4D
 a184fedc, gigafractal artstyle
 a1f0ad54, insertNameHere
+a1f3c840, realistic|realism|photorealistic|raw photo
 a1f49fa9, A visual title screen
 a1f8c83a, shinyunbok painting
 a2073f09, by mika pikazo
@@ -2631,6 +2634,7 @@ de2f2560, p, test_v10.safetensors
 de2f2560, phantylia|phantylia honkai, phantylia_v10.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
+de2f2560, post-Impressionist, exquisiteDetails_art.safetensors
 de2f2560, shiny_skin, realshinymixV1_v10.safetensors
 de2f2560, yorha2b, yorha2b_v20Animation.safetensors
 de2f2560, zephyr, zephyr_v10.safetensors
@@ -2717,6 +2721,7 @@ e717e83f, infp
 e728ca1e, Mogeko|Okegom|Funamusea
 e7300f3d, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 e742f6fb, dal
+e767908b, 游戏角色|美术设计，全身，原创艺术设计，中国古装
 e79c8e1c, jckmn person
 e80f12bb, Evang
 e83d3aa7, Ligne claire
@@ -2855,6 +2860,7 @@ f4a70244, female|girl|woman|man|boy
 f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte
 f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, pores|realistic, sdxl_vae.safetensors
+f4a9a8a6, realistic|realism|photorealistic|raw photo, sdxl_vae.safetensors
 f4d8697e, lastname name
 f4dd44ad, svtbuild
 f4f5e408, rwx woman
