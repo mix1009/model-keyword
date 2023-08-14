@@ -119,7 +119,6 @@
 09bcb72f, analog style|modelshoot style|nsfw|nudity, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
-09bcb72f, 游戏角色|美术设计，全身，原创艺术设计，中国古装, vae-ft-mse-840000-ema-pruned.safetensors
 09c6d455, JangEunYoung
 09d7878a, pixarstyle
 09d81b43, t3|model
@@ -2173,6 +2172,7 @@ b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photoreali
 b1f4f421, 1girl
 b1facb5b, 1girl, nijiDiffusionXlBase1_v10.safetensors
 b1facb5b, 1girl|anime, envyanimexl_v09.safetensors
+b1facb5b, Fantasy|dark fantasy|mysterious|anime|anime style|3D rendering|Realistic, LahMysteriousSDXL_v315.safetensors
 b1facb5b, Mysterious|eyes detail|fox girl, LahMysteriousSDXL_v251.safetensors
 b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
@@ -2721,7 +2721,7 @@ e717e83f, infp
 e728ca1e, Mogeko|Okegom|Funamusea
 e7300f3d, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 e742f6fb, dal
-e767908b, 游戏角色|美术设计，全身，原创艺术设计，中国古装
+e767908b, Game illustration|Chinese costume
 e79c8e1c, jckmn person
 e80f12bb, Evang
 e83d3aa7, Ligne claire
