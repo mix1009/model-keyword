@@ -1062,6 +1062,7 @@
 523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
 52395e18, none
 52500c41, masterpiece|best quality
+52d7fbac, Boxing gloves|boxing ring
 5301c7c5, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 5346a314, modernartst
 535673be, pixarstyle|fantasy|rpg
@@ -1869,6 +1870,7 @@
 9bafcbb4, lunachan
 9bbd3657, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 9bdc6717, none|just prompt
+9c036bf5, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult
 9c3572e7, realistic|best quality|masterpiece
 9c55fd12, mirrormask
 9c5da18d, girl|woman|man|boy
