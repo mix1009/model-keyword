@@ -1368,6 +1368,7 @@
 7003a758, shuimobysim|shukezouma
 7009ca74, mobian or sonic character name
 700b1fd2, |stylized game icon
+702eac14, usual|watch pictures
 703f7ff1, high fantasy
 705ae506, None
 7088b556, lego man|lego|constructor
@@ -1919,6 +1920,7 @@
 9f675a83, ClaymationXmas
 9f856288, aniscreen|amityblight|edalynclawthorne|emperorbelos|gusporter|huntergoldenguard|lilithclawthorne|luznoceda|rainewhispers|thecollector|willowpark|kingclawthorne
 9fc108a7, Evang
+9fee5b60, maddiesmith
 9ff4bcf1, dalcefo
 9ff529c8, anime
 a06436da, wtrcolor style
@@ -2725,8 +2727,7 @@ e767908b, Game illustration|Chinese costume
 e79c8e1c, jckmn person
 e80f12bb, Evang
 e83d3aa7, Ligne claire
-e842dcc7, 1girl, ClearVAE_V2.3.safetensors
-e842dcc7, KingShark|Humanshark|Sharkman, CleanVAE.safetensors
+e842dcc7, KingShark|Humanshark|Sharkman
 e8468071, panamera04
 e85e8888, AYU23 person
 e8635c3a, multipla
@@ -2973,7 +2974,6 @@ ff838ac8, fantasy
 fff0c339, 1girl|1boy, nijiflat_v02.safetensors
 fff0c339, 1girl|solo, nijiflat_v01.safetensors
 fff0c339, dal, xlPainting_v09Beta.safetensors
-fff0c339, usual|watch pictures, sdxlbaseNsfwFaces_sdxlNsfwFaces03.safetensors
 fff0c339, xxmix_girl, xxmix9realisticsdxl_testV10.safetensors
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
 fff4190b, oristyle
