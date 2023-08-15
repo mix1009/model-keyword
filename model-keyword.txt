@@ -56,6 +56,7 @@
 02a55bbe, ligne claire|By Roy Krenkel|By Jean-Pierre Gibrat
 02acd63c, unstablephotoreal|unstablediffusion
 02cb660f, 1 girl
+02dc71ee, Game characters|full body|original art design
 02f311af, David, modelguyyy_v10.ckpt
 02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
 02f311af, kylxn, akalinLinky_kylxn.ckpt
@@ -663,6 +664,7 @@
 268f2132, Pharmabro Person
 26945dab, female|male
 269b8567, general
+269de172, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION
 26acd9f3, furrender style
 26bde476, vrass
 26c85a2d, Nintendo mii|modern_mii|classic_mii|highres|eye_whites|fighting|tennis, nintendoMiiStyle_v11.safetensors
@@ -1373,6 +1375,7 @@
 705ae506, None
 7088b556, lego man|lego|constructor
 70f7b200, 1girl|girlvn01
+714f9084, Game characters|full body|original art design
 7159aa58, shinyunbok
 717ae1a9, guttonerdjul23, guttoNerdJulho23_v10.ckpt
 717ae1a9, guttonerdvision5, guttoNerdVision5_gnvV50.ckpt
@@ -1815,6 +1818,7 @@
 993f2358, miniwool, miniwool_1.ckpt
 993f2358, mjimenez, mjimenez_v20.ckpt
 993f2358, mjv5|food photography|portrait|interior design photography|achitecture photography, vitalityMidjourneyV5_v10.ckpt
+993f2358, nabha|heroin, realnabha_v10.ckpt
 993f2358, neonskiesai, neonskiesai_V10.ckpt
 993f2358, nerdfusao1, guttoNerdfusO1_nerdfusao1.ckpt
 993f2358, nerdfusao2, nerdFusao2_.ckpt
@@ -2611,6 +2615,7 @@ ddc6edf2, mdjrny-v4 style
 dde11c1e, smitsv
 de2f2560, 6girls+, theGoldenMirage_v11.safetensors
 de2f2560, Asian|Man|Female|Cute, asianMix_alpha30.safetensors
+de2f2560, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION, SD2Berryartify_sd21V02.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, JukyungLim, jukyunglim_v20.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
