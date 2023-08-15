@@ -1628,6 +1628,7 @@
 8bc10cce, female|male
 8bd1d95d, "Photo of luxury-hotel-7890"
 8bf784bb, Comics style|Comics|Cartoon style|
+8c1772f8, Realistic|Photorealistic|Raw photo|realism|realistic style
 8c36d946, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 8c3b86ce, chilloutmix-Ni.safetensors
 8c7b6bc3, Evang
@@ -2379,6 +2380,7 @@ c79ac359, lqt
 c7b28773, wvebg1
 c7c786b0, mariluhenner
 c7ff699d, anipoma1
+c8078318, Evang
 c823af2a, GGH23 person
 c8627730, inkwash style|xianxia style
 c86334f5, itojunji style
@@ -2859,6 +2861,7 @@ f457c3e6, shiinamashiro
 f47ae1fa, sks woman
 f4a70244, female|girl|woman|man|boy
 f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte
+f4a9a8a6, Realistic|Photorealistic|Raw photo|realism|realistic style, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, pores|realistic, sdxl_vae.safetensors
 f4a9a8a6, realistic|realism|photorealistic|raw photo, sdxl_vae.safetensors
