@@ -61,6 +61,7 @@
 02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
 02f311af, kylxn, akalinLinky_kylxn.ckpt
 02f311af, megan, megan_v15.ckpt
+02f311af, model|nabha, realnabha_v10.ckpt
 02f311af, poggers, pactWithWhitch_v10.ckpt
 02f311af, resha, lyrielWithResha_v10.ckpt
 02faa048, sphx style
@@ -2798,6 +2799,7 @@ eda3e3ec, carbon|duochrome|holographic, neurogenV11_v11.safetensors
 eda3e3ec, close-up|portrait photo|raw|ultra macro, neurogenV11_v10.safetensors
 eda667c4, chaingirldark style
 edda855e, none
+ede203fa, Darth Talon|Black Tattoos|Yellow Eyes
 edf5c25b, sks woman
 ee30c7db, Goku
 ee5b91da, ligne claire
