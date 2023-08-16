@@ -20,6 +20,7 @@
 020f5e3f, nomanssky style, noMansDiffusion_v02.safetensors
 02150926, aellagirl
 022ce84d, EmmaW|Photo of EmmaW Woman
+0232f65f, ashenhard style
 0248da5c, 35mmneon, 35mmneon_v10.safetensors
 0248da5c, Evang, klofmanAndSneek_v1Safetensers.safetensors
 0248da5c, Rainbowpatch, rainbowpatch12_rainbowpatchV12.safetensors
@@ -941,6 +942,7 @@
 442e1b76, style bse
 4449cdac, samdoesarts
 445461df, fking_scifi_v2
+446ec050, 付志豪
 44bf0551, booru tags
 44c43db2, no
 44fc97be, realistic|sexy|female|male
