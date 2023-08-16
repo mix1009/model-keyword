@@ -1549,6 +1549,7 @@
 82b0e27e, A perfect photo|A poorly lit photo|A perfect closeup photo
 82cb7b65, germy
 82cbe3e7, sks woman|(sks woman)
+82d72bc8, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 8300ecaa, artificial-journey style
 83078a1e, 抽象|色块
 830b6ebd, masterpiece|best quality
@@ -2981,6 +2982,7 @@ feb09aa5, verism style|samdoesart style|thepit style|owler style|cherrmous style
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
 ff7616f1, FRPGFaceGen
 ff838ac8, fantasy
+fff0c339, 1girl, wdr_v10.safetensors
 fff0c339, 1girl|1boy, nijiflat_v02.safetensors
 fff0c339, 1girl|solo, nijiflat_v01.safetensors
 fff0c339, dal, xlPainting_v09Beta.safetensors
