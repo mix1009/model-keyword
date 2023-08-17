@@ -455,7 +455,9 @@
 1400e684, pow style|ofi|mohd|rmb|dca|muc|onex|toid|sura|juli|veli|gsp|tux|tvc|pbc|pgs|rps|dbz|soca|suru|nips|rune|pafc|nlwx|fck|cae|sohn|dori|zawa|revs|hmv|whoo|asar|blob|xiao|kilt|ulf|loeb|bnha|gote|omd|adl|shld|waj|sown|rcn|httr|dits|hta|lun|olis, sdartSomething_v1.safetensors
 1400e684, rfktrstyle, rfktrsDarkdream_v15bExperimental.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
+14112628, anime|cartoon|anime style|2d
 142aa868, Hentai|anime|male|female|girl|boy
+142c3c11, cinematic style|photographic style|analog film|low-angle|dark colors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 14d36354, duskz1
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
@@ -739,6 +741,7 @@
 2e719f2a, CHV3CWrestler|CHV3CReptile|CHV3CAnimal|CHV3CNinja|CHV3CAnthro|CHV3CDino|CHV3CFoodPorn|CHV3CDeepSea|CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDiner|CHV3SGarden|CHV3SFair|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld
 2ea457e8, evang
 2eb2f2cc, cyberpunk
+2ede2fec, gdk
 2ee24e88, kylxn
 2ee82b98, fashion|film grain|like a painting|eboy|psychedelic|flowers|makeup|bodyart|statue
 2f122e47, HarryPotterStyle
@@ -891,7 +894,8 @@
 3d28e095, 3D Style|Rick Roll|fullbody shot|bad cosplay man
 3d61b720, 3D product render|3D product render style
 3da648f5, in the style of AImanhwa
-3dd9c14a, moyou|1girl|White hair|
+3dd9c14a, moyou|1girl|White hair|, MIXMoyou2dmix_v10.safetensors
+3dd9c14a, moyou，1girl，White hair, 墨幽二次元MIX_MoYou2Dmix_1.0-fp32.safetensors
 3e008b4d, bethharmon
 3e16efc8, Mona Lisa
 3e832815, kochergin
@@ -972,8 +976,10 @@
 474774e5, sks man|sks woman|neundies style
 475eae91, vintage polaroid analog portrait photography of
 47745337, MCwrld
+4789dff9, chibi|cute
 4792ff92, ech_gen
 47a34de9, sticker|vector-art
+47b2d7e7, shs
 47bcfb66, goldenglass
 47bdf85a, male|female
 481ba411, there are too many please see the description
@@ -1336,6 +1342,7 @@
 6c7102ea, botw style
 6ca4896d, Jessewatters Person
 6cbb8c9b, fashion|man|woman
+6cec876b, pixel art|pixel art style
 6d15da60, 0dawon, 0dawon_v10.safetensors
 6d15da60, Dw, AnalGapeCreampie-v4.safetensors
 6d2a5077, by vima
@@ -1689,6 +1696,7 @@
 90203e33, zwx
 90501ecf, mechanical arms
 90626071, A_banana, kl-f8-anime2_fp16.safetensors
+90626071, chibi|cute, kl-f8-anime2.vae.safetensors
 90626071, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, kl-f8-anime2.vae.safetensors
 90626071, shuimobysim|shukezouma, kl-f8-anime2.vae.safetensors
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
@@ -1723,6 +1731,7 @@
 9422abbc, manyakis art style|rabbit girl
 942395af, modelshoot style|swpunk|synthwave|paint splatters
 942aab5b, masterpiece|anime|1girl
+9431f97b, 1girl|moyou
 94674f07, nvinkpunk
 94c7fd10, nayeonnine
 94d62b9f, animegao
@@ -2312,7 +2321,8 @@ be82dca2, Altira|Altira style
 beab2cb2, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 beb6bcfd, Evang
 beb87f9d, furry|girl
-becccd91, 1girl|1boy
+becccd91, 1girl|1boy, osorubeshiAlphaXL_y.safetensors
+becccd91, 1girl|1boy|female|male|comic, osoruwest_v01.safetensors
 becdbc5d, Kavellion|Kavellion style
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
 bf64b437, BRAV5_RealisianV50
@@ -2876,6 +2886,7 @@ f4a70244, female|girl|woman|man|boy
 f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte
 f4a9a8a6, Realistic|Photorealistic|Raw photo|realism|realistic style, sdxl_vae.safetensors
 f4a9a8a6, anime, sdxl_vae.safetensors
+f4a9a8a6, anime|cartoon|anime style|2d, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, pores|realistic, sdxl_vae.safetensors
 f4a9a8a6, realistic|realism|photorealistic|raw photo, sdxl_vae.safetensors
