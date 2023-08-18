@@ -1403,6 +1403,7 @@
 727f0812, modelshoot style
 72922615, looney tunes style|disney style|classic animation style
 73012bca, 3D model
+730a7d56, none
 730b9cb5, m_style
 73771530, kazuya
 738e9523, Beautiful women|pretty girls|and more
@@ -2888,6 +2889,7 @@ f4a9a8a6, Realistic|Photorealistic|Raw photo|realism|realistic style, sdxl_vae.s
 f4a9a8a6, anime, sdxl_vae.safetensors
 f4a9a8a6, anime|cartoon|anime style|2d, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
+f4a9a8a6, none, sdxl_vae.safetensors
 f4a9a8a6, pores|realistic, sdxl_vae.safetensors
 f4a9a8a6, realistic|realism|photorealistic|raw photo, sdxl_vae.safetensors
 f4d8697e, lastname name
