@@ -1904,6 +1904,7 @@
 9c3572e7, realistic|best quality|masterpiece
 9c55fd12, mirrormask
 9c5da18d, girl|woman|man|boy
+9c610db2, masterpiece|best quality|intricate detail|detailed eyes|good hand angle
 9c88bb9e, PiroxiumDiffusion style
 9ca13f02, analog style
 9cde17f8, Cartoon Girl
@@ -2714,6 +2715,7 @@ e2494235, FLUIDART LIQUID SPLASH KNOLLINGCASE FOOD_CRIT BEEPLE
 e24a9c03, 2d|masterpiece|best quality|anime
 e2b8b39c, sks person
 e2d2e2c3, irmntro person
+e2e777bf, 1girl|moyou
 e3373f54, Japanese|Korean
 e33d0a54, Masterpiece|Realistic|best quality
 e3423ef2, evang, acSide_v10.ckpt
