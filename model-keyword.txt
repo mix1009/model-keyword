@@ -909,7 +909,8 @@
 3f0202c3, Donaldtrumpjr Person
 3f095502, mdjrny-shttr
 3f0edc49, mayichiii
-3f3fc921, Sks woman
+3f3fc921, Sks woman, vsjdj_v10.ckpt
+3f3fc921, sks man, timeCatcher_neuroalex.ckpt
 3f4e7ed9, sks woman
 3f76682f, Anime|manga|cartoon
 3ff95373, sks woman
@@ -1826,6 +1827,7 @@
 993f2358, guttonerdreliberate1, guttoNerdReliberate1_gnReliberateV10.ckpt
 993f2358, guttonerdvision10, guttoNerdVision10_gnv10.ckpt
 993f2358, guttonerdvision11, guttoNerdVision11_gnv11.ckpt
+993f2358, guttonerdvision12, guttoNerdVision12_v12.ckpt
 993f2358, ioasdf, krio70_001.ckpt
 993f2358, jennawan, jennawan_v10.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
