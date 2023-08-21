@@ -677,6 +677,7 @@
 26c85a2d, moba game icon, mobaGameEquipment_v10.safetensors
 26c85a2d, q skill icon, qSkillIcon_v10.safetensors
 26c85a2d, q style, qStyle_v10.safetensors
+26f61ff7, 1girl|moyou
 274d0bb6, trending on artstation|8k|ultra hd|1woman
 276edfa7, evang
 27a594ef, GIRL 3D SUBJECT RENDER PHOTOREALISTIC FEMALE RETRO ANATOMICAL ART INTRICATE ACCURATE WOMAN ILLUSTRATION CARS CARTOON CINEMATIC FANTASY PHOTOGRAPHY REALISTIC
@@ -935,6 +936,7 @@
 42279ad8, claymation|80's anime style
 4252b916, jeanmessiha person|jeanmessiha
 425952fe, dalcefo
+426cf881, xxmixgirl
 4283ebdc, GOLDENGLASS|MAXWELL THE CAT|POKEMODEL|ChromaV5
 428509f3, meitu|sailor moon style|anime style|manga
 42d1c972, PadoruMeme
@@ -1499,6 +1501,7 @@
 79c63bd9, Landscape design
 7a0fd151, BJ_Street-photo, anything_fp16.safetensors
 7a0fd151, anime, anything_fp16.safetensors
+7a0fd151, illustration, blessed2.vae.safetensors
 7a0fd151, mksks style|detailed background, blessed2.vae.safetensors
 7a12e74a, girl with big boobs|furry
 7a16febb, thecat, chikomokiiStyle_v1.ckpt
@@ -1650,7 +1653,8 @@
 8a6eadcf, bolsonaro, bigbolsonaro_v10.safetensors
 8a6eadcf, eneias, bigeneias_v10.safetensors
 8a7088c5, JzzyeonAi_v5
-8aacc4c1, 1girl，moyou，realistic
+8aacc4c1, 1girl，moyou，realistic, 25DMIXMoyou25DMIX_v10VaeFp16NoEma.safetensors
+8aacc4c1, moyou，1girl，White hair, 墨幽二次元_v1.0-vae-fp32.safetensors
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
 8aca88c2, bakirda|kridaba|DaKriDi|dikrida
 8ad6ce64, Evan
@@ -2953,6 +2957,7 @@ f6b07b0a, "GretchenRoss Person"
 f6b4b362, newhorrorfantasy_style
 f6ca0e2b, comicmay
 f6cd8eee, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
+f6dfe1af, megamech
 f6ed99c8, {colorful}|{vivid colors}|{vivid}|{flat color}
 f6fb8fde, lala_satalin_deviluke|momo_velia_deviluke|nana_asta_deviluke|konjiki_no_yami|yuuki_mikan|sairenji_haruna|kotegawa_yui|kurosaki meia|
 f71f0232, insertNameHere
@@ -3035,6 +3040,7 @@ fe8c63ee, cartoon|illustration|flat cartoon|realistic illumination|realistic car
 feb09aa5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
 ff7616f1, FRPGFaceGen
+ff7d13a0, architecture|modern house|exterior|building|interior|kitchen|bedroom|livingroom
 ff838ac8, fantasy
 fff0c339, 1girl, wdr_v10.safetensors
 fff0c339, 1girl|1boy, nijiflat_v02.safetensors
