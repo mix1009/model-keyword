@@ -400,6 +400,7 @@
 1027d657, httr
 1034f5f1, masterpiece|best quality|
 10419930, hassanfantasy style
+108830f2, 1 girl
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
 10a66fa5, romcom style
 10a97182, julietmills
@@ -812,6 +813,7 @@
 35a0bad3, starsectorportrait
 35a3cd1a, MedabotsV1
 35aa200e, masterpiece|best_quality|ultra_detailed|illustration|volumetric_light|
+35af5a92, illustration
 35d51e2e, RAW photo of
 35dc3dbf, evang
 361eef19, photo|analog style
@@ -1055,9 +1057,11 @@
 4fb23b6b, wa-vy style
 4fb24cb3, realistic
 4ffbddcf, nekoxiangcao|girl
+501a50ad, realistic|photorealistic|raw photo|raw picture|realism|realistic style
 50444ca2, trnlgcy
 50481b4d, anime|girl
 505f27ef, Oofa
+506ed641, glowing|neon
 508104ff, isohomes
 50ad914b, e621
 50b09182, flonixreddit
@@ -1168,6 +1172,7 @@
 5a75e4b5, man|woman|boy|girl|etc, matrixAnime_v16VAE.safetensors
 5aceb664, kor_mixed 1girl
 5ad07226, art by yaguru magiku
+5ae66f17, FANTASY|ANIME|FANTASY WORLD|FANTASY BACKGROUNDS
 5b2d4455, EmiliaClarke woman
 5b4e980d, style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
 5b8f72ee, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
@@ -1521,6 +1526,7 @@
 7cb76003, poolsuite style
 7cbc2ac1, nekoxiangcao
 7cd5be4f, model|merge model
+7d255777, illustration
 7d4239bf, elem flowers|fire|water|earth|air|multielem
 7d4ca959, penelope
 7d6c3acc, photorealistic
@@ -1582,6 +1588,7 @@
 835e7dc1, gigafractal artstyle
 8371a0bf, spicto
 8381f785, jclnhbe style
+83db46be, Fantasy|Anime|fantasy Backgrounds
 84270e56, Blue skin|Red Skin|Green skin|glitter makeup|
 84597c2e, style of joemadureira
 8469c1b7, in WKHW1 Beautiful Art Style
@@ -1643,6 +1650,7 @@
 8a6eadcf, bolsonaro, bigbolsonaro_v10.safetensors
 8a6eadcf, eneias, bigeneias_v10.safetensors
 8a7088c5, JzzyeonAi_v5
+8aacc4c1, 1girl，moyou，realistic
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
 8aca88c2, bakirda|kridaba|DaKriDi|dikrida
 8ad6ce64, Evan
@@ -2435,6 +2443,7 @@ c88e730a, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 c89caee5, 只因jinkesi
 c8e3bfca, AnimeChan Style
 c91be480, Dloz|Dloz style
+c951cc0e, sks person
 c9a2e2a1, GGH23 person
 c9c45d16, Pris
 ca198d1c, actionauf, actionauf_v10.safetensors
@@ -2817,6 +2826,7 @@ ebb5d44d, dal|nsfw
 ebb66e32, water
 ebc4e0a9, RottingZombie person
 ebd5057f, photo of a potion
+ec2cc381, Interior design|architectural design|Building Blueprint|Blueprint. home|house|house design
 ec3b35a3, cult of cthulhu|giger|post-apocalypse|biomechanicals|terror|horror|Cthulhu|creepy|dread
 ec664923, undercucho
 ec8cd4c8, BalloonArt
@@ -2915,6 +2925,7 @@ f4a9a8a6, anime|cartoon|anime style|2d, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, none, sdxl_vae.safetensors
 f4a9a8a6, pores|realistic, sdxl_vae.safetensors
+f4a9a8a6, realistic|photorealistic|raw photo|raw picture|realism|realistic style, sdxl_vae.safetensors
 f4a9a8a6, realistic|realism|photorealistic|raw photo, sdxl_vae.safetensors
 f4d8697e, lastname name
 f4dd44ad, svtbuild
