@@ -2794,7 +2794,8 @@ e7300f3d, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 e742f6fb, dal
 e767908b, Game illustration|Chinese costume
 e79c8e1c, jckmn person
-e80f12bb, Evang
+e80f12bb, Evang, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
+e80f12bb, real|natural, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e83d3aa7, Ligne claire
 e842dcc7, KingShark|Humanshark|Sharkman
 e8468071, panamera04
