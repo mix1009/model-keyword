@@ -94,6 +94,7 @@
 06a9d223, mengersponge|sierpsponge
 071b2e26, tk-char|tk-env
 071eb7b2, evang
+0768c30c, insertNameHere
 07737b93, hotporn
 0786845e, trained with chilloutmix|chinabeauty|dreamlike|a lot of others
 079b172e, illustration style kurzgesagtish
@@ -170,6 +171,7 @@
 0d8373ed, realistic|photorealistic
 0d985eef, sks woman
 0e19e7fb, 3dcharacter|3dcutecharacter|cloud|waves
+0e3bcabc, 1 girl|Bean_Labs|B&W|masterpiece|stunning light and shadow
 0e52463f, nightmare|horror|dark atmosphere|creepy|dread|post-apocalypse|cult of cthulhu
 0e5bd0bf, CCDDA  artstyle
 0e828029, sks woman|(sks woman)
@@ -1011,6 +1013,7 @@
 4a0c37d8, supermarionation
 4a146754, Topnotch Artstyle
 4a2eab64, SDArt|appt|ohwx|asr|aten|fcu|chor|cpec|pfa|kprc|kuro|asot|elis|sill|exe|bsp|grl|hap|byes|lpg|yler|avel|vaw|zaki|ohn|guin|vini|pz|crit|shma|doa|sks|szn|phol|utm|uy|dds|pte|oxi|ynna
+4a33fce8, insertNameHere
 4a3dfda4, p5r style
 4a5715f0, Defoko
 4a6720b1, sks carrie
@@ -1492,6 +1495,7 @@
 7824a38b, aerialstyle
 7867176b, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 78825d24, ayanokouji|1boy
+788a4dd0, penis|testicles
 78ada753, realistic
 78c98245, shuimobysim|shukezouma
 78d68104, sincity_iamyork
@@ -1622,6 +1626,7 @@
 8624248c, analog style|modelshoot style|nsfw|nudity
 863d6185, empress
 86443106, ameliaintan
+8644d3fc, realistic
 864e0609, Anime|Manga|Cartoon
 866f9274, sakimi mix
 86818bae, googiearch
@@ -2901,10 +2906,12 @@ f0f9c9ee, photo of luxury-arabic-1979
 f125fab8, P4U14
 f157610a, paigevanzant
 f15eaf3f, RAW photo of|Analog photo of
+f1746351, traditional|townhouse|architecture|bedroom|livingroom|badroom|walnut|interior modern|Japanese roof|Neoclassical
 f1756e9b, dal
 f1aafbbe, estilovintedois|lexicaart
 f1e11c37, smhcgty
 f1e9d943, masterpiece|realistic|best quality
+f1edf53b, in the style of HridleyXL|illustration
 f22d0019, PiroxiumDiffusion style
 f22ff389, trixiemattel drag queen
 f25bd13a, futanari
@@ -2937,12 +2944,14 @@ f457c3e6, shiinamashiro
 f47ae1fa, sks woman
 f4a70244, female|girl|woman|man|boy
 f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte
+f4a9a8a6, 3d toon style|3d style, sdxl_vae.safetensors
 f4a9a8a6, Realistic|Photorealistic|Raw photo|realism|realistic style, sdxl_vae.safetensors
 f4a9a8a6, anime, sdxl_vae.safetensors
 f4a9a8a6, anime|cartoon|anime style|2d, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, none, sdxl_vae.safetensors
 f4a9a8a6, pores|realistic, sdxl_vae.safetensors
+f4a9a8a6, realistic, sdxl_vae.safetensors
 f4a9a8a6, realistic|photorealistic|raw photo|raw picture|realism|realistic style, sdxl_vae.safetensors
 f4a9a8a6, realistic|realism|photorealistic|raw photo, sdxl_vae.safetensors
 f4d8697e, lastname name
@@ -3059,6 +3068,7 @@ ff838ac8, fantasy
 fff0c339, 1girl, wdr_v10.safetensors
 fff0c339, 1girl|1boy, nijiflat_v02.safetensors
 fff0c339, 1girl|solo, nijiflat_v01.safetensors
+fff0c339, 3d toon style|3d style, 3dToonDiffusionXL_v10.safetensors
 fff0c339, dal, xlPainting_v09Beta.safetensors
 fff0c339, xxmix_girl, xxmix9realisticsdxl_testV10.safetensors
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
