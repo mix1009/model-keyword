@@ -82,7 +82,8 @@
 04cdb6b7, Burgie|prilosecotc1
 04dc4f68, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|Analog Style|Watercolor
 050f0bae, Analog Style|Photorealistic|Realistic|Mature Adult|Fantasy Art|Illustration|Watercolor|Concept Art|Oil Painting|Surrealism|Brush Strokes|Pointillism|Hyperrealistic|Perfect Shading|Masterpiece|Subsurface Scattering|Perfect Lighting|Volumetric Lighting
-0519e070, nerdphoton1
+0519e070, nerdphoton1, nerdPhoton1_v10.ckpt
+0519e070, nerdphoton2, guttoNerdPhoton2_v20.ckpt
 0579cceb, pixiv masterpiece
 0586db75, cornflower
 05e6c91b, by kokuto
@@ -830,6 +831,7 @@
 366915ea, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 36833c3d, jirai kei|jirai fashion|eye shadow|dark lips|twin tails|fishnet stockings
 369da414, 1girl
+36ae2bff, 3D product render|3D product render style
 36b82728, zhaojun
 36ce47dc, 1gilr
 36f1e334, Evang
@@ -1541,6 +1543,7 @@
 7d4ca959, penelope
 7d6c3acc, photorealistic
 7d9a25d8, Photography|Realistic
+7da4254f, xsfantasy|oriental fantasy|western fantasy
 7de2ea0f, ishizuka
 7e67267b, eldmeisterOG
 7e6c193b, Real|realistics
