@@ -635,6 +635,7 @@
 223531c6, masterpiece, vae-ft-mse-840000-ema-pruned.ckpt
 2258c119, CNDigitalArt Style
 2275f2cf, 90s retro anime style|xx year anime style
+228b3ab5, evang
 22a55888, insertNameHere
 22ca4aaa, guigubahuang|1girl|chinese style
 23234436, furry
@@ -1077,6 +1078,7 @@
 508104ff, isohomes
 50ad914b, e621
 50b09182, flonixreddit
+50d20906, Thai|Thaidress|girl
 510c4b84, dal
 510c5845, modelshoot style|nousr robot
 511d6e1f, 11, 11_v10.safetensors
@@ -2374,7 +2376,7 @@ be82dca2, Altira|Altira style
 beab2cb2, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 beb6bcfd, Evang
 beb87f9d, furry|girl
-becccd91, 1girl|1boy, osorubeshiAlphaXL_y.safetensors
+becccd91, 1girl|1boy, osorubeshiAlphaXL_z.safetensors
 becccd91, 1girl|1boy|female|male|comic, osoruwest_v01.safetensors
 becdbc5d, Kavellion|Kavellion style
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
@@ -2399,6 +2401,7 @@ c0e7c884, snthwve style|nvinkpunk
 c0ed7dfb, l4lisa
 c0f32ab1, plushiedsk
 c11fb943, modelshoot style
+c12e4c21, Evang
 c1523adf, naturitize
 c1582649, dmmid style
 c1589bf7, vapodusk1|wvert1|paint splatters|swpunk|mdjrny-pntrt|synthwave|dskyart1
