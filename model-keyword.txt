@@ -1418,6 +1418,7 @@
 703f7ff1, high fantasy
 705ae506, None
 7088b556, lego man|lego|constructor
+70d46e42, 1girl|moyou
 70f7b200, 1girl|girlvn01
 714f9084, Game characters|full body|original art design
 7159aa58, shinyunbok
@@ -2186,6 +2187,7 @@ abfe92ae, mecha_robot|mecha
 ac039af9, 90s retro anime style|xx year anime style
 ac25001a, fwatch style
 ac30bd02, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
+ac4b3d45, 1girl|1boy
 ac5d425b, SDArt
 ac5da50d, emaiti
 ac6c89d0, dublex
@@ -2934,6 +2936,7 @@ f2b82853, junobirch drag queen
 f2c88bf2, photo of zwx ouyangziyu
 f2ca12bd, zombie_vector
 f2caf204, posing for the camera|posing for a photo|a close up of
+f2e11406, in style of vrcty
 f2e5f721, DZ, dz_v10.ckpt
 f2e5f721, eve, eve_v10.ckpt
 f2e5f721, noa, noa_v10.ckpt
