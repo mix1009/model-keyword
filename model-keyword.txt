@@ -792,7 +792,6 @@
 3288c45d, GOOSEBUMPS ART BY TIM JACOBUS|RAINBOWPATCH|FOOD_CRIT|TK-CHAR|TK-ENV|LIQUID SPLASH|PAPERCUT|PORCELAIN DOLL|artificial-journey style|SURREALISM|COLORFULSURREALISMAI|CARBON|DUOCHROME|HOLOGRAPHIC|in OliDisco style|FLAT COLOR|FLAT ILLUSTRATION|VECTORSTYLE|MECHA
 328ad29d, sks man
 32b08cff, gotou hitori|inoue takina|kita ikuyo|kubo nagisa|nishikigi chisato|sabine|sendou erika|shiina mahiru|yamano mitsuha|shuka high school uniform|lycoris uniform
-32b85a3d, most beatiful ever
 32ccf42a, JangYouSun
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
 3303e72d, milf
@@ -1993,6 +1992,7 @@
 9f59a736, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog
 9f675a83, ClaymationXmas
 9f856288, aniscreen|amityblight|edalynclawthorne|emperorbelos|gusporter|huntergoldenguard|lilithclawthorne|luznoceda|rainewhispers|thecollector|willowpark|kingclawthorne
+9f9bf543, anime|comic|manga|girl
 9fc108a7, Evang
 9fd02bb8, photo
 9fee5b60, maddiesmith
@@ -2060,6 +2060,7 @@ a42082e5, DarahanEyes
 a4281939, PORTRAIT of Dilmurat|Dilmurat|1girl
 a455667b, cute|chibi
 a457aeea, FlonixApterus
+a4723a65, anime
 a476b99d, 11
 a480df4d, hanfu
 a48a2a1b, ghibli style
@@ -2262,7 +2263,7 @@ b1facb5b, colorful, copaxTimelessxlSDXL1_colorfulV2.safetensors
 b1facb5b, disney cartoon|cute cartoon, LahCuteCartoonSDXL_beta1.safetensors
 b1facb5b, disney cartoon|cute cartoon|cute chinese|chibi chinese, LahCuteCartoonSDXL_alpha.safetensors
 b1facb5b, fantasy|dark fantasy|mysterious|anime|realistic|3d rendering|cyberpunk|cyborg, LahMysteriousSDXL_v330.safetensors
-b1facb5b, mysterious, LahMysteriousSDXL_v10.safetensors
+b1facb5b, mysterious, LahMysteriousSDXL_v355.safetensors
 b1facb5b, mysterious|fantasy|dark fantasy|3D rendering|anime, LahMysteriousSDXL_v30.safetensors
 b1facb5b, mysterious|fantasy|lofi style|anime, LahMysteriousSDXL_v295.safetensors
 b1facb5b, mysterious|fantasy|peplos|greek|anime, LahMysteriousSDXL_v256.safetensors
@@ -2300,6 +2301,7 @@ b5453f75, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.ckpt
 b5453f75, dbfantasyart, fantasyArtStyle_fantasyArtStyleV18.ckpt
 b5564717, dal
 b591bf20, masterpiece|best quality
+b59e864c, portrait|cinematic|photorealistic|photography
 b5c0b653, modelshoot style
 b5e156ba, vskeei1
 b5f6fe6c, pepe_frog
@@ -2407,6 +2409,7 @@ c0ed7dfb, l4lisa
 c0f32ab1, plushiedsk
 c11fb943, modelshoot style
 c12e4c21, Evang
+c142c7cf, outline|monochrome|lineart|black and white|grayscale|greyscale
 c1523adf, naturitize
 c1582649, dmmid style
 c1589bf7, vapodusk1|wvert1|paint splatters|swpunk|mdjrny-pntrt|synthwave|dskyart1
@@ -2784,6 +2787,7 @@ e3af0732, btywtrclr
 e3e5eba1, _
 e3fd6fba, insertNameHere
 e426a38f, dskyart1
+e43b2dfd, most beatiful ever
 e476ecf5, justyeaa
 e492ca3d, Bright LUT|Cinematic LUT|Horror LUT|Instagram LUT|Romance LUT|Winter LUT|Vintage LUT|Wedding LUT
 e494d7b5, takeON
