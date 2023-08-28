@@ -128,6 +128,7 @@
 09bcb72f, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
 09c6d455, JangEunYoung
+09cf07d1, insertNameHere
 09d7878a, pixarstyle
 09d81b43, t3|model
 09dd2ae4, BDSM model
@@ -586,6 +587,7 @@
 1f27bb0e, sks woman
 1f96e58d, photo|photograph
 1fb30a55, aimoji
+1fb56d97, 1girl|moyou
 20225e21, movie|cg
 202360be, by b-ginga, bGingaModel_bgingaV1130k.safetensors
 202360be, by chon, chonModel_chonV19k.safetensors
@@ -964,6 +966,7 @@
 439f64ec, midjourney model 1.5v|model v1.5, warriorGirlOfArmorSD_armorGirlWarrior.ckpt
 439f64ec, realistic|all|photorealistic|fantasy, modelMovieRealistic_v20.ckpt
 43a5955f, photorealistic
+43ab0d4e, insertNameHere
 43c1d91f, furry
 43e4db69, anime
 43eb72ee, lineart|monochrome
@@ -1916,6 +1919,7 @@
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 99cc51d8, masterpiece, darkPizzaXLOriginXL_v33.safetensors
 99cc51d8, masterpiece|comic, darkPizzaXLOriginXL_v34.safetensors
+99cc51d8, xsfantasy|western fantasy|oriental fantasy, neverdream_V23Novae.safetensors
 99d08e67, latex
 99e78387, SinCityMovie Style
 99ff99fd, BJ_Pure_Realistic, pureRealisticV10_v10.safetensors
@@ -2732,6 +2736,7 @@ de2f2560, phantylia|phantylia honkai, phantylia_v10.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 de2f2560, post-Impressionist, exquisiteDetails_art.safetensors
+de2f2560, schwarz|red dress, schwarzTest_schwarzDressV10.safetensors
 de2f2560, shiny_skin, realshinymixV1_v10.safetensors
 de2f2560, yorha2b, yorha2b_v20Animation.safetensors
 de2f2560, zephyr, zephyr_v10.safetensors
