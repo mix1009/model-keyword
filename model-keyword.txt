@@ -469,6 +469,7 @@
 142aa868, Hentai|anime|male|female|girl|boy
 142c3c11, cinematic style|photographic style|analog film|low-angle|dark colors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+149aa697, anime
 14d36354, duskz1
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
 14e1ef5d, gianthulk, mysteriousCharacter_dreamlike20.ckpt
@@ -550,6 +551,7 @@
 1b6effda, general
 1b7ee812, wlop|nixeu
 1b80316b, hcmv
+1bb681b7, KEMONO
 1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 1bd2e52a, 1girl|jiangye|helix angle|hair ornament|multicolored hair|purple hair|pink hair|pink pupils|purple eyebrows|earrings|pink background|white crop top|demon heart tail|arm  strap|student cardaround neck|purple and black short dress|handcuffs|thigh strap|bandaid on leg|torn single leg pantyhose|bandaged hands|One hand wrapped in a bandage|full body|long hair|
 1be68457, 1girl|1boy, osorubeshiAlphaXL_v04.safetensors
@@ -2265,6 +2267,7 @@ b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photoreali
 b1f4f421, 1girl
 b1facb5b, 1girl, nijiDiffusionXlBase1_v10.safetensors
 b1facb5b, 1girl|anime, envyanimexl_v09.safetensors
+b1facb5b, Art|Creepy, 2dCreepyArtMonster_v11.safetensors
 b1facb5b, Fantasy|dark fantasy|mysterious|anime|anime style|3D rendering|Realistic, LahMysteriousSDXL_v315.safetensors
 b1facb5b, Mysterious|eyes detail|fox girl, LahMysteriousSDXL_v251.safetensors
 b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
@@ -2357,6 +2360,7 @@ ba2d4b1a, comic style|illustrated|line art|colored line art|flat color|2D|waterc
 ba468443, no
 baf83ef9, 3D modeling|photos|real world
 bb029452, kindigitstyle
+bb20f881, leogirl
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
 bb3992f1, Edsheeran Person
@@ -2649,6 +2653,7 @@ d843660f, quinn \(league of legends\), quinnFromLeagueOf_quinnNaiMix.ckpt
 d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
 d84b15d9, none
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
+d8892ed6, 1girl|moyou
 d89bc06c, m
 d8e16309, realistic|photorealistic
 d902a082, design|interrior|interriordesign
