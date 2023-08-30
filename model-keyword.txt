@@ -149,6 +149,7 @@
 0b071c53, bilsh21
 0b09ad3b, ctsmscl
 0b2cf1fe, evang
+0b5cc604, fantasy|fantasy art|80's fantasy art|90's fantasy art|Retro|Realistic|Photorealistic|Watercolor|Oil Painting|Science Fiction|Scifi Fantasy Art|Scifi|D&D Character|Character Design|Character Concept|Fantasy Poster|Analog|Analog Style|Volumetric Lighting|Subsurface Scattering|Photoreal|Perfect Body|Perfect Legs|Masterpiece|Intricate|Detailed|Hyperrealistic|Mature Adult|NSFW
 0b65606f, sks woman
 0b84672b, gtechstyle|art by gtechstyle|in the style of getchstyle
 0b84ef8c, analog style|modelshoot style|nsfw|nudity|erotic|cyborgdiffusion
@@ -1566,7 +1567,6 @@
 7d4ca959, penelope
 7d6c3acc, photorealistic
 7d9a25d8, Photography|Realistic
-7da4254f, xsfantasy|oriental fantasy|western fantasy
 7de2ea0f, ishizuka
 7e67267b, eldmeisterOG
 7e6c193b, Real|realistics
@@ -1927,7 +1927,7 @@
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 99cc51d8, masterpiece, darkPizzaXLOriginXL_v33.safetensors
 99cc51d8, masterpiece|comic, darkPizzaXLOriginXL_v34.safetensors
-99cc51d8, xsfantasy|western fantasy|oriental fantasy, neverdream_V23Novae.safetensors
+99cc51d8, xsfantasy|western fantasy|oriental fantasy, neverdream_V23.safetensors
 99d08e67, latex
 99e78387, SinCityMovie Style
 99ff99fd, BJ_Pure_Realistic, pureRealisticV10_v10.safetensors
