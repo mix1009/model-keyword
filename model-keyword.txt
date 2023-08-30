@@ -124,6 +124,7 @@
 09bcb72f, 1man, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Navia, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, Nothing, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, analog style|modelshoot style|nsfw|nudity, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, fantasy|fantasy art|80's fantasy art|90's fantasy art|Retro|Realistic|Photorealistic|Watercolor|Oil Painting|Science Fiction|Scifi Fantasy Art|Scifi|D&D Character|Character Design|Character Concept|Fantasy Poster|Analog|Analog Style|Volumetric Lighting|Subsurface Scattering|Photoreal|Perfect Body|Perfect Legs|Masterpiece|Intricate|Detailed|Hyperrealistic|Mature Adult|NSFW, vae-ft-mse-840000-ema-pruned.safetensors
@@ -583,6 +584,7 @@
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1e2b3832, lula
 1e2c90cc, 1girl|moyou
+1e50a350, Nothing
 1e6822b7, comics style|analog style|illustration|lineart
 1e7dad9a, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult
 1e8c4a0a, GIRL Oil Painting
@@ -704,6 +706,7 @@
 28ae9d27, tk-char|tk-env
 28c385a0, Bloodborne Style
 28d20569, sks woman
+28e99b90, See Appendix|见附录部分
 291b67b8, maxwell the cat
 291e7dc8, monochrome
 29323d76, Ligne Claire|PC-98
@@ -2638,6 +2641,7 @@ d634b8cb, kvn, myModelKevin_v10.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
 d636e597, See Appendix A|见附录A, sdxl_vae.safetensors
+d636e597, See Appendix|见附录部分, sdxl_vae.safetensors
 d636e597, ziov, sdxl_vae.safetensors
 d659f794, rcnz_niji style
 d65c923a, 1girl
@@ -3111,6 +3115,7 @@ fff0c339, 1girl|1boy, nijiflat_v02.safetensors
 fff0c339, 1girl|solo, nijiflat_v01.safetensors
 fff0c339, 3d toon style|3d style, 3dToonDiffusionXL_v10.safetensors
 fff0c339, dal, xlPainting_v09Beta.safetensors
+fff0c339, girl|boy, animerealisticbg_v10.safetensors
 fff0c339, inkpunk, sdxlInkpunkstyle_v01.safetensors
 fff0c339, xxmix_girl, xxmix9realisticsdxl_testV10.safetensors
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
