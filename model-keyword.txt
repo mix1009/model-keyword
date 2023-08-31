@@ -442,6 +442,7 @@
 12ec3add, glock|pistol
 134ac326, anime
 1351eaf1, cgi|cgi style
+135bf420, furry
 1374389b, dal
 139f78c4, Evang
 13a6777c, modelshoot style|nousr robot
@@ -568,6 +569,7 @@
 1cd32833, nightmare|horror|dark atmosphere|creepy|dread|post-apocalypse|cult of cthulhu
 1cecdd34, anime|girl|boy|woman|man|robo
 1d0d03ee, botw style
+1d116781, furry
 1d132f9e, whatif style|tdst style
 1d2f8774, furry
 1d5f981e, emmasamms
@@ -1094,6 +1096,7 @@
 508104ff, isohomes
 50ad914b, e621
 50b09182, flonixreddit
+50b0c3b5, poi氵
 50d20906, Thai|Thaidress|girl
 510c4b84, dal
 510c5845, modelshoot style|nousr robot
@@ -1538,6 +1541,7 @@
 7a0fd151, anime, anything_fp16.safetensors
 7a0fd151, illustration, blessed2.vae.safetensors
 7a0fd151, mksks style|detailed background, blessed2.vae.safetensors
+7a0fd151, poi氵, blessed2_fp16.safetensors
 7a12e74a, girl with big boobs|furry
 7a16febb, thecat, chikomokiiStyle_v1.ckpt
 7a16febb, yuqikun, yuqikunStyle_v1.ckpt
@@ -1611,6 +1615,7 @@
 820c4a3e, by sy4
 8217678b, <niji-se-3d>
 822b8799, pepestyle person
+82402518, balacbk
 82780037, tpkify
 82978554, anidzk2
 82b0e27e, A perfect photo|A poorly lit photo|A perfect closeup photo
@@ -2366,6 +2371,7 @@ ba158946, goldenglass
 ba210b22, sks woman
 ba2d4b1a, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic|mature adult|oil painting|comic poster
 ba468443, no
+ba6e3476, furry
 baf83ef9, 3D modeling|photos|real world
 bb029452, kindigitstyle
 bb20f881, leogirl
@@ -2768,6 +2774,7 @@ df989f31, Hentai|anime|male|female|girl|boy
 df9e36bd, leagueofstyle
 dfa06e02, evang
 dfafd600, duskametric15|microworld
+dfaff748, furry
 dfb90adf, by kyoani
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 e000edd2, Navia
@@ -2805,6 +2812,7 @@ e3373f54, Japanese|Korean
 e33d0a54, Masterpiece|Realistic|best quality
 e3423ef2, evang, acSide_v10.ckpt
 e3423ef2, photo of evang person, sideView_acside.ckpt
+e3451deb, furry
 e35930da, rachelwalker style
 e35af7e4, 1girl|dynamic angle|dynamic pose|chinese style architecture|hanfu
 e37a18ee, Evang, vector2_v10.safetensors
