@@ -764,6 +764,7 @@
 2e719f2a, CHV3CWrestler|CHV3CReptile|CHV3CAnimal|CHV3CNinja|CHV3CAnthro|CHV3CDino|CHV3CFoodPorn|CHV3CDeepSea|CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDiner|CHV3SGarden|CHV3SFair|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld
 2ea457e8, evang
 2eb2f2cc, cyberpunk
+2ec7346e, micsakana
 2ede2fec, gdk
 2ee24e88, kylxn
 2ee82b98, fashion|film grain|like a painting|eboy|psychedelic|flowers|makeup|bodyart|statue
@@ -1230,6 +1231,7 @@
 5cc891f2, pixar|C4D|blender|3d
 5cc9b7ba, modelshoot style
 5d2a695e, sdclrdrk style
+5d337193, 1girl|moyou
 5d39b377, rainey|rainey style
 5d63c8cd, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
 5d83b27c, nvinkpunk|snthwve style|style of joemadureira
@@ -2121,6 +2123,7 @@ a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 a6f96d80, BelleDelphine|woman
 a72de66c, MedabotV2
 a731246e, Merge
+a7358fae, 1990s style|1980s style|retro artstyle
 a73b3094, 3d render of|3d cartoon of
 a74ca246, cbzbb|microworld, microcharsMerge_10.ckpt
 a74ca246, food_crit|microworld, microcrittersMerge_10.ckpt
@@ -2720,6 +2723,7 @@ dccb4eb7, head
 dcdf0425, dgs illustration style
 dced2560, cum
 dcff916b, modelshoot style|swpunk|synthwave|paint splatters
+dd1afbf0, kkgufengwkk
 dd3a8609, Evang
 dd47c9f1, nabongs|jeongie|hiraimomo|minatozaki sana|godjihyo|myouimina|dubu|chaengie|choutzuyu
 dd539c7c, dsktaro1
