@@ -59,6 +59,7 @@
 02cb660f, 1 girl
 02dc71ee, Game characters|full body|original art design
 02f311af, David, modelguyyy_v10.ckpt
+02f311af, bereju2, bereju_v10.ckpt
 02f311af, gner1, guttoNerdEpicRealism_v10.ckpt
 02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
 02f311af, kylxn, akalinLinky_kylxn.ckpt
@@ -2920,6 +2921,7 @@ ec3b35a3, cult of cthulhu|giger|post-apocalypse|biomechanicals|terror|horror|Cth
 ec664923, undercucho
 ec8cd4c8, BalloonArt
 ec9f8c2e, CharacterChan Style
+eccb3dc0, 1girl|moyou
 ecd908cb, sks woman|(sks woman)
 ecf14450, male|female
 ecf98c5e, valorant style
@@ -2944,7 +2946,8 @@ ee30c7db, Goku
 ee5b91da, ligne claire
 ee5e8d13, Sheeroawan
 ee624815, xmascookie
-ee685731, cute|chibi
+ee685731, cute|chibi, Thumbelina_v101.safetensors
+ee685731, robot, aFormidable_v10.safetensors
 eec5b397, hungpham
 eef06b18, masterpiece|best quality|nfixer|nfixernext|re-badprompt
 eefa7e96, girl|face|beautiful
