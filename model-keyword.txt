@@ -59,10 +59,11 @@
 02cb660f, 1 girl
 02dc71ee, Game characters|full body|original art design
 02f311af, David, modelguyyy_v10.ckpt
-02f311af, bereju2, bereju_v10.ckpt
+02f311af, bereju2, bereju_v11.ckpt
 02f311af, gner1, guttoNerdEpicRealism_v10.ckpt
 02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
 02f311af, kylxn, akalinLinky_kylxn.ckpt
+02f311af, lilygg, lilygg_v10.ckpt
 02f311af, megan, megan_v15.ckpt
 02f311af, model|nabha, realnabha_v10.ckpt
 02f311af, poggers, pactWithWhitch_v10.ckpt
@@ -1898,6 +1899,7 @@
 993f2358, guttonerdvision10, guttoNerdVision10_gnv10.ckpt
 993f2358, guttonerdvision11, guttoNerdVision11_gnv11.ckpt
 993f2358, guttonerdvision12, guttoNerdVision12_v12.ckpt
+993f2358, guttonerdvision14, guttoNerdVision14_v14.ckpt
 993f2358, ioasdf, krio70_001.ckpt
 993f2358, jennawan, jennawan_v10.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
