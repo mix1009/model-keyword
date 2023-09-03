@@ -2381,6 +2381,7 @@ b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
 ba0eff40, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|D&D character|fantasy poster|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|masterpiece|intricate|detailed|hyperrealistic
 ba158946, goldenglass
+ba1d106b, modern disney style
 ba210b22, sks woman
 ba2d4b1a, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic|mature adult|oil painting|comic poster
 ba468443, no
@@ -2813,6 +2814,7 @@ e0d019bb, samdoesarts
 e0dcec61, 1girl
 e0e1b606, FURRY|ANTHROPOMORPHIC|FURRY ART|DIGITAL ART|UPLOADED_ON_E621:1.4|ANTHRO FURRY:1.5
 e0f5c75f, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
+e109253c, raw photo
 e13105fc, masterpiece|best quality, bbMIXALICE_v10.safetensors
 e13105fc, masterpiece|best quality|white theme|black theme, bbmixRUIS_bbmixRUIS.safetensors
 e136d291, None
