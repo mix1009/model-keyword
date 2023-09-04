@@ -417,6 +417,7 @@
 10a66fa5, romcom style
 10a97182, julietmills
 10c6aa67, studio_ghibli_anime_style style
+10cc7eeb, Cartoon|Cartoon Style
 10d8b227, samanthafox
 10eaf341, masterpiece|best quality|re-badprompt|anime|realistic
 1108cf15, by miyase mahiro
@@ -2225,6 +2226,7 @@ abfe92ae, mecha_robot|mecha
 ac039af9, 90s retro anime style|xx year anime style
 ac25001a, fwatch style
 ac30bd02, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
+ac344962, yuuki rito|lala satalin deviluke|nana asta deviluke|momo velia deviluke|haruna sairenji|yuuki mikan|konjiki no yami|kotegawa yui|kurosaki meia|run elise jewelria
 ac423f79, K8D
 ac4b3d45, 1girl|1boy
 ac5d425b, SDArt
@@ -2499,6 +2501,7 @@ c534c25d, 1girl
 c55e0d84, virtual youtuber|masterpiece|best quality|hololive|lastname name:1.2
 c5943e55, mdjrny-pprct
 c59c7da7, realistic
+c5b5ba67, photorealistic|realistic|ultra realistic|raw photo
 c5c47935, in the style of AImanhwa
 c5c54e28, dreamlikeart
 c5ec95b4, loli
@@ -3022,11 +3025,13 @@ f47ae1fa, sks woman
 f4a70244, female|girl|woman|man|boy
 f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte
 f4a9a8a6, 3d toon style|3d style, sdxl_vae.safetensors
+f4a9a8a6, Cartoon|Cartoon Style, sdxl_vae.safetensors
 f4a9a8a6, Realistic|Photorealistic|Raw photo|realism|realistic style, sdxl_vae.safetensors
 f4a9a8a6, anime, sdxl_vae.safetensors
 f4a9a8a6, anime|cartoon|anime style|2d, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, none, sdxl_vae.safetensors
+f4a9a8a6, photorealistic|realistic|ultra realistic|raw photo, sdxl_vae.safetensors
 f4a9a8a6, pores|realistic, sdxl_vae.safetensors
 f4a9a8a6, realistic, sdxl_vae.safetensors
 f4a9a8a6, realistic|photorealistic|raw photo|raw picture|realism|realistic style, sdxl_vae.safetensors
