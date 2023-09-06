@@ -2395,7 +2395,8 @@ ba210b22, sks woman
 ba2d4b1a, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic|mature adult|oil painting|comic poster
 ba468443, no
 ba6e3476, furry
-baf83ef9, 3D modeling|photos|real world
+baf83ef9, 3D modeling|photos|real world, animatedModelsOf_v10.safetensors
+baf83ef9, Photos|real ones|Anime|Illustration, dominationWorld_v02.safetensors
 bb029452, kindigitstyle
 bb20f881, leogirl
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
