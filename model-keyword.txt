@@ -1543,6 +1543,7 @@
 79009b03, Evang
 7906524a, cornflower
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
+7920e1f5, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|background|male|cinematic
 79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV51_v20Novae.safetensors
 79587710, zombie, wendigo_v20.safetensors
 7960116e, evang
