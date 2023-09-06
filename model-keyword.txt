@@ -1011,6 +1011,7 @@
 45f682e2, sincity_iamyork
 45f855ea, 士官长
 46089527, Evang
+4629eda6, mj|cozy|cinematic
 46314e53, close up character design|multiple concept designs|
 467df46e, 1girl|anime|mastepiece|best quality
 4689ff28, nvinkpunk|samdoesarts
@@ -1729,6 +1730,7 @@
 8c1772f8, Realistic|Photorealistic|Raw photo|realism|realistic style
 8c36d946, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 8c3b86ce, chilloutmix-Ni.safetensors
+8c6624df, 1nt4n
 8c7b6bc3, Evang
 8c7efd5f, itojunji style
 8ca5c5a1, zero_two_101
@@ -1951,7 +1953,7 @@
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 99cc51d8, masterpiece, darkPizzaXLOriginXL_v33.safetensors
 99cc51d8, masterpiece|comic, darkPizzaXLOriginXL_v34.safetensors
-99cc51d8, xsfantasy|western fantasy|oriental fantasy, neverdream_V23.safetensors
+99cc51d8, xsfantasy|western fantasy|oriental fantasy, neverdream_neverdV23.safetensors
 99d08e67, latex
 99e78387, SinCityMovie Style
 99ff99fd, BJ_Pure_Realistic, pureRealisticV10_v10.safetensors
@@ -2270,6 +2272,7 @@ af8016c8, katebush
 af8cc85f, sbwidowmakerxx person
 af9bb53b, julietmills
 afc6eaf9, Oldjourney
+afd9d2d4, mj|cozy|cinematic
 afde7fdc, satellite image of oeax location
 afe165d2, sybildanning
 b0093a9d, jian guo
