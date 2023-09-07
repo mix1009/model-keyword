@@ -537,6 +537,7 @@
 19f6cc8a, woman
 19f865cb, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 1a58ecf4, chaingirldark style
+1a594b86, 1girl|1boy
 1a78ec5a, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 1a7d3df5, masterpiece|best quality|anime|realistic|photorealisitc|exceptional|instagram|re-badprompt|nfixer|nfixernext
 1a9cb0c9, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
@@ -2396,6 +2397,7 @@ ba210b22, sks woman
 ba2d4b1a, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic|mature adult|oil painting|comic poster
 ba468443, no
 ba6e3476, furry
+baf09b14, SEE APPENDIX|见附录
 baf83ef9, 3D modeling|photos|real world, animatedModelsOf_v10.safetensors
 baf83ef9, Photos|real ones|Anime|Illustration, dominationWorld_v02.safetensors
 bb029452, kindigitstyle
@@ -2675,6 +2677,7 @@ d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d634b8cb, kvn, myModelKevin_v10.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
+d636e597, SEE APPENDIX|见附录, sdxl_vae.safetensors
 d636e597, See Appendix A|见附录A, sdxl_vae.safetensors
 d636e597, See Appendix|见附录部分, sdxl_vae.safetensors
 d636e597, ziov, sdxl_vae.safetensors
