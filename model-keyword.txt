@@ -129,6 +129,7 @@
 09bcb72f, Navia, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Nothing, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, analog style|modelshoot style|nsfw|nudity, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, chibi, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, fantasy|fantasy art|80's fantasy art|90's fantasy art|Retro|Realistic|Photorealistic|Watercolor|Oil Painting|Science Fiction|Scifi Fantasy Art|Scifi|D&D Character|Character Design|Character Concept|Fantasy Poster|Analog|Analog Style|Volumetric Lighting|Subsurface Scattering|Photoreal|Perfect Body|Perfect Legs|Masterpiece|Intricate|Detailed|Hyperrealistic|Mature Adult|NSFW, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
@@ -1028,6 +1029,7 @@
 474774e5, sks man|sks woman|neundies style
 475eae91, vintage polaroid analog portrait photography of
 47745337, MCwrld
+47898d97, Smooth skin
 4789dff9, chibi|cute
 4792ff92, ech_gen
 47a34de9, sticker|vector-art
@@ -1550,7 +1552,6 @@
 79009b03, Evang
 7906524a, cornflower
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
-7920e1f5, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|background|male|cinematic
 79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV51_v20Novae.safetensors
 79587710, zombie, wendigo_v20.safetensors
 7960116e, evang
@@ -2364,6 +2365,7 @@ b63e1a80, zelda style image of
 b67477ba, KEMONO
 b69a7398, photo of zky zhong kunyi
 b6a25334, yaju-senpai
+b6aaeb01, chibi
 b6c3c8a8, sks woman
 b7010dfe, Mosaic Art
 b701219e, clone wars style|clonewars style|batman_the_animated_series
