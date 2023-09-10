@@ -477,6 +477,8 @@
 14112628, anime|cartoon|anime style|2d
 142aa868, Hentai|anime|male|female|girl|boy
 142c3c11, cinematic style|photographic style|analog film|low-angle|dark colors
+1437ae07, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|background|male|cinematic, albedobaseXL_v01.safetensors
+1437ae07, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|male|cinematic, albedobaseXL_v02.safetensors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 149aa697, anime
 14d36354, duskz1
@@ -680,6 +682,7 @@
 25200a09, checpoint
 253ccabe, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
 254fb5cd, hasanpiker person
+2566389c, Knollingcase|Beeple Style|Dreamshaper|Voxel-ish|Naturitize|Colorfulsurrealismai Surrealism
 256850b0, KEMONO
 258f79e3, stylized game icon|sci-fi|steampunk|spell
 2593818e, ren|1boy
@@ -830,7 +833,6 @@
 33ec9575, Pixar|anime|manga|comic|hand art
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
 341b1b4d, dragzkz
-3444675a, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|male|cinematic
 344ad699, KEMONO
 344bd3b5, anthro furry|post-impressionist
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
