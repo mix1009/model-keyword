@@ -57,6 +57,7 @@
 029cc27d, SLE|mksks style|detailed background
 02a55bbe, ligne claire|By Roy Krenkel|By Jean-Pierre Gibrat
 02acd63c, unstablephotoreal|unstablediffusion
+02b1c95f, eyes|big eyes
 02cb660f, 1 girl
 02dc71ee, Game characters|full body|original art design
 02f311af, David, modelguyyy_v10.ckpt
@@ -131,6 +132,7 @@
 09bcb72f, analog style|modelshoot style|nsfw|nudity, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, chibi, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, eyes|big eyes, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, fantasy|fantasy art|80's fantasy art|90's fantasy art|Retro|Realistic|Photorealistic|Watercolor|Oil Painting|Science Fiction|Scifi Fantasy Art|Scifi|D&D Character|Character Design|Character Concept|Fantasy Poster|Analog|Analog Style|Volumetric Lighting|Subsurface Scattering|Photoreal|Perfect Body|Perfect Legs|Masterpiece|Intricate|Detailed|Hyperrealistic|Mature Adult|NSFW, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
 09c6d455, JangEunYoung
@@ -1857,6 +1859,7 @@
 96e9bd73, art by yaguru magiku
 96f94d09, sks woman
 972c5030, gendigi
+972cb2b5, guttoepic2
 975b2546, 80's anime style
 97777800, swpunk|synthwave|paint splatters
 978e9ff8, h4zza
