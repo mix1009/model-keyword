@@ -135,6 +135,7 @@
 09bcb72f, eyes|big eyes, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, fantasy|fantasy art|80's fantasy art|90's fantasy art|Retro|Realistic|Photorealistic|Watercolor|Oil Painting|Science Fiction|Scifi Fantasy Art|Scifi|D&D Character|Character Design|Character Concept|Fantasy Poster|Analog|Analog Style|Volumetric Lighting|Subsurface Scattering|Photoreal|Perfect Body|Perfect Legs|Masterpiece|Intricate|Detailed|Hyperrealistic|Mature Adult|NSFW, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, psyiome|strange biome, vae-ft-mse-840000-ema-pruned.safetensors
 09c6d455, JangEunYoung
 09cf07d1, insertNameHere
 09d7878a, pixarstyle
@@ -1946,6 +1947,7 @@
 993f2358, orbai, orbai_V10.ckpt
 993f2358, paperai, paperai_V30.ckpt
 993f2358, pdalns, alienPdalnsRichstyle1_pdaln.ckpt
+993f2358, psyiome|strange biome, psyiome_v20.ckpt
 993f2358, sac, sac_v15.ckpt
 993f2358, satoworks, silentHillCGI_01.ckpt
 993f2358, sofcorrbell, sofcorrbell_.ckpt
