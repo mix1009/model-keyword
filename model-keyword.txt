@@ -2231,6 +2231,7 @@ aa7001cf, snowapocalypse, snowapocalypseV10_v10.ckpt
 aa7001cf, vector-art, vectorArt_Beta.ckpt
 aa7001cf, wooditize, jaksWooditizeImage_wooditizeSD21768px.ckpt
 aa7001cf, woolitize, jaksWoolitizeImage_woolitizeSD21768px.ckpt
+aab90c83, absurdres|ultra detailed|highres
 aae14d50, sci-fi|caspian sci-fi|star atlas|star citizen|render
 ab121853, Photo Realistic
 ab16976f, stylized game icon|sci-fi|steampunk|spell
