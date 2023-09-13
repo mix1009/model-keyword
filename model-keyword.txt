@@ -1640,6 +1640,7 @@
 81b68188, tk_env|tk_char
 81da0383, dvOldWorld
 81f23ca9, worst quality|lowres|easynegative|hermaphrodite|cropped|not in the frame|additional faces|jpeg large artifacts|jpeg small artifacts|ugly|tiling|poorly drawn hands|poorly drawn feet|poorly drawn face|out of frame|extra limbs|disfigured|deformed|body out of frame|blurry|bad anatomy|blurred|watermark|grainy|signature|cut off|draft|not finished drawing|unfinished image|bad eyes|doll|3d|cartoon|bad eyes:1.2|worst quality:1.2|low quality:1.2|bad-image-v2-39000|bad_prompt_version2:0.8
+81f2a6d8, Realistic|realism|photorealism|raw photo
 81f77d29, HARDblend
 81fa8dc4, dunhuang|dunhuang_background|dunhuang_face
 8206821b, woman
@@ -3067,6 +3068,7 @@ f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi
 f4a9a8a6, 3d toon style|3d style, sdxl_vae.safetensors
 f4a9a8a6, Cartoon|Cartoon Style, sdxl_vae.safetensors
 f4a9a8a6, Realistic|Photorealistic|Raw photo|realism|realistic style, sdxl_vae.safetensors
+f4a9a8a6, Realistic|realism|photorealism|raw photo, sdxl_vae.safetensors
 f4a9a8a6, anime, sdxl_vae.safetensors
 f4a9a8a6, anime|cartoon|anime style|2d, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
