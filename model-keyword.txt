@@ -1037,6 +1037,7 @@
 4723b6ed, hentai|anime, matrixNewAnimeStyle_v10VAE.safetensors
 474774e5, sks man|sks woman|neundies style
 475eae91, vintage polaroid analog portrait photography of
+4760bfa2, theoldshadowrunstyles
 47745337, MCwrld
 47898d97, Smooth skin
 4789dff9, chibi|cute
@@ -1247,6 +1248,7 @@
 5bea4f44, chinese woman|moyou
 5c347b90, no
 5c3af880, ai protest|ai protest|3d logo
+5c4a5db7, masterpiece|best quality|good hand angle
 5c60eb9e, 1girl|female|ulzzang|masterpiece|aesthetic|cute
 5c742e44, CCDDA artstyle
 5c7e6e88, 80sFashionRobot, 80sFashionRobot_v1.ckpt
@@ -2851,6 +2853,7 @@ e02601f3, photo of ohwx woman, janLevinsonMeloraHardin_6kSteps.ckpt
 e02601f3, rurudo, rurudo_v10.ckpt
 e02601f3, sks lucy, lucyFromCP_v1.ckpt
 e02601f3, sks vi|vi, viFromArcane_v1.ckpt
+e04f7e7f, character
 e0844d20, pbr
 e0a3ab60, xivcine person
 e0a60e11, dskyart1|style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
@@ -3173,7 +3176,6 @@ fdbb23ad, d&d character
 fdcf65e7, BDSM model, sweetness2_v10.safetensors
 fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix, portraitAndLandscape_portraitANDLADSCAPESV.safetensors
 fe2725bb, <SIZE> BREASTS|<size> ass|<size> belly|hyperbreasts|hyperass|flat chest|caricature
-fe3c6142, TheOldShadowrunStyles, theOldShadowRunStyles_1990sV10.safetensors
 fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
 fe3c6142, dragzkz, dragonDiffusion_4500Steps.safetensors
 fe3c6142, face-x|man|woman|old, faceUVWPageGenForCC3_faceUVWPageGenForCC3.safetensors
@@ -3181,6 +3183,7 @@ fe3c6142, gamelandscapeheightmap512|mountainflow|mountain|mesa|hills|alpen, game
 fe3c6142, ilsgiovannibattistapiranesi|etching, giovanniBattista_piranesiV10.safetensors
 fe3c6142, sphereworldmap|sphere-height-map-texture|sphere-colour-texture, planet_Sphereworldmaptexture.safetensors
 fe3c6142, themechwarriorrpgart, theMechwarriorRPGArt_theMechwarriorRPGArt.safetensors
+fe3c6142, theoldshadowrunstyles, theOldShadowRunStyles_1990sV10.safetensors
 fe579299, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 fe5aae36, telltale style
 fe865c53, pamgrier
