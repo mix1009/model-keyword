@@ -586,6 +586,7 @@
 1d2f8774, furry
 1d5f981e, emmasamms
 1d812301, photorealistic|textured skin|skin pores|skin imperfections|raw|8k|intricate details
+1d9381dd, abc
 1d95bf0b, lamborghinixyz
 1d9814e5, shuimobysim|shukezouma
 1da401ba, style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
@@ -1792,6 +1793,7 @@
 8f89e96b, anime pencil concept style
 8fced5c4, realism|kina, lorina.ckpt
 8fced5c4, turino, lorina.ckpt
+8fd3784d, masterpiece|best quality|photorealistic|realistic
 8fee0468, v2
 8fefc581, tk-char|tk-env
 8ffb0774, prilosecotc1|burgie|dskfll
