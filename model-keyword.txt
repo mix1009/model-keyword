@@ -837,6 +837,7 @@
 333a860f, female|male|girl|boy|robo, matrixAsianParadise_v653VAE.safetensors
 333a860f, male|female, matrixAsianParadise_v653VAE.safetensors
 333ecf3c, sks woman|(sks woman)|((sks woman))
+337a32e9, male|girl|boy|woman|man|female
 339c88c0, object|no humans|solo focus|items
 33c549f1, swpunk|synthwave|paint splatters
 33ec9575, Pixar|anime|manga|comic|hand art
@@ -2062,7 +2063,8 @@
 9f856288, aniscreen|amityblight|edalynclawthorne|emperorbelos|gusporter|huntergoldenguard|lilithclawthorne|luznoceda|rainewhispers|thecollector|willowpark|kingclawthorne
 9f9bf543, anime|comic|manga|girl
 9fc108a7, Evang
-9fd02bb8, photo
+9fd02bb8, photo, colorfulxl_v10.safetensors
+9fd02bb8, wgz style, wlopSTYLEXL_v10.safetensors
 9fee5b60, maddiesmith
 9ff4bcf1, dalcefo
 9ff529c8, anime
