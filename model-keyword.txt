@@ -127,6 +127,7 @@
 09bcb72f, 1girl|girlvn01, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 1man, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, Asher|blue eyes, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Bean Labs|1 girl|Best quality|pure beauty, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Navia, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Nothing, vae-ft-mse-840000-ema-pruned.safetensors
@@ -808,6 +809,7 @@
 3031dfb2, marsattacks
 3057ce60, FURRY
 3061461b, analog style
+306d9f32, male|female|girl|boy|man|woman|etc
 3080b312, mobian or sonic character name
 30833d87, luffy man|zoro man|nami woman|sanji man|nico woman|chopper boy|franky man|usopp man|brook man|jimbei man
 3087797c, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
@@ -958,6 +960,7 @@
 3e008b4d, bethharmon
 3e16efc8, Mona Lisa
 3e832815, kochergin
+3ea0d868, furry
 3eac54e3, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity
 3ede1968, analog|photography
 3ee44953, lwmn man
@@ -1088,6 +1091,7 @@
 4cac193b, sks person|(sks person)
 4cdc58f8, tarasische
 4d12a089, sks person
+4d3f92bf, furry
 4d4d1bc5, girl
 4d588a41, FEGBA
 4d59b795, evang
@@ -1330,6 +1334,7 @@
 62ca66c5, identity v|button eyes
 62dafa15, modelshoot style|swpunk|synthwave|paint splatters
 62e16e56, watercolor \medium\|watercolor pencil \medium\|sketch|traditional media|realistic|ink wash painting|impressionism|acrylic painting|oil painting
+62ef23c5, furry
 62f533fd, flegau man
 62f93c8a, rcnz_niji style
 6329328a, lds
@@ -1902,7 +1907,9 @@
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
 9907dc3a, sanane
 9912cb8d, danmumford style
+99156105, furry
 993cd75a, sks woman
+993f2358, Asher|blue eyes, asherAngel_asheAngel512V10.ckpt
 993f2358, G2FFace, g2fface_01.ckpt
 993f2358, KasaneTeto, kasaneTeto_v10.ckpt
 993f2358, MCSkin, minecraftskin_v11.ckpt
@@ -2348,6 +2355,7 @@ b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
 b1facb5b, colorful, copaxTimelessxlSDXL1_colorfulV2.safetensors
 b1facb5b, disney cartoon|cute cartoon, LahCuteCartoonSDXL_beta1.safetensors
 b1facb5b, disney cartoon|cute cartoon|cute chinese|chibi chinese, LahCuteCartoonSDXL_alpha.safetensors
+b1facb5b, elemental|effect, soraFocusEffectSDXL_v01.safetensors
 b1facb5b, fantasy|dark fantasy|mysterious|anime|realistic|3d rendering|cyberpunk|cyborg, LahMysteriousSDXL_v330.safetensors
 b1facb5b, mysterious, LahMysteriousSDXL_v355.safetensors
 b1facb5b, mysterious|fantasy|dark fantasy|3D rendering|anime, LahMysteriousSDXL_v30.safetensors
@@ -2577,6 +2585,7 @@ c91be480, Dloz|Dloz style
 c951cc0e, sks person
 c9a2e2a1, GGH23 person
 c9c45d16, Pris
+c9e281f7, male|female|girl|boy|man|woman|etc
 ca198d1c, actionauf, actionauf_v10.safetensors
 ca198d1c, alstar, alstar_v10.safetensors
 ca198d1c, chibi, qteamixQ_omegaFp16.safetensors
@@ -2713,6 +2722,7 @@ d5b1726a, Masterpiece|Best Quality
 d5cea653, gege
 d5dfca31, beta01
 d61a0cdc, egardiner
+d62ddc80, furry
 d634b8cb, Hina, itshinaInstagramModel_hina.ckpt
 d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d634b8cb, kvn, myModelKevin_v10.ckpt
@@ -3063,6 +3073,7 @@ f2c88bf2, photo of zwx ouyangziyu
 f2ca12bd, zombie_vector
 f2caf204, posing for the camera|posing for a photo|a close up of
 f2e11406, in style of vrcty
+f2e1311d, anthro|furry|canine
 f2e5f721, DZ, dz_v10.ckpt
 f2e5f721, eve, eve_v10.ckpt
 f2e5f721, noa, noa_v10.ckpt
@@ -3077,6 +3088,7 @@ f341184d, msfluentui style
 f3694755, modelshoot style
 f37775c3, photo of Evang style
 f3a2ad84, rcnz_niji style
+f3b011a6, furry
 f3dae826, BRAV5_Realisianv50_PFv30
 f44e6e9c, 1boy|young|cute
 f457c3e6, shiinamashiro
