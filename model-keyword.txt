@@ -505,6 +505,7 @@
 15376d1f, girl
 15540f03, gigafractal artstyle
 1578af98, bigbadejo alien_monster
+1586c88f, sks
 15f7afca, retro anime style|retro vibes
 1604613a, muscular
 16552af2, sks woman
@@ -1210,6 +1211,7 @@
 582e14a8, plump
 582e89f3, kylxn
 585879fc, portrait+ style
+5875b278, male|female|girl|boy|man|woman|etc
 58819dc1, anime|realistic|masterpiece|best quality
 58959faa, photo of zwx yu lexuan
 5896f8d5, modelshoot style|analog style|mdjrny-v4 style|nousr robot
@@ -1352,6 +1354,7 @@
 64ba8fc5, dal|nsfw
 64c46184, masterpiece|best quality|re-badprompt|anime|realistic
 64cf95bb, asd
+64d03cf5, realistic illumination|cartoon|flat cartoon|realistic cartoon
 64d91f3a, rcnz_niji style
 64e73fcb, dbz style
 650839e4, superhero
@@ -2336,7 +2339,6 @@ b1df6170, realistic|photorealistic
 b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
 b1f4f421, 1girl
 b1facb5b, 1girl, nijiDiffusionXlBase1_v10.safetensors
-b1facb5b, 1girl|anime, envyanimexl_v09.safetensors
 b1facb5b, Art|Creepy, 2dCreepyArtMonster_v11.safetensors
 b1facb5b, Fantasy|dark fantasy|mysterious|anime|anime style|3D rendering|Realistic, LahMysteriousSDXL_v315.safetensors
 b1facb5b, Mysterious|eyes detail|fox girl, LahMysteriousSDXL_v251.safetensors
