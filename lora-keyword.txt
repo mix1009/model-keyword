@@ -116,6 +116,7 @@
 00c0724a, Zendaya|woman
 00c0b5af, techwear
 00c21a85, raziel
+00c3fcfc, picture of jonasface man
 00c4ad71, illustration| white and red ink on black
 00c56eaa, Alita|Big eyes
 00c94063, Martina
@@ -1078,6 +1079,7 @@
 0692efa9, kr1| multicolored hair| dyed bangs| white shirt| sleeveless| green skirt| black thighhighs| pleated skirt|kr1| multicolored hair| dyed bangs| long sleeves| black thighhighs| bow| pink dress| white vest| white skirt|kr1| multicolored hair| dyed bangs| jewelry| white dress| bracelet| veil
 06931c84, kozuki miyu| daiyonchugakkou seifuku
 0693d8b2, wearing sheath_dress
+069475f2, yuri_seo|closers_blacklambs_agent
 0694db4e, ZORUA
 0694dd76, silence|horror
 06950e4d, rachaeltaylor
@@ -1390,6 +1392,7 @@
 08663cec, 1girl|solo
 08666222, anniehughes
 0867a0bc, ajaws
+086be78e, RogueXME| short hair| two-tone hair| (red hair)| (white bangs)| green eyes| purple makeup| purple lipstick| choker| studded collar| glove
 086d81d8, nanakusa nazuna
 086f53ab, komeiji_koishi_touhou
 086fa595, st0ck1ngh34d
@@ -3268,6 +3271,7 @@
 1378bed6, erza_heavens_wheel|erza_kreuz_heart
 13790d35, brown hair|yellow eyes|long hair
 137943a5, skswoman
+13799e8e, open mouth| wavy mouth
 1379c179, xiaoroubao
 137acd13, Style_zarubin
 137bac3b, takenaka hanbee|twintails|hair ribbon|detached sleeves|japanese clothes|fingerless gloves|bag|obi|tabi|waraji
@@ -4238,6 +4242,7 @@
 197f4769, PatiTonin
 197fba36, cecily campbell|armor|breastplate|white skirt|thighhighs|gloves
 1980ef32, karisweets|karisweets_v1
+198171e8, LindaSkylark
 19839853, j3s1c4|shirt|skirt
 1985759e, shikki
 1985d961, cantabile|origin_skin|chinese_dress
@@ -4510,6 +4515,7 @@
 1b369337, janzub
 1b377d8c, yurie_s  long_hair| smile| red_eyes| ribbon| hair_ribbon|two_side_up| thighhighs| small_breasts| ahoge| zettai_ryouiki| black_ribbon| bangs| blush| long_hair| hair_ornament| white_hair, julieSigtunaAbsoluteDuo_yuriesigtunaV1.safetensors
 1b377d8c, yurie_s| white hair|  long_hair| red_eyes| ribbon| hair_ribbon| thighhighs| small_breasts| ahoge| zettai_ryouiki| black_ribbon| bangs| black_thighhighs| parted_lips|yurie_s| white hair|  long_hair| red_eyes| ribbon| hair_ribbon| thighhighs| small_breasts| ahoge| zettai_ryouiki| black_ribbon| bangs| black_thighhighs| parted_lips| red buruma| buruma| gym_uniform||yurie_s| white hair| long_hair| red_eyes| small_breasts| ahoge| bangs| parted_lips| dress shirt| white shirt| pink panties||yurie_s| white hair| long_hair| red_eyes| small_breasts| ahoge| bangs| parted_lips| playboy bunny| rabbit tail| detached_collar| wrist_cuff| rabbit ears| sfw||yurie_s| white hair| hair_ribbon| long_hair| red_eyes| small_breasts| ahoge| bangs| parted_lips| side-tie bikini bottom| white_bikini| swimsuit| bikini| barefoot|, YurieSigtuna.safetensors
+1b3954df, armor|greaves|high_heels|pauldrons|shoulder_armor|hair_ornament|gauntlets|cleavage|gloves|thighhighs|leotard|armor gloves
 1b3c0572, sakurajima mai
 1b3c37b9, usaki
 1b3c8992, plate
@@ -5366,6 +5372,7 @@
 20632cc2, AliceMarch
 20638d32, 1girl| solo
 2063ad2a, kawasegawa_eiko1|red hair|yellow eyes|hair between eyes|1girl
+2063fc9a, wakayamashion
 20647232, kakashi
 2069770f, ri0m0ralez
 206b02af, magic girl sirin|hair flower|detached sleeves|white pantyhose|leotard|bare thighhighs
@@ -5829,6 +5836,7 @@
 230c7548, fujiwara_no_mokou_touhou
 230d3b96, cucouroux|thst
 2310b06d, rozzzywow
+2312f9eb, Mr. Satan man
 2314876a, Mitsuki|MitNin
 231488ec, stubby horns
 23167a29, cyberfuture| shadowrun| cyberpunk| neuromancer| netrunner| augmentation implant| netrunner clothing|
@@ -6878,6 +6886,7 @@
 29016c8e, yoshida akihiko
 29032eb9, 1girl| kisaki| halo| hair bun| twintails| hair ornament
 29037aa2, Sage_(SonicFrontiers)
+2905352d, FrenniFazclaire
 290588fa, beautiful girl|Cute gir
 29068a3a, hands on glass|breasts on glass|ass on glass|window fog|water drop
 2906f7eb, natsu_dragneel
@@ -8182,6 +8191,7 @@
 314e712c, russorel
 3150961f, skyla|pokemon
 315140e1, iseul
+31514470, ArenaOutfit|1boy| male focus| solo|belt| skull| pants| white shoulder coat|green undercoat| red eyes| standing| long sleeves| skeleton| full body| (gold) and brown boots| coat| polearm| patterned coat| cross pattern at hip|orange shirt cuffs|BattlePants| skeleton| 1boy| red eyes| male focus| skull| orb| bone| solo| small metal collar with a chain| black pants| black torn belt| black metal shoes and greaves|shirtless||BoneNude| skeleton| solo| 1boy| male focus| bone| ribs| full body|orb|Rags| 1boy| male focus| solo| cloak| belt| hood| full body| red eyes|magic||RedGarb| solo| 1boy| male focus| long sleeves| skull| jewelry| red robe| full body|AinzRobes| skeleton| solo|skull| hood| 1boy| cloak| staff| male focus| robe| holding| standing| bone| looking at viewer| gem| hood up|rings| long sleeves| cape| glowing_red_eyes| orb||BoneDaddy| solo| 1boy| male focus| standing| long sleeves| skeleton| trench coat| full body|Momon| armor| ((solo))| cape| helmet| weapon| red cape| 1boy| full blue armor| sword|standing| male focus| greaves| armored boots| gauntlets| clenched hand| fake horns| sheath| sheathed| boots| shoulder armor| full body|TouchMeArmor| armor| cape| solo| 1boy| red eyes| male focus| no humans| full body| full armor| red cape| standing
 315207b9, Rune_Magic|Magic|Power
 3152edaf, OlgaPataki|blonde hair
 31545693, SPST|helmets|costumes
@@ -10300,6 +10310,7 @@
 3dc18e1e, anastasia romanov
 3dc25863, 1girl|azuma
 3dc43f1b, heterochromia|eyepatch|marine_pirate| hair ribbon| red ascot| red skirt| belt| leotard under clothes| sleeveless| black coat| pirate hat|marine_gothic| red dress| frills| detached sleeves| black gloves| corset| black ribbon| black bowtie| white thighhighs|marine_kimono| japanese clothes| fur trim| wide sleeves| pelvic curtain| cleavage| hair bow| hair flower| ponytail|marine_beach| red bikini| white shorts| jewelry| black jacket| baseball cap| heart-shaped eyewear
+3dc7ae1d, kimyoojung|1girl| solo| blonde hair| hair ornament| hairclip| fang| medium hair| orange hair| orange eyes||shirt| jacket| open clothes| open jacket| black shirt| turtleneck| black cargo pants| short pants| tights| half boots|jacket| white shirt| necktie| collared shirt| black necktie| skirt| tights| loafers|
 3dc89d7c, a
 3dc97d1d, 1girl|black dress neck ribbon|black thighhighs white dress white choker|holding umbrella
 3dc9dc35, kuroimori
@@ -14883,6 +14894,7 @@
 59cc0716, wooyeonlorashy
 59cdd7b3, Conis
 59ce1676, nah_fea
+59cef337, batman
 59cf1cd1, long hair| bangs| brown eyes| tifa lockhart| black hair| cleavage
 59d03f2a, CureGelato|1girl|14yo|lion ear|lion tail|blue long hair|wavy hair|fang|skirt|shirt|blue single thighhigh|gloves|jewelry|jacket|choker|crown
 59d3f5cc, 1girl saya bob cut blue eyes|witch hat blue hat feather|capelet robe shorts
@@ -16617,6 +16629,7 @@
 64a3bf53, Hatsune Miku|matryoshka (vocaloid)|matryoshka Miku|black hairband|earmuffs|blue eyes|blue hair|crazy eyes|brown gloves|green jacket|jacket|facial mark|multicolored eyes|yellow background|thighhighs|twintails|long hair|black skirt|red skirt|knee boots|dark style|hatsune miku (matryoshka)
 64a85da4, frisk|frisk (undertale)|striped shirt
 64a910e7, TogaHimiko
+64ab55a1, slh
 64abc50a, bronco vehicle
 64abcd15, from behind|flashing|spreading legs|holding breasts
 64ac3661, jsrgum|helmet|short dress|striped sleeves|white gloves|roller skates
@@ -17936,6 +17949,7 @@
 6c8c3615, girl
 6c8c3809, ohty_wabi-sabi
 6c8d5f74, j4nu4ryj0n3s
+6c8e173c, open mouth| wavy mouth
 6c90bb2b, uncensored|realspreadpussy
 6c919973, gui-maid|gui-all
 6c928a33, Chinese style
@@ -18788,6 +18802,7 @@
 716948bc, yukinaaaaaa
 7169ba8a, VioletParr| long black hair||bodysuit| superhero| headband|mask
 716acb36, hammann_(azur_lane)|1girl
+716d9cbc, Joak
 716f8230, takasaki yuu
 716fd7ff, AbigailRDR
 7170d596, Cartooneffects two
@@ -20319,6 +20334,7 @@
 7ac73a6e, pink hair|white_shirt|blue_eye
 7ac96467, ramchi|remrin|glowhorn
 7acc6280, beauty (bobobo-bo bo-bobo)
+7acf5635, alien|creature|science fiction
 7ad039a3, airi sakura| blue eyes| glasses| long hair| pink hair| (low twintails:1.5)||glasses| advanced nurturing high school uniform| blazer| red blazer| bow| bowtie| collared shirt| jacket| long sleeves| pleated skirt| school uniform| shirt| shoes| skirt| white shirt| white skirt| white socks|
 7ad0a4f2, dynasty ahri| 1girl| animal ears| whisker markings| korean clothes| long sleeves| hair ornament| bow| yellow eyes| black hair|multiple tails
 7ad38ee5, maestrale (azur lane)
@@ -21398,6 +21414,7 @@
 8138f42a, ruri sakurada
 813924ad, willow|blue eyes|purple belt|short hair|light pink hair|pink dress|purple thighhighs boots
 81397da2, rurikawa tsubaki
+813a1f5a, open mouth| wavy mouth
 813ab772, 1girl|solo|
 813ad163, Coco Bandicoot|Coco Bandicoot (Crash Bandicoot)
 813bc7fb, long skirt| flower| twin braids| beads
@@ -23848,6 +23865,7 @@
 8fe3d73b, zekrom
 8fe7499d, pink hair
 8fe878c6, cover_page|cover
+8feb57f6, EXCVT|crane (machine)|windmill
 8feb9cc9, tachie separation
 8feca8f7, sks person
 8fed1af6, silver_wolf_starrail
@@ -23956,6 +23974,7 @@
 90681200, ChopioSawadaHonoka
 90697505, vernon
 906b6166, humpback
+906c0075, hiraga saito|louise francoise le blanc de la valliere|tabitha|kyuruke|teifuania|Siesta|Anrietta
 906ea695, green jacket|pink eyes|a girl
 9070fc74, 1990s (style)|naga the serpent
 9073b61c, (white background:1.5)
@@ -24596,6 +24615,7 @@
 94375da0, HNDS2000
 943d7c93, earfuck|ear penetration|penis in ear
 943fc109, suigintou
+94419b31, AnjuEmmaR4| pink hair| blue eyes
 9442501c, Abigail
 9444031a, shurakirigakure
 9444cced, 1boy|david (cyberpunk)|jacket
@@ -28059,6 +28079,7 @@ a83ee9d5, hrothgar
 a83fcafa, dress
 a8408b95, myjs
 a843f617, hu tao (genshin impact)
+a851ff1f, gameicon33
 a858b232, BG0| KJP530G|burumaG|BGS2| KJP530SG|burumaG|taisoufukuG|  gym uniform|
 a858db4b, Glass
 a85953ba, Michiko Malandro
@@ -30862,6 +30883,7 @@ b9bc55ad, linxinru
 b9bc8e55, cldblck
 b9c1a993, eleca
 b9c2705e, kimono| long hair
+b9c4809d, meiling
 b9c5b6c5, billy mays|person
 b9cb16f6, mushroom|monster girl
 b9cc9123, chaogaoceng
@@ -32832,6 +32854,7 @@ c3d52f46, rize tedeza (is the order a rabbit)| long hair| purple hair| twin tail
 c3d52f46, rock lee|jumpsuit, Rock Lee.safetensors
 c3d52f46, rufusgc| 1boy| solo| brown hair| red eyes| pointy ears, RufusGC.safetensors
 c3d52f46, saionji sarasa (liar liar)| red long hair| left side pony tail with cristals ribbon| red eyes| blue school uniform with red ribbon| blue and light blue plaid skirt, 1655584461737344754.safetensors
+c3d52f46, sami_malino| samidare (kancolle)| 1girl| blue eyes| aqua eyes| forehead| blue hair| aqua hair| very long hair| sidelocks| swept bangs| sailor collar| school uniform| serafuku| sleeveless| white skirt| black sailor collar| black neckerchief| black gloves| elbow gloves| black thighhighs| thighhighs|, sami_malino.safetensors
 c3d52f46, sarada|naked| girl|sarada|clothes girl, 1651967318043061154.safetensors
 c3d52f46, saree|(saree color)|blouse|indian dress, Ghost141000 Saree V1.0.safetensors
 c3d52f46, shin yuna| black hair| long hair| light blue eyes, 1651433934992699636.safetensors
@@ -34267,6 +34290,7 @@ cc28b5bb, sarventedef| colored skin| habit| dress| long sleeves| puffy sleeves| 
 cc28ba2e, kannabi no mikoto
 cc297320, Fediel
 cc29f1f1, in_container|full_body
+cc2a6989, style(tsubonari)
 cc2fab81, brown hair| brown eyes| long hair| twintails|school uniform| black dress| red ribbon| black pantyhose
 cc3039be, three p
 cc31d1f7, UV_fluorescence
@@ -34453,6 +34477,7 @@ cd41fa89, game icon institute|game icon
 cd48ddda, telethatestarossa
 cd4c650c, frame grid|pov|sex from behind|missionary position|complete|cropped
 cd4d64f2, gbfaugusta|hair ornament|horns|gloves|cleavage
+cd4fb299, open mouth| wavy mouth
 cd50f528, saiga|saigaracist
 cd51fc5f, Yor_Forger
 cd5665ee, shimakaze_kantaicollection
@@ -35007,6 +35032,7 @@ d0cfecfe, black_hair|photo_(medium)|depth_of_field|long_hair|thighhighs|ponytail
 d0d00e3c, lora
 d0d10a81, lanarhoadeslora
 d0d38698, wearing off_shoulder_bandage_dress|back view
+d0d46417, Monique|short hair|blue eyes|blue hair|sideboob|sideboob dress|OPTIONAL: tight black pants
 d0d4e8df, SherryRE
 d0d58266, dunkpanda|sneaker
 d0d72d29, Shirayuki Himeji|Yuki|blue eyes|grey hair|maid|maid headdress
@@ -35344,6 +35370,7 @@ d2c6580b, irina meyer
 d2c76023, 1girl|purple hair| long hair|twintails|hair rings|hair ornament|forehead jewel|brown eyes|detached collar|dress|bare shoulders| tassel|white gloves| white pantyhose|
 d2c8134c, c4th3r1n3
 d2c98916, MomoeSawakiR4
+d2c9fff8, xun
 d2cb1688, kokomi|genshin impact
 d2cbda5a, tiger dancer (zootopia)
 d2cc4994, erica hartmann
@@ -36407,6 +36434,7 @@ d945b915, khun aguero agnis
 d945cd58, huge breasts
 d948d35e, amia
 d94afb67, Bowsette
+d94bf2db, zeman0va|veronika zemanova
 d94e8f31, haruna (blue archive)|halo
 d94f5e6a, lvlupvega
 d950687a, amagi
@@ -37516,6 +37544,7 @@ de2f2560, Black_Canary_JLU, Black_Canary_JLU.safetensors
 de2f2560, Black_Lady_Sailor_Moon, Black_Lady_Sailor_Moon.safetensors
 de2f2560, Blair_Soul_Eater|witch hat| short skirt| thighhighs|curvy, Blair_Soul_Eater.safetensors
 de2f2560, Blinky, Blinky.safetensors
+de2f2560, Blonde Hair Twintails Red Eyes, ELD3737-10.safetensors
 de2f2560, Blossom, Blossom.safetensors
 de2f2560, Blue_Beetle, Blue_Beetle_DC_v2.safetensors
 de2f2560, Blue_Beetle_DC, Blue_Beetle_DC_v1.safetensors
@@ -38088,6 +38117,7 @@ de2f2560, Mudkip_Pokemon, Mudkip_Pokemon.safetensors
 de2f2560, Mushroom_Girl, Mushroom_Girl.safetensors
 de2f2560, Mystique|skull belt|white dress| white gloves| thigh highs|, mystique-10.safetensors
 de2f2560, MyuMyu_Mahou_Yuugi, MyuMyu_Mahou_Yuugi.safetensors
+de2f2560, NCLandy|blue hair| short hair| braid| white cape| brown pantyhose| white military uniform| purple eyes| white peaked cap| white gloves| epaulettes| thigh strap| white sleeves, NCLandyLora.safetensors
 de2f2560, NIMU|Nimu, NIMU-04.safetensors
 de2f2560, Nabooru_Zelda, Nabooru_Zelda.safetensors
 de2f2560, Nagato|NagatoBase| bare shoulders|NagatoNi, CHAR-Nagato.safetensors
@@ -38420,6 +38450,7 @@ de2f2560, Tomoe_Koga, Tomoe.safetensors
 de2f2560, TomokoHigashikata, TomokoHigashikata.safetensors
 de2f2560, Tonari, Tonari.safetensors
 de2f2560, TongChawchom, TongChawchom-02.safetensors
+de2f2560, Toni_Citron_OC| orange eyes| tiger ears| tiger tail| white hair| dark skin| necklace| animal print| pelvic curtain, Toni_Citron_OC_Anime.safetensors
 de2f2560, Toot|TOattire, TooT-10.safetensors
 de2f2560, Toralei_Stripe_MH, Toralei_Stripe_MH.safetensors
 de2f2560, Tostada|Tsuit, Tostada-10.safetensors
@@ -38894,6 +38925,7 @@ de2f2560, blame|killy|cibo, blame.safetensors
 de2f2560, blanc|white dress| fur-trimmed jacket| fur trim| hat, blanc_v8-000009.safetensors
 de2f2560, blindfirekeeper|covered eyes|eye mask, blindfirekeeper-10.safetensors
 de2f2560, blindfold, blindfold_lora01.safetensors
+de2f2560, blonde hair| red eyes| twintails, ELD3737-10.safetensors
 de2f2560, blonde hair|long hair|nurse|nurse cap|blue eyes|rabbit hair ornament, Sugarser0.safetensors
 de2f2560, blonde|sexy|photorealistic|woman|girls, seraphine_wilde-10.safetensors
 de2f2560, bloodelf|blonde hair|green eyes|armor, bloodelf.safetensors
@@ -40627,6 +40659,7 @@ de2f2560, minamisaki, minamisaki_lora-06.safetensors
 de2f2560, mineshimakomaki, mineshimakomaki_lora-06.safetensors
 de2f2560, minglee, minglee-10.safetensors
 de2f2560, minimalist|vector art|svg|adobe illustrator, minimalist.safetensors
+de2f2560, mio honda, mio-idolmaster-01.safetensors
 de2f2560, mio naganohara, mionaganohara-10.safetensors
 de2f2560, miou_suguri|black hair|purple eyes, miou_suguri.safetensors
 de2f2560, miou| 1girl| solo|bob cut|black gloves|hair ribbon|hair bow|black dress| puffy short sleeves| black choker|buttons|lace|black pantyhose, miouv2-02.safetensors
@@ -41207,6 +41240,7 @@ de2f2560, rika|shirt| jewelry| closed mouth| earrings| necktie| collared shirt| 
 de2f2560, rikka takanashi, rikka.safetensors
 de2f2560, riley, riley.safetensors
 de2f2560, rimuru_tempest|blue hair|yellow eyes|long hair, rimuru_tempest.safetensors
+de2f2560, rin shibuya, rin-idolmaster-01.safetensors
 de2f2560, rin shima, rin-yurucamp-01.safetensors
 de2f2560, rin_okumura|black hair|blue eyes, rin_okumura.safetensors
 de2f2560, ringo kinoshita, ringo-10.safetensors
@@ -41717,6 +41751,7 @@ de2f2560, takashi_komuro|brown eyes|brown hair|hair between eyes, takashi_komuro
 de2f2560, takayuki_mima|brown hair|brown eyes, takayuki_mima.safetensors
 de2f2560, takemoto uruka, takemotoUrukaBokutachi_v10.safetensors
 de2f2560, takenouchi sora, soraTakenouchiDigimon_version02.safetensors
+de2f2560, takeo_gouda|black hair|black eyes, takeo_gouda.safetensors
 de2f2560, takeshi_aiza|blonde hair|blue eyes|spiked hair, takeshi_aiza.safetensors
 de2f2560, takeuchiyoshie, takeuchiyoshie_lora-06.safetensors
 de2f2560, takeya_iizuka|brown hair|brown eyes, takeya_iizuka.safetensors
@@ -41925,6 +41960,7 @@ de2f2560, utsugi_tsukimiya|brown hair|closed eyes, utsugi_tsukimiya.safetensors
 de2f2560, uzaki yanagi, YanagiUzaki-09.safetensors
 de2f2560, uzakitsuki, uzakiTsukiUzakiChanWants_v10.safetensors
 de2f2560, uzannu uzatei, uzannu-joshiraku-01.safetensors
+de2f2560, uzuki shimamura, uzuki-idolmaster-01.safetensors
 de2f2560, v4lkyr13| bare arms, valkyrie-06.safetensors
 de2f2560, vados| long hair| ponytail| colored skin| blue skin| hair pulled back, vados_dragon_ball-10.safetensors
 de2f2560, vagabond, vagabond-15.safetensors
@@ -43845,6 +43881,7 @@ e7f02ca4, skswoman
 e7f1a31a, yuka
 e7f2022b, skswoman
 e7f20fa6, breasts|shirt|drees|clothes|portrait|big breasts|small breasts
+e7f73d9f, open mouth| wavy mouth
 e7fb92e0, lynette| animal ears| grey hair| short hair| cape|bow|plaid ribbon| cleavage cutout| frills skirt|black pantyhose| star (symbol)|
 e7fec103, purple_hair|high_ponytail
 e7ff60d2, white hair|cat_girl|black gloves
@@ -44362,7 +44399,9 @@ eafc39bb, kimyoojung
 eafd40e5, a photo of a car|from the side|aniwrap|car|vehicle focus|photo background
 eafd86ec, shell bikini
 eafdc85f, on the desk
+eafe2fcd, serasvictoria|tan uniform|red uniform
 eaffb807, Belgian interior
+eb027447, open mouth| wavy mouth
 eb02e807, kisa
 eb058721, hideyoshi
 eb05a3db, elektra00
@@ -46147,6 +46186,7 @@ f5c1dfb9, Shrinking Rae|long hair|glasses|bodysuit|tight|green eyes|brown hair
 f5c435c7, doggystyle|standing sex|arm grab|arm held back
 f5c48cf5, twistedscarlett
 f5c7fc9c, ArchiZHS
+f5c8945e, owash||short hair| white hair||cow boy hat||vest||red eyes||necktie|
 f5c8be94, brus|apartment building
 f5c90f55, cpyvcsazln| hair band| white see-through dress| lace-trimmed dress| halterneck| nightgown| cleavage| white choker| white hairband| earrings| jewelry||cpyvazln| military hat| cleavage| white jacket| fur trim| pleated skirt| black pantyhose| hair ornament| black gloves| high heels|
 f5c91461, e7 Lethe
@@ -46281,6 +46321,7 @@ f68a157c, 1girl
 f68c214b, black business suit|white business suit|red business suit|business suit|vest
 f68c79dd, nessa_pokemon|dark-skinned_female| dark_skin| multicolored_hair| two-tone_hair| long_hair| black_hair| blue_hair| blue_eyes| jewelry| earrings| makeup| hoop_earrings| hair_bun| eyeshadow| single_hair_bun| necklace| breasts| blue_eyeshadow| armlet| eyelashes
 f68df2e9, pandoranai|white dress|blue eyes|grey hair
+f68e3b38, no nuts|no_nuts
 f6914dce, sks woman
 f6961f74, fullbloom|wearing dress
 f69991b7, 1girl| as109| teen girls| navel|
@@ -47729,6 +47770,7 @@ fec24822, fm_shay
 fec32749, game icon institute| game icon| c_j|
 fec38ec7, solo looking at viewer simple background 1boy closed mouth collarbone male focus nude black background portrait facing viewer 1other monster realistic scales bald alien brown eyes shiny no humans colored skin animal fish science fiction blue skin upper body mask teeth horror (theme) black eyes muscular yellow eyes what blue eyes green eyes blurry slit pupils ribs eye focus red eyes sharp teeth colored sclera depth of field blurry background muscular male lens flare veins topless male bokeh monochrome greyscale glowing gem from side long neck open mouth tail tongue tongue out saliva saliva trail robot glowing eyes glowing eye cropped torso 1girl navel standing grey background armor arms at sides outdoors multiple boys sky solo focus day building gradient gradient background creature brown background wrinkled skin lips straight-on purple eyes solo 1boy male focus wings hood fire feathers blonde hair gloves weapon sky pointy ears cape armor bow (weapon) arrow (projectile) 1girl long hair breasts dress cleavage jewelry lying book on side armlet circlet quill topless male looking at viewer blue eyes white hair realistic magic embers red hair glowing facial hair chain glowing eyes beard black hair closed eyes upper body brown hair large breasts thighhighs navel holding horns sword holding weapon leotard holding sword demon girl shoulder armor demon bare shoulders purple eyes elbow gloves strapless detached collar staff strapless dress purple dress medium breasts midriff armpits arm up bangs red eyes tail dark skin blunt bangs dark-skinned female demon horns demon wings skull earrings polearm gauntlets blue hair yellow eyes smile colored skin pauldrons barefoot blood dragon bikini armor outdoors spear mountain giant giantess
 fec53e21, waguneru
+fec57aa0, revy|1woman| long hair|ponytail|brown hair|yellow eyes|tattoo|shoulder tattoo|arm tattoo||revy|1woman| long hair|ponytail|brown hair|yellow eyes|tattoo|shoulder tattoo|arm tattoo| collarbone|cleavage|breasts|bare shoulders|black tank top|shoulder holster| midriff| denim shorts| fingerless gloves| boots||revy|1woman| long hair|ponytail|brown hair|yellow eyes||revy|1woman| long hair|ponytail|brown hair|yellow eyes| sweater|turtleneck|shoulder holster| fingerless gloves| red skirt|miniskirt| black pantyhose| boots|
 fec6a6bb, rseromantic|rsesofiko|rseemma
 fec8e1aa, liu qingge| 1boy| male focus| chinese clothes| ponytail| hair ornament
 fecbac5f, TinkerWaifu|single hair bun|strapless green dress|fairy wings
