@@ -127,7 +127,6 @@
 09bcb72f, 1girl|girlvn01, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 1man, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
-09bcb72f, Asher|blue eyes, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Bean Labs|1 girl|Best quality|pure beauty, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Navia, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Nothing, vae-ft-mse-840000-ema-pruned.safetensors
@@ -2139,7 +2138,8 @@ a2ac6777, lamia|harpy|centaur|etc.....|most mge girls half work
 a2e9d0f1, Benshapiro Person
 a30f9103, SDArt
 a3c809ba, pattern
-a402810e, 1990 style|retro artstyle|1980 style
+a402810e, 1990 style|retro artstyle|1980 style, eraEstheticRetroAnime_retroV21VAE.safetensors
+a402810e, 1990s style|1980 style|retro artstyle, eraEstheticRetroAnime_retroV30VAE.safetensors
 a4066aa4, emaiti
 a41a2496, gigachad
 a42082e5, DarahanEyes
