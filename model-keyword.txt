@@ -1048,6 +1048,7 @@
 471291b4, by oekakizuki
 4723b6ed, female|male, notRealAnimeStyle_v10.safetensors
 4723b6ed, hentai|anime, matrixNewAnimeStyle_v10VAE.safetensors
+4747384b, Chinese ink painting|Liujiyou
 474774e5, sks man|sks woman|neundies style
 475eae91, vintage polaroid analog portrait photography of
 4760bfa2, theoldshadowrunstyles
@@ -2733,9 +2734,6 @@ d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d634b8cb, kvn, myModelKevin_v10.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
-d636e597, SEE APPENDIX|见附录, sdxl_vae.safetensors
-d636e597, See Appendix A|见附录A, sdxl_vae.safetensors
-d636e597, See Appendix|见附录部分, sdxl_vae.safetensors
 d636e597, ziov, sdxl_vae.safetensors
 d659f794, rcnz_niji style
 d65c923a, 1girl
