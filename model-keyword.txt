@@ -164,6 +164,7 @@
 0b84ef8c, analog style|modelshoot style|nsfw|nudity|erotic|cyborgdiffusion
 0b910e4b, duskametrik, isometricDreams_1.safetensors
 0b910e4b, fldsky1, floraFauna_1.safetensors
+0ba4521e, 
 0bd29ada, Alf Person
 0bd469b6, evang
 0bd9f938, hyperrealistic
@@ -2950,7 +2951,8 @@ e79c8e1c, jckmn person
 e80f12bb, Evang, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e80f12bb, real|natural, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e83d3aa7, Ligne claire
-e842dcc7, KingShark|Humanshark|Sharkman
+e842dcc7, Armor|golden cloth|genini cloth|saga|gemini saint, CleanVAE.safetensors
+e842dcc7, KingShark|Humanshark|Sharkman, CleanVAE.safetensors
 e8468071, panamera04
 e85e8888, AYU23 person
 e8635c3a, multipla
