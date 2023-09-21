@@ -145,6 +145,7 @@
 09edc9b2, furry|anime|woman|animal|pastel
 09f31518, no
 09f5166e, sks woman
+09fdb690, 1girl|moyou
 0a2a8967, aerith|bowsette|mercy|widowmaker|tracer|dva|black cat dva|star guardian jinx|star guardian lux|irelia|nidalee|kda seraphine|kda kaisa|akali|katarinaclassicoutfit|pokemon|animal|realistic|portrait|woman|closeup|selfie|instagram
 0a4320df, dalcefo
 0a4d0386, 
@@ -561,6 +562,7 @@
 1b08178f, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
 1b0f1051, lqo_adrn
 1b30cc76, eva123xyzmendes
+1b44e9d1, 1girl|moyou
 1b51225c, ClaymationXmas, claymationXmas_sd2.ckpt
 1b51225c, Mosaic Art, mosaicArt_v2768.ckpt
 1b51225c, dronelightshow, dronelightshow_v1.ckpt
@@ -2086,7 +2088,7 @@
 9f9bf543, anime|comic|manga|girl
 9fc108a7, Evang
 9fd02bb8, photo, colorfulxl_v10.safetensors
-9fd02bb8, wgz style, wlopSTYLEXL_v10.safetensors
+9fd02bb8, wgz style, wlopSTYLEXL_v2.safetensors
 9fee5b60, maddiesmith
 9ff4bcf1, dalcefo
 9ff529c8, anime
