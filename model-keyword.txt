@@ -181,6 +181,7 @@
 0c93a576, name|oumeifeng style|redshift style
 0cdb758d, tea picker
 0cf442f0, dakota person
+0d021850, 1girl|moyou
 0d102d86, kawahara
 0d53acd4, beatniks|retro futurism|hip|blue note album cover design
 0d8373ed, realistic|photorealistic
@@ -732,6 +733,7 @@
 27de1ee8, Jimmie Åkesson
 27ea8c02, snthwve style|nvinkpunk
 282b4e08, Fraufembot
+289b019b, 1girl|moyou
 28ae9d27, tk-char|tk-env
 28b9b487, masterpiece|top quality|best quality|official art|beautiful and aesthetic:1.2|8k|best quality|masterpiece:1.2|no humans
 28bfe9f2, anthro|furry|female|canine
@@ -2831,6 +2833,7 @@ de2f2560, Asian|Man|Female|Cute, asianMix_alpha30.safetensors
 de2f2560, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION, SD2Berryartify_sd21V02.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, JukyungLim, jukyunglim_v20.safetensors
+de2f2560, Mina Sundwall, minaSundwall_v10.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
 de2f2560, Shadowheart|armor|black hair|pointy ears|bangs|circlet|ponytail|green eyes|braid, shadowheart_v10.safetensors
 de2f2560, ae, tokeaa_mancet.safetensors
