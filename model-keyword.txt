@@ -1320,7 +1320,8 @@
 606224fd, groo_the_wanderer
 6076842b, nvinkpunk|dreamlikeart|samdoesart|kuvshinov
 60851177, dgs illustration style
-609698f6, Peyton Elizabeth Lee
+609698f6, Cailee Spaeny, caileeSpaeny_v10.safetensors
+609698f6, Peyton Elizabeth Lee, peytonElizabethLee_v10.safetensors
 60cbc38b, Isometric|No Humans
 60f72dcb, Evang
 60fe2f34, modelshoot style|analog style|mdjrny-v4 style|nousr robot
