@@ -618,6 +618,7 @@
 1f96e58d, photo|photograph
 1fb30a55, aimoji
 1fb56d97, 1girl|moyou
+1fcfde95, Master Chief
 20225e21, movie|cg
 202360be, by b-ginga, bGingaModel_bgingaV1130k.safetensors
 202360be, by chon, chonModel_chonV19k.safetensors
@@ -1508,6 +1509,7 @@
 7185212f, evang
 718c368e, mikeidsk1
 71b0b5fb, tyznedsk1
+71b4dafb, 1girl，moyou，forehead，white hair，long hair
 71cb912e, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
 71d46dd0, Bocchi|KitaIkuyo|IjichiNijika|YamadaRyo|IjichiSeika|PAsan|HiroiKikuri|ShimizuEliza|IwashitaShima|Bfan1|BoFa2|GotoFutari
 71e034f6, wuxia
