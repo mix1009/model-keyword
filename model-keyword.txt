@@ -1472,6 +1472,7 @@
 6e199947, rfktrstyle
 6ea179f4, mobian or sonic character name
 6eaf3198, azhiichigo style，big eyes|thick lines|cute|
+6eb2a7ce, jiaocha
 6ed90084, photorealistic
 6efa7caf, dreamlikeart
 6efbb478, photo of mannavai person
@@ -1758,9 +1759,10 @@
 8a6eadcf, bolsonaro, bigbolsonaro_v10.safetensors
 8a6eadcf, eneias, bigeneias_v10.safetensors
 8a7088c5, JzzyeonAi_v5
-8aacc4c1, 1girl，moyou，realistic, 25DMIXMoyou25DMIX_v10VaeFp16NoEma.safetensors
+8aacc4c1, 1girl，moyou，realistic, 25D_v10VaeFp16NoEma.safetensors
 8aacc4c1, moyou，1girl，White hair, 墨幽二次元_v1.0-vae-fp32.safetensors
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
+8abb053c, jiaocha
 8aca88c2, bakirda|kridaba|DaKriDi|dikrida
 8ad6ce64, Evan
 8ae4d0fb, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
