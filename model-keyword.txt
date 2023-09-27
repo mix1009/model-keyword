@@ -181,7 +181,6 @@
 0c93a576, name|oumeifeng style|redshift style
 0cdb758d, tea picker
 0cf442f0, dakota person
-0d021850, 1girl|moyou
 0d102d86, kawahara
 0d53acd4, beatniks|retro futurism|hip|blue note album cover design
 0d8373ed, realistic|photorealistic
@@ -448,6 +447,7 @@
 12485093, rcnz_niji style
 1249edb0, by michihasu
 124de6a9, eldmeisterog
+12665a17, realistic1.2
 126f21de, Zwxthej
 12c978ba, Shigenori Style
 12cc710c, vjt
@@ -616,7 +616,6 @@
 1f27bb0e, sks woman
 1f96e58d, photo|photograph
 1fb30a55, aimoji
-1fcfde95, Master Chief
 20225e21, movie|cg
 202360be, by b-ginga, bGingaModel_bgingaV1130k.safetensors
 202360be, by chon, chonModel_chonV19k.safetensors
@@ -960,8 +959,7 @@
 3d61b720, 3D product render|3D product render style
 3da648f5, in the style of AImanhwa
 3dccab21, pepereal
-3dd9c14a, moyou|1girl|White hair|, MIXMoyou2dmix_v10.safetensors
-3dd9c14a, moyou，1girl，White hair, 墨幽二次元MIX_MoYou2Dmix_1.0-fp32.safetensors
+3dd9c14a, moyou|1girl|White hair|
 3e008b4d, bethharmon
 3e16efc8, Mona Lisa
 3e832815, kochergin
@@ -1503,7 +1501,6 @@
 7185212f, evang
 718c368e, mikeidsk1
 71b0b5fb, tyznedsk1
-71b4dafb, 1girl，moyou，forehead，white hair，long hair
 71cb912e, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
 71d46dd0, Bocchi|KitaIkuyo|IjichiNijika|YamadaRyo|IjichiSeika|PAsan|HiroiKikuri|ShimizuEliza|IwashitaShima|Bfan1|BoFa2|GotoFutari
 71e034f6, wuxia
@@ -1759,8 +1756,7 @@
 8a6eadcf, bolsonaro, bigbolsonaro_v10.safetensors
 8a6eadcf, eneias, bigeneias_v10.safetensors
 8a7088c5, JzzyeonAi_v5
-8aacc4c1, 1girl，moyou，realistic, 25D_v10VaeFp16NoEma.safetensors
-8aacc4c1, moyou，1girl，White hair, 墨幽二次元_v1.0-vae-fp32.safetensors
+8aacc4c1, 1girl，moyou，realistic
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
 8abb053c, jiaocha
 8aca88c2, bakirda|kridaba|DaKriDi|dikrida
@@ -1963,6 +1959,7 @@
 993f2358, guttonerdvision12, guttoNerdVision12_v12.ckpt
 993f2358, guttonerdvision14, guttoNerdVision14_v14.ckpt
 993f2358, ioasdf, krio70_001.ckpt
+993f2358, ja3portrait, jaggedAlliance3Face_v10.ckpt
 993f2358, jennawan, jennawan_v10.ckpt
 993f2358, jlryst, goldArmorPortraits15_goldArmorPortraits15.ckpt
 993f2358, kylin, akalinLinky_v20.ckpt
@@ -2472,6 +2469,7 @@ bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
 bb3992f1, Edsheeran Person
 bb666a18, 3d product render|product render
+bb7dbcff, anusithara
 bb8034db, pattern
 bbbd71ed, sks
 bbf68d8e, 1 girl
@@ -2877,6 +2875,7 @@ def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
 df410284, KEMONO
 df62a361, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
+df8b5e2f, Wacky the Erizo
 df989f31, Hentai|anime|male|female|girl|boy
 df9e36bd, leagueofstyle
 dfa06e02, evang
