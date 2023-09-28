@@ -1269,6 +1269,7 @@
 5cc1bba0, style of ohwx
 5cc891f2, pixar|C4D|blender|3d
 5cc9b7ba, modelshoot style
+5cf5ae06, wasteland
 5d2a695e, sdclrdrk style
 5d39b377, rainey|rainey style
 5d63c8cd, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
@@ -1448,6 +1449,7 @@
 6d3ad2a9, Margot|Margot person
 6d4c500c, khalil
 6d4fe089, waj
+6d545e86, poto of bibin|portrait of bibin
 6d59a0fd, lisdusk1|lisdusk2
 6d5c9271, funko style
 6d92cddf, dalcefo_hitoria
@@ -1749,6 +1751,7 @@
 8a6eadcf, bolsonaro, bigbolsonaro_v10.safetensors
 8a6eadcf, eneias, bigeneias_v10.safetensors
 8a7088c5, JzzyeonAi_v5
+8a868ec0, girl
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
 8abb053c, jiaocha
 8aca88c2, bakirda|kridaba|DaKriDi|dikrida
@@ -2861,6 +2864,7 @@ de2f2560, shiny_skin, realshinymixV1_v10.safetensors
 de2f2560, yorha2b, yorha2b_v20Animation.safetensors
 de2f2560, zephyr, zephyr_v10.safetensors
 de41984b, no
+de430242, joseSabogal
 deb6b205, gatto
 def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
