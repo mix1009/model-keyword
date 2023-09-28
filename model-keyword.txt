@@ -543,7 +543,6 @@
 191173a0, 1
 194778a2, wkc
 19512656, midjourney
-19804fc4, 1girl|moyou
 1994138c, ChilloutDiverseMix
 19b72626, analog style|dreamlikeart|redshift style
 19d911b0, djct woman|djct
@@ -610,7 +609,6 @@
 1e6822b7, comics style|analog style|illustration|lineart
 1e7dad9a, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult
 1e8c4a0a, GIRL Oil Painting
-1edfcb8d, 1girl|moyou
 1f19191c, UnstableDiffusion|unstablephotoreal
 1f258730, dbluth
 1f27bb0e, sks woman
@@ -678,7 +676,6 @@
 237ec903, Evang
 2386519a, 树|印象派|抽象
 23f104f6, Evang
-23fb9b9e, 1girl|moyou
 2402f7e7, lamia
 24362016, fiat, fiatPanda_v10.safetensors
 24362016, x90, suzukiX90_v10.safetensors
@@ -720,7 +717,6 @@
 26c85a2d, moba game icon, mobaGameEquipment_v10.safetensors
 26c85a2d, q skill icon, qSkillIcon_v10.safetensors
 26c85a2d, q style, qStyle_v10.safetensors
-27320f96, KEMONO
 274d0bb6, trending on artstation|8k|ultra hd|1woman
 276edfa7, evang
 27a594ef, GIRL 3D SUBJECT RENDER PHOTOREALISTIC FEMALE RETRO ANATOMICAL ART INTRICATE ACCURATE WOMAN ILLUSTRATION CARS CARTOON CINEMATIC FANTASY PHOTOGRAPHY REALISTIC
@@ -730,7 +726,6 @@
 27de1ee8, Jimmie Åkesson
 27ea8c02, snthwve style|nvinkpunk
 282b4e08, Fraufembot
-289b019b, 1girl|moyou
 28ae9d27, tk-char|tk-env
 28b9b487, masterpiece|top quality|best quality|official art|beautiful and aesthetic:1.2|8k|best quality|masterpiece:1.2|no humans
 28bfe9f2, anthro|furry|female|canine
@@ -945,7 +940,6 @@
 3be80551, comic
 3c018217, bondrewd|1boy
 3c1ac307, 海洋|女性|天空|温泉|枫叶|雪花|温暖|超清|艺术|生理|shape|草原|樱花
-3c1c78f7, 1girl|moyou
 3c1ee4c5, wewulzkz
 3c22d47f, nkneghmn
 3c30b472, analog style|modelshoot style|nsfw|nudity
@@ -1104,7 +1098,6 @@
 4d5cca44, TinyPlanet|TinyCityPlanet
 4d63cb83, mbb
 4d75ad63, chilloutWorld|chilloutWorld_v1
-4d8b96a1, 1girl|moyou|realistic
 4dadf5f3, analog style
 4db8fda3, PokeModel
 4dc372a6, art by yaguru magiku
@@ -1279,6 +1272,7 @@
 5d2a695e, sdclrdrk style
 5d39b377, rainey|rainey style
 5d63c8cd, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
+5d7f591a, anime style|anime artwork|1girl|1boy|mecha
 5d83b27c, nvinkpunk|snthwve style|style of joemadureira
 5d883be5, 1girl|fox ears
 5d8c0b76, by KyoAni
@@ -1345,7 +1339,6 @@
 62f93c8a, rcnz_niji style
 6329328a, lds
 6360ab7c, angel
-63740a27, 1girl|moyou
 63746d4f, rtrophto1
 638ca327, jp_style person
 6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
@@ -1441,7 +1434,6 @@
 6bccbcc6, EduCH, edumodel_v10.ckpt
 6bccbcc6, blondee, blondeee_v10.ckpt
 6bdec634, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
-6bebd476, 1girl|moyou
 6c0b3fc5, coralchar
 6c481f5c, mksks style
 6c5dc775, kpt digital artstyle|gui
@@ -1757,7 +1749,6 @@
 8a6eadcf, bolsonaro, bigbolsonaro_v10.safetensors
 8a6eadcf, eneias, bigeneias_v10.safetensors
 8a7088c5, JzzyeonAi_v5
-8aacc4c1, 1girl，moyou，realistic
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
 8abb053c, jiaocha
 8aca88c2, bakirda|kridaba|DaKriDi|dikrida
@@ -1897,7 +1888,6 @@
 972c5030, gendigi
 972cb2b5, guttoepic2
 975b2546, 80's anime style
-97754b57, KEMONO
 97777800, swpunk|synthwave|paint splatters
 978e9ff8, h4zza
 979864ce, Meowskulls, meowskullsModel_v20.ckpt
@@ -2447,7 +2437,6 @@ b8a220c1, nebulaewisdomanimestyle
 b8d8a250, emaiti
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
 b8e63a5d, Evang
-b8e8e6ac, _mohawk_|character
 b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
 b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
 b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style, aargArchitecture_v10.safetensors
@@ -2771,7 +2760,6 @@ d843660f, quinn \(league of legends\), quinnFromLeagueOf_quinnNaiMix.ckpt
 d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
 d84b15d9, none
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
-d8892ed6, 1girl|moyou
 d89bc06c, m
 d8c33a91, 1girl
 d8e16309, realistic|photorealistic
@@ -2898,7 +2886,6 @@ e02601f3, photo of ohwx woman, janLevinsonMeloraHardin_6kSteps.ckpt
 e02601f3, rurudo, rurudo_v10.ckpt
 e02601f3, sks lucy, lucyFromCP_v1.ckpt
 e02601f3, sks vi|vi, viFromArcane_v1.ckpt
-e04f7e7f, character
 e0844d20, pbr
 e0a3ab60, xivcine person
 e0a60e11, dskyart1|style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
@@ -2918,7 +2905,6 @@ e2494235, FLUIDART LIQUID SPLASH KNOLLINGCASE FOOD_CRIT BEEPLE
 e24a9c03, 2d|masterpiece|best quality|anime
 e2b8b39c, sks person
 e2d2e2c3, irmntro person
-e2e777bf, 1girl|moyou
 e3373f54, Japanese|Korean
 e33d0a54, Masterpiece|Realistic|best quality
 e3423ef2, evang, acSide_v10.ckpt
@@ -3000,7 +2986,6 @@ ea1e7cc7, FlonixMatyukhinft|FlonixApterus|Danmumford style
 ea2dccc5, tracerx
 ea34ee15, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
 ea35b744, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
-ea78cf2a, 1girl|moyou|realistic
 eaabd8c9, negative prompt :|door
 eaaed320, SuperBolinha2
 eabf280f, anthro|monster girl|colored skin|furry
@@ -3009,7 +2994,6 @@ eae836b4, mommy
 eae95c5e, cardassian
 eafbac0e, rayearth
 eb01f3b2, NijiFTB
-eb1666ba, 1girl|moyou
 eb1b80e4, ziov
 eb3a4159, dal
 eb70ff01, concept-art
@@ -3025,7 +3009,6 @@ ec664923, undercucho
 ec8cd4c8, BalloonArt
 ec9f8c2e, CharacterChan Style
 ecc82382, RAW photo
-eccb3dc0, 1girl|moyou
 ecd908cb, sks woman|(sks woman)
 ecf14450, male|female
 ecf98c5e, valorant style
@@ -3176,6 +3159,8 @@ f781810b, by kyoani
 f7a03161, A perfect photo|A poorly lit photo|A perfect closeup photo
 f8159da6, ftnadusk3
 f81f36e7, girl|woman
+f84589b2, Emma Watson, emmaWatson_v10.safetensors
+f84589b2, Natalie Portman, nataliePortman_v10.safetensors
 f846e100, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 f86aeb35, renne
 f86e4589, anime
