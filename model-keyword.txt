@@ -133,7 +133,6 @@
 09bcb72f, analog style|modelshoot style|nsfw|nudity, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, chibi, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult, vae-ft-mse-840000-ema-pruned.safetensors
-09bcb72f, eyes|big eyes, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, fantasy|fantasy art|80's fantasy art|90's fantasy art|Retro|Realistic|Photorealistic|Watercolor|Oil Painting|Science Fiction|Scifi Fantasy Art|Scifi|D&D Character|Character Design|Character Concept|Fantasy Poster|Analog|Analog Style|Volumetric Lighting|Subsurface Scattering|Photoreal|Perfect Body|Perfect Legs|Masterpiece|Intricate|Detailed|Hyperrealistic|Mature Adult|NSFW, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, psyiome|strange biome, vae-ft-mse-840000-ema-pruned.safetensors
@@ -1034,6 +1033,7 @@
 45f682e2, sincity_iamyork
 45f855ea, 士官长
 46089527, Evang
+461e9d29, sassy style|edg bodytape|riley star|lana rhoades|karlee grey|eva sedona|vivian taylor|skylar vox|kylie shay|hannah hays|haley spades|foxy alissa|christy marks|ivy lebelle
 4629eda6, mj|cozy|cinematic
 46314e53, close up character design|multiple concept designs|
 467df46e, 1girl|anime|mastepiece|best quality
@@ -2578,6 +2578,7 @@ c5c47935, in the style of AImanhwa
 c5c54e28, dreamlikeart
 c5ec95b4, loli
 c6211d26, bedroomai
+c670dcdd, Realistic
 c6bb6991, hearthstone card
 c6bd9e1d, Rori
 c76b8b8e, sks woman
