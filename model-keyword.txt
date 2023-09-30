@@ -446,7 +446,6 @@
 12485093, rcnz_niji style
 1249edb0, by michihasu
 124de6a9, eldmeisterog
-12665a17, realistic1.2
 126f21de, Zwxthej
 12c978ba, Shigenori Style
 12cc710c, vjt
@@ -1895,6 +1894,7 @@
 978e9ff8, h4zza
 979864ce, Meowskulls, meowskullsModel_v20.ckpt
 979864ce, haruno, harunomodel_v10.ckpt
+979864ce, john rambo, ramboDiffusion_v15.ckpt
 979864ce, meowskulls, meowskullsModel_meowskulls.ckpt
 979de0ab, 2xdrdisrespect
 97a0eac5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
@@ -2440,6 +2440,7 @@ b8a220c1, nebulaewisdomanimestyle
 b8d8a250, emaiti
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
 b8e63a5d, Evang
+b8e8e6ac, _mohawk_|character
 b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
 b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
 b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style, aargArchitecture_v10.safetensors
@@ -2812,7 +2813,6 @@ dbbf8175, in lomostyle
 dc01dfdd, ohwx|demon|werewolf|minotaur|zombie|
 dc05355d, sksi object|sksi
 dc234f3c, frozen style|anna frozen|elsa frozen|olaf frozen|sven frozen|kristoff frozen|ice castle|duke of weselton frozen|prince hans frozen
-dcc30345, huge breast
 dccb4eb7, head
 dcdf0425, dgs illustration style
 dced2560, cum
@@ -2891,6 +2891,7 @@ e02601f3, photo of ohwx woman, janLevinsonMeloraHardin_6kSteps.ckpt
 e02601f3, rurudo, rurudo_v10.ckpt
 e02601f3, sks lucy, lucyFromCP_v1.ckpt
 e02601f3, sks vi|vi, viFromArcane_v1.ckpt
+e04f7e7f, character
 e0844d20, pbr
 e0a3ab60, xivcine person
 e0a60e11, dskyart1|style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
