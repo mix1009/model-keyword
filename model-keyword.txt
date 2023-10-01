@@ -2563,7 +2563,8 @@ c3b103e8, lvmd aesthetic|3d render
 c3c086d6, artstyle bse
 c3c1dc18, a painting in the style of guidao style
 c3cfd75d, powa
-c3d52f46, brown hair|clara|short hair|mini skirt|orange skirt
+c3d52f46, Femboy|Feminine|Short hair|Cute|Beautiful|Flat chest, femboyLora_v10.safetensors
+c3d52f46, brown hair|clara|short hair|mini skirt|orange skirt, claraHananokouji_v10.safetensors
 c40bd8e7, lanawood
 c448dc23, wide hips|narrow waist|qi lolita|
 c44bb585, duskametrick15
