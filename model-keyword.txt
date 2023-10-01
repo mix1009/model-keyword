@@ -705,6 +705,7 @@
 26621fc2, tdst style
 2684c304, cr1m3
 268f2132, Pharmabro Person
+26945dab, female|male
 269b8567, general
 269de172, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION
 26acd9f3, furrender style
@@ -3017,6 +3018,7 @@ ec8cd4c8, BalloonArt
 ec9f8c2e, CharacterChan Style
 ecc82382, RAW photo
 ecd908cb, sks woman|(sks woman)
+ecf14450, male|female
 ecf98c5e, valorant style
 ed0b4125, anime style|illustration|oil painting|analog style|realistic|photorealistic
 ed87e89c, tchnclr style
