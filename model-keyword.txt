@@ -2446,6 +2446,7 @@ b8e8e6ac, _mohawk_|character
 b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
 b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
 b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style, aargArchitecture_v10.safetensors
+b97d7651, #SexyRed
 b9ac173c, SDArt
 b9c3fe1b, ohwx|bnha
 b9ca767d, Evang
