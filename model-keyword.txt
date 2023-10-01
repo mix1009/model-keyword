@@ -1660,6 +1660,7 @@
 81848ac2, alstar
 81869659, digital art|photograph
 818ed0ab, khrushchevka
+819a24b3, cybwerpunk|cyber|cyberpunk 2077
 81b68188, tk_env|tk_char
 81da0383, dvOldWorld
 81f23ca9, worst quality|lowres|easynegative|hermaphrodite|cropped|not in the frame|additional faces|jpeg large artifacts|jpeg small artifacts|ugly|tiling|poorly drawn hands|poorly drawn feet|poorly drawn face|out of frame|extra limbs|disfigured|deformed|body out of frame|blurry|bad anatomy|blurred|watermark|grainy|signature|cut off|draft|not finished drawing|unfinished image|bad eyes|doll|3d|cartoon|bad eyes:1.2|worst quality:1.2|low quality:1.2|bad-image-v2-39000|bad_prompt_version2:0.8
@@ -1877,6 +1878,7 @@
 959e67a3, sks woman
 95a1510a, donnaewin
 95db88e5, Evang
+95f8d0a7, Gghjjh, good_v10.safetensors
 95f8d0a7, armpit, module1_train1.safetensors
 95f8d0a7, graffiti illustrations|chilloutmix, graffitiArt_httpsCivitaiComModels.safetensors
 95f8d0a7, ol|都市|性感, chilloutmix_NiPrunedFp32Fix.safetensors
