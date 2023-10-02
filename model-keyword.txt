@@ -608,6 +608,7 @@
 1e6822b7, comics style|analog style|illustration|lineart
 1e7dad9a, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult
 1e8c4a0a, GIRL Oil Painting
+1f138a80, Delorean|a photo of Dani15 person|
 1f19191c, UnstableDiffusion|unstablephotoreal
 1f258730, dbluth
 1f27bb0e, sks woman
@@ -2526,6 +2527,7 @@ bff9c2fc, POW Style
 c022d9d2, asiangirlslikeness
 c0302f10, Gllltchy style|Gllltchy, gllltchy_v1.ckpt
 c0302f10, filmation motu style, filmationMOTU_v1.ckpt
+c0679940, portrait of msiloss person
 c09d432b, photorealistic|nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 c0c220d3, furry
 c0c8c2cb, Ligne claire illustration|By Jean-Pierre Gibrat|By Roy Krenkel|By Milo Manara|By Francois Schuiten
