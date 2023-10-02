@@ -589,6 +589,7 @@
 1d116781, furry
 1d132f9e, whatif style|tdst style
 1d2f8774, furry
+1d3bff9f, KEMONO
 1d5f981e, emmasamms
 1d812301, photorealistic|textured skin|skin pores|skin imperfections|raw|8k|intricate details
 1d9381dd, abc
@@ -715,6 +716,7 @@
 26c85a2d, moba game icon, mobaGameEquipment_v10.safetensors
 26c85a2d, q skill icon, qSkillIcon_v10.safetensors
 26c85a2d, q style, qStyle_v10.safetensors
+27320f96, KEMONO
 274d0bb6, trending on artstation|8k|ultra hd|1woman
 276edfa7, evang
 27a594ef, GIRL 3D SUBJECT RENDER PHOTOREALISTIC FEMALE RETRO ANATOMICAL ART INTRICATE ACCURATE WOMAN ILLUSTRATION CARS CARTOON CINEMATIC FANTASY PHOTOGRAPHY REALISTIC
@@ -1894,6 +1896,7 @@
 972c5030, gendigi
 972cb2b5, guttoepic2
 975b2546, 80's anime style
+97754b57, KEMONO
 97777800, swpunk|synthwave|paint splatters
 978e9ff8, h4zza
 979864ce, Meowskulls, meowskullsModel_v20.ckpt
