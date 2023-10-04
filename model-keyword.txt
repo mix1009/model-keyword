@@ -1825,6 +1825,7 @@
 90203e33, zwx
 90501ecf, mechanical arms
 90626071, A_banana, kl-f8-anime2_fp16.safetensors
+90626071, Portrait, kl-f8-anime2_fp16.safetensors
 90626071, chibi|cute, kl-f8-anime2.vae.safetensors
 90626071, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, kl-f8-anime2.vae.safetensors
 90626071, shuimobysim|shukezouma, kl-f8-anime2.vae.safetensors
