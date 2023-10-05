@@ -2037,6 +2037,7 @@
 9b69308b, mangadusk1
 9b757411, detailed_skin|pores|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin, eden_v14.safetensors
 9b757411, detailed_skin|skin|green_skin|dark_skin|blue_skin|red_skin|brown_skin|pink_skin|veiny_skin|veins|mole|moles|freckles|wet_skin|grey_skin|pores, eden_v13.safetensors
+9b79ef98, photo of crisron person
 9b836ce6, by Boris Vallejo|by Brom|by Frank Frazetta|by Hajime Sorayama|by Kelly Freas|by Luis Royo|by Milo Manara|by Olivia De Berardinis|by Philippe Druillet|by Simon Bisley
 9b83a557, cmodel|clayitization|cbzbb|oldjourney|classicnegative|concept-art|redshift style|by vector-art|pulp-diffusion|chv3czombie|chv3calien|chv3cbird|chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3slighthouse|chv3scute|chv3smacro|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
 9b8aa544, hoi4
@@ -2677,6 +2678,7 @@ cfc5de0e, modelshoot style|analog style|mdjrny-v4 style
 d0003adb, ohwx|library
 d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+d03bd097, a photo of Dani15 person|Dani15
 d049af0b, Evang
 d04d8a1f, lamia
 d0503c73, hanbok
