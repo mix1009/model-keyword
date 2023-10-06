@@ -491,7 +491,7 @@
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
 14e1ef5d, gianthulk, mysteriousCharacter_dreamlike20.ckpt
 14e1ef5d, ginkddd, del2_v1.ckpt
-14e1ef5d, gksrnrghk|rlaghdeh, koreanSumukhwaModel_v10.ckpt
+14e1ef5d, gksrnrghk|rlaghdeh, traditionalKorean_v10BaseModelSD15.ckpt
 14e1ef5d, phse, prettyHouseSo_v1.ckpt
 14e1ef5d, rapture, rapitu_v10.ckpt
 14e1ef5d, sksi, csGOMapGenerator_v1.ckpt
@@ -589,7 +589,6 @@
 1d116781, furry
 1d132f9e, whatif style|tdst style
 1d2f8774, furry
-1d3bff9f, KEMONO
 1d5f981e, emmasamms
 1d812301, photorealistic|textured skin|skin pores|skin imperfections|raw|8k|intricate details
 1d9381dd, abc
@@ -717,7 +716,6 @@
 26c85a2d, moba game icon, mobaGameEquipment_v10.safetensors
 26c85a2d, q skill icon, qSkillIcon_v10.safetensors
 26c85a2d, q style, qStyle_v10.safetensors
-27320f96, KEMONO
 274d0bb6, trending on artstation|8k|ultra hd|1woman
 276edfa7, evang
 27a594ef, GIRL 3D SUBJECT RENDER PHOTOREALISTIC FEMALE RETRO ANATOMICAL ART INTRICATE ACCURATE WOMAN ILLUSTRATION CARS CARTOON CINEMATIC FANTASY PHOTOGRAPHY REALISTIC
@@ -1218,6 +1216,7 @@
 582e14a8, plump
 582e89f3, kylxn
 585879fc, portrait+ style
+5859c49d, whtjs|kangsehwang|kimhongdo|sinyunbok|simsajeong|anjungsik|jangseungeop|heoryeon|gksrnr|tnanr|baengmyo|gureuk|molgol
 58819dc1, anime|realistic|masterpiece|best quality
 58959faa, photo of zwx yu lexuan
 5896f8d5, modelshoot style|analog style|mdjrny-v4 style|nousr robot
@@ -1404,6 +1403,7 @@
 68a6ed7a, evang
 68b463ba, clazy style
 68beb121, Nintendo mii|modern_mii|classic_mii|highres|eye_whites|fighting|tennis
+68e753fa, a photo of Dani15 person|Dani15
 68f951eb, loli
 69134511, sks woman
 69389227, borderlands
@@ -1898,7 +1898,6 @@
 972c5030, gendigi
 972cb2b5, guttoepic2
 975b2546, 80's anime style
-97754b57, KEMONO
 97777800, swpunk|synthwave|paint splatters
 978e9ff8, h4zza
 979864ce, Meowskulls, meowskullsModel_v20.ckpt
@@ -2163,6 +2162,7 @@ a4066aa4, emaiti
 a41a2496, gigachad
 a42082e5, DarahanEyes
 a4281939, PORTRAIT of Dilmurat|Dilmurat|1girl
+a4312ca5, Pokemon|Simple Background|Black Background|Monster|Normal|Fire|Water|Grass|Electric|Ice|Fighting|Poison|Ground|Flying|Psychic|Bug|Rock|Ghost|Dragon|Dark|Steel|Fairy
 a455667b, cute|chibi
 a457aeea, FlonixApterus
 a4723a65, anime
@@ -2529,7 +2529,6 @@ bff9c2fc, POW Style
 c022d9d2, asiangirlslikeness
 c0302f10, Gllltchy style|Gllltchy, gllltchy_v1.ckpt
 c0302f10, filmation motu style, filmationMOTU_v1.ckpt
-c0679940, portrait of msiloss person
 c09d432b, photorealistic|nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 c0c220d3, furry
 c0c8c2cb, Ligne claire illustration|By Jean-Pierre Gibrat|By Roy Krenkel|By Milo Manara|By Francois Schuiten
@@ -2678,7 +2677,6 @@ cfc5de0e, modelshoot style|analog style|mdjrny-v4 style
 d0003adb, ohwx|library
 d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
-d03bd097, a photo of Dani15 person|Dani15
 d049af0b, Evang
 d04d8a1f, lamia
 d0503c73, hanbok
@@ -2845,6 +2843,7 @@ de2f2560, 6girls+, theGoldenMirage_v11.safetensors
 de2f2560, Asian|Man|Female|Cute, asianMix_alpha30.safetensors
 de2f2560, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION, SD2Berryartify_sd21V02.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
+de2f2560, JenniferJBD, jenniferjbd_.safetensors
 de2f2560, JukyungLim, jukyunglim_v20.safetensors
 de2f2560, Mina Sundwall, minaSundwall_v10.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
@@ -2939,6 +2938,7 @@ e3ac27b1, bioluminescence:1.2|dark background|darkness|negative space|best quali
 e3ad5893, dskyart1|gendigi
 e3af0732, btywtrclr
 e3e5eba1, _
+e3e65f7c, realistic
 e3fd6fba, insertNameHere
 e426a38f, dskyart1
 e43b2dfd, most beatiful ever
