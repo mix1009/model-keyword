@@ -796,6 +796,7 @@
 2f17d5f4, 8k|raw photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.37|high detailed background|1girl in a blue shirt|shy expression|cute|cityscape|night|rain|wet|professional lighting|photon mapping|radiosity|physically-based rendering||beautiful breasts|medium breast|look at viewer|high detail raw color photo|near shot|of girl wearing ancient chinese dress|wearing thin white shirt|clothed|standing in the middle of the battlefield|dragon tattoos on breast|elegant|beautiful face|blue eyes|girl|30 yeas old|light blonde|light curls|cybernetic impalnts:1.2|augmentations|detailed skin|supple skin pores|silicon|metal|intricately detailed|fine details|hyperdetailed|bloom:0.4|raytracing|subsurface scattering|diffused lighting|side lighting:0.5|shallow depth of field|photographed on a canon eos r5|85mm lens|f/2.8|sharp focus|smooth|cinematic film still <lora:mix4:0.8
 2f4d3f4d, 1girl
 2f4e14a4, litebrite
+2f73cbe9, furry:1.4|anthro:1.4|fluffy:1.4|fluffy fuzzy furry fur covered skin:1.4
 2f7b2f79, mj-sphere
 2fd6057b, Batman_the_animated_series
 2fdd0123, guweiz|nixeu|wlop
@@ -1703,6 +1704,7 @@
 84ec5fea, subaru|1boy
 84f6b9a2, whatif style
 853e5ff4, wvebg1
+859342ff, MMN|MN|cho girls
 85979c1f, 1990 style|1980 style|retro artstyle
 85b77ff9, samdoesarts style
 85c66939, csalpha artstyle
@@ -2609,6 +2611,7 @@ c8780143, damarjati
 c8796e4b, tk_char|tk_env
 c88e730a, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 c89caee5, 只因jinkesi
+c8b5ae05, 3d
 c8e3bfca, AnimeChan Style
 c91be480, Dloz|Dloz style
 c951cc0e, sks person
@@ -2979,6 +2982,7 @@ e79c8e1c, jckmn person
 e80f12bb, Evang, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e80f12bb, real|natural, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e83d3aa7, Ligne claire
+e842dcc7, 3d, ClearVAE_V2.safetensors
 e842dcc7, Armor|golden cloth|genini cloth|saga|gemini saint, CleanVAE.safetensors
 e842dcc7, KingShark|Humanshark|Sharkman, CleanVAE.safetensors
 e842dcc7, glasses, CleanVAE.safetensors
