@@ -1016,6 +1016,7 @@
 445461df, fking_scifi_v2
 446ec050, 付志豪
 447982f4, fantasy|fantasy art|80's fantasy art|90's fantasy art|Retro|Realistic|Photorealistic|Watercolor|Oil Painting|Science Fiction|Scifi Fantasy Art|Scifi|D&D Character|Character Design|Character Concept|Fantasy Poster|Analog|Analog Style|Volumetric Lighting|Subsurface Scattering|Photoreal|Perfect Body|Perfect Legs|Masterpiece|Intricate|Detailed|Hyperrealistic|Mature Adult|NSFW
+4482f951, modisn|modisn disney|modisn disney style
 44bf0551, booru tags
 44c43db2, no
 44fc97be, realistic|sexy|female|male
@@ -1932,6 +1933,7 @@
 993f2358, NewArchitecture, newarchitectureModern_v10.ckpt
 993f2358, PokeModel, pokemodel_BETA10.ckpt
 993f2358, PrintDesign, tShirtPrintDesignsTest_v01.ckpt
+993f2358, SaraBala, sarabala_v10.ckpt
 993f2358, Selena Gomez, selenadiffusion_v10.ckpt
 993f2358, Selena Gomez|Jenna Ortega|Celeb, selenaortega_v10.ckpt
 993f2358, XXXtranger, Xxxstranger_xxxtrangerV10.ckpt
@@ -2687,6 +2689,7 @@ d05570b1, nieniezi girl|1girl|pink eye|purple eye|demon tail|ahoge|demon wings|h
 d081535b, doang woman
 d0941469, muscular|bodybuilder|large muscles|big muscles|hairy chest|hairy body
 d098dada, dskbbb1
+d0aa026b, modisn|modisn disney|modisn disney style
 d0b457ae, modelshoot style|analog style|mdjrny-v4 style
 d0bbd388, pre-rendered|3d graphics
 d0ce5e98, stoneocean
@@ -2885,6 +2888,7 @@ de41984b, no
 de430242, joseSabogal
 deb6b205, gatto
 def85d63, pixelart|sprite|8-bit|16-bit
+deffd40e, MMN|MN|cho girl
 df2df325, googiearch
 df410284, KEMONO
 df62a361, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
