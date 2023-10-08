@@ -102,6 +102,7 @@
 07737b93, hotporn
 0786845e, trained with chilloutmix|chinabeauty|dreamlike|a lot of others
 079b172e, illustration style kurzgesagtish
+079bb56e, country flag
 0817babf, sks chessevolved
 081c78a3, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
 081f8a15, 123, zxcvbnm_v10.safetensors
@@ -1683,6 +1684,7 @@
 82cb7b65, germy
 82cbe3e7, sks woman|(sks woman)
 82d72bc8, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
+82fd8300, 1 girl
 8300ecaa, artificial-journey style
 83078a1e, 抽象|色块
 830b6ebd, masterpiece|best quality
