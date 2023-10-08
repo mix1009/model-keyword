@@ -1610,7 +1610,8 @@
 7a8ece1f, Evang
 7ab4740f, rayearth
 7ad31fc7, none
-7af9cd4c, EduSDII
+7af9cd4c, EduSDII, modelcharacter_v10.ckpt
+7af9cd4c, otanisauota, otanisauota_v10.ckpt
 7b34a884, SEE APPENDIX
 7b5dd35c, bimbo|glossy
 7b62be5f, empress
@@ -2105,6 +2106,7 @@
 9ff4bcf1, dalcefo
 9ff529c8, anime
 a026bc0d, glasses
+a0395ca6, kurumifaceXL
 a06436da, wtrcolor style
 a06ae47a, chibi|cute
 a06c6681, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
