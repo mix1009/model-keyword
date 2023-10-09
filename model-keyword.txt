@@ -171,6 +171,7 @@
 0bd9f938, hyperrealistic
 0bedca16, Illustration of|Drawing of|Sketch of
 0bf0ac13, masterpiece|Best Quality
+0c18c46a, jungle style
 0c1c9d52, ys
 0c475674, oyamamahiro|oyamamihari|hozukikaede|hozukimomiji|okaasahi|murosakimiyo|tenkawanayuta|aniscreen|edstyle|megazine
 0c4c983e, realistic
@@ -2801,6 +2802,7 @@ d9761e1d, ashenhard style
 d9a0e90d, Margot|Margot person
 d9aa872b, food_crit
 d9d42da0, fantassified icon
+d9df6037, masterpiece|best quality|long white hair|warm lighting|white dress
 d9e8b72c, 3d render|3d cartoon
 d9f5f699, Cartoon Girl
 da02d76b, HarryPotterStyle
@@ -3273,6 +3275,7 @@ fff0c339, 3d toon style|3d style, 3dToonDiffusionXL_v10.safetensors
 fff0c339, dal, xlPainting_v09Beta.safetensors
 fff0c339, girl|boy, animerealisticbg_v10.safetensors
 fff0c339, inkpunk, sdxlInkpunkstyle_v01.safetensors
+fff0c339, ukl, fantasyStyleBailing_v1007.safetensors
 fff0c339, xxmix_girl, xxmix9realisticsdxl_testV10.safetensors
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
 fff4190b, oristyle
