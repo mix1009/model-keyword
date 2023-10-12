@@ -539,6 +539,7 @@
 189e3972, shinyunbok painting
 18b7217d, game icon
 18b72c7b, zainabt
+18c428bc, ysy_anime
 19014c4a, estiloventidois
 190bc75e, 1girl|mecha|
 191173a0, 1
@@ -1254,6 +1255,7 @@
 5a747794, mechanical parts|mechanical 'body part or object|cyberware style
 5a75e4b5, female|male, matrixAnime_v16VAE.safetensors
 5a75e4b5, man|woman|boy|girl|etc, matrixAnime_v16VAE.safetensors
+5a9e41b8, Anime Style
 5aceb664, kor_mixed 1girl
 5ad07226, art by yaguru magiku
 5ae66f17, FANTASY|ANIME|FANTASY WORLD|FANTASY BACKGROUNDS
@@ -1520,7 +1522,6 @@
 73771530, kazuya
 738e9523, Beautiful women|pretty girls|and more
 73aebb03, rammstein
-73ca29f4, raw photo
 73d359a0, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 73d558d7, jakquelynn
 73df0f6b, no trigger word required
@@ -1705,6 +1706,7 @@
 8371a0bf, spicto
 8381f785, jclnhbe style
 83db46be, Fantasy|Anime|fantasy Backgrounds
+83dd9d1a, professional photo
 84270e56, Blue skin|Red Skin|Green skin|glitter makeup|
 84597c2e, style of joemadureira
 8469c1b7, in WKHW1 Beautiful Art Style
@@ -2065,6 +2067,7 @@
 9c55fd12, mirrormask
 9c5da18d, girl|woman|man|boy
 9c610db2, masterpiece|best quality|intricate detail|detailed eyes|good hand angle
+9c7652fc, OBJECT|NO HUMANS|SOLO FOCUS|ITEMS
 9c88bb9e, PiroxiumDiffusion style
 9ca13f02, analog style
 9cde17f8, Cartoon Girl
@@ -2194,6 +2197,7 @@ a536207b, a painting by mse
 a55d4071, wgz style
 a571ebca, masterpiece|UHD|RAW photo|perfect face|perfect body|photorealism|cinematic lighting|intricate|detailed face|sweat|glistening skin
 a575eb14, furry
+a5b04dac, mdlnde
 a5c134f5, Blck_Mrbl, floralmarbleWOKE_EDITION.ckpt
 a5c134f5, aberration|beast|celestial|construct|dragon|elemental|fey|fiend|giant|humanoid|monstrosity|ooze|plant|undead, dDTopDownToken_v10.ckpt
 a5c134f5, battlemap|dungeon|outdoor, dDBattlemaps_1024V10.ckpt
@@ -2270,7 +2274,6 @@ aa366209, source4 style, source4V10_v1Safetensors.safetensors
 aa366209, wewulzkz, werewolfDiffusion_1.safetensors
 aa49e01c, anime pencil concept style
 aa7001cf, COLR_001, coloringBook_.ckpt
-aa7001cf, No, russianVision_v15.ckpt
 aa7001cf, badbunny, benitoBed_v10.ckpt
 aa7001cf, baskleon, baskleon_v10.ckpt
 aa7001cf, blacksun, djzBlackSunDEEPSTUDY_blip2.ckpt
@@ -2406,6 +2409,7 @@ b1facb5b, pores|realistic, copaxTimelessxlSDXL1_v22SkinUpdate.safetensors
 b1facb5b, portrait|medium close-up shot|photo|photograph, SDXLPeople_v05.safetensors
 b1facb5b, realistic, copaxTimelessxlSDXL1_v2.safetensors
 b1fd9215, ginkddd
+b2035b44, butterfly sex|blowjob|doggy style|handjob|licking cock|riding cowgirl|reversecowgirl|sidefuck|titty fucking|reverse gang bang|self stroking|undressing|orgasming|foodtease|teasing|cumshot|threesome|foursome|fivesome
 b2066f4d, laracroftsd
 b23ffcd4, a woman
 b240717e, shuimobysim|shukezouma
@@ -2936,7 +2940,6 @@ e0d019bb, samdoesarts
 e0dcec61, 1girl
 e0e1b606, FURRY|ANTHROPOMORPHIC|FURRY ART|DIGITAL ART|UPLOADED_ON_E621:1.4|ANTHRO FURRY:1.5
 e0f5c75f, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
-e109253c, raw photo
 e13105fc, masterpiece|best quality, bbMIXALICE_v10.safetensors
 e13105fc, masterpiece|best quality|white theme|black theme, bbmixRUIS_bbmixRUIS.safetensors
 e136d291, None
@@ -3110,6 +3113,7 @@ f157610a, paigevanzant
 f15eaf3f, RAW photo of|Analog photo of
 f1746351, traditional|townhouse|architecture|bedroom|livingroom|badroom|walnut|interior modern|Japanese roof|Neoclassical
 f1756e9b, dal
+f1769bc0, butterfly sex|blowjob|doggy style|handjob|licking cock|riding cowgirl|reversecowgirl|sidefuck|titty fucking|reverse gang bang|self stroking|undressing|orgasming|foodtease|teasing|cumshot|threesome|foursome|fivesome
 f1aafbbe, estilovintedois|lexicaart
 f1d45295, Katie Douglas
 f1e11c37, smhcgty
@@ -3276,6 +3280,7 @@ fe865c53, pamgrier
 fe8c63ee, cartoon|illustration|flat cartoon|realistic illumination|realistic cartoon
 feb09aa5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
+ff2d4341, Cartoon|Cartoon Style
 ff7616f1, FRPGFaceGen
 ff7d13a0, architecture|modern house|exterior|building|interior|kitchen|bedroom|livingroom
 ff838ac8, fantasy
@@ -3286,7 +3291,6 @@ fff0c339, 3d toon style|3d style, 3dToonDiffusionXL_v10.safetensors
 fff0c339, dal, xlPainting_v09Beta.safetensors
 fff0c339, girl|boy, animerealisticbg_v10.safetensors
 fff0c339, inkpunk, sdxlInkpunkstyle_v01.safetensors
-fff0c339, ukl, fantasyStyleBailing_v1007.safetensors
 fff0c339, xxmix_girl, xxmix9realisticsdxl_testV10.safetensors
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
 fff4190b, oristyle
