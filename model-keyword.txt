@@ -5,6 +5,7 @@
 0001af3a, db01
 0003ba25, SmolOne
 007edaa3, clayitization
+0097dd62, audra miller
 00d62a36, photorealistic|naked
 00e7b299, anime
 00ee24b4, modelshoot style|analog style|mdjrny-v4 style
@@ -404,7 +405,7 @@
 0eb3318b, withoutfear, djzWithoutFear_v21768.safetensors
 0eb3318b, wwone, djzWwoneV21_0.safetensors
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
-0ec1ec9e, league of legends|legends of runeterra|valorant|lolsplashart|mlbbsplashart, riotDiffusionXLRiotGames_v10.safetensors
+0ec1ec9e, league of legends|legends of runeterra|valorant|lolsplashart|mlbbsplashart|wild rift|arcane|best aesthetic|high aesthetic, riotDiffusionXLRiotGames_v10.safetensors
 0ec1ec9e, realistic, realisticasiangirlface_v10.safetensors
 0ec9b738, pixel art
 0ed9b4a6, embroidery by embarg
@@ -851,7 +852,6 @@
 337a32e9, male|girl|boy|woman|man|female
 339c88c0, object|no humans|solo focus|items
 33c549f1, swpunk|synthwave|paint splatters
-33ec9575, Pixar|anime|manga|comic|hand art
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
 341b1b4d, dragzkz
 344ad699, KEMONO
@@ -940,6 +940,7 @@
 3afdc872, bedroomai
 3b214cf8, style
 3b35f9ee, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
+3b439695, audra miller
 3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 3bb264a1, Furry|Hentai|Nude|Yiff|Breasts|Naked|Fur|NSFW|porn|sex
 3bbfd044, modelshoot style
@@ -989,6 +990,7 @@
 4192fc16, kurzgesagt style
 41c67857, minchien
 41d721c0, swpunk|synthwave|paint splatters
+41ee5b72, lolsplashart|arcane|league of legends|valorant|legends of runeterra|wild rift|pixiv|booru|artstation|best aesthetic
 41fef4bd, nousr robot
 4207b96d, Nothing
 420cb71f, datou|white background|solo|upper body:1.5|
@@ -1472,7 +1474,6 @@
 6ddfb1a6, skmkt
 6de290f6, Evang
 6de4c8e7, furry|fur
-6de8af70, figma|pvc
 6e0a9783, dal
 6e199947, rfktrstyle
 6ea179f4, mobian or sonic character name
@@ -1556,6 +1557,7 @@
 7665f8c3, itrobo2022
 7675f1a1, stilovintedois
 767f517f, dmmid style
+768041ed, SEE APPENDIX|见附录
 76956df2, celsoricardo1, celsoRicardoNerd_celsoRicardoV10.ckpt
 76956df2, guttonerdvision1, guttoNerdVision_v10.ckpt
 76956df2, guttonerdvision2, guttoNerdVision2_guttoNerdVision2.ckpt
@@ -1643,7 +1645,6 @@
 7d6c3acc, photorealistic
 7d9a25d8, Photography|Realistic
 7de2ea0f, ishizuka
-7e0cb073, Interior
 7e67267b, eldmeisterOG
 7e6c193b, Real|realistics
 7e8d1b0b, coralchar
@@ -2111,7 +2112,6 @@
 9f59a736, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog
 9f675a83, ClaymationXmas
 9f856288, aniscreen|amityblight|edalynclawthorne|emperorbelos|gusporter|huntergoldenguard|lilithclawthorne|luznoceda|rainewhispers|thecollector|willowpark|kingclawthorne
-9f9bf543, anime|comic|manga|girl
 9fc108a7, Evang
 9fd02bb8, photo, colorfulxl_v10.safetensors
 9fd02bb8, wgz style, wlopSTYLEXL_v2.safetensors
@@ -2128,7 +2128,6 @@ a0db84f0, landscapes
 a0ded949, masterpiece
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
 a0f4bc4a, Macro
-a0f67308, figma|pvc
 a10f6a56, None needed|but sometimes "painting" or "background art" helps.
 a149572b, CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDark|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld, charhelperFineTuned_fineTunedV1.safetensors
 a149572b, battlemap|dungeon|outdoor, dDBattlemaps_1024V10.safetensors
@@ -3160,6 +3159,7 @@ f4a9a8a6, 3d toon style|3d style, sdxl_vae.safetensors
 f4a9a8a6, Cartoon|Cartoon Style, sdxl_vae.safetensors
 f4a9a8a6, Realistic|Photorealistic|Raw photo|realism|realistic style, sdxl_vae.safetensors
 f4a9a8a6, Realistic|realism|photorealism|raw photo, sdxl_vae.safetensors
+f4a9a8a6, SEE APPENDIX|见附录, sdxl_vae.safetensors
 f4a9a8a6, anime, sdxl_vae.safetensors
 f4a9a8a6, anime|cartoon|anime style|2d, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
