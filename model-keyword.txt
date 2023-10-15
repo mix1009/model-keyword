@@ -549,6 +549,7 @@
 1994138c, ChilloutDiverseMix
 19b72626, analog style|dreamlikeart|redshift style
 19d911b0, djct woman|djct
+19db0652, Furry girl
 19f6cc8a, woman
 19f865cb, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 1a58ecf4, chaingirldark style
@@ -889,6 +890,7 @@
 3706616b, furry girl
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 3747a99f, iayuso person
+376c5b7b, flowerman
 37b1ec55, t
 37c9e311, Jessewatters Person
 37dd5eba, fking_scifi
@@ -1062,7 +1064,8 @@
 4789dff9, chibi|cute
 4792ff92, ech_gen
 47a34de9, sticker|vector-art
-47b2d7e7, shs
+47b2d7e7, modern villa, SDXLModernVillaV10_v10.safetensors
+47b2d7e7, shs, animeblendxl_v10.safetensors
 47b655b8, 1girl
 47bcfb66, goldenglass
 47bdf85a, male|female
@@ -1116,6 +1119,7 @@
 4ddd5d17, gakki, gakkiAragakiYui_v10.ckpt
 4dea981f, Evang
 4df252a6, by mochizuki kei
+4df9b23a, Girl
 4dff2fdc, kazuma_kaneko
 4e4a0067, polumna
 4e7736b5, designmeld|design|stunning|album cover|chrometype|japparii|m0.studio|manuals|foxrocket|gs.aya|mkalabic|josephmelhuish|designbysalome|alexvxvxvxvx|fkkwu|hellorabbitdesign|hvnt.ter|ivndrr|mateo.mace|nisheink|obby.jappari|sometimes__always|behance|iamcollaps|swissgraphic|grafikfeed
@@ -1418,6 +1422,7 @@
 68e753fa, a photo of Dani15 person|Dani15
 68f951eb, loli
 69134511, sks woman
+69134baf, mde person
 69389227, borderlands
 69462e0c, furry
 6965c077, iayuso person
@@ -1709,6 +1714,7 @@
 83db46be, Fantasy|Anime|fantasy Backgrounds
 83dd9d1a, professional photo
 84270e56, Blue skin|Red Skin|Green skin|glitter makeup|
+844eeb7d, 1 girl
 84597c2e, style of joemadureira
 8469c1b7, in WKHW1 Beautiful Art Style
 84768f33, dublex
