@@ -1479,6 +1479,7 @@
 6ddfb1a6, skmkt
 6de290f6, Evang
 6de4c8e7, furry|fur
+6de8af70, figma|pvc
 6e0a9783, dal
 6e199947, rfktrstyle
 6ea179f4, mobian or sonic character name
@@ -2134,6 +2135,7 @@ a0db84f0, landscapes
 a0ded949, masterpiece
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
 a0f4bc4a, Macro
+a0f67308, figma|pvc
 a10f6a56, None needed|but sometimes "painting" or "background art" helps.
 a149572b, CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDark|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld, charhelperFineTuned_fineTunedV1.safetensors
 a149572b, battlemap|dungeon|outdoor, dDBattlemaps_1024V10.safetensors
