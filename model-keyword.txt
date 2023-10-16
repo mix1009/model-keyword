@@ -62,6 +62,7 @@
 02cb660f, 1 girl
 02dc71ee, Game characters|full body|original art design
 02f311af, David, modelguyyy_v10.ckpt
+02f311af, Xenon, xenon_alpha001.ckpt
 02f311af, bereju2, bereju_v11.ckpt
 02f311af, gner1, guttoNerdEpicRealism_v10.ckpt
 02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
@@ -890,7 +891,8 @@
 3706616b, furry girl
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 3747a99f, iayuso person
-376c5b7b, flowerman
+376c5b7b, flowerman, flowerManSD15ckpt_v10.safetensors
+376c5b7b, flowerman2, flowerManSD15lines_v10Refiner.safetensors
 37b1ec55, t
 37c9e311, Jessewatters Person
 37dd5eba, fking_scifi
@@ -2187,7 +2189,7 @@ a30f9103, SDArt
 a3c809ba, pattern
 a402810e, 1990 style|retro artstyle|1980 style, eraEstheticRetroAnime_retroV21VAE.safetensors
 a402810e, 1990s style|1980 style|retro artstyle, eraEstheticRetroAnime_retroV30VAE.safetensors
-a402810e, 1990s style|1980s style|retro artstyle, eraEstheticRetroAnime_retroV40VAE.safetensors
+a402810e, 1990s style|1980s style|retro artstyle, eraEstheticRetroAnime_retroV50VAE.safetensors
 a4066aa4, emaiti
 a41a2496, gigachad
 a42082e5, DarahanEyes
@@ -2762,6 +2764,7 @@ d386996c, 3d|render|japparii|cinema4d|photoshop|album cover|minimalism|digital|p
 d38ddb80, female|male
 d3921bc9, armor|1boy
 d3a9cef0, hanfu
+d3e1658b, flowerman2
 d3efb13c, comic
 d3f3df02, all|hyperrealistic mix, mixRealisticPhotoV5_v15.ckpt
 d3f3df02, realistic, mixRealisticPhotoV5_15.ckpt
