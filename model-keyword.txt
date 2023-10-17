@@ -179,7 +179,6 @@
 0c4c983e, realistic
 0c4ca61b, furry|anthropomorphic
 0c702268, moametal person
-0c878c32, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|female|male|girl|design|base
 0c91adf8, chinazhengzhou
 0c93a576, name|oumeifeng style|redshift style
 0cdb758d, tea picker
@@ -406,8 +405,7 @@
 0eb3318b, withoutfear, djzWithoutFear_v21768.safetensors
 0eb3318b, wwone, djzWwoneV21_0.safetensors
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
-0ec1ec9e, league of legends|legends of runeterra|valorant|lolsplashart|mlbbsplashart|wild rift|arcane|best aesthetic|high aesthetic, riotDiffusionXL_v10.safetensors
-0ec1ec9e, realistic, realisticasiangirlface_v10.safetensors
+0ec1ec9e, realistic
 0ec9b738, pixel art
 0ed9b4a6, embroidery by embarg
 0f56d9e2, 1man
@@ -487,8 +485,6 @@
 14112628, anime|cartoon|anime style|2d
 142aa868, Hentai|anime|male|female|girl|boy
 142c3c11, cinematic style|photographic style|analog film|low-angle|dark colors
-1437ae07, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|background|male|cinematic, albedobaseXL_v01.safetensors
-1437ae07, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|male|cinematic, albedobaseXL_v02.safetensors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 149aa697, anime
 14d36354, duskz1
@@ -685,6 +681,7 @@
 2402f7e7, lamia
 24362016, fiat, fiatPanda_v10.safetensors
 24362016, x90, suzukiX90_v10.safetensors
+243bd7fe, mde person
 24466c76, sketch, 经典漫画v2.0.safetensors
 24466c76, sketch|, 经典漫画v2.5.safetensors
 2454d8fb, Pharmabro Person
@@ -893,7 +890,8 @@
 3747a99f, iayuso person
 376c5b7b, flowerman, flowerManSD15ckpt_v10.safetensors
 376c5b7b, flowerman2, flowerManSD15lines_v10Refiner.safetensors
-37b1ec55, t
+37b1ec55, t, animeLineartMangaLike_v30MangaLike.safetensors
+37b1ec55, trtsts, cd_v10.safetensors
 37c9e311, Jessewatters Person
 37dd5eba, fking_scifi
 37deca87, dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories|startling stories|sd-pulp
@@ -994,7 +992,6 @@
 4192fc16, kurzgesagt style
 41c67857, minchien
 41d721c0, swpunk|synthwave|paint splatters
-41ee5b72, lolsplashart|arcane|league of legends|valorant|legends of runeterra|wild rift|pixiv|booru|artstation|best aesthetic
 41fef4bd, nousr robot
 4207b96d, Nothing
 420cb71f, datou|white background|solo|upper body:1.5|
@@ -1531,6 +1528,7 @@
 73771530, kazuya
 738e9523, Beautiful women|pretty girls|and more
 73aebb03, rammstein
+73ca29f4, raw photo
 73d359a0, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 73d558d7, jakquelynn
 73df0f6b, no trigger word required
@@ -2317,7 +2315,6 @@ ab201ab4, chinese|chinese dress
 ab377a68, FlonixApterus
 ab38b8e3, ouka_studio
 ab4941a7, fantasticmrfox
-ab5ea887, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base
 ab770255, Anime
 ab9d9647, sks man
 abae8e8b, rcnz_hqr style
@@ -2878,6 +2875,7 @@ dd95fcaf, wabori|tatoo
 ddb22bf6, emaiti
 ddc6edf2, mdjrny-v4 style
 dde11c1e, smitsv
+ddee9854, strories|h&r
 de2f2560, 6girls+, theGoldenMirage_v11.safetensors
 de2f2560, Asian|Man|Female|Cute, asianMix_alpha30.safetensors
 de2f2560, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION, SD2Berryartify_sd21V02.safetensors
@@ -2952,6 +2950,7 @@ e0d019bb, samdoesarts
 e0dcec61, 1girl
 e0e1b606, FURRY|ANTHROPOMORPHIC|FURRY ART|DIGITAL ART|UPLOADED_ON_E621:1.4|ANTHRO FURRY:1.5
 e0f5c75f, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
+e109253c, raw photo
 e13105fc, masterpiece|best quality, bbMIXALICE_v10.safetensors
 e13105fc, masterpiece|best quality|white theme|black theme, bbmixRUIS_bbmixRUIS.safetensors
 e136d291, None
