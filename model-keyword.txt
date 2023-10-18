@@ -1064,6 +1064,7 @@
 4789dff9, chibi|cute
 4792ff92, ech_gen
 47a34de9, sticker|vector-art
+47b2d7e7, chinese inn, SDXLChineseInn_v10.safetensors
 47b2d7e7, modern villa, SDXLModernVillaV10_v10.safetensors
 47b2d7e7, shs, animeblendxl_v10.safetensors
 47b655b8, 1girl
