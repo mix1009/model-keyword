@@ -3091,6 +3091,7 @@ ecf14450, male|female
 ecf98c5e, valorant style
 ed0b4125, anime style|illustration|oil painting|analog style|realistic|photorealistic
 ed87e89c, tchnclr style
+ed977a93, bambaa, bambaa_v10.ckpt
 ed977a93, dicuki, dinosRichstyle15_dicuki.ckpt
 ed977a93, dvmech, dvmech_100.ckpt
 ed977a93, gdmext luxury modern house, gdmLuxuryModernHouseAnd_v10.ckpt
@@ -3246,6 +3247,7 @@ f885f32d, JasonAldean Person
 f8b2fd9e, girl
 f8c291fa, painting|girl
 f8e650bb, 3dmdt1
+f8edbb10, redjade_v1
 f8f043d1, shuimobysim|shukezouma
 f8fb379d, a photo of a sks woman with white hair
 f90e49b9, this model is a mixture
