@@ -422,6 +422,7 @@
 1027d657, httr
 1034f5f1, masterpiece|best quality|
 10419930, hassanfantasy style
+10783134, furry
 108830f2, 1 girl
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
 10a66fa5, romcom style
@@ -507,6 +508,7 @@
 15540f03, gigafractal artstyle
 1578af98, bigbadejo alien_monster
 1586c88f, sks
+15952be6, furry
 15bf7d9d, pixel
 15f7afca, retro anime style|retro vibes
 1604613a, muscular
@@ -691,6 +693,7 @@
 247a01fb, pixel, kl-f8-anime2.safetensors
 24a516fb, tpmpanlab person
 24c2e368, Evang
+24e6e085, furry
 24eee13e, girl
 24f62767, fff
 250e12ad, humanoid robot
@@ -852,6 +855,7 @@
 337a32e9, male|girl|boy|woman|man|female
 339c88c0, object|no humans|solo focus|items
 33c549f1, swpunk|synthwave|paint splatters
+33ec9575, Pixar|anime|manga|comic|hand art
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
 341b1b4d, dragzkz
 344ad699, KEMONO
@@ -885,6 +889,7 @@
 36ae2bff, 3D product render|3D product render style
 36b82728, zhaojun
 36ce47dc, 1gilr
+36f0a2be, furry
 36f1e334, Evang
 3706616b, furry girl
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
@@ -1105,6 +1110,7 @@
 4cac193b, sks person|(sks person)
 4cdc58f8, tarasische
 4d12a089, sks person
+4d3efca6, furry
 4d3f92bf, furry
 4d4d1bc5, girl
 4d588a41, FEGBA
@@ -1462,6 +1468,7 @@
 6c7102ea, botw style
 6ca4896d, Jessewatters Person
 6cbb8c9b, fashion|man|woman
+6ccf7f6a, furry
 6cec876b, pixel art|pixel art style
 6d15da60, 0dawon, 0dawon_v10.safetensors
 6d15da60, Dw, AnalGapeCreampie-v4.safetensors
@@ -1552,6 +1559,7 @@
 75555781, Batfleck
 755bd415, elle fanning|3113fann1ng3
 75967262, joemadureira|valorant|samdoesarts
+75b9f150, furry
 75c7f3b6, bnha|ske, shivjiModel2_v10.safetensors
 75c7f3b6, ohwx devil, dimensiontwist_v10.safetensors
 75c7f3b6, p1xanotherworld, anotherWorldRetro_v10.safetensors
@@ -1878,6 +1886,7 @@
 9256ed1a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
 9264dfbc, dal|nsfw
 928734f5, asian|aodai|suonxam
+92aab0fe, furry
 92c083af, redshift|nvinkpunk|lndskp
 92cf4ceb, nayeonnine
 92e4c246, sks person
@@ -2123,6 +2132,7 @@
 9f59a736, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog
 9f675a83, ClaymationXmas
 9f856288, aniscreen|amityblight|edalynclawthorne|emperorbelos|gusporter|huntergoldenguard|lilithclawthorne|luznoceda|rainewhispers|thecollector|willowpark|kingclawthorne
+9f9bf543, anime|comic|manga|girl
 9fc108a7, Evang
 9fd02bb8, photo, colorfulxl_v10.safetensors
 9fd02bb8, wgz style, wlopSTYLEXL_v2.safetensors
@@ -2379,6 +2389,7 @@ b047abbc, cmodel
 b0557e7c, 马
 b078aa3e, by greatmosu
 b0a1f441, breasts|gigantic breasts:1.6|hyper breasts|massive breasts|oversized breasts|breast bigger then body|wide hips|
+b0a2f552, furry
 b0a44c16, Evang
 b0a8dd3c, me
 b109bf50, diffusable
@@ -2577,6 +2588,7 @@ c142c7cf, outline|monochrome|lineart|black and white|grayscale|greyscale
 c1523adf, naturitize
 c1582649, dmmid style
 c1589bf7, vapodusk1|wvert1|paint splatters|swpunk|mdjrny-pntrt|synthwave|dskyart1
+c1591e6c, furry
 c16a2a6b, wjqfrottage
 c181b9bd, kemono|nj5furry
 c1a72459, girl
@@ -2606,6 +2618,7 @@ c3c1dc18, a painting in the style of guidao style
 c3cfd75d, powa
 c3d52f46, Femboy|Feminine|Short hair|Cute|Beautiful|Flat chest, femboyLora_v10.safetensors
 c3d52f46, brown hair|clara|short hair|mini skirt|orange skirt, claraHananokouji_v10.safetensors
+c3d6718c, furry
 c40bd8e7, lanawood
 c448dc23, wide hips|narrow waist|qi lolita|
 c44bb585, duskametrick15
@@ -2773,6 +2786,7 @@ d4021aa4, art by Boris Groh
 d409472c, kamita
 d4288eeb, photograph|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|lk artstyle legend of korra artstyle|hg artstyle realistic 3d renders|cw artstyle starwars: the clone wars artstyle|kd artstyle ghibli movies artstyle|wy artstyle makoto shinkai artstyle|tn artstyle disney 3d artstyle|hq artstyle high-quality digital art|aa artstyle digital line art|dd artstyle darkest dungeon artstyle|toc artstyle turtle of canada artstyle with their permission|skimpy sg outfit with cape supergirl outfit|gs outfit with cape generic superhero outfit|videl wearing sy outfit with cape and helmet great saiyawoman outfit|cor korra doesnt translate well into other artstyles|with sd hairstyle season 1-3|with sh hairstyle season 4|wearing df outfit season 1|wearing sc outfit season 1 winter|wearing pb outfit season 1 probending|wearing fs outfit season 4|wearing ek outfit season 4 earth kingdom|oyla with ay hairstyle wearing hz outfit aloy wearing standard outfit doesnt translate well into other artstyles|akos wearing sw outfit ahsoka wearing season 7 outfit doesnt translate well into other artstyles|woman with pointed ears elfs|futuristic outfit|futuristic armor|fantasy armor|fantasy outfit|tribal fantasy outfit|cl outfit post-apocalyptic outfit|giant woman works best with "hg artstyle" is biased towards naked women|tiny woman works best with "hg artstyle" is biased towards naked women
 d45ad4bf, sks person
+d46f12fb, furry
 d48dcfd9, aniki
 d48fd371, melk0r
 d4a6454e, elden ring style|postapocalypse|knollingcase|analog style|dreamlikeart|swpunk|synthwave|modelshoot style|cyborgdiffusion
