@@ -23,6 +23,7 @@
 02150926, aellagirl
 022ce84d, EmmaW|Photo of EmmaW Woman
 0232f65f, ashenhard style
+023ec7c7, furry
 0248da5c, 35mmneon, 35mmneon_v10.safetensors
 0248da5c, Evang, klofmanAndSneek_v1Safetensers.safetensors
 0248da5c, Rainbowpatch, rainbowpatch12_rainbowpatchV12.safetensors
@@ -1247,6 +1248,7 @@
 5942a771, xyz
 59591b48, masterpiece|best quality
 59724734, IconsMi
+597a8e99, EduCHSDDM, educhsddm_v10.ckpt
 597a8e99, MajinVegeta, majinVegeta_majinVegetaV10.ckpt
 597a8e99, christina_, womenCris_v10.ckpt
 597a8e99, jsscbppler, jessicabepperv1_v10.ckpt
@@ -1650,6 +1652,7 @@
 7c175441, mmwtsn woman
 7c2024f8, sks person
 7c4971d4, timeless style
+7c7299af, sayori \neko works\|sayori|backgroud
 7c83b897, monochrome
 7c8db7f9, Soft light|1girl|1boy
 7c8eef56, analog style|chromav5|nvinkpunk
@@ -1906,6 +1909,7 @@
 94a1df93, Sf
 94c7fd10, nayeonnine
 94d62b9f, animegao
+94ea417f, furry
 94f647d2, female|male
 950a18d8, sks person
 9518faa2, luna
@@ -2697,6 +2701,7 @@ cce02454, nvjobaim
 cceb87e1, analog style|modelshoot style|nsfw|nudity
 ccf3615f, modern disney style
 cd22968e, whatif style
+cd3bb82a, furry
 cd72665c, sks person
 cda39816, ccdwr artstyle, conceptCharacter_ccdwrArtstyleBV0.safetensors
 cda39816, ccdwr illustration, conceptCharacter_ccdwrIllustrationBV0.safetensors
