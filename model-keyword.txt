@@ -618,6 +618,7 @@
 1f19191c, UnstableDiffusion|unstablephotoreal
 1f258730, dbluth
 1f27bb0e, sks woman
+1f5c87ad, rainbowpatch
 1f96e58d, photo|photograph
 1fb30a55, aimoji
 20225e21, movie|cg
@@ -647,6 +648,7 @@
 205e0248, fking_scifi_v2
 20692aa7, painting|Allen Anderson|Earle Bergey|Frank Frazetta|George Gross|Gil Elvgren|Glen Orbik|Robert Maguire|Robert Stanley|Tom Lovell|scifi|fantasy|western|crime|mystery|pulp style
 206c6d91, polyna
+207a41ba, rainbowpatch
 208f75ce, lamia
 20c6a837, Nvinkpunk|samdoesarts
 20fa24db, xxmixgirl
@@ -857,6 +859,7 @@
 339c88c0, object|no humans|solo focus|items
 33c549f1, swpunk|synthwave|paint splatters
 33ec9575, Pixar|anime|manga|comic|hand art
+33ee7e2a, furry
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
 341b1b4d, dragzkz
 344ad699, KEMONO
@@ -886,7 +889,6 @@
 36606926, jimjorcraflogo art style|dan mumford style
 366915ea, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 36833c3d, jirai kei|jirai fashion|eye shadow|dark lips|twin tails|fishnet stockings
-369da414, 1girl
 36ae2bff, 3D product render|3D product render style
 36b82728, zhaojun
 36ce47dc, 1gilr
@@ -1412,6 +1414,7 @@
 66def034, sks woman
 66ed97f9, 1
 670c1702, photo of rafivai person
+671719a5, furry
 672d1e3e, lea-seydoux person|lea-seydoux
 673ca4ea, modelshoot style
 6785492c, nier9s
@@ -1447,6 +1450,7 @@
 6ab06e33, Tifa Lockhart|Cloud Strife|Barret Wallace|aerith gainsborough|midgar city|midgar city business district|midgar city slums district|biggs ff7r|wedge ff7r|jessie rasberry|inside seventh heaven bar|shinra security officer|in the style of midgar city
 6ac8f9dc, sks person|(sks person)
 6ae1720a, in the artstyle of dd
+6ae9e638, girl
 6af039d7, red hair|freckles|ginger|brass & sass
 6affc7f9, furrender style
 6b20febb, catsuit|ponygirl|eha|latex
@@ -2449,6 +2453,7 @@ b3057347, animal|pokemon|hybrid|LUT
 b3276bb9, Umbreon|Vaporeon|Glaceon|Sylveon|Espeon|Jolteon|Flareon|Eevee
 b3454578, kipteitei|art by better with salt|woot|squarewave|big belly|fat|full list on biggergirls page
 b360468c, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
+b386ef07, 1girl|clothes
 b3a85bdf, dal
 b3aed361, caebhx
 b3b73d0d, masterpiece|best quality|virtual youtuber|character:1.2
@@ -3257,6 +3262,7 @@ f8f043d1, shuimobysim|shukezouma
 f8fb379d, a photo of a sks woman with white hair
 f90e49b9, this model is a mixture
 f91d47e4, Xiaowu from Douluo Dalu
+f9468318, furry
 f946d98c, SDArt
 f963da04, 3dcharacter|3dcutecharacter|chibi|waves|cloud|gradient background|simple background
 f9715a85, illustration|fantasy|assassin
