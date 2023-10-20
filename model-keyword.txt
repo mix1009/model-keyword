@@ -2231,6 +2231,7 @@ a5b04dac, mdlnde
 a5c134f5, Blck_Mrbl, floralmarbleWOKE_EDITION.ckpt
 a5c134f5, aberration|beast|celestial|construct|dragon|elemental|fey|fiend|giant|humanoid|monstrosity|ooze|plant|undead, dDTopDownToken_v10.ckpt
 a5c134f5, battlemap|dungeon|outdoor, dDBattlemaps_1024V10.ckpt
+a5c134f5, battlemap|outdoor|dungeon, dDBattlemaps_768V10.ckpt
 a5c134f5, classicnegative, classicNegativeSD21_classicNegative768px.ckpt
 a5c134f5, clayitization, jaksClayitization_clayitizationSd21.ckpt
 a5c134f5, dblxp, doubleExposurePhoto_doubleExposurePhoto.ckpt
@@ -2333,6 +2334,7 @@ aae14d50, sci-fi|caspian sci-fi|star atlas|star citizen|render
 ab121853, Photo Realistic
 ab16976f, stylized game icon|sci-fi|steampunk|spell
 ab201ab4, chinese|chinese dress
+ab32ff0e, Retrofan
 ab377a68, FlonixApterus
 ab38b8e3, ouka_studio
 ab4941a7, fantasticmrfox
@@ -2465,6 +2467,7 @@ b4bec83f, depth of field|photo|film
 b4cba599, Mona woman|Mona
 b4d010d5, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 b4df6423, xdusky1
+b4e2803e, girl
 b5453f75, DBlinebrush style, linebrushStyle_V21.ckpt
 b5453f75, OOKZAVampire Style, vampireStyle_V20.ckpt
 b5453f75, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.ckpt
