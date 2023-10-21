@@ -906,6 +906,7 @@
 37deca87, dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories|startling stories|sd-pulp
 37e5ce18, owhx 3dicon
 37f2669e, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
+37ff0195, chibi|cute
 38137311, realistic|analog|hyperealistic|photography
 3814a52a, surrealsteampunkai
 3824f0fa, female|male, matrixRealistic_v15VAE.safetensors
@@ -3299,6 +3300,7 @@ fc88eb89, sks person
 fcbf8265, evang
 fcd6b416, sks woman
 fd11bd81, nabru093
+fd1f5b14, chiaroscuro|very low light|dark shot|dramatic lighting|volumetric lighting
 fd294ceb, nvinkpunk|modelshoot style|samdoesart|dreamlikeart|kuvshinov
 fd357580, latex|latex hood|latex mask|full face latex mask
 fd433acd, dal
