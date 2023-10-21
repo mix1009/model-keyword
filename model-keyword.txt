@@ -61,7 +61,8 @@
 02acd63c, unstablephotoreal|unstablediffusion
 02b1c95f, eyes|big eyes
 02cb660f, 1 girl
-02dc71ee, Game characters|full body|original art design
+02dc71ee, Game characters|full body|original art design, ClearVAE_V2.3_fp16.safetensors
+02dc71ee, hunsha_girl, ClearVAE_V2.3_fp16.safetensors
 02f311af, David, modelguyyy_v10.ckpt
 02f311af, Xenon, xenon_alpha001.ckpt
 02f311af, bereju2, bereju_v11.ckpt
@@ -546,6 +547,7 @@
 191173a0, 1
 194778a2, wkc
 19512656, midjourney
+19804fc4, 1girl|moyou
 1994138c, ChilloutDiverseMix
 19b72626, analog style|dreamlikeart|redshift style
 19d911b0, djct woman|djct
@@ -614,6 +616,7 @@
 1e7dad9a, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult
 1e8c4a0a, GIRL Oil Painting
 1eb19dda, darkorangemix1
+1edfcb8d, 1girl|moyou
 1f138a80, Delorean|a photo of Dani15 person|
 1f19191c, UnstableDiffusion|unstablephotoreal
 1f258730, dbluth
@@ -684,6 +687,7 @@
 237ec903, Evang
 2386519a, 树|印象派|抽象
 23f104f6, Evang
+23fb9b9e, 1girl|moyou
 2402f7e7, lamia
 24362016, fiat, fiatPanda_v10.safetensors
 24362016, x90, suzukiX90_v10.safetensors
@@ -959,6 +963,7 @@
 3be80551, comic
 3c018217, bondrewd|1boy
 3c1ac307, 海洋|女性|天空|温泉|枫叶|雪花|温暖|超清|艺术|生理|shape|草原|樱花
+3c1c78f7, 1girl|moyou
 3c1ee4c5, wewulzkz
 3c22d47f, nkneghmn
 3c30b472, analog style|modelshoot style|nsfw|nudity
@@ -1370,6 +1375,7 @@
 62f93c8a, rcnz_niji style
 6329328a, lds
 6360ab7c, angel
+63740a27, 1girl|moyou
 63746d4f, rtrophto1
 638ca327, jp_style person
 6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
@@ -1469,6 +1475,7 @@
 6bccbcc6, EduCH, edumodel_v10.ckpt
 6bccbcc6, blondee, blondeee_v10.ckpt
 6bdec634, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
+6bebd476, 1girl|moyou
 6c0b3fc5, coralchar
 6c481f5c, mksks style
 6c5dc775, kpt digital artstyle|gui
@@ -2631,6 +2638,7 @@ c3c1dc18, a painting in the style of guidao style
 c3cfd75d, powa
 c3d52f46, Femboy|Feminine|Short hair|Cute|Beautiful|Flat chest, femboyLora_v10.safetensors
 c3d52f46, brown hair|clara|short hair|mini skirt|orange skirt, claraHananokouji_v10.safetensors
+c3d52f46, 美少女, momonga_v10.safetensors
 c3d6718c, furry
 c40bd8e7, lanawood
 c448dc23, wide hips|narrow waist|qi lolita|
@@ -2843,6 +2851,7 @@ d843660f, quinn \(league of legends\), quinnFromLeagueOf_quinnNaiMix.ckpt
 d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
 d84b15d9, none
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
+d8892ed6, 1girl|moyou
 d89bc06c, m
 d8c33a91, 1girl
 d8d282fe, modisn|modisn disney|modisn disney style
@@ -2994,6 +3003,7 @@ e2494235, FLUIDART LIQUID SPLASH KNOLLINGCASE FOOD_CRIT BEEPLE
 e24a9c03, 2d|masterpiece|best quality|anime
 e2b8b39c, sks person
 e2d2e2c3, irmntro person
+e2e777bf, 1girl|moyou
 e3373f54, Japanese|Korean
 e33d0a54, Masterpiece|Realistic|best quality
 e3423ef2, evang, acSide_v10.ckpt
@@ -3085,6 +3095,7 @@ eae836b4, mommy
 eae95c5e, cardassian
 eafbac0e, rayearth
 eb01f3b2, NijiFTB
+eb1666ba, 1girl|moyou
 eb1b80e4, ziov
 eb3a4159, dal
 eb70ff01, concept-art
@@ -3100,6 +3111,7 @@ ec664923, undercucho
 ec8cd4c8, BalloonArt
 ec9f8c2e, CharacterChan Style
 ecc82382, RAW photo
+eccb3dc0, 1girl|moyou
 ecd908cb, sks woman|(sks woman)
 ecf14450, male|female
 ecf98c5e, valorant style
@@ -3255,6 +3267,7 @@ f81f36e7, girl|woman
 f84589b2, Emma Watson, emmaWatson_v10.safetensors
 f84589b2, Natalie Portman, nataliePortman_v10.safetensors
 f846e100, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
+f851f6a0, hunsha_girl
 f86aeb35, renne
 f86e4589, anime
 f885f32d, JasonAldean Person
