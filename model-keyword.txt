@@ -2831,6 +2831,7 @@ d62ddc80, furry
 d634b8cb, Hina, itshinaInstagramModel_hina.ckpt
 d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d634b8cb, kvn, myModelKevin_v10.ckpt
+d634b8cb, paul, sameer_v1.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
 d636e597, ziov, sdxl_vae.safetensors
