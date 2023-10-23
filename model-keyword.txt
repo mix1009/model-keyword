@@ -486,7 +486,6 @@
 1400e684, rfktrstyle, rfktrsDarkdream_v15bExperimental.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
 14112628, anime|cartoon|anime style|2d
-142aa868, Hentai|anime|male|female|girl|boy
 142c3c11, cinematic style|photographic style|analog film|low-angle|dark colors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 149aa697, anime
@@ -1596,6 +1595,7 @@
 76956df2, guttonerdvision6, guttoNerdVision6_v10.ckpt
 76956df2, guttonerdvision7, guttoNerdVision7_v7.ckpt
 76956df2, guttonervision8, guttoNerVision8_v80.ckpt
+76b1e3ff, art|japanese art
 76c86ec0, modelshoot style|swpunk|synthwave|paint splatters
 76e59a65, sincity_iamyork
 76f78609, real photograph
@@ -1785,7 +1785,6 @@
 879054f9, portrait style|selfie photo|casting photo full shot naked|rlfce realistic person|fkfce fake person|closeup photo face
 87c5d24e, dra|vinyl record cover|12-inch|electronic|<decade> album cover|the designers republic
 87fb604f, 3d render|3d cartoon
-88322fbf, suhuan|suhuanchen
 883f759a, jwl watercolor
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
 88ff0293, evang
@@ -1796,7 +1795,6 @@
 89a3f11a, gatto
 89abf451, 1 girl, 饱和度2-色彩清晰-ClearVAE.safetensors
 89abf451, masterpiece|best quality, clearvae_main.safetensors
-89abf451, masterpiece|intricate details, clearvae_main.safetensors
 8a0a6f86, svtbuild
 8a20d25c, noradeevilh
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
@@ -2056,6 +2054,7 @@
 993f2358, test no download, testNoDownload_1.ckpt
 993f2358, test, test_1.ckpt
 993f2358, tester, terter_1.ckpt
+993f2358, vktr, vmazGENESIS_v10.ckpt
 993f2358, vlozhkin, vlozhkin_v10.ckpt
 994784b1, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 99581f75, borderlands|stbtc|stbcf|telltale style
@@ -2343,7 +2342,6 @@ aae14d50, sci-fi|caspian sci-fi|star atlas|star citizen|render
 ab121853, Photo Realistic
 ab16976f, stylized game icon|sci-fi|steampunk|spell
 ab201ab4, chinese|chinese dress
-ab32ff0e, Retrofan
 ab377a68, FlonixApterus
 ab38b8e3, ouka_studio
 ab4941a7, fantasticmrfox
@@ -2906,6 +2904,7 @@ dbbf8175, in lomostyle
 dc01dfdd, ohwx|demon|werewolf|minotaur|zombie|
 dc05355d, sksi object|sksi
 dc234f3c, frozen style|anna frozen|elsa frozen|olaf frozen|sven frozen|kristoff frozen|ice castle|duke of weselton frozen|prince hans frozen
+dc3f810f, SEE APPENDIX|见附录部分
 dccb4eb7, head
 dcdf0425, dgs illustration style
 dced2560, cum
@@ -2968,7 +2967,6 @@ df2df325, googiearch
 df410284, KEMONO
 df62a361, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 df8b5e2f, Wacky the Erizo
-df989f31, Hentai|anime|male|female|girl|boy
 df9e36bd, leagueofstyle
 dfa06e02, evang
 dfafd600, duskametric15|microworld
@@ -3220,8 +3218,10 @@ f4a9a8a6, Cartoon|Cartoon Style, sdxl_vae.safetensors
 f4a9a8a6, Realistic|Photorealistic|Raw photo|realism|realistic style, sdxl_vae.safetensors
 f4a9a8a6, Realistic|realism|photorealism|raw photo, sdxl_vae.safetensors
 f4a9a8a6, SEE APPENDIX|见附录, sdxl_vae.safetensors
+f4a9a8a6, SEE APPENDIX|见附录部分, sdxl_vae.safetensors
 f4a9a8a6, anime, sdxl_vae.safetensors
 f4a9a8a6, anime|cartoon|anime style|2d, sdxl_vae.safetensors
+f4a9a8a6, art|japanese art, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, none, sdxl_vae.safetensors
 f4a9a8a6, photorealistic|realistic|ultra realistic|raw photo, sdxl_vae.safetensors
@@ -3317,7 +3317,6 @@ fc88eb89, sks person
 fcbf8265, evang
 fcd6b416, sks woman
 fd11bd81, nabru093
-fd1f5b14, chiaroscuro|very low light|dark shot|dramatic lighting|volumetric lighting
 fd294ceb, nvinkpunk|modelshoot style|samdoesart|dreamlikeart|kuvshinov
 fd357580, latex|latex hood|latex mask|full face latex mask
 fd433acd, dal
@@ -3357,6 +3356,7 @@ fff0c339, 3d toon style|3d style, 3dToonDiffusionXL_v10.safetensors
 fff0c339, dal, xlPainting_v09Beta.safetensors
 fff0c339, girl|boy, animerealisticbg_v10.safetensors
 fff0c339, inkpunk, sdxlInkpunkstyle_v01.safetensors
+fff0c339, ukl, fantasticHackerStyleBailing_v1007.safetensors
 fff0c339, xxmix_girl, xxmix9realisticsdxl_testV10.safetensors
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
 fff4190b, oristyle
