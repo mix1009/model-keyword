@@ -1518,6 +1518,7 @@
 6fb99464, depth of field|film|portrait|realistic, sexSexyEasternExperienceV3_sexV20.safetensors
 6fb9cedf, Zskuijia|armor|Chinese armor|
 6fbfba65, beautiful Chinese Landscape Art|Chinese Landscape Art|water colors
+6fe8f5ad, chibi
 6feb162d, evang
 6ff25eff, Evang
 6fff1ab3, Mike Mignola
@@ -1881,6 +1882,7 @@
 90626071, shuimobysim|shukezouma, kl-f8-anime2.vae.safetensors
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
 90d470cd, Children
+90d6a109, muscular|bodybuilder|large muscles|hairy body
 91099850, Muscular|Anime
 910fb637, btdmnky, stableBTD6_btd6.ckpt
 910fb637, btdmnky|primary|military|magic|support|hero, stableBTD6_v10.ckpt
@@ -2344,6 +2346,7 @@ ab16976f, stylized game icon|sci-fi|steampunk|spell
 ab201ab4, chinese|chinese dress
 ab377a68, FlonixApterus
 ab38b8e3, ouka_studio
+ab48e25c, chibi
 ab4941a7, fantasticmrfox
 ab770255, Anime
 ab9d9647, sks man
@@ -2715,6 +2718,7 @@ cc30ad23, lamia|harpy|centaur|etc....|most mge girls half work
 cc49ac37, bigbadejo alien_monster
 cc5b68d0, lndskp|nvinkpunk|redshift
 cc781a63, s
+cca12107, chibi
 cce02454, nvjobaim
 cceb87e1, analog style|modelshoot style|nsfw|nudity
 ccf3615f, modern disney style
@@ -2994,6 +2998,7 @@ e0dcec61, 1girl
 e0e1b606, FURRY|ANTHROPOMORPHIC|FURRY ART|DIGITAL ART|UPLOADED_ON_E621:1.4|ANTHRO FURRY:1.5
 e0f5c75f, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
 e109253c, raw photo
+e12d62d0, Lysang Content
 e13105fc, masterpiece|best quality, bbMIXALICE_v10.safetensors
 e13105fc, masterpiece|best quality|white theme|black theme, bbmixRUIS_bbmixRUIS.safetensors
 e136d291, None
@@ -3039,6 +3044,7 @@ e5541f03, by Jean Leon|oil painting, jeanLeon0Ckpt_.ckpt
 e5541f03, midjourneyi, 21SDModernBuildings_midjourneyBuildings.ckpt
 e56b39fb, <lora:koreandolllikeness_v15:0.7>|ultra detailed|raw photo|best quality|realistic:1.2|1 korean|16k|realistic photography|professional color graded|physically based rendering|highres|b-cup|hair wave|suwon hwaseongmun gate|front|casual suit|f 2.4|35mm
 e5787969, ratatatat74
+e5795903, chibi
 e58f3d77, sks woman
 e5afc733, zrpgstyle
 e5d0d591, shiny skin
