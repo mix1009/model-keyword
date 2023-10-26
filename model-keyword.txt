@@ -747,7 +747,6 @@
 28bfe9f2, anthro|furry|female|canine
 28c385a0, Bloodborne Style
 28d20569, sks woman
-28e99b90, See Appendix|见附录部分
 291b67b8, maxwell the cat
 291e7dc8, monochrome
 29323d76, Ligne Claire|PC-98
@@ -1384,7 +1383,6 @@
 63d09205, latex|latex catsuit|latex corset|bondage|bound|metal collar|metal cuffs|swedish collar|swedish cuffs
 63ec42c3, noble ai|noble mix fix|reality|noblemixfix|person|character|photograph
 63f63601, estilovintedois
-64113636, See Appendix A|见附录A
 6414e2dc, liquid splash|papercut|porcelain doll
 6418d85d, person_in_Jar
 643afbd9, Microscopic
@@ -1590,7 +1588,6 @@
 7665f8c3, itrobo2022
 7675f1a1, stilovintedois
 767f517f, dmmid style
-768041ed, SEE APPENDIX|见附录
 76956df2, celsoricardo1, celsoRicardoNerd_celsoRicardoV10.ckpt
 76956df2, guttonerdvision1, guttoNerdVision_v10.ckpt
 76956df2, guttonerdvision2, guttoNerdVision2_guttoNerdVision2.ckpt
@@ -1886,7 +1883,7 @@
 90626071, shuimobysim|shukezouma, kl-f8-anime2.vae.safetensors
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
 90d470cd, Children
-90d6a109, muscular|bodybuilder|large muscles|hairy body
+90d6a109, muscular|bodybuilder|large muscles|hairy body|massive bodybuilder|extremally muscular|hyper muscles
 91099850, Muscular|Anime
 910fb637, btdmnky, stableBTD6_btd6.ckpt
 910fb637, btdmnky|primary|military|magic|support|hero, stableBTD6_v10.ckpt
@@ -2060,7 +2057,6 @@
 993f2358, test no download, testNoDownload_1.ckpt
 993f2358, test, test_1.ckpt
 993f2358, tester, terter_1.ckpt
-993f2358, vktr, vmazGENESIS_v10.ckpt
 993f2358, vlozhkin, vlozhkin_v10.ckpt
 994784b1, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
 99581f75, borderlands|stbtc|stbcf|telltale style
@@ -2144,6 +2140,7 @@
 9ecb88d8, photo of zhy zhangyi
 9ed4ea56, Oldjourney
 9ede614e, 80's anime style
+9ee95c80, anime|2d anime|3d anime|anime style
 9ef9f138, gigafractal artstyle
 9f159502, *read notes*
 9f195bbc, blackphoto|1girl
@@ -2540,7 +2537,6 @@ ba210b22, sks woman
 ba2d4b1a, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic|mature adult|oil painting|comic poster
 ba468443, no
 ba6e3476, furry
-baf09b14, SEE APPENDIX|见附录
 baf83ef9, 3D modeling|photos|real world, animatedModelsOf_v10.safetensors
 baf83ef9, Photos|real ones|Anime|Illustration, dominationWorld_v02.safetensors
 bb029452, kindigitstyle
@@ -2912,7 +2908,6 @@ dbbf8175, in lomostyle
 dc01dfdd, ohwx|demon|werewolf|minotaur|zombie|
 dc05355d, sksi object|sksi
 dc234f3c, frozen style|anna frozen|elsa frozen|olaf frozen|sven frozen|kristoff frozen|ice castle|duke of weselton frozen|prince hans frozen
-dc3f810f, SEE APPENDIX|见附录部分
 dcc30345, huge breast
 dccb4eb7, head
 dcdf0425, dgs illustration style
@@ -3228,9 +3223,8 @@ f4a9a8a6, 3d toon style|3d style, sdxl_vae.safetensors
 f4a9a8a6, Cartoon|Cartoon Style, sdxl_vae.safetensors
 f4a9a8a6, Realistic|Photorealistic|Raw photo|realism|realistic style, sdxl_vae.safetensors
 f4a9a8a6, Realistic|realism|photorealism|raw photo, sdxl_vae.safetensors
-f4a9a8a6, SEE APPENDIX|见附录, sdxl_vae.safetensors
-f4a9a8a6, SEE APPENDIX|见附录部分, sdxl_vae.safetensors
 f4a9a8a6, anime, sdxl_vae.safetensors
+f4a9a8a6, anime|2d anime|3d anime|anime style, sdxl_vae.safetensors
 f4a9a8a6, anime|cartoon|anime style|2d, sdxl_vae.safetensors
 f4a9a8a6, art|japanese art, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
