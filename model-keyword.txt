@@ -977,7 +977,6 @@
 3dccab21, pepereal
 3dd9c14a, moyou|1girl|White hair|
 3e008b4d, bethharmon
-3e0b5329, photorealistic
 3e16efc8, Mona Lisa
 3e832815, kochergin
 3ea0d868, furry
@@ -1550,7 +1549,6 @@
 73012bca, 3D model
 730a7d56, none
 730b9cb5, m_style
-73547d1c, 1girl
 73771530, kazuya
 738e9523, Beautiful women|pretty girls|and more
 73aebb03, rammstein
@@ -1760,6 +1758,7 @@
 85b77ff9, samdoesarts style
 85c66939, csalpha artstyle
 85ce3559, zhidiao
+85d4607c, IND001 style
 85e16e4f, DUNHUANG|HANFU
 85e2c81a, Charliekirk Person
 85ea6baf, 3d
@@ -2768,6 +2767,7 @@ d0efcea0, "GretchenRoss Person", gretchenRossJenaMalones_v10.safetensors
 d0efcea0, Mikelindell Person, theMyPillowGuy_v10.safetensors
 d0efcea0, Topnotch Artstyle, TopnotchArtstyleVolume118_v10.safetensors
 d0efcea0, Tuckercarlson Person, tuckerCarlsonTuckercarlson_v10.safetensors
+d1593926, furry
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
 d164c734, 4x-animesharp
 d1708df8, sd-prohib|broad brushstrokes|medium brushstrokes|fine brushstrocks|painterly|sentimental|pictorial|idealism|family life|romance|adventure|action|1914|1920|1924|1925|1928|1930|1933|1934|1937
@@ -3062,6 +3062,7 @@ e79c8e1c, jckmn person
 e80f12bb, Evang, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e80f12bb, real|natural, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e83d3aa7, Ligne claire
+e842dcc7, 1girl|solo, ClearVAE_V2.1.safetensors
 e842dcc7, 3d, ClearVAE_V2.safetensors
 e842dcc7, Armor|golden cloth|genini cloth|saga|gemini saint, CleanVAE.safetensors
 e842dcc7, KingShark|Humanshark|Sharkman, CleanVAE.safetensors
@@ -3273,6 +3274,7 @@ f846e100, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen bo
 f851f6a0, hunsha_girl
 f86aeb35, renne
 f86e4589, anime
+f8803f24, realistic
 f885f32d, JasonAldean Person
 f8b2fd9e, girl
 f8c291fa, painting|girl
