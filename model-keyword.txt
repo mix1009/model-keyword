@@ -1283,8 +1283,7 @@
 5a639898, ink style|ink wash painting
 5a6ba593, male|female
 5a747794, mechanical parts|mechanical 'body part or object|cyberware style
-5a75e4b5, female|male, matrixAnime_v16VAE.safetensors
-5a75e4b5, man|woman|boy|girl|etc, matrixAnime_v16VAE.safetensors
+5a75e4b5, man|woman|boy|girl|etc
 5a9e41b8, Anime Style
 5aceb664, kor_mixed 1girl
 5ad07226, art by yaguru magiku
@@ -2233,6 +2232,7 @@ a3c809ba, pattern
 a402810e, 1990 style|retro artstyle|1980 style, eraEstheticRetroAnime_retroV21VAE.safetensors
 a402810e, 1990s style|1980 style|retro artstyle, eraEstheticRetroAnime_retroV30VAE.safetensors
 a402810e, 1990s style|1980s style|retro artstyle, eraEstheticRetroAnime_retroV50VAE.safetensors
+a402810e, anime screencap, animeScreencapStyle_assV10.safetensors
 a4066aa4, emaiti
 a41a2496, gigachad
 a42082e5, DarahanEyes
