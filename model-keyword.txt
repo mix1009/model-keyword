@@ -1327,6 +1327,7 @@
 5dffdc36, Furry|Hentai|Nude|Yiff|Breasts|Naked|Fur|NSFW|porn|sex
 5e081326, Matchapix
 5e107da3, ComplexLA style
+5e2a68f3, spirit|creepy
 5e2e15f6, Photography|Realistic
 5e2f08a1, ltsbbl style
 5e51a380, Brawlhalla|brawlhalla style
@@ -1941,6 +1942,7 @@
 95662ab0, salmahayek
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
+9578f5e6, genmodmr
 958eaa52, rcnz_niji style
 959c96cf, Arnold Person, arnoldSchwarzeneggerTotal_arnoldSchwarzenegger.safetensors
 959c96cf, Elonmusk Person, elonMuskCurrentDayHQ_v10.safetensors
@@ -2102,6 +2104,7 @@
 9b5251e8, muppet|kermit|cookie monster|drummer muppet|Miss. Piggy|sesame street|Elmo, muppets_sd15MuppetBlip.ckpt
 9b5926f8, celebrity
 9b69308b, mangadusk1
+9b70df45, sexytoon
 9b757411, detailed_skin|pores|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin, eden_v14.safetensors
 9b757411, detailed_skin|skin|green_skin|dark_skin|blue_skin|red_skin|brown_skin|pink_skin|veiny_skin|veins|mole|moles|freckles|wet_skin|grey_skin|pores, eden_v13.safetensors
 9b79ef98, photo of crisron person
@@ -2526,6 +2529,7 @@ b8a220c1, nebulaewisdomanimestyle
 b8d8a250, emaiti
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
 b8e63a5d, Evang
+b8e8e6ac, _mohawk_|character
 b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
 b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
 b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style, aargArchitecture_v10.safetensors
@@ -2995,6 +2999,7 @@ e02601f3, photo of ohwx woman, janLevinsonMeloraHardin_6kSteps.ckpt
 e02601f3, rurudo, rurudo_v10.ckpt
 e02601f3, sks lucy, lucyFromCP_v1.ckpt
 e02601f3, sks vi|vi, viFromArcane_v1.ckpt
+e04f7e7f, character
 e0844d20, pbr
 e0a3ab60, xivcine person
 e0a60e11, dskyart1|style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
