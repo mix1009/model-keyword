@@ -941,6 +941,7 @@
 39ea8d40, Hepburn, mirageAIFlowers_typeH.safetensors
 39ea8d40, flowers, mirageAIFlowers_mirageAIFlowersGirl.safetensors
 39fcd9e7, pow style|rick roll|fullbody shot
+3a146071, 1girl|solo
 3a20fde5, Oldjourney
 3a2feee5, by kuroume
 3a35396c, dvAuto
@@ -968,6 +969,7 @@
 3c401697, redshift style
 3c752646, snvhs
 3c7538b7, mecha
+3c8864a8, shadow flat vector art|Minimalism
 3caeeaf3, vintage polaroid analog portrait photography of
 3cb52e96, shuimobysim|shukezouma
 3cbacf0f, ned stark|jon snow|catelyn stark|daenerys targaryen|robert baratheon|arya stark|joffrey baratheon|tyrion lannister|jaime lannister|robb stark|petyr baelish|littlefinger|sansa stark|bran stark|cersei lannister|viserys targaryen|jorah mormont|benjen stark|waymar royce|rakharo dothraki|will ranger|jeor mormont|doreah handmaid|irri dothraki|maester luwin|khal drogo|the hound|sandor clegane|lord varys|rast ranger|rodrik cassel|maester aemon|mycah butcher son|grenn ranger|gared ranger|theon greyjoy|ser barristan selmy|jory cassel|ros cook|yoren recruiter|wildling girl|royal steward|catspaw assassin|pypar steward|old nan|illyrio mopatis|ilyn payne|lancel lannister|renly baratheon|mikken blacksmith|alliser thorne|syrio forel|game of thrones
@@ -1114,12 +1116,14 @@
 4b64ace6, SDXL 0.9
 4b715a30, alizee|amy winehouse|ariana grande|audra miller|avril lavigne|billie eilish|camila cabello|charli xcx|christina aguilera|dua lipa|emma stone|emma watson|hayley williams|jennifer lawrence|katy perry|lady gaga|lana del rey|marina diamandis|miley cyrus|p!nk|rihanna|selena gomez|shakira|sophie ellis bextor|taylor swift|heart on cheek|lips piercing|nose piercing|nose stud|nose ring|verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 4bc53419, frozen style|anna frozen|elsa frozen|olaf frozen|sven frozen|kristoff frozen|ice castle|duke of weselton frozen|prince hans frozen
+4bd5788e, chibi
 4bdfc29c, BDSM model
 4bfacf36, by t6
 4c42236e, TVClown
 4cac193b, sks person|(sks person)
 4cdc58f8, tarasische
 4d12a089, sks person
+4d3bc18e, liqola
 4d3efca6, furry
 4d3f92bf, furry
 4d4d1bc5, girl
@@ -1197,6 +1201,7 @@
 538d7157, pcrc style
 53b388b3, analog style|modelshoot style|nsfw|nudity
 53d6b1c7, tattoo|tattoos|tattooed|tattooed face|tattooed body|BigDarkTattoos
+53da5ded, nachoneko
 53e3a763, 1girl
 53e74d40, 1girl|elegant floral dress|beautiful eyes|upper body|8k
 5412e2d7, comicmay artsyle|redshift style
@@ -1249,6 +1254,7 @@
 582e89f3, kylxn
 585879fc, portrait+ style
 5859c49d, whtjs|kangsehwang|kimhongdo|sinyunbok|simsajeong|anjungsik|jangseungeop|heoryeon|gksrnr|tnanr|baengmyo|gureuk|molgol
+585e3828, nekoazuki|girls
 58819dc1, anime|realistic|masterpiece|best quality
 58959faa, photo of zwx yu lexuan
 5896f8d5, modelshoot style|analog style|mdjrny-v4 style|nousr robot
@@ -1675,6 +1681,7 @@
 7d255777, illustration
 7d4239bf, elem flowers|fire|water|earth|air|multielem
 7d4ca959, penelope
+7d5994fd, solo|nsfw|shouban|choko|vanilla|xiangcao|qiaokeli|girls
 7d6c3acc, photorealistic
 7d9a25d8, Photography|Realistic
 7de2ea0f, ishizuka
@@ -1684,6 +1691,7 @@
 7ebe8fad, buzz Lightyear  eat hotdrynoodle
 7ec31957, beth woman
 7edc8e08, mksks style
+7f1617e6, nekoazuki|girls
 7f62d94b, VoxelArt
 7fa1e7c6, SDArt
 7fa460a0, illustration|comic style|realistic|Comic Poster|Line Art
@@ -2478,6 +2486,7 @@ b4cba599, Mona woman|Mona
 b4d010d5, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 b4df6423, xdusky1
 b4e2803e, girl
+b518b499, humanoid face|female anthro|fur|detailed silky fur|humanoid eyes
 b5453f75, DBlinebrush style, linebrushStyle_V21.ckpt
 b5453f75, OOKZAVampire Style, vampireStyle_V20.ckpt
 b5453f75, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.ckpt
@@ -2957,6 +2966,7 @@ de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo styl
 de2f2560, post-Impressionist, exquisiteDetails_art.safetensors
 de2f2560, schwarz|red dress, schwarzTest_schwarzDressV10.safetensors
 de2f2560, shiny_skin, realshinymixV1_v10.safetensors
+de2f2560, shirtlift, jackie_v10.safetensors
 de2f2560, yorha2b, yorha2b_v20Animation.safetensors
 de2f2560, zephyr, zephyr_v10.safetensors
 de41984b, no
@@ -3062,7 +3072,7 @@ e79c8e1c, jckmn person
 e80f12bb, Evang, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e80f12bb, real|natural, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e83d3aa7, Ligne claire
-e842dcc7, 1girl|solo, ClearVAE_V2.1.safetensors
+e842dcc7, 1girl|solo, ClearVAE_V2.2.safetensors
 e842dcc7, 3d, ClearVAE_V2.safetensors
 e842dcc7, Armor|golden cloth|genini cloth|saga|gemini saint, CleanVAE.safetensors
 e842dcc7, KingShark|Humanshark|Sharkman, CleanVAE.safetensors
@@ -3177,6 +3187,7 @@ f1769bc0, butterfly sex|blowjob|doggy style|handjob|licking cock|riding cowgirl|
 f1aafbbe, estilovintedois|lexicaart
 f1d45295, Katie Douglas
 f1e11c37, smhcgty
+f1e38437, 1girl，moyou
 f1e9d943, masterpiece|realistic|best quality
 f1edf53b, in the style of HridleyXL|illustration
 f22d0019, PiroxiumDiffusion style
@@ -3186,7 +3197,6 @@ f2635ceb, mhdolls
 f263e029, Hentai
 f2676846, anime|manga|cartoon
 f26b7ad6, sam yang
-f28455bd, anime
 f287b25e, agp
 f2b82853, junobirch drag queen
 f2c88bf2, photo of zwx ouyangziyu
