@@ -1049,6 +1049,7 @@
 456c0bfb, sks woman
 4571d7f2, starfox
 457348b3, girl|female|woman
+45734a1b, aki|aoki|aoi|isao|nao|nobu|shou
 457435c3, blue skin, avatarlook_avatarStyle200.ckpt
 457435c3, emina, eminanas_v10.ckpt
 457435c3, na'vi|Avatar|Blue skin, avatarlook_avatarStyle50.ckpt
