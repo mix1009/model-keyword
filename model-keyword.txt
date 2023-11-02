@@ -76,6 +76,7 @@
 02f311af, resha, lyrielWithResha_v10.ckpt
 02faa048, sphx style
 030933d0, l4lisa
+031b21f6, aki|aoki|aoi|isao|nao|nobu|shou
 0323e306, Bean_Lab|Pure Beauty|1 girl|best quality
 03f434be, MTG card art
 042435b0, photo of morgen person
@@ -143,7 +144,6 @@
 09c6d455, JangEunYoung
 09cf07d1, insertNameHere
 09d7878a, pixarstyle
-09d81b43, t3|model
 09dd2ae4, BDSM model
 09edc9b2, furry|anime|woman|animal|pastel
 09f31518, no
@@ -462,7 +462,6 @@
 1374389b, dal
 139f78c4, Evang
 13a6777c, modelshoot style|nousr robot
-13c19cad, female|male
 13c3e49f, collage style
 1400e684, Airlock, djzAirlockV21768V21512_v15.safetensors
 1400e684, Ascendents, djzAscendentsV21V15_v15.safetensors
@@ -720,7 +719,6 @@
 26621fc2, tdst style
 2684c304, cr1m3
 268f2132, Pharmabro Person
-26945dab, female|male
 269b8567, general
 269de172, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION
 26acd9f3, furrender style
@@ -833,7 +831,6 @@
 30fbd8bc, sks person
 3148d4f3, female|male
 3150f324, shiny skin
-317fda4a, cute girl|korea face|asia face
 318a302e, arcane style
 31d96181, dreamlikeart
 31db8fec, daizky1
@@ -1069,8 +1066,7 @@
 46a2fa64, ChilloutDiverseMix
 46dbf80d, photo of exterior-design-6485
 471291b4, by oekakizuki
-4723b6ed, female|male, notRealAnimeStyle_v10.safetensors
-4723b6ed, hentai|anime, matrixNewAnimeStyle_v10VAE.safetensors
+4723b6ed, hentai|anime
 4747384b, Chinese ink painting|Liujiyou
 474774e5, sks man|sks woman|neundies style
 475eae91, vintage polaroid analog portrait photography of
@@ -1766,7 +1762,6 @@
 85b77ff9, samdoesarts style
 85c66939, csalpha artstyle
 85ce3559, zhidiao
-85d4607c, IND001 style
 85e16e4f, DUNHUANG|HANFU
 85e2c81a, Charliekirk Person
 85ea6baf, 3d
@@ -1792,7 +1787,6 @@
 876e83c8, game icon, gameIconInstitute_v30.safetensors
 876e83c8, game icon|game logo|game asset, stylez_v10.safetensors
 87758a47, SEE APPENDIX A|见附录A
-879054f9, portrait style|selfie photo|casting photo full shot naked|rlfce realistic person|fkfce fake person|closeup photo face
 87c5d24e, dra|vinyl record cover|12-inch|electronic|<decade> album cover|the designers republic
 87fb604f, 3d render|3d cartoon
 883f759a, jwl watercolor
@@ -2274,7 +2268,6 @@ a69bb214, Oldjourney
 a69f9ce1, best quality|sksTakuya
 a6b4eaf3, no
 a6dbd500, tchnclr
-a6ea17df, female|male
 a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 a6f96d80, BelleDelphine|woman
@@ -2290,7 +2283,6 @@ a7694188, sks woman
 a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1|photrealistic:1.1
 a77d8ca7, sks woman
 a7c6cf65, pony
-a7e66513, t3 model|t3
 a7e848cb, 90902k, krio70_002.ckpt
 a7e848cb, Bardock, bardock_V10.ckpt
 a7e848cb, SJstyle, createASJStyleMask_beta.ckpt
@@ -2780,7 +2772,6 @@ d0efcea0, "GretchenRoss Person", gretchenRossJenaMalones_v10.safetensors
 d0efcea0, Mikelindell Person, theMyPillowGuy_v10.safetensors
 d0efcea0, Topnotch Artstyle, TopnotchArtstyleVolume118_v10.safetensors
 d0efcea0, Tuckercarlson Person, tuckerCarlsonTuckercarlson_v10.safetensors
-d1593926, furry
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
 d164c734, 4x-animesharp
 d1708df8, sd-prohib|broad brushstrokes|medium brushstrokes|fine brushstrocks|painterly|sentimental|pictorial|idealism|family life|romance|adventure|action|1914|1920|1924|1925|1928|1930|1933|1934|1937
@@ -3077,7 +3068,7 @@ e79c8e1c, jckmn person
 e80f12bb, Evang, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e80f12bb, real|natural, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e83d3aa7, Ligne claire
-e842dcc7, 1girl|solo, ClearVAE_V2.2.safetensors
+e842dcc7, 1girl|solo, ClearVAE_V2.3.safetensors
 e842dcc7, 3d, ClearVAE_V2.safetensors
 e842dcc7, Armor|golden cloth|genini cloth|saga|gemini saint, CleanVAE.safetensors
 e842dcc7, KingShark|Humanshark|Sharkman, CleanVAE.safetensors
@@ -3132,7 +3123,6 @@ ec9f8c2e, CharacterChan Style
 ecc82382, RAW photo
 eccb3dc0, 1girl|moyou
 ecd908cb, sks woman|(sks woman)
-ecf14450, male|female
 ecf98c5e, valorant style
 ed0b4125, anime style|illustration|oil painting|analog style|realistic|photorealistic
 ed87e89c, tchnclr style
@@ -3289,7 +3279,6 @@ f846e100, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen bo
 f851f6a0, hunsha_girl
 f86aeb35, renne
 f86e4589, anime
-f8803f24, realistic
 f885f32d, JasonAldean Person
 f8b2fd9e, girl
 f8c291fa, painting|girl
