@@ -773,6 +773,7 @@
 2b066feb, mmk
 2b694ba7, modelshoot style|nousr robot
 2b6f9ef6, pop art
+2b8dc4ab, flowerz
 2b95dd0a, polumna
 2b9cdde0, in lomostyle
 2bb2342e, rotoscopee
@@ -2351,6 +2352,7 @@ aae14d50, sci-fi|caspian sci-fi|star atlas|star citizen|render
 ab121853, Photo Realistic
 ab16976f, stylized game icon|sci-fi|steampunk|spell
 ab201ab4, chinese|chinese dress
+ab32ff0e, Retrofan
 ab377a68, FlonixApterus
 ab38b8e3, ouka_studio
 ab48e25c, chibi
