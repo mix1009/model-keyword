@@ -1121,7 +1121,6 @@
 4cac193b, sks person|(sks person)
 4cdc58f8, tarasische
 4d12a089, sks person
-4d3bc18e, liqola
 4d3efca6, furry
 4d3f92bf, furry
 4d4d1bc5, girl
@@ -2544,7 +2543,8 @@ ba6e3476, furry
 baf83ef9, 3D modeling|photos|real world, animatedModelsOf_v10.safetensors
 baf83ef9, Photos|real ones|Anime|Illustration, dominationWorld_v02.safetensors
 bb029452, kindigitstyle
-bb20f881, leogirl
+bb20f881, SDS_girl, sdsFILMXLV2_10.safetensors
+bb20f881, leogirl, leosamsHelloworldSDXLModel_helloworldSDXL10.safetensors
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
 bb3992f1, Edsheeran Person
