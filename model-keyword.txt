@@ -154,6 +154,7 @@
 0a2a8967, aerith|bowsette|mercy|widowmaker|tracer|dva|black cat dva|star guardian jinx|star guardian lux|irelia|nidalee|kda seraphine|kda kaisa|akali|katarinaclassicoutfit|pokemon|animal|realistic|portrait|woman|closeup|selfie|instagram
 0a4320df, dalcefo
 0a4d0386, 
+0a8a028d, shadow flat vector art|Minimalism
 0a92be44, 1girl|cat_ears
 0acd5bea, martianwarlord
 0ad612b8, painting|Allen Anderson|Earle Bergey|Frank Frazetta|George Gross|Gil Elvgren|Glen Orbik|Robert Maguire|Robert Stanley|Tom Lovell|pulp style|Action|Western|Romance|Scifi|Fantasy
@@ -822,6 +823,7 @@
 301a6744, bezyminka|, bezyminka_v10.ckpt
 301a6744, vvyerA2, vvyera2_.ckpt
 301a6744, ya beronika, galina_v10.ckpt
+3028e308, furry|furry girl|furry man|fur|furry hentai
 3031dfb2, marsattacks
 3057ce60, FURRY
 3061461b, analog style
@@ -3064,6 +3066,7 @@ e5e811ce, pixelart|#pixelart
 e5ed66c6, mdjrny-v4 style
 e6184e6b, sks woman|(sks woman)|((sks woman))
 e622b9c3, Read Description
+e6865330, shadow flat vector art|Minimalism
 e695afa2, modelshoot style|nousr robot
 e6b83610, BTYLER23 person
 e6c793d7, DUNHUANG|HANFU|1960s \style\
@@ -3238,6 +3241,7 @@ f4a9a8a6, anime, sdxl_vae.safetensors
 f4a9a8a6, anime|2d anime|3d anime|anime style, sdxl_vae.safetensors
 f4a9a8a6, anime|cartoon|anime style|2d, sdxl_vae.safetensors
 f4a9a8a6, art|japanese art, sdxl_vae.safetensors
+f4a9a8a6, furry|furry girl|furry man|fur|furry hentai, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, none, sdxl_vae.safetensors
 f4a9a8a6, photorealistic|realistic|ultra realistic|raw photo, sdxl_vae.safetensors
