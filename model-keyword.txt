@@ -61,6 +61,7 @@
 02acd63c, unstablephotoreal|unstablediffusion
 02b1c95f, eyes|big eyes
 02cb660f, 1 girl
+02d964a8, none
 02dc71ee, Game characters|full body|original art design, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, hunsha_girl, ClearVAE_V2.3_fp16.safetensors
 02f311af, David, modelguyyy_v10.ckpt
@@ -1150,6 +1151,7 @@
 4f0922f2, girl
 4f124f15, model|anime
 4f3ec643, rlcrtn
+4f486dc7, Masamune Shirow
 4f5a5c87, Indian Model
 4f6e5417, oil painting style|oil painting
 4f6f4869, pixiv masterpiece
