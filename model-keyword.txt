@@ -453,6 +453,7 @@
 12485093, rcnz_niji style
 1249edb0, by michihasu
 124de6a9, eldmeisterog
+125f67d1, henderson creature|humanoid|house interior|interior|exterior|dark|crawling|large|small
 126f21de, Zwxthej
 12c978ba, Shigenori Style
 12cc710c, vjt
@@ -1163,7 +1164,6 @@
 4f6f68bf, 无
 4fb1bbf3, padoru
 4fb23b6b, wa-vy style
-4fb24cb3, realistic
 4ffbddcf, nekoxiangcao|girl
 500bc3e3, Evang
 501a50ad, realistic|photorealistic|raw photo|raw picture|realism|realistic style
