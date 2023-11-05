@@ -1409,8 +1409,10 @@
 64d91f3a, rcnz_niji style
 64e73fcb, dbz style
 650839e4, superhero
+655f2458, ghibli|sticker design|portrait art style|illustrator|horror style|anime style, sdvn8Artxl_base.safetensors
 655f2458, niji style, sdvn7Nijistylexl_v1.safetensors
 655f2458, nijistyle, sdvn7Nijistylexl_demo.safetensors
+655f2458, yourname, sdvn8Artxl_yourname.safetensors
 65a9683a, chibi
 65bb0985, SYAHNK
 65bbd026, pitchmeetgeorge
