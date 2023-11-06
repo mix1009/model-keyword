@@ -61,7 +61,6 @@
 02acd63c, unstablephotoreal|unstablediffusion
 02b1c95f, eyes|big eyes
 02cb660f, 1 girl
-02d964a8, none
 02dc71ee, Game characters|full body|original art design, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, hunsha_girl, ClearVAE_V2.3_fp16.safetensors
 02f311af, David, modelguyyy_v10.ckpt
@@ -188,6 +187,7 @@
 0cdb758d, tea picker
 0cf442f0, dakota person
 0d102d86, kawahara
+0d3940d3, furry|kemono
 0d53acd4, beatniks|retro futurism|hip|blue note album cover design
 0d8373ed, realistic|photorealistic
 0d985eef, sks woman
@@ -655,6 +655,7 @@
 208f75ce, lamia
 20c6a837, Nvinkpunk|samdoesarts
 20fa24db, xxmixgirl
+2151bb8f, sexy|woman
 2185ba37, bakirda|kridaba|DaKriDi|dikrida
 218cee5d, mksks style|detailed background
 219cbfe8, RKart style
@@ -697,6 +698,7 @@
 2454d8fb, Pharmabro Person
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 247a01fb, breasts|gigantic breasts:1.6|hyper breasts|massive breasts|oversized breasts|breast bigger then body|wide hips|, kl-f8-anime2.safetensors
+247a01fb, furry|kemono, kl-f8-anime2.safetensors
 247a01fb, kemono|furry|gouache|oil|impressionism, kl-f8-anime2.safetensors
 247a01fb, pixel, kl-f8-anime2.safetensors
 24a516fb, tpmpanlab person
@@ -824,7 +826,7 @@
 301a6744, bezyminka|, bezyminka_v10.ckpt
 301a6744, vvyerA2, vvyera2_.ckpt
 301a6744, ya beronika, galina_v10.ckpt
-3028e308, furry|furry girl|furry man|fur|furry hentai
+3028e308, furry|furry girl|furry man|fur|furry hentai|Yiff
 3031dfb2, marsattacks
 3057ce60, FURRY
 3061461b, analog style
@@ -1123,7 +1125,6 @@
 4bd5788e, chibi
 4bdfc29c, BDSM model
 4bfacf36, by t6
-4c04e8f6, human|[not furry]
 4c42236e, TVClown
 4cac193b, sks person|(sks person)
 4cdc58f8, tarasische
@@ -1157,7 +1158,6 @@
 4f0922f2, girl
 4f124f15, model|anime
 4f3ec643, rlcrtn
-4f486dc7, Masamune Shirow
 4f5a5c87, Indian Model
 4f6e5417, oil painting style|oil painting
 4f6f4869, pixiv masterpiece
@@ -1326,6 +1326,7 @@
 5da13f38, rfktrstyle
 5da2da2e, mdj style
 5dac79de, sks person
+5db1a7c8, traditional chinese ink painting|black and white ink painting|willow branches|willow tree in background
 5dbcf115, feralplmr
 5dffdc36, Furry|Hentai|Nude|Yiff|Breasts|Naked|Fur|NSFW|porn|sex
 5e081326, Matchapix
@@ -1561,6 +1562,7 @@
 73012bca, 3D model
 730a7d56, none
 730b9cb5, m_style
+73547d1c, 1girl
 73771530, kazuya
 738e9523, Beautiful women|pretty girls|and more
 73aebb03, rammstein
@@ -1588,7 +1590,6 @@
 75967262, joemadureira|valorant|samdoesarts
 75b9f150, furry
 75c7f3b6, bnha|ske, shivjiModel2_v10.safetensors
-75c7f3b6, ink, charlesburns18862_v10.safetensors
 75c7f3b6, ohwx devil, dimensiontwist_v10.safetensors
 75c7f3b6, p1xanotherworld, anotherWorldRetro_v10.safetensors
 75c7f3b6, p1xindianajones, indianaJonesAndTheFateOf_v10.safetensors
@@ -1699,6 +1700,7 @@
 7ec31957, beth woman
 7edc8e08, mksks style
 7f1617e6, nekoazuki|girls
+7f590dff, shuuchikan academy school uniform|collared shirt|red vest|sendou erika|tougi shiro|kuze kiriha|yuuki kanade|yuuki haruna
 7f62d94b, VoxelArt
 7fa1e7c6, SDArt
 7fa460a0, illustration|comic style|realistic|Comic Poster|Line Art
@@ -1810,6 +1812,7 @@
 89a3f11a, gatto
 89abf451, 1 girl, 饱和度2-色彩清晰-ClearVAE.safetensors
 89abf451, masterpiece|best quality, clearvae_main.safetensors
+8a0600a6, traditional chinese ink painting|black and white ink painting|willow branches|willow tree in background
 8a0a6f86, svtbuild
 8a20d25c, noradeevilh
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
@@ -1893,7 +1896,6 @@
 90626071, A_banana, kl-f8-anime2_fp16.safetensors
 90626071, Portrait, kl-f8-anime2_fp16.safetensors
 90626071, chibi|cute, kl-f8-anime2.vae.safetensors
-90626071, human|[not furry], kl-f8-anime2.vae.safetensors
 90626071, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, kl-f8-anime2.vae.safetensors
 90626071, shuimobysim|shukezouma, kl-f8-anime2.vae.safetensors
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
@@ -1949,6 +1951,7 @@
 9577782b, fking_scifi_v2
 9578f5e6, genmodmr
 958eaa52, rcnz_niji style
+9598c664, Craig Severance|CraigSeverance
 959c96cf, Arnold Person, arnoldSchwarzeneggerTotal_arnoldSchwarzenegger.safetensors
 959c96cf, Elonmusk Person, elonMuskCurrentDayHQ_v10.safetensors
 959c96cf, JasonAldean Person, jasonAldeanSmallTownExpert_v10Corrected.safetensors
@@ -2318,6 +2321,7 @@ a919edc0, MechBattleTechClassicTR3025
 a927e35a, none
 a940803e, modelshoot style
 a970ea28, abv
+a97df246, 1girl
 a9c65c4e, no
 a9cf1812, cozmikduzk1
 a9e3e060, ChromaV5
@@ -2381,6 +2385,7 @@ ac25001a, fwatch style
 ac30bd02, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 ac344962, yuuki rito|lala satalin deviluke|nana asta deviluke|momo velia deviluke|haruna sairenji|yuuki mikan|konjiki no yami|kotegawa yui|kurosaki meia|run elise jewelria
 ac423f79, K8D
+ac48b663, no ugly features
 ac4b3d45, 1girl|1boy
 ac5d425b, SDArt
 ac5da50d, emaiti
@@ -2396,7 +2401,6 @@ ad10f3a2, irmntro person
 ad14174f, FLUIDART|LIQUID SPLASH|Knollingcase|FOOD_CRIT|Beeple
 ad38c466, silverfox5213|
 ad4470e8, eldmeisterog style|sks style
-ad53ab6f, comic book style|comic book wallpaper|illustration
 ad73b609, anime
 ad7d89e9, empresshacker, hackerEmpressCracker_v10.safetensors
 ad7d89e9, lyndacarter, lyndaCarter1980s_v10.safetensors
@@ -2404,7 +2408,6 @@ ad82a9dd, Evang
 ad9d6205, fart62
 addf5b58, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
 ae19a9dd, pspp man
-ae1f0d66, dskyart1
 ae40b48d, cult of cthulhu|giger|Cthulhu|post-apocalypse|biomechanical
 ae998e33, DarkSouls Style
 aea008ef, afd
@@ -2768,6 +2771,7 @@ cfa305bc, by mankai kaika
 cfc1e734, mina|momo|jeongyeon|chaer|sana|tzuyu|naeyeon|dahyun|jihyo
 cfc5de0e, modelshoot style|analog style|mdjrny-v4 style
 d0003adb, ohwx|library
+d011bcf2, 2d packaging design|hunter's dieline
 d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 d049af0b, Evang
@@ -2892,7 +2896,8 @@ d9d42da0, fantassified icon
 d9df6037, masterpiece|best quality|long white hair|warm lighting|white dress
 d9e8b72c, 3d render|3d cartoon
 d9f5f699, Cartoon Girl
-da02d76b, HarryPotterStyle
+da02d76b, HarryPotterStyle, harryPotterArtworkStyle_10.ckpt
+da02d76b, coquenovio, coque2000_v10.ckpt
 da1b42e0, sks woman|(sks woman)
 da3d89ca, sks
 da5ea365, aodai|cotrang|mai blossom|mai
@@ -3243,13 +3248,14 @@ f4a9a8a6, anime, sdxl_vae.safetensors
 f4a9a8a6, anime|2d anime|3d anime|anime style, sdxl_vae.safetensors
 f4a9a8a6, anime|cartoon|anime style|2d, sdxl_vae.safetensors
 f4a9a8a6, art|japanese art, sdxl_vae.safetensors
-f4a9a8a6, furry|furry girl|furry man|fur|furry hentai, sdxl_vae.safetensors
+f4a9a8a6, furry|furry girl|furry man|fur|furry hentai|Yiff, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, none, sdxl_vae.safetensors
 f4a9a8a6, photorealistic|realistic|ultra realistic|raw photo, sdxl_vae.safetensors
 f4a9a8a6, realistic, sdxl_vae.safetensors
 f4a9a8a6, realistic|photorealistic|raw photo|raw picture|realism|realistic style, sdxl_vae.safetensors
 f4a9a8a6, realistic|realism|photorealistic|raw photo, sdxl_vae.safetensors
+f4a9a8a6, traditional chinese ink painting|black and white ink painting|willow branches|willow tree in background, sdxl_vae.safetensors
 f4d8697e, lastname name
 f4dd44ad, svtbuild
 f4f5e408, rwx woman
