@@ -779,7 +779,8 @@
 2b066feb, mmk
 2b694ba7, modelshoot style|nousr robot
 2b6f9ef6, pop art
-2b8dc4ab, flowerz
+2b8dc4ab, flower, testflowerrs_v10.safetensors
+2b8dc4ab, flowerz, flowerzz_177mb.safetensors
 2b95dd0a, polumna
 2b9cdde0, in lomostyle
 2bb2342e, rotoscopee
@@ -826,7 +827,6 @@
 301a6744, bezyminka|, bezyminka_v10.ckpt
 301a6744, vvyerA2, vvyera2_.ckpt
 301a6744, ya beronika, galina_v10.ckpt
-3028e308, furry|furry girl|furry man|fur|furry hentai|Yiff
 3031dfb2, marsattacks
 3057ce60, FURRY
 3061461b, analog style
@@ -3248,7 +3248,6 @@ f4a9a8a6, anime, sdxl_vae.safetensors
 f4a9a8a6, anime|2d anime|3d anime|anime style, sdxl_vae.safetensors
 f4a9a8a6, anime|cartoon|anime style|2d, sdxl_vae.safetensors
 f4a9a8a6, art|japanese art, sdxl_vae.safetensors
-f4a9a8a6, furry|furry girl|furry man|fur|furry hentai|Yiff, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, none, sdxl_vae.safetensors
 f4a9a8a6, photorealistic|realistic|ultra realistic|raw photo, sdxl_vae.safetensors
