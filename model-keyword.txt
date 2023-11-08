@@ -102,6 +102,7 @@
 06a9d223, mengersponge|sierpsponge
 071b2e26, tk-char|tk-env
 071eb7b2, evang
+0754d880, letitsinkin
 0768c30c, insertNameHere
 07737b93, hotporn
 0786845e, trained with chilloutmix|chinabeauty|dreamlike|a lot of others
@@ -153,7 +154,6 @@
 0a2a8967, aerith|bowsette|mercy|widowmaker|tracer|dva|black cat dva|star guardian jinx|star guardian lux|irelia|nidalee|kda seraphine|kda kaisa|akali|katarinaclassicoutfit|pokemon|animal|realistic|portrait|woman|closeup|selfie|instagram
 0a4320df, dalcefo
 0a4d0386, 
-0a8a028d, shadow flat vector art|Minimalism
 0a92be44, 1girl|cat_ears
 0acd5bea, martianwarlord
 0ad612b8, painting|Allen Anderson|Earle Bergey|Frank Frazetta|George Gross|Gil Elvgren|Glen Orbik|Robert Maguire|Robert Stanley|Tom Lovell|pulp style|Action|Western|Romance|Scifi|Fantasy
@@ -187,7 +187,6 @@
 0cdb758d, tea picker
 0cf442f0, dakota person
 0d102d86, kawahara
-0d3940d3, furry|kemono
 0d53acd4, beatniks|retro futurism|hip|blue note album cover design
 0d8373ed, realistic|photorealistic
 0d985eef, sks woman
@@ -655,6 +654,7 @@
 208f75ce, lamia
 20c6a837, Nvinkpunk|samdoesarts
 20fa24db, xxmixgirl
+21172b72, baddieclai
 2151bb8f, sexy|woman
 2185ba37, bakirda|kridaba|DaKriDi|dikrida
 218cee5d, mksks style|detailed background
@@ -698,8 +698,6 @@
 2454d8fb, Pharmabro Person
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 247a01fb, breasts|gigantic breasts:1.6|hyper breasts|massive breasts|oversized breasts|breast bigger then body|wide hips|, kl-f8-anime2.safetensors
-247a01fb, furry|kemono, kl-f8-anime2.safetensors
-247a01fb, kemono|furry|gouache|oil|impressionism, kl-f8-anime2.safetensors
 247a01fb, pixel, kl-f8-anime2.safetensors
 24a516fb, tpmpanlab person
 24c2e368, Evang
@@ -713,6 +711,7 @@
 254fb5cd, hasanpiker person
 2566389c, Knollingcase|Beeple Style|Dreamshaper|Voxel-ish|Naturitize|Colorfulsurrealismai Surrealism
 256850b0, KEMONO
+257eddae, brawhalla
 258f79e3, stylized game icon|sci-fi|steampunk|spell
 2593818e, ren|1boy
 25ba4550, modelshoot style|swpunk|synthwave|paint splatters
@@ -787,7 +786,6 @@
 2bd7a434, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 2be73e30, by b-ginga
 2c28fcaf, a painting by mse
-2c3a4942, kemono|furry
 2caa7a2f, SEE INTRODUCTION|见模型介绍|導入セクションを見る
 2cc9e101, pixarstyle
 2cd4cf48, sjh style
@@ -850,7 +848,6 @@
 3288c45d, GOOSEBUMPS ART BY TIM JACOBUS|RAINBOWPATCH|FOOD_CRIT|TK-CHAR|TK-ENV|LIQUID SPLASH|PAPERCUT|PORCELAIN DOLL|artificial-journey style|SURREALISM|COLORFULSURREALISMAI|CARBON|DUOCHROME|HOLOGRAPHIC|in OliDisco style|FLAT COLOR|FLAT ILLUSTRATION|VECTORSTYLE|MECHA
 328ad29d, sks man
 32b08cff, gotou hitori|inoue takina|kita ikuyo|kubo nagisa|nishikigi chisato|sabine|sendou erika|shiina mahiru|yamano mitsuha|shuka high school uniform|lycoris uniform
-32b8c220, kemono|furry|gouache|oil|impressionism
 32ccf42a, JangYouSun
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
 3303e72d, milf
@@ -975,7 +972,6 @@
 3c401697, redshift style
 3c752646, snvhs
 3c7538b7, mecha
-3c8864a8, shadow flat vector art|Minimalism
 3caeeaf3, vintage polaroid analog portrait photography of
 3cb52e96, shuimobysim|shukezouma
 3cbacf0f, ned stark|jon snow|catelyn stark|daenerys targaryen|robert baratheon|arya stark|joffrey baratheon|tyrion lannister|jaime lannister|robb stark|petyr baelish|littlefinger|sansa stark|bran stark|cersei lannister|viserys targaryen|jorah mormont|benjen stark|waymar royce|rakharo dothraki|will ranger|jeor mormont|doreah handmaid|irri dothraki|maester luwin|khal drogo|the hound|sandor clegane|lord varys|rast ranger|rodrik cassel|maester aemon|mycah butcher son|grenn ranger|gared ranger|theon greyjoy|ser barristan selmy|jory cassel|ros cook|yoren recruiter|wildling girl|royal steward|catspaw assassin|pypar steward|old nan|illyrio mopatis|ilyn payne|lancel lannister|renly baratheon|mikken blacksmith|alliser thorne|syrio forel|game of thrones
@@ -1211,6 +1207,7 @@
 5412e2d7, comicmay artsyle|redshift style
 543cde6c, KEMONO
 5475fa02, mbeezus person
+547b2543, white plastic mask
 547baf67, ykgl girl|ykgl girls|cgi artstyle
 548481b9, SDArt|bnp|aved|bgs|aten|fcu|cees|chor|nrf|elio|pfa|kprc|dita|kuro|dprk|asot|bsp|psst|sqm|irgc|buka|byes|dany|lpg|vaw|nmwx|nyrd|guin|perm|urd|nasi|rags|rimo|shai|doa|suma|isch|utm|vedi|dds|weho|pte|yui
 548c2413, woman android
@@ -1326,7 +1323,6 @@
 5da13f38, rfktrstyle
 5da2da2e, mdj style
 5dac79de, sks person
-5db1a7c8, traditional chinese ink painting|black and white ink painting|willow branches|willow tree in background
 5dbcf115, feralplmr
 5dffdc36, Furry|Hentai|Nude|Yiff|Breasts|Naked|Fur|NSFW|porn|sex
 5e081326, Matchapix
@@ -1562,7 +1558,6 @@
 73012bca, 3D model
 730a7d56, none
 730b9cb5, m_style
-73547d1c, 1girl
 73771530, kazuya
 738e9523, Beautiful women|pretty girls|and more
 73aebb03, rammstein
@@ -1812,7 +1807,6 @@
 89a3f11a, gatto
 89abf451, 1 girl, 饱和度2-色彩清晰-ClearVAE.safetensors
 89abf451, masterpiece|best quality, clearvae_main.safetensors
-8a0600a6, traditional chinese ink painting|black and white ink painting|willow branches|willow tree in background
 8a0a6f86, svtbuild
 8a20d25c, noradeevilh
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
@@ -2131,6 +2125,7 @@
 9c7652fc, OBJECT|NO HUMANS|SOLO FOCUS|ITEMS
 9c88bb9e, PiroxiumDiffusion style
 9ca13f02, analog style
+9ccb3baa, chibi|chibi|masterpiece|best quality|original|official art||cartoon rendering|Studio Ghibli
 9cde17f8, Cartoon Girl
 9ce5cea2, nvinkpunk|snthwve style|style of joemadureira
 9cec73d3, photorealistic|anime|cartoon
@@ -2242,6 +2237,7 @@ a402810e, 1990 style|retro artstyle|1980 style, eraEstheticRetroAnime_retroV21VA
 a402810e, 1990s style|1980 style|retro artstyle, eraEstheticRetroAnime_retroV30VAE.safetensors
 a402810e, 1990s style|1980s style|retro artstyle, eraEstheticRetroAnime_retroV50VAE.safetensors
 a402810e, anime screencap, animeScreencapStyle_assV10.safetensors
+a402810e, bluethebone, bluetheboneStyle_bluetheboneV10.safetensors
 a4066aa4, emaiti
 a41a2496, gigachad
 a42082e5, DarahanEyes
@@ -2321,7 +2317,6 @@ a919edc0, MechBattleTechClassicTR3025
 a927e35a, none
 a940803e, modelshoot style
 a970ea28, abv
-a97df246, 1girl
 a9c65c4e, no
 a9cf1812, cozmikduzk1
 a9e3e060, ChromaV5
@@ -2385,7 +2380,6 @@ ac25001a, fwatch style
 ac30bd02, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 ac344962, yuuki rito|lala satalin deviluke|nana asta deviluke|momo velia deviluke|haruna sairenji|yuuki mikan|konjiki no yami|kotegawa yui|kurosaki meia|run elise jewelria
 ac423f79, K8D
-ac48b663, no ugly features
 ac4b3d45, 1girl|1boy
 ac5d425b, SDArt
 ac5da50d, emaiti
@@ -2480,6 +2474,7 @@ b29ef034, analog style
 b2de9d62, silverfox5213|
 b2e6aef1, aptic|zgambuf
 b2fb8eba, m_robutts|illustration style|art by cutesexyrobutts
+b3009caa, art retouch|photo surrealism|fine art parody
 b301c503, 
 b3276bb9, Umbreon|Vaporeon|Glaceon|Sylveon|Espeon|Jolteon|Flareon|Eevee
 b3454578, kipteitei|art by better with salt|woot|squarewave|big belly|fat|full list on biggergirls page
@@ -2636,6 +2631,7 @@ c181b9bd, kemono|nj5furry
 c1a72459, girl
 c203ddb4, sam yang
 c206be84, azhiichigo style，big eyes|thick lines，cute
+c2308a73, francapa
 c230a4e3, AK-47-Asiimov|AK-47-Gold-Arabesque|AK-47-Hydroponic|AK-47-Neon-Rider|AK-47-Vulcan|AK-47-X-Ray
 c235bb83, K8D
 c236c942, Edsheeran Person
@@ -2771,7 +2767,6 @@ cfa305bc, by mankai kaika
 cfc1e734, mina|momo|jeongyeon|chaer|sana|tzuyu|naeyeon|dahyun|jihyo
 cfc5de0e, modelshoot style|analog style|mdjrny-v4 style
 d0003adb, ohwx|library
-d011bcf2, 2d packaging design|hunter's dieline
 d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 d049af0b, Evang
@@ -2999,6 +2994,7 @@ dfb90adf, by kyoani
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 e000edd2, Navia
 e01546fb, cornflower
+e01ac9d6, who
 e02601f3, XSWB, xswbsinglewoodenbuil_v10.ckpt
 e02601f3, architecture|architectural, xsarchitecturalv1com_v12.ckpt
 e02601f3, bird 's-eye view|super tall buildings|modern buildings, xsarchitecturalV1Aerial_v11.ckpt
@@ -3037,6 +3033,7 @@ e3423ef2, photo of evang person, sideView_acside.ckpt
 e3451deb, furry
 e35930da, rachelwalker style
 e35af7e4, 1girl|dynamic angle|dynamic pose|chinese style architecture|hanfu
+e3711854, 1girl
 e37a18ee, Evang, vector2_v10.safetensors
 e37a18ee, evang, vector2_v1.safetensors
 e398e272, anime
@@ -3073,7 +3070,6 @@ e5e811ce, pixelart|#pixelart
 e5ed66c6, mdjrny-v4 style
 e6184e6b, sks woman|(sks woman)|((sks woman))
 e622b9c3, Read Description
-e6865330, shadow flat vector art|Minimalism
 e695afa2, modelshoot style|nousr robot
 e6b83610, BTYLER23 person
 e6c793d7, DUNHUANG|HANFU|1960s \style\
@@ -3254,7 +3250,6 @@ f4a9a8a6, photorealistic|realistic|ultra realistic|raw photo, sdxl_vae.safetenso
 f4a9a8a6, realistic, sdxl_vae.safetensors
 f4a9a8a6, realistic|photorealistic|raw photo|raw picture|realism|realistic style, sdxl_vae.safetensors
 f4a9a8a6, realistic|realism|photorealistic|raw photo, sdxl_vae.safetensors
-f4a9a8a6, traditional chinese ink painting|black and white ink painting|willow branches|willow tree in background, sdxl_vae.safetensors
 f4d8697e, lastname name
 f4dd44ad, svtbuild
 f4f5e408, rwx woman
@@ -3303,6 +3298,7 @@ f86e4589, anime
 f885f32d, JasonAldean Person
 f8b2fd9e, girl
 f8c291fa, painting|girl
+f8c5b517, chibi|cartoon rendering|official art|Studio Ghibli|chibi|masterpiece|best quality|original|official art|
 f8e650bb, 3dmdt1
 f8edbb10, redjade_v1
 f8f043d1, shuimobysim|shukezouma
