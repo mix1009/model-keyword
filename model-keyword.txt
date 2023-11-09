@@ -995,6 +995,7 @@
 3f18d023, anime
 3f3fc921, Sks woman, vsjdj_v10.ckpt
 3f3fc921, sks man, timeCatcher_neuroalex.ckpt
+3f400815, WLOP
 3f4e7ed9, sks woman
 3f76682f, Anime|manga|cartoon
 3ff95373, sks woman
@@ -1036,6 +1037,7 @@
 43a5955f, photorealistic
 43ab0d4e, insertNameHere
 43c1d91f, furry
+43df363d, who
 43e4db69, anime
 43eb72ee, lineart|monochrome
 4419d708, whiteboard|halloween，pumpkin，full moon，black cat， tree
@@ -2891,8 +2893,7 @@ d9d42da0, fantassified icon
 d9df6037, masterpiece|best quality|long white hair|warm lighting|white dress
 d9e8b72c, 3d render|3d cartoon
 d9f5f699, Cartoon Girl
-da02d76b, HarryPotterStyle, harryPotterArtworkStyle_10.ckpt
-da02d76b, coquenovio, coque2000_v10.ckpt
+da02d76b, HarryPotterStyle
 da1b42e0, sks woman|(sks woman)
 da3d89ca, sks
 da5ea365, aodai|cotrang|mai blossom|mai
@@ -3074,6 +3075,7 @@ e695afa2, modelshoot style|nousr robot
 e6b83610, BTYLER23 person
 e6c793d7, DUNHUANG|HANFU|1960s \style\
 e6d571b6, ohwx|pianist
+e6f776f5, ghibli
 e717e83f, infp
 e728ca1e, Mogeko|Okegom|Funamusea
 e72cdb50, anime
