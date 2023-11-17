@@ -188,6 +188,7 @@
 0cdb758d, tea picker
 0cf442f0, dakota person
 0d102d86, kawahara
+0d3940d3, furry|kemono
 0d53acd4, beatniks|retro futurism|hip|blue note album cover design
 0d8373ed, realistic|photorealistic
 0d985eef, sks woman
@@ -697,6 +698,8 @@
 2454d8fb, Pharmabro Person
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 247a01fb, breasts|gigantic breasts:1.6|hyper breasts|massive breasts|oversized breasts|breast bigger then body|wide hips|, kl-f8-anime2.safetensors
+247a01fb, furry|kemono, kl-f8-anime2.safetensors
+247a01fb, kemono|furry|gouache|oil|impressionism, kl-f8-anime2.safetensors
 247a01fb, pixel, kl-f8-anime2.safetensors
 24a516fb, tpmpanlab person
 24c2e368, Evang
@@ -788,6 +791,7 @@
 2bd7a434, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 2be73e30, by b-ginga
 2c28fcaf, a painting by mse
+2c3a4942, kemono|furry
 2caa7a2f, SEE INTRODUCTION|见模型介绍|導入セクションを見る
 2cc9e101, pixarstyle
 2cd4cf48, sjh style
@@ -849,6 +853,7 @@
 3288c45d, GOOSEBUMPS ART BY TIM JACOBUS|RAINBOWPATCH|FOOD_CRIT|TK-CHAR|TK-ENV|LIQUID SPLASH|PAPERCUT|PORCELAIN DOLL|artificial-journey style|SURREALISM|COLORFULSURREALISMAI|CARBON|DUOCHROME|HOLOGRAPHIC|in OliDisco style|FLAT COLOR|FLAT ILLUSTRATION|VECTORSTYLE|MECHA
 328ad29d, sks man
 32b08cff, gotou hitori|inoue takina|kita ikuyo|kubo nagisa|nishikigi chisato|sabine|sendou erika|shiina mahiru|yamano mitsuha|shuka high school uniform|lycoris uniform
+32b8c220, kemono|furry|gouache|oil|impressionism
 32ccf42a, JangYouSun
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
 3303e72d, milf
@@ -978,6 +983,7 @@
 3cb52e96, shuimobysim|shukezouma
 3cbacf0f, ned stark|jon snow|catelyn stark|daenerys targaryen|robert baratheon|arya stark|joffrey baratheon|tyrion lannister|jaime lannister|robb stark|petyr baelish|littlefinger|sansa stark|bran stark|cersei lannister|viserys targaryen|jorah mormont|benjen stark|waymar royce|rakharo dothraki|will ranger|jeor mormont|doreah handmaid|irri dothraki|maester luwin|khal drogo|the hound|sandor clegane|lord varys|rast ranger|rodrik cassel|maester aemon|mycah butcher son|grenn ranger|gared ranger|theon greyjoy|ser barristan selmy|jory cassel|ros cook|yoren recruiter|wildling girl|royal steward|catspaw assassin|pypar steward|old nan|illyrio mopatis|ilyn payne|lancel lannister|renly baratheon|mikken blacksmith|alliser thorne|syrio forel|game of thrones
 3d28e095, 3D Style|Rick Roll|fullbody shot|bad cosplay man
+3d52e549, merry chrismas
 3d61b720, 3D product render|3D product render style
 3da648f5, in the style of AImanhwa
 3dccab21, pepereal
@@ -2920,7 +2926,7 @@ dab3bb51, marblesh|marblee|marblee style
 dad06477, Realistic, matrixStellar_v11VAE.safetensors
 dad06477, female|male|landscapes|realistic|man|woman|SCIFI, matrixStellar_v11VAE.safetensors
 daecbd84, FleischerStyle
-dafa131a, realistic|photo|raw photo|photo realistic|hyper realistic|realistic photo|ultra realistic|photorealism|realism
+dafa131a, realistic|raw photo|photo realistic|hyper realistic|realistic photo|ultra realistic|photorealism|realism
 db0d4f46, fluffy furry beastman
 db10a0ee, sks woman
 db1c462d, luna
@@ -2996,6 +3002,7 @@ def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
 df410284, KEMONO
 df62a361, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
+df690a54, furry|kemono
 df8b5e2f, Wacky the Erizo
 df9e36bd, leagueofstyle
 dfa06e02, evang
@@ -3324,6 +3331,7 @@ f9718fa8, realistic|photorealistic
 f973721a, jenniferconnelly
 f97af94a, 1 girl
 f97ba63a, phse
+f9873fdb, merry chrismas
 f9c02b32, 100memories
 f9d8ee86, modelshoot style|swpunk|synthwave|paint splatters
 fa10a43f, kratos person
