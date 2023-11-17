@@ -1000,6 +1000,7 @@
 3f76682f, Anime|manga|cartoon
 3ff95373, sks woman
 4003fb6f, by kurige
+40156a7f, 3d render|cgi|unreal engine 5 render|cg
 4093cd83, girl|Hypnotic Alluring Female Geisha|Chinese dress
 409d5f37, 1girl
 40ada8c2, watercolor
@@ -2913,6 +2914,7 @@ dab3bb51, marblesh|marblee|marblee style
 dad06477, Realistic, matrixStellar_v11VAE.safetensors
 dad06477, female|male|landscapes|realistic|man|woman|SCIFI, matrixStellar_v11VAE.safetensors
 daecbd84, FleischerStyle
+dafa131a, realistic|photo|raw photo|photo realistic|hyper realistic|realistic photo|ultra realistic|photorealism|realism
 db0d4f46, fluffy furry beastman
 db10a0ee, sks woman
 db1c462d, luna
@@ -3242,7 +3244,6 @@ f4a70244, female|girl|woman|man|boy
 f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte
 f4a9a8a6, 3d toon style|3d style, sdxl_vae.safetensors
 f4a9a8a6, Cartoon|Cartoon Style, sdxl_vae.safetensors
-f4a9a8a6, Realistic|Photorealistic|Raw photo|realism|realistic style, sdxl_vae.safetensors
 f4a9a8a6, Realistic|realism|photorealism|raw photo, sdxl_vae.safetensors
 f4a9a8a6, anime, sdxl_vae.safetensors
 f4a9a8a6, anime|2d anime|3d anime|anime style, sdxl_vae.safetensors
@@ -3252,8 +3253,6 @@ f4a9a8a6, greifer, sdxl_vae.safetensors
 f4a9a8a6, none, sdxl_vae.safetensors
 f4a9a8a6, photorealistic|realistic|ultra realistic|raw photo, sdxl_vae.safetensors
 f4a9a8a6, realistic, sdxl_vae.safetensors
-f4a9a8a6, realistic|photorealistic|raw photo|raw picture|realism|realistic style, sdxl_vae.safetensors
-f4a9a8a6, realistic|realism|photorealistic|raw photo, sdxl_vae.safetensors
 f4d8697e, lastname name
 f4dd44ad, svtbuild
 f4f5e408, rwx woman
