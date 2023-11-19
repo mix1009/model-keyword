@@ -2006,6 +2006,7 @@
 9912cb8d, danmumford style
 99156105, furry
 993cd75a, sks woman
+993f2358, Anjana, anjana_v10.ckpt
 993f2358, Asher|blue eyes, asherAngel_asheAngel512V10.ckpt
 993f2358, G2FFace, g2fface_01.ckpt
 993f2358, KasaneTeto, kasaneTeto_v10.ckpt
@@ -2480,6 +2481,7 @@ b23ffcd4, a woman
 b240717e, shuimobysim|shukezouma
 b245152f, powercolor.v1|Drippy watercolor|Vivid watercolor
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
+b26b2714, a photo of a dog|a photo of a cat|a photo of a wild animal
 b29ef034, analog style
 b2de9d62, silverfox5213|
 b2e6aef1, aptic|zgambuf
