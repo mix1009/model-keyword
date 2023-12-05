@@ -1202,7 +1202,8 @@
 54eedb49, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 5502af6a, nkoctst
 550719bf, realistic
-550e3660, sphs|sisyphustone|toiljoy|manpushrock
+550e3660, rbrs|icrs|sphs, ouroboricarusisyphus_v10.safetensors
+550e3660, sphs|sisyphustone|toiljoy|manpushrock, sisyphusxl_v10.safetensors
 552bc41d, bolinhabolinha
 55537280, temp
 556b18ab, rcnz_niji style
@@ -1241,6 +1242,7 @@
 5859c49d, whtjs|kangsehwang|kimhongdo|sinyunbok|simsajeong|anjungsik|jangseungeop|heoryeon|gksrnr|tnanr|baengmyo|gureuk|molgol
 585e3828, nekoazuki|girls
 58819dc1, anime|realistic|masterpiece|best quality
+588a8013, zrpgstyle
 58959faa, photo of zwx yu lexuan
 5896f8d5, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 58db528f, rcnz_niji style
@@ -1322,10 +1324,12 @@
 5f06aa6f, Fran, testFranmodelf_v10.ckpt
 5f06aa6f, ttdddd, froggyStyle_toad.ckpt
 5f1199a7, adl|cae|fck|gsp|hta|httr|lun|olis|omd|rcn|sown|rps|tux|waj|gote|dbz|ulf
+5f77f3b8, zrpgstyle
 5fb8c5f9, sks man
 5fc312dd, newvegaschar
 5fd78ac3, laolei style
 5fec6262, East Asian architecture|Chinese imperial palace|game scenes
+5fffc5de, zrpgstyle
 600db6b8, Lauterbach, karlLauterbachLauterbach_v10.safetensors
 600db6b8, gerdbaier, grattlerDiffusionViper_v1.safetensors
 600db6b8, rainerwinkler, winklerDiffusion_v1.safetensors
