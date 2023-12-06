@@ -194,7 +194,6 @@
 0e8747d6, male|female
 0e8f2dbe, masterpiece|best quality
 0e98aa3f, InToThe2KGothClub
-0ea17fca, girl
 0eb3318b, #spoonbanal#|#rotten#output#|#ammazza#che#cagata#|rkomi|ferragnez, hellcoderUncensored_v10.safetensors
 0eb3318b, Airlock, djzAirlockV21768V21512_21768.safetensors
 0eb3318b, AssassinKahb, djzAssassinKahbV21_0.safetensors
@@ -459,6 +458,7 @@
 139f78c4, Evang
 13a6777c, modelshoot style|nousr robot
 13c3e49f, collage style
+13e74cc9, speedpainting
 1400e684, Airlock, djzAirlockV21768V21512_v15.safetensors
 1400e684, Ascendents, djzAscendentsV21V15_v15.safetensors
 1400e684, ChaoticSphere, djzChaoticSpheresV21_v15.safetensors
@@ -572,7 +572,6 @@
 1bd2e52a, 1girl|jiangye|helix angle|hair ornament|multicolored hair|purple hair|pink hair|pink pupils|purple eyebrows|earrings|pink background|white crop top|demon heart tail|arm  strap|student cardaround neck|purple and black short dress|handcuffs|thigh strap|bandaid on leg|torn single leg pantyhose|bandaged hands|One hand wrapped in a bandage|full body|long hair|
 1c254752, vulcan
 1c348ac5, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
-1c43ca9d, 1boy|mature|
 1c5da6ec, merry chrismas
 1c65f0f8, sybildanning
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
@@ -583,6 +582,7 @@
 1d116781, furry
 1d132f9e, whatif style|tdst style
 1d2f8774, furry
+1d3c1c15, masterpiece|best quality|1girl
 1d5f981e, emmasamms
 1d812301, photorealistic|textured skin|skin pores|skin imperfections|raw|8k|intricate details
 1d9381dd, abc
@@ -801,6 +801,7 @@
 2f4e14a4, litebrite
 2f73cbe9, furry:1.4|anthro:1.4|fluffy:1.4|fluffy fuzzy furry fur covered skin:1.4
 2f7b2f79, mj-sphere
+2fb183e3, 1girl
 2fd6057b, Batman_the_animated_series
 2fdd0123, guweiz|nixeu|wlop
 2ffe0d53, Evang, mummy_v10.ckpt
@@ -1102,6 +1103,7 @@
 4b533336, jasp402
 4b64ace6, SDXL 0.9
 4b715a30, alizee|amy winehouse|ariana grande|audra miller|avril lavigne|billie eilish|camila cabello|charli xcx|christina aguilera|dua lipa|emma stone|emma watson|hayley williams|jennifer lawrence|katy perry|lady gaga|lana del rey|marina diamandis|miley cyrus|p!nk|rihanna|selena gomez|shakira|sophie ellis bextor|taylor swift|heart on cheek|lips piercing|nose piercing|nose stud|nose ring|verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
+4b81e8ef, masterpiece|best quality|photorealistic
 4bc53419, frozen style|anna frozen|elsa frozen|olaf frozen|sven frozen|kristoff frozen|ice castle|duke of weselton frozen|prince hans frozen
 4bd5788e, chibi
 4bdfc29c, BDSM model
@@ -1207,6 +1209,7 @@
 552bc41d, bolinhabolinha
 55537280, temp
 556b18ab, rcnz_niji style
+557350e1, Ak47, aku_v10.ckpt
 557350e1, Lilith Morgan, lilithMorgan_v11.ckpt
 557350e1, Rainbowpatch, rainbowpatch12_rainbowpatchV12.ckpt
 557350e1, colorfulsurrealismai|surrealism, colorfulsurrealismai_V10.ckpt
@@ -1248,6 +1251,7 @@
 58db528f, rcnz_niji style
 59139221, man s4ntos
 5942a771, xyz
+59548805, illustration
 59591b48, masterpiece|best quality
 59724734, IconsMi
 597a8e99, EduCHSDDM, educhsddm_v10.ckpt
@@ -1259,6 +1263,7 @@
 5998441b, redshift style|seconddusk
 59aa3b7d, humanoid robot
 59c2b81f, Photo Realistic
+59c58ef0, speedpainting
 59cc6f73, <niji-se-3d>
 59d5d3c5, dross_style|femboy|penis|anal|sex|missionary|sexy|caleb|cody|ash|taylor|full_nelson|from_behind|ass|pov
 5a07846b, auburn
@@ -1542,6 +1547,7 @@
 73012bca, 3D model
 730a7d56, none
 730b9cb5, m_style
+73547d1c, 1girl
 73771530, kazuya
 738e9523, Beautiful women|pretty girls|and more
 73aebb03, rammstein
@@ -1641,7 +1647,6 @@
 7a77a7f5, yu-gi-oh!creature
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
 7a8ece1f, Evang
-7ab4740f, rayearth
 7ad31fc7, none
 7af9cd4c, EduSDII, modelcharacter_v10.ckpt
 7af9cd4c, otanisauota, otanisauota_v10.ckpt
@@ -1769,6 +1774,7 @@
 86baad27, daizu
 86bd187b, elxchavo
 86c0becf, qtcg|licg|gfcg|xscg
+86f94aa2, zrpgstyle
 87278b15, ZRpee
 872bdd84, zedra1 girl
 872fa838, Interior
@@ -1779,6 +1785,7 @@
 87c5d24e, dra|vinyl record cover|12-inch|electronic|<decade> album cover|the designers republic
 87fb604f, 3d render|3d cartoon
 880ebdda, monster girls|centaur|lamia|arachne|scylla|etc...
+883864bf, speedpainting
 883f759a, jwl watercolor
 8853491f, cartoon character
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
@@ -2215,7 +2222,7 @@ a4066aa4, emaiti
 a41a2496, gigachad
 a42082e5, DarahanEyes
 a4281939, PORTRAIT of Dilmurat|Dilmurat|1girl
-a4312ca5, LEGOstyle, legoworld_v10.safetensors
+a4312ca5, LEGOstyle, legoworld_v11.safetensors
 a4312ca5, Pokemon|Simple Background|Black Background|Monster|Normal|Fire|Water|Grass|Electric|Ice|Fighting|Poison|Ground|Flying|Psychic|Bug|Rock|Ghost|Dragon|Dark|Steel|Fairy, pokemonaiFan_v10.safetensors
 a455667b, cute|chibi
 a457aeea, FlonixApterus
@@ -2250,7 +2257,6 @@ a6428756, holliemengert artstyle
 a64b9e1f, sdart|bnp|abia|abit|adl|afs|aon|lpg|apro|nwsl|mth|arl|arum|asar|batt|bios|kuro|blob|bnha|bpd|buda|exe|irgc|buka|buon|cae|cava|ccd|chor|aroa|ccu|cep|clos|urd|crit|cudi|doa|cwgc|ylor|dats|ddc|acu|oxi
 a6590543, mksks style|detailed background
 a69bb214, Oldjourney
-a69d6019, photo|metart
 a69f9ce1, best quality|sksTakuya
 a6b4eaf3, no
 a6dbd500, tchnclr
@@ -2289,8 +2295,10 @@ a8e2a894, no trigger words
 a910c8e4, watercolor
 a919edc0, MechBattleTechClassicTR3025
 a927e35a, none
+a9352939, 1girl|masterpiece|best quality
 a940803e, modelshoot style
 a970ea28, abv
+a97df246, 1girl
 a9c65c4e, no
 a9cf1812, cozmikduzk1
 a9e3e060, ChromaV5
@@ -3079,7 +3087,6 @@ eabf280f, anthro|monster girl|colored skin|furry
 eae4113f, 没有/none
 eae836b4, mommy
 eae95c5e, cardassian
-eafbac0e, rayearth
 eb01f3b2, NijiFTB
 eb1666ba, 1girl|moyou
 eb1b80e4, ziov
