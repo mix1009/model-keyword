@@ -480,6 +480,7 @@
 1400e684, pow style|ofi|mohd|rmb|dca|muc|onex|toid|sura|juli|veli|gsp|tux|tvc|pbc|pgs|rps|dbz|soca|suru|nips|rune|pafc|nlwx|fck|cae|sohn|dori|zawa|revs|hmv|whoo|asar|blob|xiao|kilt|ulf|loeb|bnha|gote|omd|adl|shld|waj|sown|rcn|httr|dits|hta|lun|olis, sdartSomething_v1.safetensors
 1400e684, rfktrstyle, rfktrsDarkdream_v15bExperimental.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
+14112628, anime|cartoon|anime style|2d
 142c3c11, cinematic style|photographic style|analog film|low-angle|dark colors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 14d36354, duskz1
@@ -2141,6 +2142,7 @@
 9ecb88d8, photo of zhy zhangyi
 9ed4ea56, Oldjourney
 9ede614e, 80's anime style
+9ee95c80, anime|2d anime|3d anime|anime style
 9ef9f138, gigafractal artstyle
 9f159502, *read notes*
 9f195bbc, blackphoto|1girl
@@ -3196,6 +3198,8 @@ f3196d59, carbon|duochrome|holographic
 f32626be, estilovintedois, vintedoisDiffusionV0_v01.ckpt
 f32626be, heixuan furry, kuroteroHeixuanFurry_v10.ckpt
 f341184d, msfluentui style
+f3653237, anime|anime girl|anime man|anime style, sdxlYamersAnimeUltra_ysAnimeV5.safetensors
+f3653237, anime|anime style, sdxlYamersAnimeUltra_ysAnimeV5VAE.safetensors
 f3694755, modelshoot style
 f37775c3, photo of Evang style
 f3a2ad84, rcnz_niji style
