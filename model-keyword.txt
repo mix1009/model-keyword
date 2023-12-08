@@ -914,6 +914,7 @@
 38c1ebe3, zero_two_101, anythingZeroTwo_zeroTwoDarlingInThe.ckpt
 38c588d9, synthpunk|cyberpunk|fantasy
 38cee4b1, Mariia|Anna
+38ddb3be, scar face|Festering appearance|ugly|horror
 38e36880, nighttime|lighting|photorealistic|dynamic_color_range
 38e89fda, itojunji style
 390c1eb3, dunhuang|dunhuang_face|dunhuang_background
@@ -1070,6 +1071,7 @@
 47a34de9, sticker|vector-art
 47b2d7e7, chinese inn, SDXLChineseInn_v10.safetensors
 47b2d7e7, modern villa, SDXLModernVillaV10_v10.safetensors
+47b2d7e7, pixel art, SDXLPixelArtBeta_v10.safetensors
 47b2d7e7, shs, animeblendxl_v10.safetensors
 47b655b8, 1girl
 47bcfb66, goldenglass
@@ -1205,8 +1207,7 @@
 54eedb49, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 5502af6a, nkoctst
 550719bf, realistic
-550e3660, rbrs|icrs|sphs, ouroboricarusisyphus_v10.safetensors
-550e3660, sphs|sisyphustone|toiljoy|manpushrock, sisyphusxl_v10.safetensors
+550e3660, sphs|sisyphustone|toiljoy|manpushrock
 552bc41d, bolinhabolinha
 55537280, temp
 556b18ab, rcnz_niji style
@@ -1252,7 +1253,6 @@
 58db528f, rcnz_niji style
 59139221, man s4ntos
 5942a771, xyz
-59548805, illustration
 59591b48, masterpiece|best quality
 59724734, IconsMi
 597a8e99, EduCHSDDM, educhsddm_v10.ckpt
@@ -2124,7 +2124,6 @@
 9d9d6f38, .bsp
 9d9ea029, fantadsk2
 9da87c34, none
-9db2aac0, eroticposing|cumshot|cumonbreasts|cumfacial|whiteman|blackman|whitecock|blackcock|hanging testicles|man's cock|one man|nakedoldman|femalemasturbation
 9db8946b, A_banana
 9dc1d702, sks woman
 9dddaced, girl
@@ -2226,6 +2225,7 @@ a42082e5, DarahanEyes
 a4281939, PORTRAIT of Dilmurat|Dilmurat|1girl
 a4312ca5, LEGOstyle, legoworld_v11.safetensors
 a4312ca5, Pokemon|Simple Background|Black Background|Monster|Normal|Fire|Water|Grass|Electric|Ice|Fighting|Poison|Ground|Flying|Psychic|Bug|Rock|Ghost|Dragon|Dark|Steel|Fairy, pokemonaiFan_v10.safetensors
+a4312ca5, sks, legoworld_v20.safetensors
 a455667b, cute|chibi
 a457aeea, FlonixApterus
 a4723a65, anime
@@ -2550,6 +2550,7 @@ bc39c10a, zainabt
 bca4f28b, mizulina
 bcb60ee3, twinklestardodo
 bcbe94c2, frutigeraero
+bcc9731d, scar face|ugly|horror|festering apperance
 bd07b52e, bi_lan_hang_xian
 bd0a28ca, photorealstic|character|photo
 bd158d39, 80's anime style|90's anime style
@@ -2955,6 +2956,7 @@ def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
 df410284, KEMONO
 df62a361, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
+df721c79, THM STYLE
 df8b5e2f, Wacky the Erizo
 df9e36bd, leagueofstyle
 dfa06e02, evang
@@ -3072,7 +3074,6 @@ e95310af, CCDDA artstyle
 e96904c7, sks juri
 e97f7a1c, focal points on attractive face|sly grin that reaches eyes|eyes gleaming with joy|1woman|vivid colors|complex patterns|motion|action|leading lines|visual cues|rule of thirds, simplePromptWithA_v01.safetensors
 e97f7a1c, human, alignmentTurnHumansTo_2000Steps.safetensors
-e9828af0, cumonbreasts|cumfacial|cumshot|nakedoldman|penis|testicles|cum on hair|cum on body|cum on breasts|cum
 e9a220ba, 1girl|solo|mole under eye
 e9c42a35, meitu|sailor moon style|anime style|manga
 e9caaf6a, analog style|chromav5|nvinkpunk
@@ -3235,6 +3236,7 @@ f6355763, Ajm, xxajm_v10.safetensors
 f6355763, Evang, beejaydel_bjd20000.safetensors
 f63dafbe, Realistic
 f6412c6b, 1girl
+f64feac5, scar face|ugly|horror|festering apperance
 f661ebc1, 2dskillicon
 f68b2ecb, woman
 f69b7a31, Nothing
