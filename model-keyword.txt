@@ -61,6 +61,7 @@
 02b1c95f, eyes|big eyes
 02cb660f, 1 girl
 02dc71ee, Game characters|full body|original art design, ClearVAE_V2.3_fp16.safetensors
+02dc71ee, cyberpunk|girl|woman|animes|style|cat, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, hunsha_girl, ClearVAE_V2.3_fp16.safetensors
 02f311af, David, modelguyyy_v10.ckpt
 02f311af, Xenon, xenon_alpha001.ckpt
@@ -126,6 +127,7 @@
 08f7a22d, Papercut
 08fe03fe, by sky-freedom
 09083164, rcnz_niji style
+090cdf1b, cyberpunk|girl|woman|animes|style|cat
 096596d8, pow artstyle
 097a6c2e, 植物|动物
 097e0a8a, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc
@@ -733,6 +735,7 @@
 28bfe9f2, anthro|furry|female|canine
 28c385a0, Bloodborne Style
 28d20569, sks woman
+28e99b90, See Appendix|见附录部分
 291b67b8, maxwell the cat
 291e7dc8, monochrome
 29323d76, Ligne Claire|PC-98
@@ -989,6 +992,7 @@
 4093cd83, girl|Hypnotic Alluring Female Geisha|Chinese dress
 409d5f37, 1girl
 40ada8c2, watercolor
+4101385b, desi|desilatte|desimocha|desiespresso
 413c9e87, best quality|tifa lockhart _cosplay_|aqua eyes|black hair|closed mouth|outdoors|solo|allur|ultra detailed|8k|hdr|octane render|unreal engine 5|amazing depth|rich colors|powerful imagery|psychedelic overtones|4k|8k.
 413f6b0f, nomanssky style
 41543d33, ned stark|jon snow|catelyn stark|daenerys targaryen|robert baratheon|arya stark|joffrey baratheon|tyrion lannister|jaime lannister|robb stark|petyr baelish|littlefinger|sansa stark|bran stark|cersei lannister|viserys targaryen|jorah mormont|benjen stark|waymar royce|rakharo dothraki|will ranger|jeor mormont|doreah handmaid|irri dothraki|maester luwin|khal drogo|the hound|sandor clegane|lord varys|rast ranger|rodrik cassel|maester aemon|mycah butcher son|grenn ranger|gared ranger|theon greyjoy|ser barristan selmy|jory cassel|ros cook|yoren recruiter|wildling girl|royal steward|catspaw assassin|pypar steward|old nan|illyrio mopatis|ilyn payne|lancel lannister|renly baratheon|mikken blacksmith|alliser thorne|syrio forel|game of thrones
@@ -1180,6 +1184,7 @@
 523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
 52395e18, none
 52500c41, masterpiece|best quality
+529271f9, girl
 52d7fbac, Boxing gloves|boxing ring
 5301c7c5, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 532b3e28, anime
@@ -1383,6 +1388,7 @@
 63d09205, latex|latex catsuit|latex corset|bondage|bound|metal collar|metal cuffs|swedish collar|swedish cuffs
 63ec42c3, noble ai|noble mix fix|reality|noblemixfix|person|character|photograph
 63f63601, estilovintedois
+64113636, See Appendix A|见附录A
 6414e2dc, liquid splash|papercut|porcelain doll
 6418d85d, person_in_Jar
 643afbd9, Microscopic
@@ -1403,6 +1409,7 @@
 655f2458, niji style, sdvn7Nijistylexl_v1.safetensors
 655f2458, nijistyle, sdvn7Nijistylexl_demo.safetensors
 655f2458, yourname, sdvn8Artxl_yourname.safetensors
+65961cf8, FURRY|FURRY FEMALE
 65a9683a, chibi
 65bb0985, SYAHNK
 65bbd026, pitchmeetgeorge
@@ -1513,6 +1520,7 @@
 6eff939c, sks person
 6f4ab0a0, duskgem|jem and the holograms
 6f5fc35d, 3d render of|3d cartoon of
+6f9f1cd7, SuperBolinha2
 6fa714ba, janadefi
 6fb99464, depth of field|film, unrealityV30_v20Asian.safetensors
 6fb99464, depth of field|film|evening, sexSexyEasternExperienceV3_sexV10.safetensors
@@ -1538,6 +1546,7 @@
 7185212f, evang
 718c368e, mikeidsk1
 71b0b5fb, tyznedsk1
+71c4ccc2, 见附录A|See Appendix A
 71cb912e, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
 71d46dd0, Bocchi|KitaIkuyo|IjichiNijika|YamadaRyo|IjichiSeika|PAsan|HiroiKikuri|ShimizuEliza|IwashitaShima|Bfan1|BoFa2|GotoFutari
 71e034f6, wuxia
@@ -1590,6 +1599,7 @@
 7665f8c3, itrobo2022
 7675f1a1, stilovintedois
 767f517f, dmmid style
+768041ed, SEE APPENDIX|见附录
 76956df2, celsoricardo1, celsoRicardoNerd_celsoRicardoV10.ckpt
 76956df2, guttonerdvision1, guttoNerdVision_v10.ckpt
 76956df2, guttonerdvision2, guttoNerdVision2_guttoNerdVision2.ckpt
@@ -1819,6 +1829,7 @@
 8ae4d0fb, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
 8b3a0e37, wearing randoseru backpack and buruma and gym uniform with colored hem
 8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle
+8b66c397, FURRY|FURRY FEMALE
 8b694d34, Photography|Realistic
 8b8efdcc, best quality|masterpiece|
 8b917b1c, xixiprincess
@@ -2532,10 +2543,12 @@ ba2d4b1a, comic style|illustrated|line art|colored line art|flat color|2D|waterc
 ba468443, no
 ba6e3476, furry
 ba98b625, booba style|ronidu style|thepit style|samdoesart style
+baf09b14, SEE APPENDIX|见附录
 baf83ef9, 3D modeling|photos|real world, animatedModelsOf_v10.safetensors
 baf83ef9, Photos|real ones|Anime|Illustration, dominationWorld_v02.safetensors
 bb029452, kindigitstyle
-bb20f881, leogirl
+bb20f881, SDS_girl, sdsFILMXL_210.safetensors
+bb20f881, leogirl, leosamsHelloworldSDXL_helloworldSDXL10.safetensors
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
 bb3992f1, Edsheeran Person
@@ -2743,6 +2756,7 @@ d0003adb, ohwx|library
 d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 d049af0b, Evang
+d04c5d76, SEE APPENDIX A
 d04d8a1f, lamia
 d0503c73, hanbok
 d05570b1, nieniezi girl|1girl|pink eye|purple eye|demon tail|ahoge|demon wings|hair ornament|horns|split-color purple hair and pink hair|hairclip|hat|white background|black bodysuit|purple bodysuit|purple coat
@@ -2897,6 +2911,7 @@ dbbf8175, in lomostyle
 dc01dfdd, ohwx|demon|werewolf|minotaur|zombie|
 dc05355d, sksi object|sksi
 dc234f3c, frozen style|anna frozen|elsa frozen|olaf frozen|sven frozen|kristoff frozen|ice castle|duke of weselton frozen|prince hans frozen
+dc3f810f, SEE APPENDIX|见附录部分
 dccb4eb7, head
 dcdf0425, dgs illustration style
 dced2560, cum
@@ -3204,6 +3219,7 @@ f3653237, anime|anime girl|anime man|anime style, sdxlYamersAnimeUltra_ysAnimeV5
 f3653237, anime|anime style, sdxlYamersAnimeUltra_ysAnimeV5VAE.safetensors
 f3694755, modelshoot style
 f37775c3, photo of Evang style
+f37f0b9f, 1girl
 f3a2ad84, rcnz_niji style
 f3b011a6, furry
 f3dae826, BRAV5_Realisianv50_PFv30
