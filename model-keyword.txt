@@ -549,6 +549,7 @@
 19f6cc8a, woman
 19f865cb, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 1a58ecf4, chaingirldark style
+1a594b86, 1girl|1boy
 1a78ec5a, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 1a7d3df5, masterpiece|best quality|anime|realistic|photorealisitc|exceptional|instagram|re-badprompt|nfixer|nfixernext
 1aaa25b0, none
@@ -574,6 +575,9 @@
 1bb681b7, KEMONO
 1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 1bd2e52a, 1girl|jiangye|helix angle|hair ornament|multicolored hair|purple hair|pink hair|pink pupils|purple eyebrows|earrings|pink background|white crop top|demon heart tail|arm  strap|student cardaround neck|purple and black short dress|handcuffs|thigh strap|bandaid on leg|torn single leg pantyhose|bandaged hands|One hand wrapped in a bandage|full body|long hair|
+1be68457, 1girl|1boy, osorubeshiAlphaXL_v04.safetensors
+1be68457, 1girl|anime|masterpiece, osorubeshiAlphaXL_v01.safetensors
+1be68457, 1girl|masterpiece|best quality, osorubeshiAlphaXL_v03.safetensors
 1c254752, vulcan
 1c348ac5, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 1c5da6ec, merry chrismas
@@ -2375,6 +2379,7 @@ ac231407, pepefrog
 ac25001a, fwatch style
 ac344962, yuuki rito|lala satalin deviluke|nana asta deviluke|momo velia deviluke|haruna sairenji|yuuki mikan|konjiki no yami|kotegawa yui|kurosaki meia|run elise jewelria
 ac423f79, K8D
+ac4b3d45, 1girl|1boy
 ac5d425b, SDArt
 ac5da50d, emaiti
 ac6c89d0, dublex
@@ -2587,7 +2592,8 @@ be7ddafc, classic disney style
 be82dca2, Altira|Altira style
 beb6bcfd, Evang
 beb87f9d, furry|girl
-becccd91, 1girl|1boy|female|male|comic
+becccd91, 1girl|1boy, osorubeshiAlphaXL_z.safetensors
+becccd91, 1girl|1boy|female|male|comic, osoruwest_v01.safetensors
 becdbc5d, Kavellion|Kavellion style
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
 bf64b437, BRAV5_RealisianV50
