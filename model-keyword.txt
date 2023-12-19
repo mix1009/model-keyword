@@ -1255,6 +1255,7 @@
 580b06dd, lamia|harpy|centaur|scylla|mermaid|arachne
 582e14a8, plump
 582e89f3, kylxn
+584f63ab, SEE APPENDIX|见附录
 585879fc, portrait+ style
 5859c49d, whtjs|kangsehwang|kimhongdo|sinyunbok|simsajeong|anjungsik|jangseungeop|heoryeon|gksrnr|tnanr|baengmyo|gureuk|molgol
 585e3828, nekoazuki|girls
@@ -1584,6 +1585,7 @@
 74d7d300, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 74e33b7a, masterpiece|best quality|furry|kemono
 74f4c61c, redshift style
+7505c058, Game Icon Institute
 751059ed, prfns
 75294b00, chaingirldark style
 752d657c, m_cyberware|style|mechanical parts
@@ -1653,6 +1655,7 @@
 79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style
 79c63bd9, Landscape design
 7a0fd151, BJ_Street-photo, anything_fp16.safetensors
+7a0fd151, Game Icon Institute, anything_fp16.safetensors
 7a0fd151, ang, anything_fp16.safetensors
 7a0fd151, anime, anything_fp16.safetensors
 7a0fd151, illustration, blessed2.vae.safetensors
@@ -2327,6 +2330,7 @@ a9cf1812, cozmikduzk1
 a9e3e060, ChromaV5
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 aa220ab4, Evang
+aa28f0e0, ukj person
 aa2b4089, modelshoot style
 aa366209, MechBattleTechClassicTR3025, battletechClassic_mechbattletechclassic.safetensors
 aa366209, TheOldShadowrunStyles, theOldShadowRunStyles_theoldshadowrunstyles.safetensors
@@ -3141,6 +3145,7 @@ ecd908cb, sks woman|(sks woman)
 ecf14450, male|female
 ecf98c5e, valorant style
 ed0b4125, anime style|illustration|oil painting|analog style|realistic|photorealistic
+ed65d07a, SEE APPENDIX|见附录
 ed87e89c, tchnclr style
 ed977a93, bambaa, bambaa_v10.ckpt
 ed977a93, dicuki, dinosRichstyle15_dicuki.ckpt
