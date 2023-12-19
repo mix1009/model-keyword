@@ -1922,6 +1922,7 @@
 9264dfbc, dal|nsfw
 928734f5, asian|aodai|suonxam
 92aab0fe, furry
+92b23a18, kemono|furry
 92c083af, redshift|nvinkpunk|lndskp
 92cf4ceb, nayeonnine
 92e4c246, sks person
@@ -2972,6 +2973,7 @@ de2f2560, shiny_skin, realshinymixV1_v10.safetensors
 de2f2560, shirtlift, jackie_v10.safetensors
 de2f2560, yorha2b, yorha2b_v20Animation.safetensors
 de2f2560, zephyr, zephyr_v10.safetensors
+de357355, zrpgstyle
 de41984b, no
 de430242, joseSabogal
 de948984, furry|kemono
