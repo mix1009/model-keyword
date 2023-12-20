@@ -122,6 +122,7 @@
 0886f57a, superhero
 088b509a, ieieie, 34343_v10.safetensors
 088b509a, naive, reza_v10.safetensors
+088bee0c, NA
 08ab6e66, m_wlop
 08d7a75d, anime
 08f7a22d, Papercut
@@ -579,9 +580,9 @@
 1bb681b7, KEMONO
 1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 1bd2e52a, 1girl|jiangye|helix angle|hair ornament|multicolored hair|purple hair|pink hair|pink pupils|purple eyebrows|earrings|pink background|white crop top|demon heart tail|arm  strap|student cardaround neck|purple and black short dress|handcuffs|thigh strap|bandaid on leg|torn single leg pantyhose|bandaged hands|One hand wrapped in a bandage|full body|long hair|
-1be68457, 1girl|1boy, osorubeshiAlphaXL_v04.safetensors
-1be68457, 1girl|anime|masterpiece, osorubeshiAlphaXL_v01.safetensors
-1be68457, 1girl|masterpiece|best quality, osorubeshiAlphaXL_v03.safetensors
+1be68457, 1girl|1boy, osorubeshiXL_v04.safetensors
+1be68457, 1girl|anime|masterpiece, osorubeshiXL_v01.safetensors
+1be68457, 1girl|masterpiece|best quality, osorubeshiXL_v03.safetensors
 1c254752, vulcan
 1c348ac5, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 1c5da6ec, merry chrismas
@@ -2601,7 +2602,7 @@ be7ddafc, classic disney style
 be82dca2, Altira|Altira style
 beb6bcfd, Evang
 beb87f9d, furry|girl
-becccd91, 1girl|1boy, osorubeshiAlphaXL_z.safetensors
+becccd91, 1girl|1boy, osorubeshiXL_z.safetensors
 becccd91, 1girl|1boy|female|male|comic, osoruwest_v01.safetensors
 becdbc5d, Kavellion|Kavellion style
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
