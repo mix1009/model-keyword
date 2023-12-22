@@ -2706,6 +2706,7 @@ c88e730a, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 c89caee5, 只因jinkesi
 c8b5ae05, 3d
 c8e3bfca, AnimeChan Style
+c90f9fe6, highres|raifu
 c91be480, Dloz|Dloz style
 c9462890, Archilab
 c951cc0e, sks person
@@ -3238,8 +3239,8 @@ f3196d59, carbon|duochrome|holographic
 f32626be, estilovintedois, vintedoisDiffusionV0_v01.ckpt
 f32626be, heixuan furry, kuroteroHeixuanFurry_v10.ckpt
 f341184d, msfluentui style
-f3653237, anime|anime girl|anime man|anime style, sdxlYamersAnimeUltra_ysAnimeV5.safetensors
-f3653237, anime|anime style, sdxlYamersAnimeUltra_ysAnimeV5VAE.safetensors
+f3653237, anime|anime girl|anime man|anime style, sdxlYamersAnime_ysAnimeV5.safetensors
+f3653237, anime|anime style, sdxlYamersAnime_ysAnimeV5VAE.safetensors
 f3694755, modelshoot style
 f37775c3, photo of Evang style
 f3a2ad84, rcnz_niji style
@@ -3295,6 +3296,7 @@ f76c4afc, duskspider
 f77fb4cb, ohwx|ske
 f781810b, by kyoani
 f7a03161, A perfect photo|A poorly lit photo|A perfect closeup photo
+f7fedd57, xl
 f8159da6, ftnadusk3
 f81f36e7, girl|woman
 f84589b2, Emma Watson, emmaWatson_v10.safetensors
@@ -3323,6 +3325,7 @@ f97ba63a, phse
 f9c02b32, 100memories
 f9d8ee86, modelshoot style|swpunk|synthwave|paint splatters
 fa10a43f, kratos person
+fa1b6601, Beautiful detailed portrait
 fa3a1716, hrgiger
 fa5e4f28, (tokki girl)
 fa735519, <lora:conceptscene_b2:1>
