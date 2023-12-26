@@ -1432,7 +1432,8 @@
 655f2458, niji style, sdvn7Nijistylexl_v1.safetensors
 655f2458, nijistyle, sdvn7Nijistylexl_demo.safetensors
 655f2458, yourname, sdvn8Artxl_yourname.safetensors
-65961cf8, FURRY|FURRY FEMALE
+65961cf8, FURRY|FURRY FEMALE, Liquid0111vae.safetensors
+65961cf8, cartoon, Liquid0111vae.safetensors
 65a9683a, chibi
 65bb0985, SYAHNK
 65bbd026, pitchmeetgeorge
@@ -1932,6 +1933,7 @@
 915383b6, AbstrAnm spritesheet
 916881f0, kazuma_kaneko|knkz_deface
 916ea38c, pixelsprite|16bitscene
+918b8228, cartoon
 918c71de, furry girl
 91cf8f7b, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 91d18805, 
@@ -3277,7 +3279,6 @@ f47ae1fa, sks woman
 f4a70244, female|girl|woman|man|boy
 f4a78dc5, SDArt|ohwx|aten|fcu|cees|chor|cmdr|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|bsp|psst|sqm|irgc|guyz|hela|iru|lexa|dany|lpg|mede|mib|aroa|avel|vaw|zaki|nigh|niu|guin|urd|vini|pz|crit|siam|spon|taku|ufos|phol|uzzi|vaca|dds|yel|pte|oxi|yte
 f4a9a8a6, 3d toon style|3d style, sdxl_vae.safetensors
-f4a9a8a6, Cartoon|Cartoon Style, sdxl_vae.safetensors
 f4a9a8a6, anime, sdxl_vae.safetensors
 f4a9a8a6, art|japanese art, sdxl_vae.safetensors
 f4a9a8a6, greifer, sdxl_vae.safetensors
