@@ -189,6 +189,7 @@
 0c4c983e, realistic
 0c4ca61b, furry|anthropomorphic
 0c702268, moametal person
+0c878c32, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|female|male|girl|design|base
 0c91adf8, chinazhengzhou
 0c93a576, name|oumeifeng style|redshift style
 0cdb758d, tea picker
@@ -497,6 +498,8 @@
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
 14112628, anime|cartoon|anime style|2d
 142c3c11, cinematic style|photographic style|analog film|low-angle|dark colors
+1437ae07, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|background|male|cinematic, albedobaseXL_v01.safetensors
+1437ae07, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|male|cinematic, albedobaseXL_v02.safetensors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 14d36354, duskz1
 14e1ef5d, dreamlikeart, dreamlikeDiffusion10_10.ckpt
@@ -867,6 +870,7 @@
 32b08cff, gotou hitori|inoue takina|kita ikuyo|kubo nagisa|nishikigi chisato|sabine|sendou erika|shiina mahiru|yamano mitsuha|shuka high school uniform|lycoris uniform
 32ccf42a, JangYouSun
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
+33020d4f, sidelighting|film grain|subsurface scattering translucency|cinematic filmic cg vfx bloom postproduction|40mm ultradetailed skin pores|shiny skin
 3303e72d, milf
 3317d761, solo|blurry|depth_of_field|blue sky and clouds
 3323215b, 1girl|short hair|long hair|very long hair
@@ -925,6 +929,7 @@
 376c5b7b, flowerman2, flowerManSD15lines_v10Refiner.safetensors
 37b1ec55, t, animeLineartMangaLike_v30MangaLike.safetensors
 37b1ec55, trtsts, cd_v10.safetensors
+37c58221, guttojugg2
 37c9e311, Jessewatters Person
 37dd5eba, fking_scifi
 37deca87, dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories|startling stories|sd-pulp
@@ -1779,6 +1784,7 @@
 823525d4, pixel
 82402518, balacbk
 82780037, tpkify
+82795246, Abcessive
 82978554, anidzk2
 82b0e27e, A perfect photo|A poorly lit photo|A perfect closeup photo
 82cb7b65, germy
@@ -2187,6 +2193,7 @@
 9d7d8155, food_crit
 9d9d6f38, .bsp
 9d9ea029, fantadsk2
+9da0f0e6, SRS|RRS|MRS|FRS|RARS|HRS|BRS|LRS|NJRS|ROBOTANIMESTYLE|ROBOTARTSTYLE|MECHA-BACK-UNIT|MECHA-HUGE-ARMS|MECHA-QUAD-LEGS|MECHA-TANK-LEGS|MECHA-WINGS
 9da87c34, none
 9db2aac0, eroticposing|cumshot|cumonbreasts|cumfacial|whiteman|blackman|whitecock|blackcock|hanging testicles|man's cock|one man|nakedoldman|femalemasturbation
 9db8946b, A_banana
@@ -2221,6 +2228,7 @@
 9f9bf543, anime|comic|manga|girl
 9fbd5b0a, furry|kemono
 9fc108a7, Evang
+9fc9d4fb, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base
 9fd02bb8, photo, colorfulxl_v10.safetensors
 9fd02bb8, wgz style, wlopSTYLEXL_v2.safetensors
 9fee5b60, maddiesmith
@@ -2417,7 +2425,8 @@ ab377a68, FlonixApterus
 ab38b8e3, ouka_studio
 ab48e25c, chibi
 ab4941a7, fantasticmrfox
-ab5ea887, photo|2d|3d|anime|game|photorealistic|cinematic|design|contemporary|art
+ab5ea887, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base, albedobaseXL_v13.safetensors
+ab5ea887, photo|2d|3d|anime|game|photorealistic|cinematic|design|contemporary|art, albedobaseXLPre_v15pre.safetensors
 ab770255, Anime
 ab9d9647, sks man
 abaf5445, 2d videogame minimap
@@ -2690,6 +2699,7 @@ c236c942, Edsheeran Person
 c23c9f4d, 1girl
 c2545be4, science fiction|D&D character|fantasy|masterpiece|scifi fantasy art|photoreal|intricate
 c25693d5, best quality
+c25a8bf6, L1X
 c2bd4257, emaiti
 c2cd58a3, Evang Style, beejaydel_bjd20000MoreDetail.safetensors
 c2cd58a3, Evang style, chibi_2024ADD.safetensors
