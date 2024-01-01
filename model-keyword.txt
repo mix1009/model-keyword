@@ -436,6 +436,7 @@
 10783134, furry
 108830f2, 1 girl
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
+109f5177, mature woman
 10a66fa5, romcom style
 10a97182, julietmills
 10c6aa67, studio_ghibli_anime_style style
@@ -688,6 +689,7 @@
 223531c6, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, luna, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, masterpiece, vae-ft-mse-840000-ema-pruned.ckpt
+223c514b, Evang style
 2258c119, CNDigitalArt Style
 2275f2cf, 90s retro anime style|xx year anime style
 228b3ab5, evang
@@ -701,7 +703,8 @@
 2375d404, P4U14
 237ec903, Evang
 2386519a, 树|印象派|抽象
-23e4b09e, Evang style
+23e4b09e, Evang Style, maxGrecki15500_15500ADD.safetensors
+23e4b09e, Evang style, cartoon_10000ADD.safetensors
 23f104f6, Evang
 23fb9b9e, 1girl|moyou
 2402f7e7, lamia
@@ -765,6 +768,7 @@
 28c385a0, Bloodborne Style
 28d20569, sks woman
 28e99b90, See Appendix|见附录部分
+29071f31, Happy new year
 291b67b8, maxwell the cat
 291e7dc8, monochrome
 29323d76, Ligne Claire|PC-98
@@ -1343,6 +1347,7 @@
 5c7e6e88, 80sFashionRobot, 80sFashionRobot_v1.ckpt
 5c7e6e88, 80sfashionrobot, 80sfashionrobot_v10.ckpt
 5c98e895, 1boy|1girl|futanari|sex|penis|pussy, vae-ft-mse-840000-ema-pruned_fp16.safetensors
+5c98e895, Happy new year, vae-ft-mse-840000-ema-pruned_fp16.safetensors
 5c98e895, monster girls|centaur|lamia|arachne|scylla|etc..., vae-ft-mse-840000-ema-pruned_fp16.safetensors
 5c9b51d3, dreamworks artstyle
 5cc1bba0, style of ohwx
