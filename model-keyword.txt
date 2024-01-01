@@ -78,7 +78,8 @@
 02f311af, resha, lyrielWithResha_v10.ckpt
 02faa048, sphx style
 030933d0, l4lisa
-031b21f6, aki|aoki|aoi|isao|nao|nobu|shou
+031b21f6, Niji|Anime, XL_VAE_F1.safetensors
+031b21f6, aki|aoki|aoi|isao|nao|nobu|shou, XL_VAE_E7.safetensors
 0323e306, Bean_Lab|Pure Beauty|1 girl|best quality
 036d2bcf, furry|kemono
 03869a26, anime|realism|photo|game|videogame|woman|human
