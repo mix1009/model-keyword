@@ -863,6 +863,7 @@
 318a302e, arcane style
 31d96181, dreamlikeart
 31db8fec, daizky1
+31e8084e, Evang style
 31e82ff7, sketch artstyle
 31f96e8b, duskametrik
 3219d551, Comic Style|Illustration|Line Art|Comic Poster|Realistic
@@ -1758,6 +1759,7 @@
 8023d5ab, 1girl|intricate detail|milf|reference sheet|concept character|Random hairstyle:1.3|character design sheet|assorted color hair
 80391624, analog style|chromav5|nvinkpunk
 805a02a8, Evang style, arty2023_arty2023MoreDetail.safetensors
+805a02a8, evang style, arty2023_arty2023ADD.safetensors
 805a02a8, image in ukj style, arty2023_safetenser.safetensors
 805fdec8, furry|kemono
 80662a6e, hybrid
@@ -3214,6 +3216,7 @@ ec2cc381, Interior design|architectural design|Building Blueprint|Blueprint. hom
 ec3b35a3, cult of cthulhu|giger|post-apocalypse|biomechanicals|terror|horror|Cthulhu|creepy|dread
 ec664923, undercucho
 ec8cd4c8, BalloonArt
+ec9e363a, PERSON
 ec9f8c2e, CharacterChan Style
 ecc82382, RAW photo
 eccb3dc0, 1girl|moyou
