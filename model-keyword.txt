@@ -595,6 +595,7 @@
 1b6effda, general
 1b7ee812, wlop|nixeu
 1b80316b, hcmv
+1ba6c524, uniform|school girl
 1bb681b7, KEMONO
 1bcaffb7, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 1bd2e52a, 1girl|jiangye|helix angle|hair ornament|multicolored hair|purple hair|pink hair|pink pupils|purple eyebrows|earrings|pink background|white crop top|demon heart tail|arm  strap|student cardaround neck|purple and black short dress|handcuffs|thigh strap|bandaid on leg|torn single leg pantyhose|bandaged hands|One hand wrapped in a bandage|full body|long hair|
@@ -1237,6 +1238,7 @@
 535673be, pixarstyle|fantasy|rpg
 535bde27, anime girl
 536a8e48, mdjrny-v4 style|dreamlikeart
+537fce5a, Woman|Portrait
 5386e8fb, demoura artstyle
 538d7157, pcrc style
 53d6b1c7, tattoo|tattoos|tattooed|tattooed face|tattooed body|BigDarkTattoos
@@ -1513,6 +1515,7 @@
 69d2ae69, sks woman
 69e00770, detailed_skin|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin
 69ff370e, dreamlikeart
+6a0d35f6, figma
 6a125b7f, pow style|sometimes8916|526christian2526|akumetsu9719982|andretheapache9587|bitspirit31653|bwm_nubby6416|crazykazoo2431|eppinette-chi6220|espasmo9486|flowwolf4607|guizmus7459|h20_dancing8979|horvallis7915|jeremy6194|jrw19948464|junglerally3955|max headroom6734|meezy1963|millennium_gun6377|munkyfoot7944|nerfgun37508|nicogj2781|noofthebeast8209|omnia2931|owleye1290|phaff1970|piscabo8649|ras6722|residentchiefnz6989|rhapsody8685|satyam_ssj107387|tazi2574|trash--panda6213|valanya6869|vcm077281|vil0404|wpatzz5836|xthisisbotoxx8765
 6a601a24, guttovendo1
 6aa211f0, evang
@@ -2504,6 +2507,7 @@ b109bf50, diffusable
 b11200d1, samanthafox
 b125a56f, See Version Notes
 b13930b7, nvjobmagiccircle
+b145295c, christmas|christmassweater||<lora:world_christmassweater-20:0.8>
 b152939a, depth of field
 b1700e19, sexy
 b18cb707, pretty girl
