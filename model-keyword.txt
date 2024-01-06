@@ -477,6 +477,7 @@
 13a6777c, modelshoot style|nousr robot
 13c19cad, female|male
 13c3e49f, collage style
+13dcb8cc, synthwave punk style|vaporwave style|synthwave|vaporwave colors|retro photography|neon lighting|paint splash|nvinkpunk
 13e74cc9, speedpainting
 1400e684, Airlock, djzAirlockV21768V21512_v15.safetensors
 1400e684, Ascendents, djzAscendentsV21V15_v15.safetensors
@@ -537,6 +538,7 @@
 170bf445, pixel art
 1756bc0e, duskypie|kairowez
 176566bc, Sweaty
+1778571e, + +|sparkling eyes|Starry eyes
 1789d7b1, luna
 17a8d3c3, kasukanrasty
 17b7e1de, romerorzeternos
@@ -721,6 +723,7 @@
 246279c8, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 247a01fb, breasts|gigantic breasts:1.6|hyper breasts|massive breasts|oversized breasts|breast bigger then body|wide hips|, kl-f8-anime2.safetensors
 247a01fb, pixel, kl-f8-anime2.safetensors
+24995d7a, 3d|fluffy
 24a516fb, tpmpanlab person
 24c2e368, Evang
 24e6e085, furry
@@ -858,6 +861,7 @@
 30833d87, luffy man|zoro man|nami woman|sanji man|nico woman|chopper boy|franky man|usopp man|brook man|jimbei man
 3087797c, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
 30a2dcbc, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
+30c2b7ca, chibi
 30e45754, cityscape
 30ee044a, test
 30fbd8bc, sks person
@@ -1116,6 +1120,7 @@
 474774e5, sks man|sks woman|neundies style
 475eae91, vintage polaroid analog portrait photography of
 4760bfa2, theoldshadowrunstyles
+476e1eb6, narrow_waist|curvy
 47745337, MCwrld
 47898d97, Smooth skin
 4789dff9, chibi|cute
@@ -1515,7 +1520,7 @@
 69d2ae69, sks woman
 69e00770, detailed_skin|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin
 69ff370e, dreamlikeart
-6a0d35f6, figma
+6a0d35f6, figma|pvc
 6a125b7f, pow style|sometimes8916|526christian2526|akumetsu9719982|andretheapache9587|bitspirit31653|bwm_nubby6416|crazykazoo2431|eppinette-chi6220|espasmo9486|flowwolf4607|guizmus7459|h20_dancing8979|horvallis7915|jeremy6194|jrw19948464|junglerally3955|max headroom6734|meezy1963|millennium_gun6377|munkyfoot7944|nerfgun37508|nicogj2781|noofthebeast8209|omnia2931|owleye1290|phaff1970|piscabo8649|ras6722|residentchiefnz6989|rhapsody8685|satyam_ssj107387|tazi2574|trash--panda6213|valanya6869|vcm077281|vil0404|wpatzz5836|xthisisbotoxx8765
 6a601a24, guttovendo1
 6aa211f0, evang
@@ -1580,6 +1585,7 @@
 6eff939c, sks person
 6f4ab0a0, duskgem|jem and the holograms
 6f5fc35d, 3d render of|3d cartoon of
+6f7f951d, pvc
 6fa714ba, janadefi
 6fb99464, depth of field|film, unrealityV30_v20Asian.safetensors
 6fb99464, depth of field|film|evening, sexSexyEasternExperienceV3_sexV10.safetensors
@@ -1640,6 +1646,7 @@
 751059ed, prfns
 75294b00, chaingirldark style
 752d657c, m_cyberware|style|mechanical parts
+752d6971, highres|raifu
 753c101f, 2d dnd battlemap
 75555781, Batfleck
 755bd415, elle fanning|3113fann1ng3
@@ -1993,8 +2000,10 @@
 934d97fb, cartoon|illustration
 93616893, Evang
 936c64e3, evang
+93a727e8, foxgirl
 93e73bf3, sophialoren
 93f72c18, sks woman
+9400c942, SciStyle
 9422abbc, manyakis art style|rabbit girl
 942395af, modelshoot style|swpunk|synthwave|paint splatters
 942775e7, by xenotrip|monochrome|greyscale|blood|cable|science fiction|cyberpunk|chromatic aberration
@@ -2581,6 +2590,7 @@ b5564717, dal
 b591bf20, masterpiece|best quality
 b59e864c, portrait|cinematic|photorealistic|photography
 b5abbb71, scene view
+b5b85ff6, synthwave punk style|vaporwave style|synthwave|vaporwave colors|retro photography|neon lighting|paint splash|nvinkpunk
 b5c0b653, modelshoot style
 b5e156ba, vskeei1
 b5f6fe6c, pepe_frog
@@ -2991,6 +3001,7 @@ dab15164, interiors, interiorDesign_v1.ckpt
 dab15164, microworld, microworldsRemake_version2.ckpt
 dab15164, wawavawa, model1_ver1.ckpt
 dab3bb51, marblesh|marblee|marblee style
+dab88696, narrow_waist|curvy
 dad06477, Realistic, matrixStellar_v11VAE.safetensors
 dad06477, female|male|landscapes|realistic|man|woman|SCIFI, matrixStellar_v11VAE.safetensors
 daecbd84, FleischerStyle
@@ -3024,6 +3035,7 @@ ddc0f9e2, 1girl|moyou|
 ddc6edf2, mdjrny-v4 style
 dde11c1e, smitsv
 ddee9854, strories|h&r
+ddf1d6d8, muscular|large muscles|bara|bodybuilder|brutalmass
 de2f2560, 6girls+, theGoldenMirage_v11.safetensors
 de2f2560, Asian|Man|Female|Cute, asianMix_alpha30.safetensors
 de2f2560, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION, SD2Berryartify_sd21V02.safetensors
@@ -3232,6 +3244,7 @@ ecd908cb, sks woman|(sks woman)
 ecf14450, male|female
 ecf98c5e, valorant style
 ed0b4125, anime style|illustration|oil painting|analog style|realistic|photorealistic
+ed296396, goldentrig|GTv2
 ed65d07a, SEE APPENDIX|见附录
 ed87e89c, tchnclr style
 ed977a93, bambaa, bambaa_v10.ckpt
@@ -3413,6 +3426,7 @@ fa1b6601, Beautiful detailed portrait
 fa3a1716, hrgiger
 fa5e4f28, (tokki girl)
 fa735519, <lora:conceptscene_b2:1>
+fa765db4, Anime Style|Cartoon Style
 faa16408, Analog Style|Photorealistic|Realistic|Mature Adult|Fantasy Art|Illustration|Watercolor|Concept Art|Oil Painting|Surrealism|Brush Strokes|Pointillism|Hyperrealistic|Perfect Shading|Masterpiece|Subsurface Scattering|Perfect Lighting|Volumetric Lighting
 fab2577c, modelshoot style|analog style|mdjrny-v4 style
 fab53a35, rcnz_niji style
