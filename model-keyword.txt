@@ -1692,6 +1692,7 @@
 7775c5b3, ky_d
 7791b0e6, monx style
 77c6d270, by narae
+77d2c8ef, Colorful|Neon|Steampunk|sci-fi
 7811fc5f, humanoid robot
 781625dc, Evang
 7824a38b, aerialstyle
@@ -1942,6 +1943,7 @@
 8ec89baa, massakasma
 8ec9d746, amongus man
 8ecd9616, makima_chainsaw_man
+8ed66211, neon|sci-fi|colorful
 8ef1792d, indoor
 8ef9e10a, male|female
 8f0bf53d, battle_map
