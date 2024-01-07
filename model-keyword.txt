@@ -1610,6 +1610,7 @@
 717ae1a9, guttonerdvision5, guttoNerdVision5_gnvV50.ckpt
 7185212f, evang
 718c368e, mikeidsk1
+71a00f8d, as cartoon character
 71b0b5fb, tyznedsk1
 71c4ccc2, 见附录A|See Appendix A
 71cb912e, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
@@ -2951,7 +2952,6 @@ d634b8cb, kvn, myModelKevin_v10.ckpt
 d634b8cb, paul, sameer_v1.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
-d636e597, realistic|photography|photo|raw photo|photo realistic, sdxl_vae.safetensors
 d636e597, ziov, sdxl_vae.safetensors
 d659f794, rcnz_niji style
 d65c923a, 1girl
@@ -3185,6 +3185,7 @@ e7300f3d, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 e742f6fb, dal
 e767908b, Game illustration|Chinese costume
 e79c8e1c, jckmn person
+e7fcf8e2, realistic|raw photo|photo|photography|photo realistic
 e80f12bb, Evang, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e80f12bb, real|natural, ACSIDEdreamlookai_openjourney-v4_lora_step_8000_db_58122002_ckp_27ed8caa.safetensors
 e83d3aa7, Ligne claire
@@ -3269,6 +3270,7 @@ edda855e, none
 ede203fa, Darth Talon|Black Tattoos|Yellow Eyes
 edefb3ae, mugglelight
 edf5c25b, sks woman
+ee14ea21, Pretty Lady
 ee30c7db, Goku
 ee5b91da, ligne claire
 ee5e8d13, Sheeroawan
