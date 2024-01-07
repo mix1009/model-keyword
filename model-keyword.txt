@@ -2233,6 +2233,7 @@
 9e2150be, artistic portrait|beautiful detailed face|looking at the viewer|digital art style|oil painting style|colorful|dynamic lighting|vibrant light|shadow detailed|highly detailed|anime style|speed art|brush strokes|beautiful and aesthetic|masterpiece|ultra wide angle|surrealist|abstract artistic|gradient background
 9e2429cf, elxchavo
 9e2a8f19, girl
+9e3883f6, negative prompt only if necessary|see prompts in loras
 9e6f914a, armpit
 9e78c9e2, T4nn1aSD
 9e828d82, lqt
