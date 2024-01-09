@@ -1585,7 +1585,7 @@
 6de8af70, figma|pvc
 6e0a9783, dal
 6e199947, rfktrstyle
-6e9cc5a2, Realistic eye and face details, gudiyapiyaTest_v10.safetensors
+6e9cc5a2, Realistic eye and face details, dbxcl_GudiyapiyaBeta.safetensors
 6e9cc5a2, stubble|fat|stylebear|style, bearstubblePortrait_v10.safetensors
 6ea179f4, mobian or sonic character name
 6eaf3198, azhiichigo style，big eyes|thick lines|cute|
@@ -1619,6 +1619,7 @@
 7159aa58, shinyunbok
 717ae1a9, guttonerdjul23, guttoNerdJulho23_v10.ckpt
 717ae1a9, guttonerdvision5, guttoNerdVision5_gnvV50.ckpt
+71830e27, kate woman
 7185212f, evang
 718c368e, mikeidsk1
 71a00f8d, as cartoon character
@@ -1996,6 +1997,7 @@
 916ea38c, pixelsprite|16bitscene
 918b8228, cartoon
 918c71de, furry girl
+91b85e84, lowbrow
 91cf8f7b, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 91d18805, 
 91ec9ea6, dwspop style|dwspop space|dwspop forest|dwspop landscape
