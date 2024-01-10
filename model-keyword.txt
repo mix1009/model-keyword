@@ -67,6 +67,7 @@
 02dc71ee, hunsha_girl, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, illustration, ClearVAE_V2.3_fp16.safetensors
 02f311af, David, modelguyyy_v10.ckpt
+02f311af, Joh1, collageArt_v10.ckpt
 02f311af, Xenon, xenon_alpha001.ckpt
 02f311af, bereju2, bereju_v11.ckpt
 02f311af, gner1, guttoNerdEpicRealism_v10.ckpt
@@ -765,6 +766,7 @@
 26c85a2d, moba game icon, mobaGameEquipment_v10.safetensors
 26c85a2d, q skill icon, qSkillIcon_v10.safetensors
 26c85a2d, q style, qStyle_v10.safetensors
+27455e1d, Viz
 274d0bb6, trending on artstation|8k|ultra hd|1woman
 276edfa7, evang
 27a594ef, GIRL 3D SUBJECT RENDER PHOTOREALISTIC FEMALE RETRO ANATOMICAL ART INTRICATE ACCURATE WOMAN ILLUSTRATION CARS CARTOON CINEMATIC FANTASY PHOTOGRAPHY REALISTIC
@@ -836,6 +838,7 @@
 2dceb6e8, fgsdgdfgh dr
 2dd53706, SDArt|agne|ohwx|bnp|atum|aved|bsf|aten|fcu|cees|chor|cna|nrf|elio|gani|pfa|kprc|kuro|asot|elis|bsp|psst|sqm|irgc|byes|dany|lpg|miro|avel|vaw|zaki|guin|pz|reys|crit|doa|suma|taku|ufos|phol|vedi|dds|weho|pte|oxi|yuck|zas
 2dd7cc12, by b-ginga
+2e4cd82a, looking at the viewer|beautiful detailed face|beautiful detailed eyes|beautiful long hairstyle|vibrant light|shadow detailed|highly detailed|cinematic|film grain|photo|ultrarealistic|HDR|beautiful and aesthetic|masterpiece|Fujifilm XT3|ultra wide angle
 2e6bbced, vectorartz
 2e719f2a, CHV3CWrestler|CHV3CReptile|CHV3CAnimal|CHV3CNinja|CHV3CAnthro|CHV3CDino|CHV3CFoodPorn|CHV3CDeepSea|CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDiner|CHV3SGarden|CHV3SFair|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld
 2ea457e8, evang
@@ -2049,6 +2052,7 @@
 95f8d0a7, Gghjjh, good_v10.safetensors
 95f8d0a7, armpit, module1_train1.safetensors
 95f8d0a7, graffiti illustrations|chilloutmix, graffitiArt_httpsCivitaiComModels.safetensors
+95f8d0a7, gril, chilloutmix_v10.safetensors
 95f8d0a7, ol|都市|性感, chilloutmix_NiPrunedFp32Fix.safetensors
 95f8d0a7, portrait, 3d_magmixV10.safetensors
 95f8d0a7, マスターチーフ, chilloutmix_NiPrunedFp32Fix.safetensors
@@ -3030,6 +3034,7 @@ db0d4f46, fluffy furry beastman
 db10a0ee, sks woman
 db1c462d, luna
 db470e5e, I don't know.
+db4c9d4d, Kath1
 db4f8fe5, chilloutWorld|chilloutWorld_v1
 db5960c1, OOKZA Vampire Style
 db63da75, dal|photo
