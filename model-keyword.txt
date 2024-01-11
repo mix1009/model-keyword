@@ -898,6 +898,7 @@
 3317d761, solo|blurry|depth_of_field|blue sky and clouds
 3323215b, 1girl|short hair|long hair|very long hair
 3323a6ed, Photo Realistic
+3323f202, NSFW
 33290d4a, dgspitzer|painting|arts|landscape|outline|sketch|whiteshape|anime, dgspitzerArt_Diffusion.safetensors
 33290d4a, rfktrstyle, rfktrsDarkdream_v16.safetensors
 33290d4a, rfktr|rfktrstyle, rfktrsDarkdream_v1.safetensors
@@ -1259,6 +1260,7 @@
 537fce5a, Woman|Portrait
 5386e8fb, demoura artstyle
 538d7157, pcrc style
+53bf0958, futanari|penis
 53d6b1c7, tattoo|tattoos|tattooed|tattooed face|tattooed body|BigDarkTattoos
 53da5ded, nachoneko
 53e3a763, 1girl
