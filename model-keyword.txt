@@ -838,7 +838,7 @@
 2dceb6e8, fgsdgdfgh dr
 2dd53706, SDArt|agne|ohwx|bnp|atum|aved|bsf|aten|fcu|cees|chor|cna|nrf|elio|gani|pfa|kprc|kuro|asot|elis|bsp|psst|sqm|irgc|byes|dany|lpg|miro|avel|vaw|zaki|guin|pz|reys|crit|doa|suma|taku|ufos|phol|vedi|dds|weho|pte|oxi|yuck|zas
 2dd7cc12, by b-ginga
-2e4cd82a, looking at the viewer|beautiful detailed face|beautiful detailed eyes|beautiful long hairstyle|vibrant light|shadow detailed|highly detailed|cinematic|film grain|photo|ultrarealistic|HDR|beautiful and aesthetic|masterpiece|Fujifilm XT3|ultra wide angle
+2e4cd82a, looking at the viewer|beautiful detailed face|beautiful detailed eyes|beautiful long hairstyle|vibrant light|shadow detailed|highly detailed|cinematic|film grain|photo|ultrarealistic|HDR|beautiful and aesthetic|masterpiece|ultra wide angle|fujifilm|creative
 2e6bbced, vectorartz
 2e719f2a, CHV3CWrestler|CHV3CReptile|CHV3CAnimal|CHV3CNinja|CHV3CAnthro|CHV3CDino|CHV3CFoodPorn|CHV3CDeepSea|CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDiner|CHV3SGarden|CHV3SFair|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld
 2ea457e8, evang
@@ -1063,6 +1063,7 @@
 41fef4bd, nousr robot
 4207b96d, Nothing
 420cb71f, datou|white background|solo|upper body:1.5|
+42129205, N/A
 421384ab, shinyunbok painting
 42279ad8, claymation|80's anime style
 42518d2b, geometrix
@@ -1529,6 +1530,7 @@
 6965c077, iayuso person
 697c8786, orna santa, ornamentalSanta_anythingv30Fp1603.ckpt
 697c8786, orna santa|white hair|golden eyes|beautiful eyes|detail|flower meadow|cumulonimbus clouds|lighting|detailed sky|garden|modern disney style, ornamentalSanta_mergedVersionAnythingv3.ckpt
+698424e4, nsfw
 69d2ae69, sks woman
 69e00770, detailed_skin|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin
 69ff370e, dreamlikeart
