@@ -179,6 +179,7 @@
 0b2cf1fe, evang
 0b5cc604, fantasy|fantasy art|80's fantasy art|90's fantasy art|Retro|Realistic|Photorealistic|Watercolor|Oil Painting|Science Fiction|Scifi Fantasy Art|Scifi|D&D Character|Character Design|Character Concept|Fantasy Poster|Analog|Analog Style|Volumetric Lighting|Subsurface Scattering|Photoreal|Perfect Body|Perfect Legs|Masterpiece|Intricate|Detailed|Hyperrealistic|Mature Adult|NSFW
 0b65606f, sks woman
+0b6c9012, 
 0b84672b, gtechstyle|art by gtechstyle|in the style of getchstyle
 0b84ef8c, analog style|modelshoot style|nsfw|nudity|erotic|cyborgdiffusion
 0b910e4b, duskametrik, isometricDreams_1.safetensors
@@ -594,6 +595,7 @@
 1b06a93e, suren|suren1, Amateur_no1.safetensors
 1b08178f, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
 1b0f1051, lqo_adrn
+1b1c27db, girl|sexy|woman
 1b30cc76, eva123xyzmendes
 1b44e9d1, 1girl|moyou
 1b51225c, ClaymationXmas, claymationXmas_sd2.ckpt
@@ -1672,7 +1674,8 @@
 75294b00, chaingirldark style
 7529fe1e, <s0><s1>
 752d657c, m_cyberware|style|mechanical parts
-752d6971, highres|raifu
+752d6971, highres|booru|raifu, sotemix_v30.safetensors
+752d6971, highres|raifu, sotemix_v22.safetensors
 753c101f, 2d dnd battlemap
 75555781, Batfleck
 755bd415, elle fanning|3113fann1ng3
@@ -1860,6 +1863,7 @@
 8495185b, girl
 84ec5fea, subaru|1boy
 84f6b9a2, whatif style
+8516254c, girl|woman|sexy
 853e5ff4, wvebg1
 859342ff, MMN|MN|cho girls
 85b77ff9, samdoesarts style
@@ -2757,6 +2761,7 @@ c181b9bd, kemono|nj5furry
 c1a72459, girl
 c203ddb4, sam yang
 c206be84, azhiichigo style，big eyes|thick lines，cute
+c2308a73, CameramanPromedio1
 c230a4e3, AK-47-Asiimov|AK-47-Gold-Arabesque|AK-47-Hydroponic|AK-47-Neon-Rider|AK-47-Vulcan|AK-47-X-Ray
 c235bb83, K8D
 c236c942, Edsheeran Person
