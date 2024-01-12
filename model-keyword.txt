@@ -84,6 +84,7 @@
 031b21f6, Niji|Anime, XL_VAE_F1.safetensors
 031b21f6, aki|aoki|aoi|isao|nao|nobu|shou, XL_VAE_E7.safetensors
 0323e306, Bean_Lab|Pure Beauty|1 girl|best quality
+0341fc9b, sexy
 036d2bcf, furry|kemono
 03869a26, anime|realism|photo|game|videogame|woman|human
 03f434be, MTG card art
@@ -537,6 +538,7 @@
 1604613a, muscular
 16552af2, sks woman
 168f95ca, asim style
+16c2e9fc, longziyan
 16d2a02c, dreamlikeart|samdoesart|kuvshinov
 16d77205, elden ring style
 16e33692, modelshoot style
@@ -1099,6 +1101,7 @@
 445461df, fking_scifi_v2
 446ec050, 付志豪
 447982f4, fantasy|fantasy art|80's fantasy art|90's fantasy art|Retro|Realistic|Photorealistic|Watercolor|Oil Painting|Science Fiction|Scifi Fantasy Art|Scifi|D&D Character|Character Design|Character Concept|Fantasy Poster|Analog|Analog Style|Volumetric Lighting|Subsurface Scattering|Photoreal|Perfect Body|Perfect Legs|Masterpiece|Intricate|Detailed|Hyperrealistic|Mature Adult|NSFW
+448bbc26, alraune|arachne|centaur|cyclops|harpy|lamia|mermaid|mothgirl|satyr|scylla|slimegirl
 44bbf751, realistic cartoon|artwork|masterpiece|detailed
 44bf0551, booru tags
 44c43db2, no
@@ -1654,6 +1657,7 @@
 73df0f6b, no trigger word required
 73ecef32, edgeofthetoonin3d
 741eefee, fantassified icon
+74284d1c, futanari|erection|flaccid|puffy nipples
 744098c7, my_dress|1girl|long_hair|makeup|solo|standing
 7441b04e, Stained Glass||SGFS|JGBA|SGFSJGBA
 744ea8e3, dal
@@ -3037,7 +3041,9 @@ dab15164, interiors, interiorDesign_v1.ckpt
 dab15164, microworld, microworldsRemake_version2.ckpt
 dab15164, wawavawa, model1_ver1.ckpt
 dab3bb51, marblesh|marblee|marblee style
-dab88696, narrow_waist|curvy
+dab88696, futanari|erection|flaccid|puffy nipples, kl-f8-anime2.safetensors
+dab88696, futanari|erection|flaccid|testicles, kl-f8-anime2.safetensors
+dab88696, narrow_waist|curvy, kl-f8-anime2.safetensors
 dad06477, Realistic, matrixStellar_v11VAE.safetensors
 dad06477, female|male|landscapes|realistic|man|woman|SCIFI, matrixStellar_v11VAE.safetensors
 daecbd84, FleischerStyle
