@@ -72,6 +72,7 @@
 02f311af, Joh1, joh1_v10.ckpt
 02f311af, Xenon, xenon_alpha001.ckpt
 02f311af, bereju2, bereju_v11.ckpt
+02f311af, carla, carla_v10.ckpt
 02f311af, gner1, guttoNerdEpicRealism_v10.ckpt
 02f311af, jsklr, jesseKlaverGroenLinks_v1.ckpt
 02f311af, kylxn, akalinLinky_kylxn.ckpt
@@ -712,6 +713,7 @@
 228b3ab5, evang
 22a55888, insertNameHere
 22ca4aaa, guigubahuang|1girl|chinese style
+231d588a, photo of benzaki women
 23234436, furry
 2323d67c, SLE|mksks style|detailed background
 23245ceb, realistic|realism|photo
@@ -989,6 +991,7 @@
 390c1eb3, dunhuang|dunhuang_face|dunhuang_background
 390d2cdf, FluidArt
 39318762, realistic|overall
+394106a3, chibi
 396450f6, lomo style
 399391b8, sphax style
 39c38163, itojunji style
@@ -1150,7 +1153,7 @@
 47a34de9, sticker|vector-art
 47b2d7e7, chinese inn, SDXLChineseInn_v10.safetensors
 47b2d7e7, modern villa, SDXLModernVillaV10_v10.safetensors
-47b2d7e7, pixel art, SDXLPixelArtBeta_v10.safetensors
+47b2d7e7, pixel art, SDXLPixelStorm_v10.safetensors
 47b2d7e7, shs, animeblendxl_v10.safetensors
 47b655b8, 1girl
 47bcfb66, goldenglass
@@ -1750,6 +1753,7 @@
 7a0fd151, Game Icon Institute, anything_fp16.safetensors
 7a0fd151, ang, anything_fp16.safetensors
 7a0fd151, anime, anything_fp16.safetensors
+7a0fd151, chibi, blessed2_fp16.safetensors
 7a0fd151, illustration, blessed2.vae.safetensors
 7a0fd151, mksks style|detailed background, blessed2.vae.safetensors
 7a0fd151, poi氵, blessed2_fp16.safetensors
@@ -1841,6 +1845,7 @@
 82780037, tpkify
 82795246, Abcessive
 82978554, anidzk2
+82aea55f, Scroll|paper folding|tabletop|Chinese style|without people|ancient books|brushes|ink cartridges|bamboo|light effects soft|paper materials|close-up atmosphere|particles|gilding|gold line texture|flowers|petals|painting|brushes|To render in a mixed scene|Masterpiece|Top Quality|Official Art|Beauty and Aesthetics|8k|Best Quality|Masterpiece|Exquisite Details|absurdres|High definition|extremely high definition|candlestick|daytime
 82b0e27e, A perfect photo|A poorly lit photo|A perfect closeup photo
 82cb7b65, germy
 82cbe3e7, sks woman|(sks woman)
@@ -2777,6 +2782,7 @@ c23c9f4d, 1girl
 c2545be4, science fiction|D&D character|fantasy|masterpiece|scifi fantasy art|photoreal|intricate
 c25693d5, best quality
 c25a8bf6, L1X
+c282fd5e, Cinematic|Skin Details|Full Body Photo|Photography
 c2bd4257, emaiti
 c2cd58a3, Evang Style, beejaydel_bjd20000MoreDetail.safetensors
 c2cd58a3, Evang style, chibi_2024ADD.safetensors
@@ -2820,6 +2826,7 @@ c5c47935, in the style of AImanhwa
 c5c54e28, dreamlikeart
 c5ec95b4, loli
 c6211d26, bedroomai
+c627932e, 1girl
 c670dcdd, Realistic
 c6bb6991, hearthstone card
 c6bd9e1d, Rori
@@ -3247,6 +3254,7 @@ e83d3aa7, Ligne claire
 e842dcc7, 1girl|solo, ClearVAE_V2.3.safetensors
 e842dcc7, 3d, ClearVAE_V2.safetensors
 e842dcc7, Armor|golden cloth|genini cloth|saga|gemini saint, CleanVAE.safetensors
+e842dcc7, Cinematic|Skin Details|Full Body Photo|Photography, realisticASFV1_realisticASFXLV10.safetensors
 e842dcc7, KingShark|Humanshark|Sharkman, CleanVAE.safetensors
 e842dcc7, glasses, CleanVAE.safetensors
 e842dcc7, retro artstyle, ClearVAE_V2.2.safetensors
