@@ -732,6 +732,7 @@
 24362016, fiat, fiatPanda_v10.safetensors
 24362016, x90, suzukiX90_v10.safetensors
 243bd7fe, mde person
+243beb1e, cirno
 24466c76, sketch, 经典漫画v2.0.safetensors
 24466c76, sketch|, 经典漫画v2.5.safetensors
 2454d8fb, Pharmabro Person
@@ -1373,6 +1374,7 @@
 5b2c56f8, [white background:1.5|::2]1girl|solo
 5b2d4455, EmiliaClarke woman
 5b8f72ee, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
+5b98c2a7, art|photography|realistic|cyberpunk|scifi|robotic
 5ba11045, TheRPGCharGenEsAFArt
 5bba7f87, as a t-shirt logo in the style of <magifactory> art
 5bba81f8, 3d product render|product render
@@ -1587,6 +1589,7 @@
 6cec876b, pixel art|pixel art style
 6d15da60, 0dawon, 0dawon_v10.safetensors
 6d15da60, Dw, AnalGapeCreampie-v4.safetensors
+6d25ce71, blue theme|pink theme|yellow theme|grey theme|purple theme|red theme
 6d2a5077, by vima
 6d384d32, melkor_manchin art style
 6d3ad2a9, Margot|Margot person
@@ -2500,6 +2503,7 @@ ab4941a7, fantasticmrfox
 ab5ea887, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base, albedobaseXL_v13.safetensors
 ab5ea887, photo|2d|3d|anime|game|photorealistic|cinematic|design|contemporary|art, albedobaseXLPre_v15pre.safetensors
 ab770255, Anime
+ab861d3d, N/A
 ab9d9647, sks man
 abaf5445, 2d videogame minimap
 abb47775, sks woman
