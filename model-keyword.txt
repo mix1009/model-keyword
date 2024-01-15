@@ -521,6 +521,7 @@
 14e1ef5d, gksrnrghk|rlaghdeh, traditionalKorean_v10BaseModelSD15.ckpt
 14e1ef5d, phse, prettyHouseSo_v1.ckpt
 14e1ef5d, rapture, rapitu_v10.ckpt
+14e1ef5d, redline, redlineArtstyle_v159.ckpt
 14e1ef5d, sksi, csGOMapGenerator_v1.ckpt
 14e1ef5d, swpunk|synthwave|paint splatters, synthpunkSearch_raw.ckpt
 14fe5bd7, nousr robot
@@ -1050,6 +1051,7 @@
 3ee7d195, yoshin style
 3eec9a6c, Evang
 3f0202c3, Donaldtrumpjr Person
+3f0598dc, NIXEU
 3f095502, mdjrny-shttr
 3f0edc49, mayichiii
 3f18d023, anime
@@ -1948,7 +1950,8 @@
 8b8efdcc, best quality|masterpiece|
 8b917b1c, xixiprincess
 8ba5b787, dal
-8bb5ce23, shiny skin
+8bb5ce23, realistic, erodeity_cliodhna.safetensors
+8bb5ce23, shiny skin, erodeity_myn.safetensors
 8bc10cce, female|male
 8bd1d95d, "Photo of luxury-hotel-7890"
 8bf784bb, Comics style|Comics|Cartoon style|
@@ -2505,6 +2508,7 @@ ab5ea887, photo|2d|3d|anime|game|photorealistic|cinematic|design|contemporary|ar
 ab770255, Anime
 ab861d3d, N/A
 ab9d9647, sks man
+aba3f332, wlop
 abaf5445, 2d videogame minimap
 abb47775, sks woman
 abc2ad52, nqartst style
@@ -2614,6 +2618,7 @@ b240717e, shuimobysim|shukezouma
 b245152f, powercolor.v1|Drippy watercolor|Vivid watercolor
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
 b29ef034, analog style
+b2c06b09, natnapinh
 b2c47ed5, LEGOstyle
 b2de9d62, silverfox5213|
 b2e6aef1, aptic|zgambuf
