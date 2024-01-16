@@ -1954,8 +1954,8 @@
 8b8efdcc, best quality|masterpiece|
 8b917b1c, xixiprincess
 8ba5b787, dal
-8bb5ce23, realistic, erodeity_cliodhna.safetensors
-8bb5ce23, shiny skin, erodeity_myn.safetensors
+8bb5ce23, realistic, AnimeErodeity_cliodhna.safetensors
+8bb5ce23, shiny skin, AnimeErodeity_myn.safetensors
 8bc10cce, female|male
 8bd1d95d, "Photo of luxury-hotel-7890"
 8bf784bb, Comics style|Comics|Cartoon style|
@@ -3158,6 +3158,7 @@ de357355, zrpgstyle
 de41984b, no
 de430242, joseSabogal
 de948984, furry|kemono
+de9a5c01, yagoboedo
 deb6b205, gatto
 def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
