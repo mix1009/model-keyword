@@ -109,6 +109,7 @@
 057f38eb, cumonhands|hanging testicles|blackfemale|whitefemale|redbonefemale|cumfacial|blowjobsex|handjobsex|cumshot|cumonbreasts|man's cock|whiteman|blackman|whitecock|blackcock|nakedoldman|one man|eroticposing
 0586db75, cornflower
 05981a2b, chahua
+05e3efaf, ~*~aesthetic~*~
 05e6c91b, by kokuto
 0609d8f7, alizee|amy winehouse|ariana grande|audra miller|avril lavigne|billie eilish|camila cabello|charli xcx|christina aguilera|dua lipa|emma stone|emma watson|hayley williams|jennifer lawrence|katy perry|lady gaga|lana del rey|marina diamandis|miley cyrus|p!nk|rihanna|selena gomez|shakira|sophie ellis bextor|taylor swift|heart on cheek|lips piercing|nose piercing|nose stud|nose ring|verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 061e5178, kk
@@ -1080,7 +1081,6 @@
 41fef4bd, nousr robot
 4207b96d, Nothing
 420cb71f, datou|white background|solo|upper body:1.5|
-42129205, N/A
 421384ab, shinyunbok painting
 42279ad8, claymation|80's anime style
 42518d2b, geometrix
@@ -1299,7 +1299,6 @@
 5502af6a, nkoctst
 550719bf, realistic
 550e3660, sphs|sisyphustone|toiljoy|manpushrock
-5510798d, N/A
 55537280, temp
 556b18ab, rcnz_niji style
 557350e1, Ak47, aku_v10.ckpt
@@ -1337,7 +1336,8 @@
 580b06dd, lamia|harpy|centaur|scylla|mermaid|arachne
 582e14a8, plump
 582e89f3, kylxn
-584f63ab, SEE APPENDIX|见附录
+584f63ab, SEE APPENDIX|见附录, sdxl_vae(1).safetensors
+584f63ab, ~*~aesthetic~*~, sdxl_vae.safetensors
 585879fc, portrait+ style
 5859c49d, whtjs|kangsehwang|kimhongdo|sinyunbok|simsajeong|anjungsik|jangseungeop|heoryeon|gksrnr|tnanr|baengmyo|gureuk|molgol
 585e3828, nekoazuki|girls
@@ -1379,7 +1379,6 @@
 5b2c56f8, [white background:1.5|::2]1girl|solo
 5b2d4455, EmiliaClarke woman
 5b8f72ee, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
-5b98c2a7, N/A
 5ba11045, TheRPGCharGenEsAFArt
 5bba7f87, as a t-shirt logo in the style of <magifactory> art
 5bba81f8, 3d product render|product render
@@ -1595,7 +1594,6 @@
 6cec876b, pixel art|pixel art style
 6d15da60, 0dawon, 0dawon_v10.safetensors
 6d15da60, Dw, AnalGapeCreampie-v4.safetensors
-6d25ce71, blue theme|pink theme|yellow theme|grey theme|purple theme|red theme
 6d2a5077, by vima
 6d384d32, melkor_manchin art style
 6d3ad2a9, Margot|Margot person
@@ -1762,7 +1760,6 @@
 7a0fd151, Game Icon Institute, anything_fp16.safetensors
 7a0fd151, ang, anything_fp16.safetensors
 7a0fd151, anime, anything_fp16.safetensors
-7a0fd151, chibi, blessed2_fp16.safetensors
 7a0fd151, illustration, blessed2.vae.safetensors
 7a0fd151, mksks style|detailed background, blessed2.vae.safetensors
 7a0fd151, poi氵, blessed2_fp16.safetensors
@@ -1802,6 +1799,7 @@
 7d5994fd, solo|nsfw|shouban|choko|vanilla|xiangcao|qiaokeli|girls
 7d6c3acc, photorealistic
 7d9a25d8, Photography|Realistic
+7dbd8b97, test
 7de2ea0f, ishizuka
 7e67267b, eldmeisterOG
 7e6c193b, Real|realistics
@@ -2390,6 +2388,7 @@ a476b99d, 11
 a480df4d, hanfu
 a48a2a1b, ghibli style
 a4dbc300, pikachu
+a4e4cfcf, lowbrow
 a516c7c0, rotungwoka person
 a5183478, art by better with salt|kipteitei|woot
 a536207b, a painting by mse
@@ -2510,7 +2509,6 @@ ab4941a7, fantasticmrfox
 ab5ea887, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base, albedobaseXL_v13.safetensors
 ab5ea887, photo|2d|3d|anime|game|photorealistic|cinematic|design|contemporary|art, albedobaseXLPre_v15pre.safetensors
 ab770255, Anime
-ab861d3d, N/A
 ab9d9647, sks man
 aba3f332, wlop
 abaf5445, 2d videogame minimap
