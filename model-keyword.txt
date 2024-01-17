@@ -894,6 +894,7 @@
 31db8fec, daizky1
 31e8084e, Evang style
 31e82ff7, sketch artstyle
+31f86370, chibi
 31f96e8b, duskametrik
 3219d551, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 326d9620, Evang Style
@@ -2071,6 +2072,7 @@
 9518faa2, luna
 9549a897, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical|horror|monster|blood|death|terror, etherealmix_terrorV2.safetensors
 9549a897, cult of cthulhu|giger|post-apocalypse|biomechanicals|Cthulhu, terrorModelsComplete_v2Biomachinery.safetensors
+95584b61, shiny skin|curvy
 95662ab0, salmahayek
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
