@@ -644,6 +644,7 @@
 1dc14b76, cyberpunk
 1df99c75, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
 1e06ed13, gran
+1e176d00, ~*~aesthetic~*~
 1e1e49e4, sks woman
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1e2b3832, lula
@@ -1954,8 +1955,8 @@
 8b8efdcc, best quality|masterpiece|
 8b917b1c, xixiprincess
 8ba5b787, dal
-8bb5ce23, realistic, AnimeErodeity_cliodhna.safetensors
-8bb5ce23, shiny skin, AnimeErodeity_myn.safetensors
+8bb5ce23, realistic, AnimeErodeityWildcards_cliodhna.safetensors
+8bb5ce23, shiny skin, AnimeErodeityWildcards_myn.safetensors
 8bd1d95d, "Photo of luxury-hotel-7890"
 8bf784bb, Comics style|Comics|Cartoon style|
 8c1772f8, Realistic|Photorealistic|Raw photo|realism|realistic style
