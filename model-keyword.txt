@@ -476,6 +476,7 @@
 12485093, rcnz_niji style
 1249edb0, by michihasu
 124de6a9, eldmeisterog
+12558260, 2D|2.5D|Anime|Photo-Realistic|3D Style
 125f67d1, henderson creature|humanoid|house interior|interior|exterior|dark|crawling|large|small
 126f21de, Zwxthej
 12c978ba, Shigenori Style
@@ -2099,6 +2100,7 @@
 972c5030, gendigi
 972cb2b5, guttoepic2
 975b2546, 80's anime style
+97730110, chibi|child|
 97777800, swpunk|synthwave|paint splatters
 978e9ff8, h4zza
 979864ce, Meowskulls, meowskullsModel_v20.ckpt
