@@ -582,6 +582,7 @@
 191173a0, 1
 194778a2, wkc
 19512656, midjourney
+197571ec, nai3
 19804fc4, 1girl|moyou
 1994138c, ChilloutDiverseMix
 19b7510b, FXXDBXCK
@@ -643,6 +644,7 @@
 1da7b9f4, e
 1dafb778, 1 girl
 1dc14b76, cyberpunk
+1de806f4, rcnz_hqr style
 1df99c75, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
 1e06ed13, gran
 1e176d00, ~*~aesthetic~*~
@@ -1257,6 +1259,7 @@
 511d6e1f, 11, 11_v10.safetensors
 511d6e1f, 触发词1|触发词2, 眼睛双.safetensors
 5141b47d, loli
+514a1db3, rcnz_hqr
 515a5199, circetorre
 51883359, anime
 518d78a0, 35mmstyle
@@ -2037,6 +2040,7 @@
 91d18805, 
 91ec9ea6, dwspop style|dwspop space|dwspop forest|dwspop landscape
 9207f242, realistic|photorealistic|ultra realistic|photorealism|raw photo|realistic photo|realism|photo|raw picture
+920e21fa, rcnz_hqr
 92144649, yuzu$style
 9242d421, CCDDA artstyle
 9256ed1a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
@@ -2451,6 +2455,7 @@ a7e848cb, shaded, shadedDiffusion_v10.ckpt
 a7e848cb, vffxxdx, model2_v1.ckpt
 a8372572, wooditize
 a8434aad, CCDDA Artstyle
+a84b8518, rcnz_hqr style
 a8af5a13, erduh man
 a8c7eec2, fking_mtg
 a8d2f3e7, SDArt
@@ -2516,6 +2521,7 @@ ab770255, Anime
 ab96dea3, cartoon character|animation character
 ab9d9647, sks man
 aba3f332, wlop
+abae8e8b, rcnz_hqr style
 abaf5445, 2d videogame minimap
 abb47775, sks woman
 abc2ad52, nqartst style
@@ -2835,6 +2841,7 @@ c4d2723a, Evang
 c4d39ec6, massakasma
 c4d960d8, BeautifulFantagyRealMix
 c4e365bf, lightroom red:34% blue:53% green:43% filmgrain_minimal|texture:+25%|clarity: +40%|Contrast:+4%|shadows: +11%|sharpen:70%
+c4f33c50, rcnz_hqr style
 c534c25d, 1girl
 c55e0d84, virtual youtuber|masterpiece|best quality|hololive|lastname name:1.2
 c5943e55, mdjrny-pprct
