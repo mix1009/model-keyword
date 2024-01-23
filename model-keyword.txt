@@ -2021,6 +2021,7 @@
 90501ecf, mechanical arms
 90626071, A_banana, kl-f8-anime2_fp16.safetensors
 90626071, God, kl-f8-anime2_fp16.safetensors
+90626071, Housamo, kl-f8-anime2_fp16.safetensors
 90626071, Portrait, kl-f8-anime2_fp16.safetensors
 90626071, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, kl-f8-anime2.vae.safetensors
 90626071, shuimobysim|shukezouma, kl-f8-anime2.vae.safetensors
