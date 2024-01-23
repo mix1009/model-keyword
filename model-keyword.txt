@@ -974,6 +974,7 @@
 37dd5eba, fking_scifi
 37deca87, dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories|startling stories|sd-pulp
 37e5ce18, owhx 3dicon
+37fabbe5, anime
 37ff0195, chibi|cute
 38137311, realistic|analog|hyperealistic|photography
 3814a52a, surrealsteampunkai
@@ -1511,7 +1512,7 @@
 655f2458, nijistyle, sdvn7Nijistylexl_demo.safetensors
 655f2458, yourname, sdvn8Artxl_yourname.safetensors
 65961cf8, FURRY|FURRY FEMALE, Liquid0111vae.safetensors
-65961cf8, cartoon, Liquid0111vae.safetensors
+65961cf8, cartoon|cartoon style, Liquid0111vae.safetensors
 65a9683a, chibi
 65bb0985, SYAHNK
 65bbd026, pitchmeetgeorge
@@ -1879,6 +1880,7 @@
 844eeb7d, 1 girl
 84597c2e, style of joemadureira
 8469c1b7, in WKHW1 Beautiful Art Style
+847546f4, cartoon|cartoon style
 84768f33, dublex
 8483ace1, Furry|anthropomorphic
 848b72d0, depth of field, unrealityV30_v30.safetensors
@@ -2033,7 +2035,7 @@
 915383b6, AbstrAnm spritesheet
 916881f0, kazuma_kaneko|knkz_deface
 916ea38c, pixelsprite|16bitscene
-918b8228, cartoon
+918b8228, cartoon|cartoon style
 918c71de, furry girl
 91b85e84, lowbrow
 91cf8f7b, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
@@ -2755,6 +2757,7 @@ bdec7588, richevans
 be141210, bakirda|kridaba|DaKriDi|dikrida
 be2cde01, sabrinasalerno
 be4652f1, samdoesarts
+be694d23, modelo|joven|sexy
 be6ca5be, there is no trigger word
 be7c545d, darkestdungeon style|darkest dungeon style|clonewars style|clone wars style|jojo style|newstl
 be7ddafc, classic disney style
