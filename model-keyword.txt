@@ -2229,6 +2229,7 @@
 99cc51d8, xsfantasy|western fantasy|oriental fantasy, neverdream_neverdV23.safetensors
 99d08e67, latex
 99e78387, SinCityMovie Style
+99fa8cac, Realistic|Photorealistic
 99ff99fd, BJ_Pure_Realistic, pureRealisticV10_v10.safetensors
 99ff99fd, BJ_Street-photo, streetPhotoV10_v10.safetensors
 9a2f1953, 3D modeling|photos|real world
