@@ -538,6 +538,7 @@
 152ae695, furry|Anthropomorphic|furry art|Digital art|uploaded_on_e621:1.4|anthro furry:1.5
 15376d1f, girl
 15540f03, gigafractal artstyle
+15717746, Realistic|Photorealistic
 1578af98, bigbadejo alien_monster
 1586c88f, sks
 15952be6, furry
@@ -836,6 +837,7 @@
 2b8dc4ab, flowerz, flowerzz_177mb.safetensors
 2b95dd0a, polumna
 2b9cdde0, in lomostyle
+2b9f5c45, asian|japanese|korean|chinese
 2bb2342e, rotoscopee
 2be73e30, by b-ginga
 2c28fcaf, a painting by mse
@@ -2229,7 +2231,6 @@
 99cc51d8, xsfantasy|western fantasy|oriental fantasy, neverdream_neverdV23.safetensors
 99d08e67, latex
 99e78387, SinCityMovie Style
-99fa8cac, Realistic|Photorealistic
 99ff99fd, BJ_Pure_Realistic, pureRealisticV10_v10.safetensors
 99ff99fd, BJ_Street-photo, streetPhotoV10_v10.safetensors
 9a2f1953, 3D modeling|photos|real world
