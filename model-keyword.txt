@@ -1995,6 +1995,7 @@
 8e4fc5a6, sks woman
 8e59f3a4, sks woman
 8e6777fc, masterpiece|best quality
+8e914010, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn
 8e950606, cosplay
 8e9d93c1, lamia
 8ea93b04, girl
@@ -2026,7 +2027,6 @@
 90626071, Housamo, kl-f8-anime2_fp16.safetensors
 90626071, Portrait, kl-f8-anime2_fp16.safetensors
 90626071, anime, kl-f8-anime2_fp16.safetensors
-90626071, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, kl-f8-anime2.vae.safetensors
 90626071, shuimobysim|shukezouma, kl-f8-anime2.vae.safetensors
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
 90d470cd, Children
@@ -2652,6 +2652,7 @@ b3436a12, 1girl
 b3454578, kipteitei|art by better with salt|woot|squarewave|big belly|fat|full list on biggergirls page
 b360468c, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 b3635150, FURRY|FURRY FEMALE
+b37ac68b, ohwx woman
 b386ef07, 1girl|clothes
 b3a85bdf, dal
 b3aed361, caebhx
