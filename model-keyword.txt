@@ -2024,6 +2024,7 @@
 90626071, God, kl-f8-anime2_fp16.safetensors
 90626071, Housamo, kl-f8-anime2_fp16.safetensors
 90626071, Portrait, kl-f8-anime2_fp16.safetensors
+90626071, anime, kl-f8-anime2_fp16.safetensors
 90626071, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, kl-f8-anime2.vae.safetensors
 90626071, shuimobysim|shukezouma, kl-f8-anime2.vae.safetensors
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
@@ -3232,6 +3233,7 @@ e3423ef2, evang style, acSide_v15.ckpt
 e3423ef2, evang, acSide_v10.ckpt
 e3423ef2, photo of evang person, sideView_acside.ckpt
 e3451deb, furry
+e346d376, anime
 e35930da, rachelwalker style
 e35af7e4, 1girl|dynamic angle|dynamic pose|chinese style architecture|hanfu
 e3711854, 1girl
