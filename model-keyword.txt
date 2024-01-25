@@ -1344,6 +1344,7 @@
 582e89f3, kylxn
 584f63ab, SEE APPENDIX|见附录, sdxl_vae(1).safetensors
 584f63ab, ~*~aesthetic~*~, sdxl_vae.safetensors
+5851a557, |Style7
 585879fc, portrait+ style
 5859c49d, whtjs|kangsehwang|kimhongdo|sinyunbok|simsajeong|anjungsik|jangseungeop|heoryeon|gksrnr|tnanr|baengmyo|gureuk|molgol
 585e3828, nekoazuki|girls
