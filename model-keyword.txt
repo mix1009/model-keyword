@@ -63,6 +63,7 @@
 02acd63c, unstablephotoreal|unstablediffusion
 02b1c95f, eyes|big eyes
 02cb660f, 1 girl
+02dc71ee, Game Icon Institute3d, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, Game characters|full body|original art design, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, Hassaku|Meina, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, hunsha_girl, ClearVAE_V2.3_fp16.safetensors
@@ -584,6 +585,7 @@
 191173a0, 1
 194778a2, wkc
 19512656, midjourney
+19643d1f, furry
 197571ec, nai3
 19804fc4, 1girl|moyou
 1994138c, ChilloutDiverseMix
@@ -598,6 +600,7 @@
 1a78ec5a, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 1a7d3df5, masterpiece|best quality|anime|realistic|photorealisitc|exceptional|instagram|re-badprompt|nfixer|nfixernext
 1aaa25b0, none
+1aad9ffb, SEE APPENDIX A|见附录A
 1ad16feb, multiarm
 1ae0031d, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
 1af66ab9, fntsy1
@@ -854,6 +857,7 @@
 2d168544, Evang
 2d447b0f, tk-char|tk-env
 2d527bd2, Evang
+2d659c22, Game Icon Institute3d
 2d78a77b, shaonv
 2dceb6e8, fgsdgdfgh dr
 2dd53706, SDArt|agne|ohwx|bnp|atum|aved|bsf|aten|fcu|cees|chor|cna|nrf|elio|gani|pfa|kprc|kuro|asot|elis|bsp|psst|sqm|irgc|byes|dany|lpg|miro|avel|vaw|zaki|guin|pz|reys|crit|doa|suma|taku|ufos|phol|vedi|dds|weho|pte|oxi|yuck|zas
@@ -1253,6 +1257,7 @@
 505f27ef, Oofa
 506ed641, glowing|neon
 508104ff, isohomes
+509bd95f, CosPlay Mix
 50ad914b, e621
 50b09182, flonixreddit
 50b0c3b5, poi氵
@@ -1343,7 +1348,8 @@
 580b06dd, lamia|harpy|centaur|scylla|mermaid|arachne
 582e14a8, plump
 582e89f3, kylxn
-584f63ab, SEE APPENDIX|见附录, sdxl_vae(1).safetensors
+584f63ab, SEE APPENDIX A|见附录A, sdxl_vae.safetensors
+584f63ab, SEE APPENDIX|见附录, sdxl_vae.safetensors
 584f63ab, ~*~aesthetic~*~, sdxl_vae.safetensors
 5851a557, |Style7
 585879fc, portrait+ style
@@ -1408,6 +1414,7 @@
 5cc1bba0, style of ohwx
 5cc891f2, pixar|C4D|blender|3d
 5cc9b7ba, modelshoot style
+5cdf5e55, N/A
 5cf5ae06, wasteland
 5d2a695e, sdclrdrk style
 5d38bfbd, 1girl
@@ -1438,6 +1445,7 @@
 5f06aa6f, ttdddd, froggyStyle_toad.ckpt
 5f1199a7, adl|cae|fck|gsp|hta|httr|lun|olis|omd|rcn|sown|rps|tux|waj|gote|dbz|ulf
 5f77f3b8, zrpgstyle
+5fa1efdd, arien photography|chinese art photography|nfsw
 5fb8c5f9, sks man
 5fc312dd, newvegaschar
 5fd78ac3, laolei style
@@ -2085,6 +2093,7 @@
 9549a897, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical|horror|monster|blood|death|terror, etherealmix_terrorV2.safetensors
 9549a897, cult of cthulhu|giger|post-apocalypse|biomechanicals|Cthulhu, terrorModelsComplete_v2Biomachinery.safetensors
 95584b61, shiny skin|curvy
+9558dd01, girl
 95662ab0, salmahayek
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
@@ -2322,7 +2331,8 @@
 9f9bf543, anime|comic|manga|girl
 9fbd5b0a, furry|kemono
 9fc108a7, Evang
-9fc9d4fb, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base
+9fc9d4fb, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base, albedobaseXL_v12.safetensors
+9fc9d4fb, pixel art|low poly|3D|2D|Top Down|RPG|D&D|UOStyle|Ultima Online|pixel art|oil painting|NES|ocarinaoftime|majorasmask|n64style|psxstyle|ps1 style||PSXstyle|ps1 style|n64style|ocarinaoftime|majroasmask, flashbackxl_v10FlashbackAlpha.safetensors
 9fd02bb8, photo, colorfulxl_v10.safetensors
 9fd02bb8, wgz style, wlopSTYLEXL_v2.safetensors
 9fee5b60, maddiesmith
@@ -2537,7 +2547,8 @@ abc2ad52, nqartst style
 abce398b, arthx
 abfe92ae, mecha_robot|mecha
 ac039af9, 90s retro anime style|xx year anime style
-ac117640, irenhen
+ac117640, irenhen, irenhen_v10.ckpt
+ac117640, muimuim, chinesewoman2_v10.ckpt
 ac231407, pepefrog
 ac25001a, fwatch style
 ac344962, yuuki rito|lala satalin deviluke|nana asta deviluke|momo velia deviluke|haruna sairenji|yuuki mikan|konjiki no yami|kotegawa yui|kurosaki meia|run elise jewelria
@@ -2805,6 +2816,7 @@ c1589bf7, vapodusk1|wvert1|paint splatters|swpunk|mdjrny-pntrt|synthwave|dskyart
 c1591e6c, furry
 c16a2a6b, wjqfrottage
 c181b9bd, kemono|nj5furry
+c194fe5c, furry:1.2|realistic fur|details down to every fluff|big eyes
 c1a72459, girl
 c203ddb4, sam yang
 c206be84, azhiichigo style，big eyes|thick lines，cute
@@ -2863,6 +2875,7 @@ c5ec95b4, loli
 c6211d26, bedroomai
 c627932e, 1girl
 c670dcdd, Realistic
+c67fbe37, SEE APPENDIX A|见附录A
 c6bb6991, hearthstone card
 c6bd9e1d, Rori
 c76b8b8e, sks woman
@@ -3087,6 +3100,7 @@ da02d76b, HarryPotterStyle
 da1b42e0, sks woman|(sks woman)
 da3d89ca, sks
 da5ea365, aodai|cotrang|mai blossom|mai
+da8a2815, SEE APPENDIX A|见附录A
 da9c5ae7, HistorischeUniformen
 dab15164, BLoMDress, model1_ver2.ckpt
 dab15164, Gerrybrit, gerrybrit_v10.ckpt
@@ -3211,6 +3225,7 @@ e04f7e7f, character
 e0844d20, pbr
 e0a3ab60, xivcine person
 e0d019bb, samdoesarts
+e0dc1c4f, 1girl|1boy
 e0dcec61, 1girl
 e0e1b606, FURRY|ANTHROPOMORPHIC|FURRY ART|DIGITAL ART|UPLOADED_ON_E621:1.4|ANTHRO FURRY:1.5
 e0f5c75f, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
