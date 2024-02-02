@@ -3180,6 +3180,7 @@ de2f2560, masterpiece|best quality|dark theme|pink theme, bbmixKALI_v10.safetens
 de2f2560, masterpiece|best quality|orange theme|pink theme, bbmixLUCI_v20.safetensors
 de2f2560, masterpiece|best quality|white theme|black theme, bbmixEIMI_v10.safetensors
 de2f2560, mdrga, donRamonMadruga_v10.safetensors
+de2f2560, none, katieMaclannan_v10.safetensors
 de2f2560, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|analog style|modelshoot style, unstableinkdream_v6.safetensors
 de2f2560, p, test_v10.safetensors
 de2f2560, phantylia|phantylia honkai, phantylia_v10.safetensors
