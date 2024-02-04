@@ -491,6 +491,8 @@
 12ec3add, glock|pistol
 1351eaf1, cgi|cgi style
 135bf420, furry
+136b5302, ici, scifiSurreal_v10.safetensors
+136b5302, ohwx, darkPureness_v10.safetensors
 1374389b, dal
 139f78c4, Evang
 13a6777c, modelshoot style|nousr robot
