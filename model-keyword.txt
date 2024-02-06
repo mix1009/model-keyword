@@ -128,6 +128,7 @@
 0786845e, trained with chilloutmix|chinabeauty|dreamlike|a lot of others
 079b172e, illustration style kurzgesagtish
 079bb56e, country flag
+081160b4, Beautiful Asian girls
 0817babf, sks chessevolved
 081c78a3, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
 081f8a15, 123, zxcvbnm_v10.safetensors
@@ -153,6 +154,7 @@
 09a268c0, mksks style
 09a74379, shrot|shrots|hoodie
 09bcb72f, 1girl|girlvn01, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, 1girl，moyou, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 1man, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Bean Labs|1 girl|Best quality|pure beauty, vae-ft-mse-840000-ema-pruned.safetensors
