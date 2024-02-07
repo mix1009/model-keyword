@@ -22,6 +22,7 @@
 01f8af50, Evang
 020f5e3f, R2-D2, r2D2Diffusion_v10.safetensors
 020f5e3f, nomanssky style, noMansDiffusion_v02.safetensors
+02104d32, Photorealistic|Realitistic
 02150926, aellagirl
 022ce84d, EmmaW|Photo of EmmaW Woman
 0232f65f, ashenhard style
@@ -3034,6 +3035,7 @@ d0efcea0, "GretchenRoss Person", gretchenRossJenaMalones_v10.safetensors
 d0efcea0, Mikelindell Person, theMyPillowGuy_v10.safetensors
 d0efcea0, Topnotch Artstyle, TopnotchArtstyleVolume118_v10.safetensors
 d0efcea0, Tuckercarlson Person, tuckerCarlsonTuckercarlson_v10.safetensors
+d0fd0f0c, Photorealistic|realistic
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
 d164c734, 4x-animesharp
 d1708df8, sd-prohib|broad brushstrokes|medium brushstrokes|fine brushstrocks|painterly|sentimental|pictorial|idealism|family life|romance|adventure|action|1914|1920|1924|1925|1928|1930|1933|1934|1937
@@ -3474,6 +3476,7 @@ efdd9fcf, GAME ICON, gameIconInstitute_v20.safetensors
 efdd9fcf, game icon, gameIconInstitute_v21.safetensors
 efe608ac, Clay Mann
 f00b92e0, detailed|official art|colorful|accessories|fractal art|aesthetic|chinese clothes
+f00b95d9, 1girl，moyou
 f00d9299, HighHumanion
 f05f9963, lisafrankstyle
 f0803e20, sjh style
