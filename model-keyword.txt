@@ -2081,6 +2081,7 @@
 90626071, Portrait, kl-f8-anime2_fp16.safetensors
 90626071, anime, kl-f8-anime2_fp16.safetensors
 90626071, shuimobysim|shukezouma, kl-f8-anime2.vae.safetensors
+90626071, women|woman|girl|cute|sexy|aieliteart, kl-f8-anime2_fp16.safetensors
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
 90d470cd, Children
 90e61fac, anime|landscape
