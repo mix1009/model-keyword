@@ -220,6 +220,7 @@
 0d53acd4, beatniks|retro futurism|hip|blue note album cover design
 0d8373ed, realistic|photorealistic
 0d985eef, sks woman
+0e0a9a25, abandoned building|overgrown with vegetation|concrete|underwater|overtaked by the sea|from outside the building|indoors
 0e19e7fb, 3dcharacter|3dcutecharacter|cloud|waves
 0e3bcabc, 1 girl|Bean_Labs|B&W|masterpiece|stunning light and shadow
 0e5bd0bf, CCDDA  artstyle
@@ -1417,6 +1418,7 @@
 5a4b600e, none
 5a526d93, jillstjohn
 5a639898, ink style|ink wash painting
+5a71feb9, abandoned building|overgrown with vegetation|concrete|underwater|overtaked by the sea|from outside the building|indoors
 5a747794, mechanical parts|mechanical 'body part or object|cyberware style
 5a75e4b5, man|woman|boy|girl|etc
 5a9e41b8, Anime Style
@@ -1650,6 +1652,7 @@
 6ca4896d, Jessewatters Person
 6cbb8c9b, fashion|man|woman
 6ccf7f6a, furry
+6cd2d5bc, furry|anthro
 6cec876b, pixel art|pixel art style
 6d15da60, 0dawon, 0dawon_v10.safetensors
 6d15da60, Dw, AnalGapeCreampie-v4.safetensors
