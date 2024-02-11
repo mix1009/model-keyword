@@ -891,6 +891,7 @@
 2ee24e88, kylxn
 2ee82b98, fashion|film grain|like a painting|eboy|psychedelic|flowers|makeup|bodyart|statue
 2efc3e20, pixel
+2efe5dab, sexy girl
 2f122e47, HarryPotterStyle
 2f17d5f4, 8k|raw photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.37|high detailed background|1girl in a blue shirt|shy expression|cute|cityscape|night|rain|wet|professional lighting|photon mapping|radiosity|physically-based rendering||beautiful breasts|medium breast|look at viewer|high detail raw color photo|near shot|of girl wearing ancient chinese dress|wearing thin white shirt|clothed|standing in the middle of the battlefield|dragon tattoos on breast|elegant|beautiful face|blue eyes|girl|30 yeas old|light blonde|light curls|cybernetic impalnts:1.2|augmentations|detailed skin|supple skin pores|silicon|metal|intricately detailed|fine details|hyperdetailed|bloom:0.4|raytracing|subsurface scattering|diffused lighting|side lighting:0.5|shallow depth of field|photographed on a canon eos r5|85mm lens|f/2.8|sharp focus|smooth|cinematic film still <lora:mix4:0.8
 2f4d3f4d, 1girl
@@ -1744,6 +1745,7 @@
 745d84b2, character|girl
 7460a6fa, sk man
 747ef805, illustration|comic style|realistic|Comic Poster|Line Art
+749bb318, Dark atmosfere
 74d7d300, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 74e33b7a, masterpiece|best quality|furry|kemono
 74f4c61c, redshift style
@@ -2803,7 +2805,7 @@ baf83ef9, 3D modeling|photos|real world, animatedModelsOf_v10.safetensors
 baf83ef9, Photos|real ones|Anime|Illustration, dominationWorld_v02.safetensors
 bb029452, kindigitstyle
 bb20f881, SDS_girl, sdsFILMXL_210.safetensors
-bb20f881, leogirl, leosamsHelloworldSDXL_helloworldSDXL10.safetensors
+bb20f881, leogirl, leosamsHelloworldXL_helloworldSDXL10.safetensors
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
 bb3992f1, Edsheeran Person
@@ -3239,6 +3241,7 @@ de2f2560, girl, replicantV30_v30.safetensors
 de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
 de2f2560, illustration, tRIllustration2DLCM_Illustration.safetensors
 de2f2560, indoor_lhl, indoorLhl_indoorLhlV10.safetensors
+de2f2560, ixchel, darklordIxchel_v10.safetensors
 de2f2560, kari byron person, kariByron_realkari.safetensors
 de2f2560, kimstyle, kimhongdoStyle_v10.safetensors
 de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
