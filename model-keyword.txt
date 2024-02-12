@@ -735,6 +735,7 @@
 223531c6, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, luna, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, masterpiece, vae-ft-mse-840000-ema-pruned.ckpt
+223a75d4, Disney|Pixar
 223c514b, Evang style
 2258c119, CNDigitalArt Style
 2275f2cf, 90s retro anime style|xx year anime style
@@ -1653,7 +1654,6 @@
 6ca4896d, Jessewatters Person
 6cbb8c9b, fashion|man|woman
 6ccf7f6a, furry
-6cd2d5bc, furry|anthro
 6cec876b, pixel art|pixel art style
 6d15da60, 0dawon, 0dawon_v10.safetensors
 6d15da60, Dw, AnalGapeCreampie-v4.safetensors
@@ -1745,7 +1745,7 @@
 745d84b2, character|girl
 7460a6fa, sk man
 747ef805, illustration|comic style|realistic|Comic Poster|Line Art
-749bb318, Dark atmosfere
+749bb318, dark atmosphere
 74d7d300, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 74e33b7a, masterpiece|best quality|furry|kemono
 74f4c61c, redshift style
@@ -2605,6 +2605,7 @@ abb47775, sks woman
 abc2ad52, nqartst style
 abce398b, arthx
 abd31b2a, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
+abfac1e0, person
 abfe92ae, mecha_robot|mecha
 ac039af9, 90s retro anime style|xx year anime style
 ac057c7a, BEST AESTHETIC|NORMAL AESTHETIC|BAD AESTHETIC|REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
@@ -2805,7 +2806,7 @@ baf83ef9, 3D modeling|photos|real world, animatedModelsOf_v10.safetensors
 baf83ef9, Photos|real ones|Anime|Illustration, dominationWorld_v02.safetensors
 bb029452, kindigitstyle
 bb20f881, SDS_girl, sdsFILMXL_210.safetensors
-bb20f881, leogirl, leosamsHelloworldXL_helloworldSDXL10.safetensors
+bb20f881, leogirl, leosamsHelloworldXL_helloworldXL10.safetensors
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
 bb3992f1, Edsheeran Person
