@@ -495,6 +495,7 @@
 12cc710c, vjt
 12d0e504, chibi
 12ec3add, glock|pistol
+13274be5, furry|anthro
 1351eaf1, cgi|cgi style
 135bf420, furry
 136b5302, ici, scifiSurreal_v10.safetensors
@@ -1294,6 +1295,7 @@
 50d20906, Thai|Thaidress|girl
 510c4b84, dal
 510c5845, modelshoot style|nousr robot
+511b3786, furry|anthro
 511d6e1f, 11, 11_v10.safetensors
 511d6e1f, 触发词1|触发词2, 眼睛双.safetensors
 5141b47d, loli
@@ -3317,6 +3319,7 @@ e2494235, FLUIDART LIQUID SPLASH KNOLLINGCASE FOOD_CRIT BEEPLE
 e24a9c03, 2d|masterpiece|best quality|anime
 e25fa39a, realistic
 e2a2ffea, influencer
+e2b26ca5, furry|anthro
 e2b8b39c, sks person
 e2c889c4, pov|missionary|legs up|legs grab|from above|wide spread legs|reaching|
 e2d2e2c3, irmntro person
@@ -3450,6 +3453,7 @@ eccb3dc0, 1girl|moyou
 ecd908cb, sks woman|(sks woman)
 ece47e57, evangstyle
 ecf14450, male|female
+ecf8473f, furry|anthro
 ecf98c5e, valorant style
 ed0b4125, anime style|illustration|oil painting|analog style|realistic|photorealistic
 ed296396, goldentrig|GTv2
@@ -3639,6 +3643,7 @@ fa0cfefb, reddit|best quality|medium quality|high quality|best aesthetic|normal 
 fa10a43f, kratos person
 fa1b6601, Beautiful detailed portrait
 fa3a1716, hrgiger
+fa4a0103, furry|anthro
 fa5e4f28, (tokki girl)
 fa735519, <lora:conceptscene_b2:1>
 fa765db4, Anime Style|Cartoon Style
@@ -3688,6 +3693,7 @@ fe5aae36, telltale style
 fe5b6b94, 3D
 fe865c53, pamgrier
 fe8c63ee, cartoon|illustration|flat cartoon|realistic illumination|realistic cartoon
+feaa3687, furry|anthro
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
 ff2d4341, Cartoon|Cartoon Style
 ff7616f1, FRPGFaceGen
