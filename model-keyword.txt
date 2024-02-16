@@ -758,6 +758,7 @@
 237ec903, Evang
 2386519a, 树|印象派|抽象
 23bd8637, 2000s|1990s|1980s|1970s|1960s|1950s|1940s|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jiri tulach style|komrant style|marie dashkova style|olga boyko style|digital art|interior design|macro photography|polaroid style|sucidegirl|wild nature
+23dbfa93, oiled skin
 23e4b09e, Evang Style, maxGrecki15500_15500ADD.safetensors
 23e4b09e, Evang style, cartoon_10000ADD.safetensors
 23f104f6, Evang
@@ -1136,6 +1137,7 @@
 42eefbf3, nauskaavalofw
 4326c062, ppllnnn
 4335b329, audra miller
+43606100, analog style
 436dd50e, 3d product render|product render
 4391d84b, citroen, citroenDS_v10.safetensors
 4391d84b, honda, hondaJazzFit_v10.safetensors
@@ -2996,6 +2998,7 @@ c90f9fe6, highres|raifu
 c91be480, Dloz|Dloz style
 c9462890, Archilab
 c951cc0e, sks person
+c95c43ce, Mature Female
 c9a2e2a1, GGH23 person
 c9c45d16, Pris
 ca198d1c, actionauf, actionauf_v10.safetensors
