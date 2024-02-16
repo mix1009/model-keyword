@@ -675,6 +675,7 @@
 1e2b3832, lula
 1e50a350, Nothing
 1e6822b7, comics style|analog style|illustration|lineart
+1e768fbb, furry|furry girl|furry man|furry woman|furry boy
 1e7dad9a, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult
 1e8c4a0a, GIRL Oil Painting
 1eb19dda, darkorangemix1
@@ -912,6 +913,7 @@
 301a6744, bezyminka|, bezyminka_v10.ckpt
 301a6744, vvyerA2, vvyera2_.ckpt
 301a6744, ya beronika, galina_v10.ckpt
+3028e308, furry|furry girl|furry man|fur|furry hentai|Yiff
 3031dfb2, marsattacks
 3057ce60, FURRY
 3061461b, analog style
@@ -2186,6 +2188,7 @@
 95f8d0a7, portrait, 3d_magmixV10.safetensors
 95f8d0a7, マスターチーフ, chilloutmix_NiPrunedFp32Fix.safetensors
 9600da17, master|chief
+9629c708, furry|furry girl|furry man|furry woman|furry boy
 962c3253, anisenti88
 965c5e50, mashu_yuino
 9672fada, shiny skin|long legs
