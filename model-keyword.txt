@@ -905,6 +905,7 @@
 2f17d5f4, 8k|raw photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.37|high detailed background|1girl in a blue shirt|shy expression|cute|cityscape|night|rain|wet|professional lighting|photon mapping|radiosity|physically-based rendering||beautiful breasts|medium breast|look at viewer|high detail raw color photo|near shot|of girl wearing ancient chinese dress|wearing thin white shirt|clothed|standing in the middle of the battlefield|dragon tattoos on breast|elegant|beautiful face|blue eyes|girl|30 yeas old|light blonde|light curls|cybernetic impalnts:1.2|augmentations|detailed skin|supple skin pores|silicon|metal|intricately detailed|fine details|hyperdetailed|bloom:0.4|raytracing|subsurface scattering|diffused lighting|side lighting:0.5|shallow depth of field|photographed on a canon eos r5|85mm lens|f/2.8|sharp focus|smooth|cinematic film still <lora:mix4:0.8
 2f4d3f4d, 1girl
 2f4e14a4, litebrite
+2f5a97cb, in the style of 2eros_underwear
 2f73cbe9, furry:1.4|anthro:1.4|fluffy:1.4|fluffy fuzzy furry fur covered skin:1.4
 2f7b2f79, mj-sphere
 2fb183e3, 1girl
@@ -1041,6 +1042,7 @@
 399391b8, sphax style
 39c38163, itojunji style
 39dac565, 1girl
+39dff797, yamer_scream|son goku|vegeta|black background|male focus|super saiyan|glowing eyes|screaming
 39e80e37, duskypie|lisdusk1|lisdusk2|kairowez|mdjrny-v4 style
 39ea8d40, Hepburn, mirageAIFlowers_typeH.safetensors
 39ea8d40, flowers, mirageAIFlowers_mirageAIFlowersGirl.safetensors
@@ -2880,6 +2882,7 @@ beb87f9d, furry|girl
 becccd91, 1girl|1boy, osorubeshiXL_z.safetensors
 becccd91, 1girl|1boy|female|male|comic, osoruwest_v01.safetensors
 becdbc5d, Kavellion|Kavellion style
+bef2a590, Fruits|Vegetables|
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
 bf64b437, BRAV5_RealisianV50
 bf7386ef, diovasnsc
