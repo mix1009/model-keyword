@@ -1467,6 +1467,7 @@
 5c98e895, Happy new year, vae-ft-mse-840000-ema-pruned_fp16.safetensors
 5c98e895, anime|sexy|hentai, vae-ft-mse-840000-ema-pruned_fp16.safetensors
 5c98e895, monster girls|centaur|lamia|arachne|scylla|etc..., vae-ft-mse-840000-ema-pruned_fp16.safetensors
+5c98e895, walking and moving, vae-ft-mse-840000-ema-pruned_fp16.safetensors
 5c9b51d3, dreamworks artstyle
 5cc1bba0, style of ohwx
 5cc891f2, pixar|C4D|blender|3d
@@ -3641,6 +3642,7 @@ f6ed99c8, {colorful}|{vivid colors}|{vivid}|{flat color}
 f6fb8fde, lala_satalin_deviluke|momo_velia_deviluke|nana_asta_deviluke|konjiki_no_yami|yuuki_mikan|sairenji_haruna|kotegawa_yui|kurosaki meia|
 f71f0232, insertNameHere
 f74f4ebd, sketch|illustration
+f751a45e, woman|girl|young
 f757b10b, orbai
 f75d242c, monster girls|etc....
 f76c4afc, duskspider
