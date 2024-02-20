@@ -162,6 +162,7 @@
 09bcb72f, 1man, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Bean Labs|1 girl|Best quality|pure beauty, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, European|detailed skin, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Navia, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Nothing, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, chibi, vae-ft-mse-840000-ema-pruned.safetensors
@@ -221,6 +222,7 @@
 0d3940d3, furry|kemono
 0d53acd4, beatniks|retro futurism|hip|blue note album cover design
 0d8373ed, realistic|photorealistic
+0d9677ee, DannyTheFallen
 0d985eef, sks woman
 0e0a9a25, abandoned building|overgrown with vegetation|concrete|underwater|overtaked by the sea|from outside the building|indoors
 0e19e7fb, 3dcharacter|3dcutecharacter|cloud|waves
@@ -504,6 +506,7 @@
 136b5302, ici, scifiSurreal_v10.safetensors
 136b5302, ohwx, darkPureness_v10.safetensors
 136b5302, scorn, scorn_v10.safetensors
+136b5302, yos|rik|scs, alienPREDATORMECH_v10.safetensors
 1374389b, dal
 139f78c4, Evang
 13a6777c, modelshoot style|nousr robot
@@ -1973,6 +1976,7 @@
 8483ace1, Furry|anthropomorphic
 848b72d0, depth of field, unrealityV30_v30.safetensors
 848b72d0, depth of field|film, unrealityV30_v20.safetensors
+848d7290, Yuuna
 8495185b, girl
 84ec5fea, subaru|1boy
 84f6b9a2, whatif style
@@ -2439,6 +2443,7 @@ a0db84f0, landscapes
 a0ded949, masterpiece
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
 a0f4bc4a, Macro
+a0f4ec91, European|detailed skin
 a0f67308, figma|pvc
 a10f6a56, None needed|but sometimes "painting" or "background art" helps.
 a149572b, CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDark|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld, charhelperFineTuned_fineTunedV1.safetensors
@@ -3654,6 +3659,7 @@ f751a45e, woman|girl|young
 f757b10b, orbai
 f75d242c, monster girls|etc....
 f76c4afc, duskspider
+f7772584, rik
 f77fb4cb, ohwx|ske
 f781810b, by kyoani
 f7a03161, A perfect photo|A poorly lit photo|A perfect closeup photo
