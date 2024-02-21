@@ -605,6 +605,7 @@
 18b7217d, game icon
 18b72c7b, zainabt
 18c428bc, ysy_anime
+18fcf4d0, score_9|score_8_up|score_7_up|source_anime
 19014c4a, estiloventidois
 190bc75e, 1girl|mecha|
 191173a0, 1
@@ -3187,6 +3188,7 @@ d634b8cb, kvn, myModelKevin_v10.ckpt
 d634b8cb, paul, sameer_v1.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
+d636e597, score_9|score_8_up|score_7_up|source_anime, sdxl_vae.safetensors
 d636e597, ziov, sdxl_vae.safetensors
 d659f794, rcnz_niji style
 d65c923a, 1girl
