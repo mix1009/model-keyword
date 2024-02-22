@@ -1767,6 +1767,7 @@
 73012bca, 3D model
 730a7d56, none
 730b9cb5, m_style
+731c01a8, ~*~aesthetic~*~
 73771530, kazuya
 738df5d3, fashion
 738e9523, Beautiful women|pretty girls|and more
@@ -2360,6 +2361,7 @@
 9aebfd7b, none, test_anyAANV10.safetensors
 9aedb25a, *read notes*
 9af8fb8d, guigubahuang
+9afc22f0, __character__ with __color__ __hair__ hair|__color__ eyes|__clothing_style__ clothing|__background__|__expressions__|__pose__|__cosmetics__
 9b1cddb6, detailed_skin|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin
 9b36871e, illustration
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
