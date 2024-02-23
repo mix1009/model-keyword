@@ -1767,7 +1767,6 @@
 73012bca, 3D model
 730a7d56, none
 730b9cb5, m_style
-731c01a8, ~*~aesthetic~*~
 73771530, kazuya
 738df5d3, fashion
 738e9523, Beautiful women|pretty girls|and more
@@ -2182,6 +2181,7 @@
 946468be, Google Colab|DreamBooth_Stable
 94674f07, nvinkpunk
 9487809d, Cecily Tynan
+948b6f4b, half body|closeup
 94a0aa9d, anime
 94a1df93, Sf
 94c7fd10, nayeonnine
@@ -3577,6 +3577,7 @@ f00b95d9, 1girl，moyou
 f00d9299, HighHumanion
 f05f9963, lisafrankstyle
 f0803e20, sjh style
+f08f39f8, mercury armor|grunge|clown party|RAW photograph
 f0916d71, mariawhittaker
 f094a27f, Mobian or Sonic character name
 f098482b, masterpiece|best quality|ultra-detailed|illustration|an extremely delicate and beautiful|dynamic angle|floating|beautiful detailed eyes|bright eyes|detailed light|solo|
