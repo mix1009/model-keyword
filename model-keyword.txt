@@ -969,6 +969,7 @@
 333a860f, female|male|girl|boy|robo, matrixAsianParadise_v653VAE.safetensors
 333a860f, male|female, matrixAsianParadise_v653VAE.safetensors
 333ecf3c, sks woman|(sks woman)|((sks woman))
+3391204b, half body|closeup
 339c88c0, object|no humans|solo focus|items
 33c549f1, swpunk|synthwave|paint splatters
 33ec9575, Pixar|anime|manga|comic|hand art
@@ -1632,6 +1633,7 @@
 6785492c, nier9s
 679df996, by Boris Vallejo|by Brom|by Frank Frazetta|by Hajime Sorayama|by Kelly Freas|by Luis Royo|by Milo Manara|by Olivia De Berardinis|by Philippe Druillet|by Simon Bisley
 67c24e97, chinese mythology
+67e082c9, half body|closeup
 67e8a0ae, analog style|dreamlikeart|knollingcase|modelshoot style|elden ring style|bf|sci-fi
 67eabc3f, anthro|body fur
 68120148, ashenhard style
