@@ -71,6 +71,7 @@
 02dc71ee, Game Icon Institute3d, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, Game characters|full body|original art design, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, Hassaku|Meina, ClearVAE_V2.3_fp16.safetensors
+02dc71ee, celine|woman|long hair, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, hunsha_girl, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, illustration, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, masterpiece|realistic|best quality, ClearVAE_V2.3_fp16.safetensors
@@ -1201,6 +1202,7 @@
 45f855ea, 士官长
 45f93812, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
 46089527, Evang
+4609b935, celine|woman|long hair
 461e9d29, sassy style|edg bodytape|riley star|lana rhoades|karlee grey|eva sedona|vivian taylor|skylar vox|kylie shay|hannah hays|haley spades|foxy alissa|christy marks|ivy lebelle
 4629eda6, mj|cozy|cinematic
 46314e53, close up character design|multiple concept designs|
@@ -2460,6 +2462,7 @@ a06436da, wtrcolor style
 a06ae47a, chibi|cute
 a06c6681, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 a0b3a1c3, sphx weapon
+a0cd58af, sks woman
 a0db84f0, landscapes
 a0ded949, masterpiece
 a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
@@ -2562,6 +2565,7 @@ a6428756, holliemengert artstyle
 a64b9e1f, sdart|bnp|abia|abit|adl|afs|aon|lpg|apro|nwsl|mth|arl|arum|asar|batt|bios|kuro|blob|bnha|bpd|buda|exe|irgc|buka|buon|cae|cava|ccd|chor|aroa|ccu|cep|clos|urd|crit|cudi|doa|cwgc|ylor|dats|ddc|acu|oxi
 a6590543, mksks style|detailed background
 a69bb214, Oldjourney
+a69d6019, photo|metart
 a69f9ce1, best quality|sksTakuya
 a6a7d3ac, thm style|fantastical realism
 a6b4eaf3, no
