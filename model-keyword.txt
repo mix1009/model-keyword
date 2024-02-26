@@ -1799,6 +1799,7 @@
 74d7d300, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 74e33b7a, masterpiece|best quality|furry|kemono
 74f4c61c, redshift style
+74feb08d, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up|source_cartoon|source_anime
 7505c058, Game Icon Institute
 751059ed, prfns
 75294b00, chaingirldark style
@@ -2029,6 +2030,7 @@
 86bd187b, elxchavo
 86c0becf, qtcg|licg|gfcg|xscg
 86f94aa2, zrpgstyle
+871a078a, ciloranko|tianliang duohe fangdongye|wlop|mikozin|zyugoya|ask askzy|onono imoko|shanyao_jiang_tororo
 87278b15, ZRpee
 872bdd84, zedra1 girl
 872fa838, Interior
@@ -3262,6 +3264,7 @@ da5ea365, aodai|cotrang|mai blossom|mai
 da8a2815, SEE APPENDIX A|见附录A
 da9c5ae7, HistorischeUniformen
 dab15164, BLoMDress, model1_ver2.ckpt
+dab15164, GIGI, gipm_v10.ckpt
 dab15164, Gerrybrit, gerrybrit_v10.ckpt
 dab15164, MC, minecraftArtStyle_v10.ckpt
 dab15164, dmgdroblawtorner, dmgdroblawtorner_v10.ckpt
