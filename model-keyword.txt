@@ -93,6 +93,7 @@
 030933d0, l4lisa
 031b21f6, Niji|Anime, XL_VAE_F1.safetensors
 031b21f6, aki|aoki|aoi|isao|nao|nobu|shou, XL_VAE_E7.safetensors
+031b21f6, pixel art|16 bit|32 bit|64 bit, XL_VAE_C1.safetensors
 0323e306, Bean_Lab|Pure Beauty|1 girl|best quality
 0341fc9b, sexy
 036d2bcf, furry|kemono
@@ -1868,6 +1869,7 @@
 78d68104, sincity_iamyork
 78d9c09e, digidsk1
 78e79d23, helenmirren
+78f1f43f, Movie Prince Dastan||cartoon Reagan Ridley|cartoon Brett Hand|cartoon J.R. Scheimpough|cartoon Reagan Ridley with Brett Hand|game Wrench from Watch Dogs|Anime Ghost in the Shell|cartoon Dr. Andre Lee|cartoon Driving front view of|cartoon Gigi Thompson|cartoon Inside Job Driver a car|cartoon Rand Ridley|game Driving front view of|illustration Driving front view of|movie Driving front view of|photo Driving front view of|cartoon Glenn Dolphman|cartoon Reagan Ridley with Rand Ridley|anime Driving front view of
 79009b03, Evang
 7906524a, cornflower
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
@@ -3162,6 +3164,7 @@ d21c153e, ChromaV5|nvinkpunk
 d229bfec, manwha1
 d24cac70, masterpiece|best quality, bbmixRUIS_v15.safetensors
 d24cac70, masterpiece|intricate details, bbmixANIMEMIX_v20.safetensors
+d286b5e6, pixel art|16 bit|32 bit|64 bit
 d28922ac, rcnz_niji style
 d2972917, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical|horror|monster|blood|death|terror, etherealmix_terrorV2.safetensors
 d2972917, cult of cthulhu|giger|post-apocalypse|biomechanicals|Cthulhu, terrorModelsComplete_v2Biomachinery.safetensors
@@ -3300,6 +3303,7 @@ dc01dfdd, ohwx|demon|werewolf|minotaur|zombie|
 dc05355d, sksi object|sksi
 dc234f3c, frozen style|anna frozen|elsa frozen|olaf frozen|sven frozen|kristoff frozen|ice castle|duke of weselton frozen|prince hans frozen
 dc3f810f, SEE APPENDIX|见附录部分
+dc875717, pixel art|64 bit|32 bit|16 bit
 dccb4eb7, head
 dcdf0425, dgs illustration style
 dced2560, cum
@@ -3680,7 +3684,8 @@ f5aa9391, SDArt
 f5b84ac3, Shataki
 f5bf5a19, SDArt
 f5d9c703, snthwve style
-f60494f4, Victorian|Monet|full body|close up
+f60494f4, Monet|close up|full body|Victorian, noisyElementXL_noisyElementXL.safetensors
+f60494f4, Victorian|Monet|full body|close up, victorianAnimeArtXL_vaxl.safetensors
 f61ceeaf, xao-arab-girl
 f6239527, brtdrpp
 f6355763, Ajm, xxajm_v10.safetensors
