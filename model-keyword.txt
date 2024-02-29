@@ -75,6 +75,7 @@
 02dc71ee, hunsha_girl, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, illustration, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, masterpiece|realistic|best quality, ClearVAE_V2.3_fp16.safetensors
+02dc71ee, mature female, ClearVAE_V2.3_fp16.safetensors
 02f311af, BELLEZA, vanesa_v10.ckpt
 02f311af, David, modelguyyy_v10.ckpt
 02f311af, Joh1, joh1_v10.ckpt
@@ -666,6 +667,7 @@
 1c83d3db, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 1c842e26, furry
 1cecdd34, anime|girl|boy|woman|man|robo
+1d080a8f, mature female
 1d0d03ee, botw style
 1d116781, furry
 1d132f9e, whatif style|tdst style
