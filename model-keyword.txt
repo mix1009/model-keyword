@@ -97,6 +97,7 @@
 031b21f6, pixel art|16 bit|32 bit|64 bit, XL_VAE_C1.safetensors
 0323e306, Bean_Lab|Pure Beauty|1 girl|best quality
 0341fc9b, sexy
+034ad774, fft|pixel art
 036d2bcf, furry|kemono
 03869a26, anime|realism|photo|game|videogame|woman|human
 03f434be, MTG card art
@@ -885,6 +886,7 @@
 2b9cdde0, in lomostyle
 2b9f5c45, asian|japanese|korean|chinese
 2bb2342e, rotoscopee
+2bb849c4, icon|ui|interface|ux
 2be73e30, by b-ginga
 2c28fcaf, a painting by mse
 2c3a4942, kemono|furry
@@ -3413,6 +3415,7 @@ e13105fc, masterpiece|best quality, bbMIXALICE_v10.safetensors
 e13105fc, masterpiece|best quality|white theme|black theme, bbmixRUIS_bbmixRUIS.safetensors
 e136d291, None
 e13c6405, RAW photo of|Analog photo of
+e1a9b17f, 1girl
 e1b7c805, woolitize
 e1e66020, entp
 e246da64, syberart
