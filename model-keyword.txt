@@ -102,6 +102,7 @@
 03869a26, anime|realism|photo|game|videogame|woman|human
 03f434be, MTG card art
 03f5f311, apolo
+04066faa, graphic novels illustration|comics|outline|sketch
 042435b0, photo of morgen person
 04324700, 波普艺术|十二生肖|抽象
 04340f3b, cvmix|diffusion|anime
@@ -2768,6 +2769,7 @@ b1b7d525, None needed|but sometimes "painting" or "background art" helps.
 b1b9d236, furrender style
 b1bba46b, uncensorship|de-censoring|NSFW|nude|unclothed
 b1be66e9, dreamworks artstyle
+b1c0703d, graphic novels illustration|comics|outline|sketch
 b1c32576, anime pencil concept style
 b1ca5929, handsome
 b1df6170, realistic|photorealistic
