@@ -2507,7 +2507,8 @@ a149572b, vector-art, vectorArt_Beta.safetensors
 a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a150faa4, icon|blender|C4D
 a184fedc, gigafractal artstyle
-a1d9f84f, anime|style|woman
+a1d9f84f, anime|style|woman, gnomePower_v111.safetensors
+a1d9f84f, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, ponyFaetality_v10.safetensors
 a1ddf000, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 a1e1b00c, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
 a1f0ad54, insertNameHere
@@ -2925,6 +2926,7 @@ bd24a269, 80's anime style
 bd5a93e8, kemono|nj5furry
 bd66b7ba, Bluey
 bd747e17, dark|shadow|fantasy
+bd7df541, timor|timorm
 bda49b29, ashenhard style
 bda7821c, samdoesart style|thepit style|orwel style|cherrymouse style
 bdb4b12c, by popqn
@@ -3061,6 +3063,7 @@ c86334f5, itojunji style
 c86a9aca, evang
 c8780143, damarjati
 c8796e4b, tk_char|tk_env
+c88248fa, timor|art by timor|by timor|main trigger word is : timor
 c88e730a, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 c89caee5, 只因jinkesi
 c8b5ae05, 3d
@@ -3376,6 +3379,7 @@ de2f2560, post-Impressionist, exquisiteDetails_art.safetensors
 de2f2560, schwarz|red dress, schwarzTest_schwarzDressV10.safetensors
 de2f2560, shiny_skin, realshinymixV1_v10.safetensors
 de2f2560, shirtlift, jackie_v10.safetensors
+de2f2560, timor|timorm, mandaladiffusion_v03.safetensors
 de2f2560, yorha2b, yorha2b_v20Animation.safetensors
 de2f2560, zephyr, zephyr_v10.safetensors
 de357355, zrpgstyle
