@@ -443,6 +443,7 @@
 0eb3318b, texasresponders, djzTexasResponders_v21768.safetensors
 0eb3318b, timecar, djzTimeCar_v21768.safetensors
 0eb3318b, treephoto, djzTreePhoto_v21.safetensors
+0eb3318b, trsldamrl, retro3d_v10.safetensors
 0eb3318b, truckplans, djzTruckPlans_v21.safetensors
 0eb3318b, truckxjohnson, djzTruckxJohnson_v21768.safetensors
 0eb3318b, trueassistant, djzTrueAssistant_v21.safetensors
@@ -451,6 +452,7 @@
 0eb3318b, urbanjapan, djzUrbanJapan_v21.safetensors
 0eb3318b, voxelpalace, djzVoxelPalace_v21.safetensors
 0eb3318b, weathercontrol, djzWeatherControl_v21.safetensors
+0eb3318b, weirdcore, weirdcore_v10.safetensors
 0eb3318b, withoutfear, djzWithoutFear_v21768.safetensors
 0eb3318b, wwone, djzWwoneV21_0.safetensors
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
@@ -1552,7 +1554,6 @@
 600db6b8, Lauterbach, karlLauterbachLauterbach_v10.safetensors
 600db6b8, gerdbaier, grattlerDiffusionViper_v1.safetensors
 600db6b8, rainerwinkler, winklerDiffusion_v1.safetensors
-605266b5, trsldamrl
 606224fd, groo_the_wanderer
 606f384c, penis|testicles
 6076842b, nvinkpunk|dreamlikeart|samdoesart|kuvshinov
@@ -3557,7 +3558,6 @@ eabf280f, anthro|monster girl|colored skin|furry
 eae4113f, 没有/none
 eae836b4, mommy
 eae95c5e, cardassian
-eafb0a0f, weirdcore
 eb01f3b2, NijiFTB
 eb1666ba, 1girl|moyou
 eb1b80e4, ziov
