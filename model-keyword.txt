@@ -443,7 +443,7 @@
 0eb3318b, texasresponders, djzTexasResponders_v21768.safetensors
 0eb3318b, timecar, djzTimeCar_v21768.safetensors
 0eb3318b, treephoto, djzTreePhoto_v21.safetensors
-0eb3318b, trsldamrl, retro3d_v10.safetensors
+0eb3318b, trsldamrl, glitched_v10.safetensors
 0eb3318b, truckplans, djzTruckPlans_v21.safetensors
 0eb3318b, truckxjohnson, djzTruckxJohnson_v21768.safetensors
 0eb3318b, trueassistant, djzTrueAssistant_v21.safetensors
@@ -892,7 +892,8 @@
 2b9cdde0, in lomostyle
 2b9f5c45, asian|japanese|korean|chinese
 2bb2342e, rotoscopee
-2bb849c4, icon|ui|interface|ux
+2bb849c4, dndcoverart, dndCoverArt_v10.safetensors
+2bb849c4, icon|ui|interface|ux, uiIcons_v10.safetensors
 2be73e30, by b-ginga
 2c28fcaf, a painting by mse
 2c3a4942, kemono|furry
@@ -1146,7 +1147,6 @@
 4166d47f, aodai|style of ...
 416a7f7c, dreamlikeart
 4192fc16, kurzgesagt style
-41aa2e2b, dndcoverart
 41c67857, minchien
 41d721c0, swpunk|synthwave|paint splatters
 41ee5b72, pixel art
@@ -1284,6 +1284,7 @@
 4bdfc29c, BDSM model
 4bfacf36, by t6
 4c2b26a9, retro artstyle
+4c32e0c6, pov|missionary|legs up|legs grab|from above|wide spread legs|reaching|
 4c42236e, TVClown
 4cac193b, sks person|(sks person)
 4cdc58f8, tarasische
