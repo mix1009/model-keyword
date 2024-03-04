@@ -1144,6 +1144,7 @@
 4166d47f, aodai|style of ...
 416a7f7c, dreamlikeart
 4192fc16, kurzgesagt style
+41aa2e2b, dndcoverart
 41c67857, minchien
 41d721c0, swpunk|synthwave|paint splatters
 41ee5b72, pixel art
@@ -1550,6 +1551,7 @@
 600db6b8, Lauterbach, karlLauterbachLauterbach_v10.safetensors
 600db6b8, gerdbaier, grattlerDiffusionViper_v1.safetensors
 600db6b8, rainerwinkler, winklerDiffusion_v1.safetensors
+605266b5, trsldamrl
 606224fd, groo_the_wanderer
 606f384c, penis|testicles
 6076842b, nvinkpunk|dreamlikeart|samdoesart|kuvshinov
@@ -2009,6 +2011,7 @@
 844eeb7d, 1 girl
 84597c2e, style of joemadureira
 8469c1b7, in WKHW1 Beautiful Art Style
+846a7c0f, N/A
 847546f4, cartoon|cartoon style
 84768f33, dublex
 8483ace1, Furry|anthropomorphic
@@ -3553,6 +3556,7 @@ eabf280f, anthro|monster girl|colored skin|furry
 eae4113f, 没有/none
 eae836b4, mommy
 eae95c5e, cardassian
+eafb0a0f, weirdcore
 eb01f3b2, NijiFTB
 eb1666ba, 1girl|moyou
 eb1b80e4, ziov
