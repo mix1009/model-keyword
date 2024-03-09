@@ -3128,6 +3128,7 @@ cbef871f, sks
 cc11c0ef, masterpiece|best quality|
 cc30ad23, lamia|harpy|centaur|etc....|most mge girls half work
 cc49ac37, bigbadejo alien_monster
+cc586421, realistic photograph of
 cc5b68d0, lndskp|nvinkpunk|redshift
 cc781a63, s
 cca12107, chibi
@@ -3262,6 +3263,7 @@ d634b8cb, paul, sameer_v1.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
 d636e597, bbone|vpanties|vibrator insertion|, sdxl_vae.safetensors
+d636e597, realistic photograph of, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up|source_anime, sdxl_vae.safetensors
