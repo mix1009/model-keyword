@@ -1494,6 +1494,7 @@
 5a9e41b8, Anime Style
 5aceb664, kor_mixed 1girl
 5ad07226, art by yaguru magiku
+5ad28e96, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 5ae66f17, FANTASY|ANIME|FANTASY WORLD|FANTASY BACKGROUNDS
 5b2c56f8, [white background:1.5|::2]1girl|solo
 5b2d4455, EmiliaClarke woman
@@ -2974,6 +2975,7 @@ beb87f9d, furry|girl
 becccd91, 1girl|1boy, osorubeshiXL_z.safetensors
 becccd91, 1girl|1boy|female|male|comic, osoruwest_v01.safetensors
 becdbc5d, Kavellion|Kavellion style
+bee71543, sailulu style
 bef2a590, Fruits|Vegetables|
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
 bf64b437, BRAV5_RealisianV50
