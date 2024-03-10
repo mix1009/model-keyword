@@ -3394,7 +3394,7 @@ de2f2560, aroamoyasi|kishida mel|amamiya yuko|shihou matsuri|hiten|mituk1|yohaku
 de2f2560, dal, dalcefoKanim_v3.safetensors
 de2f2560, girl, replicantV30_v30.safetensors
 de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
-de2f2560, illustration, tRIllustration2DLCM_Illustration.safetensors
+de2f2560, illustration, trMagicOnPaperSD15_Illustration.safetensors
 de2f2560, indoor_lhl, indoorLhl_indoorLhlV10.safetensors
 de2f2560, ixchel, darklordIxchel_v10.safetensors
 de2f2560, kari byron person, kariByron_realkari.safetensors
