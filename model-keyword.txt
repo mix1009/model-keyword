@@ -181,6 +181,7 @@
 09bcb72f, flat vector art|vector illustration|flat vector art|, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, guofeng|chinese|bokeh|silk dress, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, psyiome|strange biome, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, statue, vae-ft-mse-840000-ema-pruned.safetensors
 09c6d455, JangEunYoung
 09cf07d1, insertNameHere
 09d7878a, pixarstyle
@@ -1359,6 +1360,7 @@
 5141b47d, loli
 514a1db3, rcnz_hqr
 515a5199, circetorre
+51776aaf, statue
 51883359, anime
 518d78a0, 35mmstyle
 51935af1, by chon
@@ -3111,6 +3113,7 @@ ca682192, sjh style
 cab77b73, ANIME CARTOON
 cadfbc28, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 caea14ad, lvngvncnt
+caf6fda6, Realistic|Photorealistic
 cafd0b18, analog|photography
 cb01edf8, 1girl|moyou
 cb144970, by k-suwabe
@@ -3129,7 +3132,8 @@ cbef871f, sks
 cc11c0ef, masterpiece|best quality|
 cc30ad23, lamia|harpy|centaur|etc....|most mge girls half work
 cc49ac37, bigbadejo alien_monster
-cc586421, realistic photograph of
+cc586421, a realistic photograph of, crystalPNYByZovya_v1VAE.safetensors
+cc586421, realistic photograph of, crystalPNYByZovya_v1.safetensors
 cc5b68d0, lndskp|nvinkpunk|redshift
 cc781a63, s
 cca12107, chibi
