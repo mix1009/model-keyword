@@ -96,6 +96,7 @@
 031b21f6, aki|aoki|aoi|isao|nao|nobu|shou, XL_VAE_E7.safetensors
 031b21f6, pixel art|16 bit|32 bit|64 bit, XL_VAE_C1.safetensors
 0323e306, Bean_Lab|Pure Beauty|1 girl|best quality
+0338061e, modisn disney|modisn disney style
 0341fc9b, sexy
 034ad774, fft|pixel art
 036d2bcf, furry|kemono
@@ -1201,6 +1202,7 @@
 445461df, fking_scifi_v2
 446ec050, 付志豪
 447982f4, fantasy|fantasy art|80's fantasy art|90's fantasy art|Retro|Realistic|Photorealistic|Watercolor|Oil Painting|Science Fiction|Scifi Fantasy Art|Scifi|D&D Character|Character Design|Character Concept|Fantasy Poster|Analog|Analog Style|Volumetric Lighting|Subsurface Scattering|Photoreal|Perfect Body|Perfect Legs|Masterpiece|Intricate|Detailed|Hyperrealistic|Mature Adult|NSFW
+4482f951, modisn|modisn disney|modisn disney style
 448bbc26, alraune|arachne|centaur|cyclops|harpy|lamia|mermaid|mothgirl|satyr|scylla|slimegirl
 44ae43e8, N/A
 44bbf751, realistic cartoon|artwork|masterpiece|detailed
@@ -1888,6 +1890,7 @@
 7791b0e6, monx style
 77c6d270, by narae
 77d2c8ef, Colorful|Neon|Steampunk|sci-fi
+77d829fa, секс
 7811fc5f, humanoid robot
 781625dc, Evang
 7824a38b, aerialstyle
@@ -2920,6 +2923,7 @@ b9ce768b, tk_env|tk_char
 b9f30719, flonixreddit
 ba0eff40, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|D&D character|fantasy poster|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|masterpiece|intricate|detailed|hyperrealistic
 ba158946, goldenglass
+ba1d106b, modern disney style
 ba210b22, sks woman
 ba2d4b1a, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic|mature adult|oil painting|comic poster
 ba468443, no
@@ -2944,6 +2948,7 @@ bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bbfb82f1, realistic
 bc26ee23, samylady
 bc39c10a, zainabt
+bc9bddc5, cory chase|ohwx woman
 bca4f28b, mizulina
 bcb60ee3, twinklestardodo
 bcbe94c2, frutigeraero
@@ -2957,6 +2962,7 @@ bd747e17, dark|shadow|fantasy
 bd7df541, timor|timorm
 bda49b29, ashenhard style
 bda7821c, samdoesart style|thepit style|orwel style|cherrymouse style
+bda88570, modern disney style
 bdb4b12c, by popqn
 bdd04c5e, noble ai|nobleai|noblemixfix
 bde477d2, junemodel
@@ -3156,6 +3162,7 @@ ce273db5, lolsplashart
 ce59d07b, female|male
 ce6d2934, masterpiece|best quality
 ce787c96, evang
+cea9fbcc, modisn disney
 ceab3f7e, jacquelinebisset
 cebf8122, modelshoot style
 cec8722d, iayuso person
@@ -3299,6 +3306,7 @@ d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makis
 d8892ed6, 1girl|moyou
 d89bc06c, m
 d8c33a91, 1girl
+d8d282fe, modisn|modisn disney|modisn disney style
 d8e16309, realistic|photorealistic
 d902a082, design|interrior|interriordesign
 d90a034f, yuzu$style
