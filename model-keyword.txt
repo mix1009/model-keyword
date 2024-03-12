@@ -841,6 +841,7 @@
 26c85a2d, q skill icon, qSkillIcon_v10.safetensors
 26c85a2d, q style, qStyle_v10.safetensors
 27023a8d, Realistic|Photorealistic
+270e37fc, night|dark
 27455e1d, Viz
 274d0bb6, trending on artstation|8k|ultra hd|1woman
 276edfa7, evang
