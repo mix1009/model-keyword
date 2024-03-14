@@ -2030,6 +2030,7 @@
 83078a1e, 抽象|色块
 830b6ebd, masterpiece|best quality
 8312b529, bigbadejo alien_monster
+8320ad8c, Subaru|Emilia|Rem|Ram|Beako|Beatrice|Roswaal|Frederica|Garfiel
 83295fd6, mdjrny-pntrt
 833060ae, mdjrny-v4 style|nousr robot
 835e7dc1, gigafractal artstyle
@@ -3064,6 +3065,7 @@ c3cfd75d, powa
 c3d52f46, Femboy|Feminine|Short hair|Cute|Beautiful|Flat chest, femboyLora_v10.safetensors
 c3d52f46, bob cut, 1712321743829754255.safetensors
 c3d52f46, brown hair|clara|short hair|mini skirt|orange skirt, claraHananokouji_v10.safetensors
+c3d52f46, oragegirlyohan1754, freestyleOrange_v10a.safetensors
 c3d52f46, 美少女, momonga_v10.safetensors
 c3d6718c, furry
 c40bd8e7, lanawood
