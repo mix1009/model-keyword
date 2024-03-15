@@ -172,6 +172,7 @@
 09bcb72f, 1girl|girlvn01, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 1girl，moyou, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 1man, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, 3Reich|Wehrmacht uniform|German SS uniform|Peaked cap|side cap|breast eagle emblem|wreathed cockade emblem|red armband/swastifa, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Bean Labs|1 girl|Best quality|pure beauty, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, European|detailed skin, vae-ft-mse-840000-ema-pruned.safetensors
@@ -1815,6 +1816,7 @@
 727f0812, modelshoot style
 72922615, looney tunes style|disney style|classic animation style
 72d80922, nvinkpunk|mdjrny-v4 style|kairowez|lisdusk1|lisdusk2
+72f11307, 3Reich|Wehrmacht uniform|German SS uniform|Peaked cap|side cap|breast eagle emblem|wreathed cockade emblem|red armband/swastifa
 73012bca, 3D model
 730a7d56, none
 730b9cb5, m_style
@@ -2102,6 +2104,7 @@
 89892ec8, dal
 89a3f11a, gatto
 89abf451, masterpiece|best quality
+89e5f84d, Lineart|LineAniAF
 8a0a6f86, svtbuild
 8a20d25c, noradeevilh
 8a226ac5, nvinkpunk|kuvshinov|snthwve style
@@ -2945,6 +2948,7 @@ baf09b14, SEE APPENDIX|见附录
 baf83ef9, 3D modeling|photos|real world, animatedModelsOf_v10.safetensors
 baf83ef9, Photos|real ones|Anime|Illustration, dominationWorld_v02.safetensors
 bb029452, kindigitstyle
+bb167491, UMP45
 bb20f881, SDS_girl, sdsFILMXL_210.safetensors
 bb20f881, leogirl, leosamsHelloworldXL_helloworldXL10.safetensors
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
