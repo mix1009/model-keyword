@@ -214,7 +214,7 @@ def get_settings():
 
     settings = {}
 
-    settings['is_enabled'] = 'True'
+    settings['is_enabled'] = 'False'
     settings['keyword_placement'] = 'keyword prompt'
     settings['multiple_keywords'] = 'keyword1, keyword2'
     settings['ti_keywords'] = 'None'
