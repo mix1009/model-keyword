@@ -2516,6 +2516,8 @@
 9ef9f138, gigafractal artstyle
 9f159502, *read notes*
 9f195bbc, blackphoto|1girl
+9f32404f, wgz style, wlopSTYLEXL_finalEdition.safetensors
+9f32404f, wgz style|portrait of a beautiful women highly detailed, wlopSTYLEXLV3HelpOther_v10.safetensors
 9f45927e, Isometric|No Humans, kl-f8-anime2.ckpt
 9f45927e, mksks style, kl-f8-anime2.ckpt
 9f45927e, vae|kl-f8-anime2, klF8Anime2VAE_klF8Anime2VAE.ckpt
@@ -2819,6 +2821,7 @@ b0a2f552, furry
 b0a44c16, Evang, sneekSupermech_v10.safetensors
 b0a44c16, evang style, sneekkioRobotModel_sneekkioRobotDetail.safetensors
 b0a8dd3c, me
+b102b70e, alizee|amy winehouse|ariana grande|audra miller|avril lavigne|billie eilish|camila cabello|charli xcx|christina aguilera|dua lipa|emma stone|emma watson|hayley williams|jennifer lawrence|katy perry|lady gaga|lana del rey|marina diamandis|miley cyrus|p!nk|rihanna|selena gomez|shakira|sophie ellis bextor|taylor swift|heart on cheek|lips piercing|nose piercing|nose stud|nose ring|verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 b109bf50, diffusable
 b11200d1, samanthafox
 b125a56f, See Version Notes
