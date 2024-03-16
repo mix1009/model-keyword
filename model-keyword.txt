@@ -101,6 +101,7 @@
 034ad774, fft|pixel art
 036d2bcf, furry|kemono
 03869a26, anime|realism|photo|game|videogame|woman|human
+03b174c1, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 03f434be, MTG card art
 03f5f311, apolo
 04066faa, graphic novels illustration|comics|outline|sketch
@@ -133,6 +134,7 @@
 06283b03, pokedanta-bl
 0655784d, gtav style
 06a9d223, mengersponge|sierpsponge
+0719ddac, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 071b2e26, tk-char|tk-env
 071eb7b2, evang
 0754d880, letitsinkin
@@ -172,7 +174,7 @@
 09bcb72f, 1girl|girlvn01, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 1girl，moyou, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 1man, vae-ft-mse-840000-ema-pruned.safetensors
-09bcb72f, 3Reich|Wehrmacht uniform|German SS uniform|Peaked cap|side cap|breast eagle emblem|wreathed cockade emblem|red armband/swastifa, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, 3Reich|Wehrmacht uniform|German SS uniform|Peaked cap|side cap|breast eagle emblem|wreathed cockade emblem, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, 80's anime style, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Bean Labs|1 girl|Best quality|pure beauty, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, European|detailed skin, vae-ft-mse-840000-ema-pruned.safetensors
@@ -473,6 +475,7 @@
 0f6e0d4b, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 0fb0560b, lizmont woman
 0fcfe533, wuxia 1girl|best quality
+1006004a, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 100dbe92, Evang, chibi_8000OpenJourney.safetensors
 100dbe92, evang style, beejaydel_beejStickerMORE.safetensors
 100dbe92, evang, lostBearChibiSketch_v10.safetensors
@@ -634,6 +637,7 @@
 197571ec, nai3
 19804fc4, 1girl|moyou
 1994138c, ChilloutDiverseMix
+19b72626, analog style|dreamlikeart|redshift style
 19b7510b, FXXDBXCK
 19d911b0, djct woman|djct
 19db0652, Furry girl, ricecakeFurryRemix_later.safetensors
@@ -644,6 +648,7 @@
 1a594b86, 1girl|1boy
 1a78ec5a, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 1a7d3df5, masterpiece|best quality|anime|realistic|photorealisitc|exceptional|instagram|re-badprompt|nfixer|nfixernext
+1a9cb0c9, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
 1aaa25b0, none
 1aad9ffb, SEE APPENDIX A|见附录A
 1ad16feb, multiarm
@@ -889,6 +894,7 @@
 2aaa1306, evang
 2ac54074, girl|art|fantashy
 2ac9e34d, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti
+2acbb8b0, N/A
 2ad02959, bdicon
 2add6091, shinyunbok anime
 2af6c425, catherinebach
@@ -904,6 +910,7 @@
 2bb2342e, rotoscopee
 2bb849c4, dndcoverart, dndCoverArt_v10.safetensors
 2bb849c4, icon|ui|interface|ux, uiIcons_v10.safetensors
+2bd7a434, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 2be73e30, by b-ginga
 2c28fcaf, a painting by mse
 2c3a4942, kemono|furry
@@ -1051,6 +1058,7 @@
 37dd5eba, fking_scifi
 37deca87, dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories|startling stories|sd-pulp
 37e5ce18, owhx 3dicon
+37f2669e, sexy|glossy|bimbo|thepit bimbo|analog style|dreamlikeart|redshift style
 37fabbe5, anime
 37ff0195, chibi|cute
 38137311, realistic|analog|hyperealistic|photography
@@ -1200,6 +1208,7 @@
 43e4db69, anime
 43eb72ee, lineart|monochrome
 43ee0452, tail|scaly tail|tufted tail|furry tail|horse tail|fluffy tail
+43f9c234, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 4419d708, whiteboard|halloween，pumpkin，full moon，black cat， tree
 442e1b76, style bse
 4449cdac, samdoesarts
@@ -1440,6 +1449,7 @@
 564d5ca4, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
 566842ff, janadefi
 5683b788, Sofia Wylie
+56a552e4, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 56e15182, dal|nsfw
 56e29f8a, tk-char|tk-env
 56fc5b5d, imperfect
@@ -1731,6 +1741,7 @@
 6bcb4769, trained with chilloutmix|chinabeauty|dreamlike|a lot of others
 6bccbcc6, EduCH, edumodel_v10.ckpt
 6bccbcc6, blondee, blondeee_v10.ckpt
+6bdec634, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 6bebd476, 1girl|moyou
 6c0b3fc5, coralchar
 6c452923, fat|Doraemon|belly|huge|overweight
@@ -1816,7 +1827,7 @@
 727f0812, modelshoot style
 72922615, looney tunes style|disney style|classic animation style
 72d80922, nvinkpunk|mdjrny-v4 style|kairowez|lisdusk1|lisdusk2
-72f11307, 3Reich|Wehrmacht uniform|German SS uniform|Peaked cap|side cap|breast eagle emblem|wreathed cockade emblem|red armband/swastifa
+72f11307, 3Reich|Wehrmacht uniform|German SS uniform|Peaked cap|side cap|breast eagle emblem|wreathed cockade emblem
 73012bca, 3D model
 730a7d56, none
 730b9cb5, m_style
@@ -1922,7 +1933,8 @@
 79587710, zombie
 7960116e, evang
 79b55ef7, bigbadejo alien_monster
-79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style
+79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_1.safetensors
+79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.safetensors
 79c63bd9, Landscape design
 7a0fd151, BJ_Street-photo, anything_fp16.safetensors
 7a0fd151, Game Icon Institute, anything_fp16.safetensors
@@ -2286,6 +2298,7 @@
 962c3253, anisenti88
 965c5e50, mashu_yuino
 9672fada, shiny skin|long legs
+9695a9cd, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 96e9bd73, art by yaguru magiku
 96f94d09, sks woman
 972c5030, gendigi
@@ -2299,6 +2312,7 @@
 979864ce, john rambo, ramboDiffusion_v15.ckpt
 979864ce, meowskulls, meowskullsModel_meowskulls.ckpt
 979de0ab, 2xdrdisrespect
+97a0eac5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 97a9eca6, cult of cthulhu|giger|post-apocalypse|biomechanicals|terror|horror|Cthulhu|creepy
 97b7c192, simsini
 97c1b6f0, Breast Expansion|BEsequence|BETaut|BECovered|BETorn|BrnWshM|head-mounted display, xenoplastyBimbosBoobs_lcmV1.safetensors
@@ -2320,6 +2334,7 @@
 9907dc3a, sanane
 9912cb8d, danmumford style
 99156105, furry
+99220af8, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 993cd75a, sks woman
 993f2358, Anjana, anjana_v10.ckpt
 993f2358, Asher|blue eyes, asherAngel_asheAngel512V10.ckpt
@@ -2662,6 +2677,7 @@ a7e848cb, photo by Miroslav Tichy, miroslavTichy_.ckpt
 a7e848cb, pimploy|thai model, pimploy_V10.ckpt
 a7e848cb, shaded, shadedDiffusion_v10.ckpt
 a7e848cb, vffxxdx, model2_v1.ckpt
+a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 a8372572, wooditize
 a8434aad, CCDDA Artstyle
 a84b8518, rcnz_hqr style
@@ -2747,6 +2763,7 @@ ac117640, irenhen, irenhen_v10.ckpt
 ac117640, muimuim, chinesewoman2_v10.ckpt
 ac231407, pepefrog
 ac25001a, fwatch style
+ac30bd02, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 ac344962, yuuki rito|lala satalin deviluke|nana asta deviluke|momo velia deviluke|haruna sairenji|yuuki mikan|konjiki no yami|kotegawa yui|kurosaki meia|run elise jewelria
 ac423f79, K8D
 ac4b3d45, 1girl|1boy
@@ -2877,6 +2894,7 @@ b47ad8fe, d&d character
 b482163d, xivcine style
 b4bec83f, depth of field|photo|film
 b4cba599, Mona woman|Mona
+b4d010d5, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 b4df6423, xdusky1
 b4e2803e, girl
 b5217013, 1girl|
@@ -2977,7 +2995,8 @@ bd66b7ba, Bluey
 bd747e17, dark|shadow|fantasy
 bd7df541, timor|timorm
 bda49b29, ashenhard style
-bda7821c, samdoesart style|thepit style|orwel style|cherrymouse style
+bda7821c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_1.ckpt
+bda7821c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.ckpt
 bda88570, modern disney style
 bdb4b12c, by popqn
 bdd04c5e, noble ai|nobleai|noblemixfix
@@ -2992,6 +3011,7 @@ be6ca5be, there is no trigger word
 be7c545d, darkestdungeon style|darkest dungeon style|clonewars style|clone wars style|jojo style|newstl
 be7ddafc, classic disney style
 be82dca2, Altira|Altira style
+beab2cb2, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 beb6bcfd, Evang
 beb87f9d, furry|girl
 becccd91, 1girl|1boy, osorubeshiXL_z.safetensors
@@ -3071,6 +3091,7 @@ c3cfd75d, powa
 c3d52f46, Femboy|Feminine|Short hair|Cute|Beautiful|Flat chest, femboyLora_v10.safetensors
 c3d52f46, bob cut, 1712321743829754255.safetensors
 c3d52f46, brown hair|clara|short hair|mini skirt|orange skirt, claraHananokouji_v10.safetensors
+c3d52f46, cute woman|bowtie|sailor collar|pleated skirt, priya_v10.safetensors
 c3d52f46, oragegirlyohan1754, freestyleOrange_v10a.safetensors
 c3d52f46, 美少女, momonga_v10.safetensors
 c3d6718c, furry
@@ -3418,6 +3439,7 @@ de2f2560, Mina Sundwall, minaSundwall_v10.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
 de2f2560, Shadowheart|armor|black hair|pointy ears|bangs|circlet|ponytail|green eyes|braid, shadowheart_v10.safetensors
 de2f2560, ae, tokeaa_mancet.safetensors
+de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
 de2f2560, anime, decxcris_v10.safetensors
 de2f2560, aroamoyasi|kishida mel|amamiya yuko|shihou matsuri|hiten|mituk1|yohaku, alusStew_v10.safetensors
 de2f2560, dal, dalcefoKanim_v3.safetensors
@@ -3894,6 +3916,7 @@ fe5b6b94, 3D
 fe865c53, pamgrier
 fe8c63ee, cartoon|illustration|flat cartoon|realistic illumination|realistic cartoon
 feaa3687, furry|anthro
+feb09aa5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
 ff2d4341, Cartoon|Cartoon Style
 ff6a26ef, N/A
