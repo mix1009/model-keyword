@@ -834,6 +834,7 @@
 25e42458, banchan, bananoChan_anythingV3.safetensors
 260ab54a, Photo Realistic
 2622a6d6, Van Gogh|impressionism
+262674b8, cartoon style
 2644427e, sks
 265e757d, Sidon|Sidon style
 26621fc2, tdst style
@@ -1885,6 +1886,7 @@
 761903fe, high detail:1.3|beautiful details face|face makeup:1.3|sexy full body view
 762438bc, beverlydangelo
 7635e77d, cartoon
+76511cfa, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up|source_cartoon|source_anime
 7665f8c3, itrobo2022
 7675f1a1, stilovintedois
 767f517f, dmmid style
