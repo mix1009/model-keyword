@@ -3948,6 +3948,7 @@ fff0c339, 3d toon style|3d style, 3dToonDiffusionXL_v10.safetensors
 fff0c339, dal, xlPainting_v09Beta.safetensors
 fff0c339, girl|boy, animerealisticbg_v10.safetensors
 fff0c339, inkpunk, sdxlInkpunkstyle_v01.safetensors
+fff0c339, science fiction, ScienceFiction_v10.safetensors
 fff0c339, ukl, fantasticHackerStyleBailing_v1007.safetensors
 fff0c339, xxmix_girl, xxmix9realisticsdxl_testV10.safetensors
 fff2da80, phanborg|phanbrutal|phanbw|phancircle|phancity|phanconcrete|phanconsole|phancorridor|phandraw|phandroid|phandustrial|phanfashion|phanfem|phanglitch|phangrunge|phanlogo|phanmachine|phanmecha|phanmilitary|phanneon|phanrooms|phansterile|phantex|phanture
