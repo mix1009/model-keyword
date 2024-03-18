@@ -1156,6 +1156,7 @@
 3f3fc921, sks man, timeCatcher_neuroalex.ckpt
 3f400815, WLOP
 3f4e7ed9, sks woman
+3f6fbd7f, person prueba
 3f76682f, Anime|manga|cartoon
 3fb6a757, Cute|kawaii|high-angle view
 3ff95373, sks woman
@@ -2040,6 +2041,7 @@
 82402518, balacbk
 82780037, tpkify
 82795246, Abcessive
+8279f8c1, N/A
 82978554, anidzk2
 82aea55f, Scroll|paper folding|tabletop|Chinese style|without people|ancient books|brushes|ink cartridges|bamboo|light effects soft|paper materials|close-up atmosphere|particles|gilding|gold line texture|flowers|petals|painting|brushes|To render in a mixed scene|Masterpiece|Top Quality|Official Art|Beauty and Aesthetics|8k|Best Quality|Masterpiece|Exquisite Details|absurdres|High definition|extremely high definition|candlestick|daytime
 82b0e27e, A perfect photo|A poorly lit photo|A perfect closeup photo
@@ -2923,6 +2925,7 @@ b5c0b653, modelshoot style
 b5e156ba, vskeei1
 b5f6fe6c, pepe_frog
 b622490a, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
+b62d2ebc, aki|aoki|nobu|aoi|sota
 b6310dde, saukztf|arinax|1girl|ktjtn
 b63a47bb, synthpunk|cyberpunk|fantasy
 b63e1a80, zelda style image of
@@ -3332,6 +3335,7 @@ d636e597, realistic photograph of, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up|source_anime, sdxl_vae.safetensors
+d636e597, woman|sexy figure|Finnish|alluring, sdxl_vae.safetensors
 d636e597, ziov, sdxl_vae.safetensors
 d659f794, rcnz_niji style
 d65c923a, 1girl
@@ -3754,6 +3758,7 @@ f1e11c37, smhcgty
 f1e38437, 1girl，moyou
 f1e9d943, masterpiece|realistic|best quality
 f1edf53b, in the style of HridleyXL|illustration
+f1f8a03e, CinematicVJ
 f202aa0e, Mikasa
 f22d0019, PiroxiumDiffusion style
 f22ff389, trixiemattel drag queen
@@ -3885,6 +3890,7 @@ fab2577c, modelshoot style|analog style|mdjrny-v4 style
 fab53a35, rcnz_niji style
 fad41caf, kawakaze azur lane|silver hair|blue eyes
 fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
+faf2688c, Score_9|score_8_up|score_7_up|masterpiece|best quality|
 fb82c754, realistic|photrealistic
 fb8354fa, kpt digital artstyle|gui
 fbaed9a3, dskyart1|deetz1
