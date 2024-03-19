@@ -1388,6 +1388,7 @@
 51bfb216, chibi
 51c34eea, Nendoroid
 51f16ca3, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
+5203b60b, Score_9|score_8_up|score_7_up|masterpiece|best quality|
 521893a1, voxel-ish
 523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
 52395e18, none
@@ -3089,6 +3090,7 @@ c2cd58a3, Evang Style, beejaydel_bjd20000MoreDetail.safetensors
 c2cd58a3, Evang style, chibi_2024ADD.safetensors
 c2cd58a3, Evang, beejdAndSketchMix_v10.safetensors
 c2cd58a3, evang style, madballs_v10.safetensors
+c30d5962, N/A
 c3246d22, Evang
 c326880c, masterpiece|best quality
 c3277c7d, modelshoot style
