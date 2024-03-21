@@ -3835,6 +3835,7 @@ f5bf5a19, SDArt
 f5d9c703, snthwve style
 f60494f4, Monet|close up|full body|Victorian, noisyElementXL_noisyElementXL.safetensors
 f60494f4, Victorian|Monet|full body|close up, victorianAnimeArtXL_vaxl.safetensors
+f60494f4, score_9|score_8_up|score_7_up, copycat_v15.safetensors
 f61ceeaf, xao-arab-girl
 f6239527, brtdrpp
 f6355763, Ajm, xxajm_v10.safetensors
