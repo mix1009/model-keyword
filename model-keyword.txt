@@ -979,6 +979,7 @@
 30e45754, cityscape
 30ee044a, test
 30fbd8bc, sks person
+314630cf, duskypie|lisdusk1|lisdusk2|kairowez|mdjrny-v4 style
 3148d4f3, female|male
 3150f324, shiny skin
 318a302e, arcane style
@@ -1387,6 +1388,7 @@
 51883359, anime
 518d78a0, 35mmstyle
 51935af1, by chon
+51a80276, anime screencap
 51b47801, RAW photo of
 51bfb216, chibi
 51c34eea, Nendoroid
@@ -3835,6 +3837,7 @@ f5bf5a19, SDArt
 f5d9c703, snthwve style
 f60494f4, Monet|close up|full body|Victorian, noisyElementXL_noisyElementXL.safetensors
 f60494f4, Victorian|Monet|full body|close up, victorianAnimeArtXL_vaxl.safetensors
+f60494f4, all fours|seiza|wariza|squatting|kneeling|high kick|flying kick|Monet|real life|anime|realistic|Victorian|hand focus|foot focus|full body|close up, noisyElementXL_v25.safetensors
 f60494f4, score_9|score_8_up|score_7_up, copycat_v15.safetensors
 f61ceeaf, xao-arab-girl
 f6239527, brtdrpp
