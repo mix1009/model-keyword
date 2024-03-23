@@ -1615,6 +1615,7 @@
 609698f6, Peyton Elizabeth Lee, peytonElizabethLee_v10.safetensors
 60cbc38b, Isometric|No Humans
 60f72dcb, Evang
+60fc9a30, anime screencap
 60fe2f34, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 60fe3f35, ricknmorty style
 610879f9, flat color
@@ -2014,6 +2015,7 @@
 7e67267b, eldmeisterOG
 7e6c193b, Real|realistics
 7e8d1b0b, coralchar
+7e9708cb, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 7ebe8fad, buzz Lightyear  eat hotdrynoodle
 7ec31957, beth woman
 7edc8e08, mksks style
@@ -2202,6 +2204,7 @@
 8d9aaa54, nvinkpunk
 8d9f015b, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 8d9f6326, highres|raifu
+8de50d7b, Mature female
 8e121fec, none
 8e145533, claymation|80's anime style
 8e194b43, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
@@ -3525,6 +3528,7 @@ deb6b205, gatto
 debb9b54, v2_lora_TiltDown.ckpt
 def85d63, pixelart|sprite|8-bit|16-bit
 df2df325, googiearch
+df3e9533, pixel art
 df410284, KEMONO
 df62a361, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 df690a54, furry|kemono
