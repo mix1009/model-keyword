@@ -2927,6 +2927,7 @@ b3b73d0d, masterpiece|best quality|virtual youtuber|character:1.2
 b3d63325, zwx art style|oxwbdtmv art style
 b435006c, JasonAldean Person
 b476be4e, RPG|realistic|base model|fantasy|semi-realistic|character
+b478e745, LegendDarkFantasy|Made_of_pieces_of_broken_glass
 b47ad8fe, d&d character
 b482163d, xivcine style
 b4bec83f, depth of field|photo|film
@@ -3716,6 +3717,7 @@ ed0b4125, anime style|illustration|oil painting|analog style|realistic|photoreal
 ed296396, goldentrig|GTv2
 ed65d07a, SEE APPENDIX|见附录
 ed87e89c, tchnclr style
+ed89f73a, big eyes|pale skin|glossy lipstick
 ed977a93, bambaa, bambaa_v10.ckpt
 ed977a93, dicuki, dinosRichstyle15_dicuki.ckpt
 ed977a93, dvmech, dvmech_100.ckpt
