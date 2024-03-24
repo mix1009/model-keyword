@@ -181,6 +181,7 @@
 09bcb72f, Blood Everywhere, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Blood everywhere, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, European|detailed skin, vae-ft-mse-840000-ema-pruned.safetensors
+09bcb72f, Masterpiece|best quality, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Navia, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, Nothing, vae-ft-mse-840000-ema-pruned.safetensors
 09bcb72f, chibi, vae-ft-mse-840000-ema-pruned.safetensors
@@ -613,6 +614,7 @@
 176d4cf3, 2000s|1990s|1980s|1970s|1960s|1950s|1940s|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jiri tulach style|komrant style|marie dashkova style|olga boyko style|digital art|interior design|macro photography|polaroid style|sucidegirl|wild nature
 1778571e, + +|sparkling eyes|Starry eyes
 1789d7b1, luna
+1794cf87, futanari
 17a8d3c3, kasukanrasty
 17b7e1de, romerorzeternos
 17b8cc9c, woman|girl
@@ -1886,6 +1888,7 @@
 7475158a, figurine|figure
 747ef805, illustration|comic style|realistic|Comic Poster|Line Art
 749bb318, dark atmosphere
+74a12802, futanari
 74d7d300, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 74e33b7a, masterpiece|best quality|furry|kemono
 74f4c61c, redshift style
