@@ -764,6 +764,7 @@
 207a41ba, rainbowpatch
 20814a0a, daniela
 208f75ce, lamia
+20a0e612, furry|anthro
 20c6a837, Nvinkpunk|samdoesarts
 20fa24db, xxmixgirl
 2115985a, see description
@@ -1183,6 +1184,7 @@
 409d5f37, 1girl
 40ada8c2, watercolor
 40f03cf4, artistic portrait|beautiful detailed face|looking at the viewer|digital art style|oil painting style|colorful|dynamic lighting|vibrant light|shadow detailed|highly detailed|anime style|speed art|brush strokes|beautiful and aesthetic|masterpiece|ultra wide angle|surrealist|abstract artistic|gradient background
+41358439, furry|anthro
 413c9e87, best quality|tifa lockhart _cosplay_|aqua eyes|black hair|closed mouth|outdoors|solo|allur|ultra detailed|8k|hdr|octane render|unreal engine 5|amazing depth|rich colors|powerful imagery|psychedelic overtones|4k|8k.
 413f6b0f, nomanssky style
 41543d33, ned stark|jon snow|catelyn stark|daenerys targaryen|robert baratheon|arya stark|joffrey baratheon|tyrion lannister|jaime lannister|robb stark|petyr baelish|littlefinger|sansa stark|bran stark|cersei lannister|viserys targaryen|jorah mormont|benjen stark|waymar royce|rakharo dothraki|will ranger|jeor mormont|doreah handmaid|irri dothraki|maester luwin|khal drogo|the hound|sandor clegane|lord varys|rast ranger|rodrik cassel|maester aemon|mycah butcher son|grenn ranger|gared ranger|theon greyjoy|ser barristan selmy|jory cassel|ros cook|yoren recruiter|wildling girl|royal steward|catspaw assassin|pypar steward|old nan|illyrio mopatis|ilyn payne|lancel lannister|renly baratheon|mikken blacksmith|alliser thorne|syrio forel|game of thrones
@@ -2295,6 +2297,7 @@
 934d97fb, cartoon|illustration
 93616893, Evang
 936c64e3, evang
+93939eeb, furry|anthro
 93a727e8, foxgirl
 93e73bf3, sophialoren
 93f72c18, sks woman
@@ -3210,6 +3213,7 @@ c9462890, Archilab
 c951cc0e, sks person
 c95c43ce, Mature Female
 c9a2e2a1, GGH23 person
+c9a83c78, furry|anthro
 c9c45d16, Pris
 ca198d1c, actionauf, actionauf_v10.safetensors
 ca198d1c, alstar, alstar_v10.safetensors
@@ -3511,6 +3515,7 @@ de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetens
 de2f2560, anime, decxcris_v10.safetensors
 de2f2560, aroamoyasi|kishida mel|amamiya yuko|shihou matsuri|hiten|mituk1|yohaku, alusStew_v10.safetensors
 de2f2560, dal, dalcefoKanim_v3.safetensors
+de2f2560, furry|anthro, furationBETA_rebootedVPREDPart.safetensors
 de2f2560, girl, replicantV30_v30.safetensors
 de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
 de2f2560, illustration, trMagicOnPaperSD15_Illustration.safetensors
