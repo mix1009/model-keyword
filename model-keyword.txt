@@ -3389,7 +3389,9 @@ d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
 d636e597, UMP45, sdxl_vae.safetensors
 d636e597, bbone|vpanties|vibrator insertion|, sdxl_vae.safetensors
+d636e597, india|saree|influencer|saree model|real face|beautiful|sexy, indianSaree_v10.safetensors
 d636e597, realistic photograph of, sdxl_vae.safetensors
+d636e597, realistic|real face|hyper realsitic|influencer|insta influencer|beautiful|sexy|pretty, realisticInsta_v10.safetensors
 d636e597, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up|source_anime, sdxl_vae.safetensors
