@@ -814,7 +814,6 @@
 23fb9b9e, 1girl|moyou
 2402f7e7, lamia
 24130fdd, milf
-2431ddbd, N/A
 24362016, fiat, fiatPanda_v10.safetensors
 24362016, x90, suzukiX90_v10.safetensors
 2436b105, 1girl
@@ -944,7 +943,6 @@
 2d168544, Evang
 2d447b0f, tk-char|tk-env
 2d527bd2, Evang
-2d6488e1, furry|anthro
 2d659c22, Game Icon Institute3d
 2d78a77b, shaonv
 2daa7d28, bbone|vpanties|vibrator insertion|
@@ -1187,7 +1185,6 @@
 409d5f37, 1girl
 40ada8c2, watercolor
 40f03cf4, artistic portrait|beautiful detailed face|looking at the viewer|digital art style|oil painting style|colorful|dynamic lighting|vibrant light|shadow detailed|highly detailed|anime style|speed art|brush strokes|beautiful and aesthetic|masterpiece|ultra wide angle|surrealist|abstract artistic|gradient background
-41358439, furry|anthro
 413c9e87, best quality|tifa lockhart _cosplay_|aqua eyes|black hair|closed mouth|outdoors|solo|allur|ultra detailed|8k|hdr|octane render|unreal engine 5|amazing depth|rich colors|powerful imagery|psychedelic overtones|4k|8k.
 413f6b0f, nomanssky style
 41543d33, ned stark|jon snow|catelyn stark|daenerys targaryen|robert baratheon|arya stark|joffrey baratheon|tyrion lannister|jaime lannister|robb stark|petyr baelish|littlefinger|sansa stark|bran stark|cersei lannister|viserys targaryen|jorah mormont|benjen stark|waymar royce|rakharo dothraki|will ranger|jeor mormont|doreah handmaid|irri dothraki|maester luwin|khal drogo|the hound|sandor clegane|lord varys|rast ranger|rodrik cassel|maester aemon|mycah butcher son|grenn ranger|gared ranger|theon greyjoy|ser barristan selmy|jory cassel|ros cook|yoren recruiter|wildling girl|royal steward|catspaw assassin|pypar steward|old nan|illyrio mopatis|ilyn payne|lancel lannister|renly baratheon|mikken blacksmith|alliser thorne|syrio forel|game of thrones
@@ -1200,7 +1197,6 @@
 41fef4bd, nousr robot
 4207b96d, Nothing
 420cb71f, datou|white background|solo|upper body:1.5|
-42129205, N/A
 421384ab, shinyunbok painting
 42279ad8, claymation|80's anime style
 42321f78, score_9|score_8_up|best quality|masterpiece|4k|uncensored|prefect lighting|rating_explicit|very aesthetic|BREAK
@@ -1409,7 +1405,6 @@
 51bfb216, chibi
 51c34eea, Nendoroid
 51f16ca3, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
-5203b60b, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM
 521893a1, voxel-ish
 523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
 52395e18, none
@@ -1450,7 +1445,6 @@
 5502af6a, nkoctst
 550719bf, realistic
 550e3660, sphs|sisyphustone|toiljoy|manpushrock
-5510798d, N/A
 55537280, temp
 556b18ab, rcnz_niji style
 557350e1, Ak47, aku_v10.ckpt
@@ -1493,8 +1487,6 @@
 584f63ab, SEE APPENDIX A|见附录A, sdxl_vae.safetensors
 584f63ab, SEE APPENDIX|见附录, sdxl_vae.safetensors
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality|, sdxl_vae.safetensors
-584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM, sdxl_vae.safetensors
-584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM|yutamix-twinkle, sdxl_vae.safetensors
 584f63ab, masterpiece|score_9|score_8_up|score_7_up|best quality|, sdxl_vae.safetensors
 584f63ab, ~*~aesthetic~*~, sdxl_vae.safetensors
 584f63ab, 伤妃-刘亦菲|1girl|, sdxl_vae.safetensors
@@ -1552,7 +1544,6 @@
 5b4e980d, style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
 5b698c45, N/A
 5b8f72ee, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
-5b98c2a7, N/A
 5ba11045, TheRPGCharGenEsAFArt
 5bba7f87, as a t-shirt logo in the style of <magifactory> art
 5bba81f8, 3d product render|product render
@@ -1790,7 +1781,6 @@
 6ca4896d, Jessewatters Person
 6cbb8c9b, fashion|man|woman
 6ccf7f6a, furry
-6ce2ada9, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM|yutamix-twinkle
 6cec876b, pixel art|pixel art style
 6d15da60, 0dawon, 0dawon_v10.safetensors
 6d15da60, Dw, AnalGapeCreampie-v4.safetensors
@@ -2302,7 +2292,6 @@
 934d97fb, cartoon|illustration
 93616893, Evang
 936c64e3, evang
-93939eeb, furry|anthro
 93a727e8, foxgirl
 93e73bf3, sophialoren
 93f72c18, sks woman
@@ -2527,7 +2516,6 @@
 9c7652fc, OBJECT|NO HUMANS|SOLO FOCUS|ITEMS
 9c87d0f1, xmbl
 9c88bb9e, PiroxiumDiffusion style
-9c9f016f, N/A
 9ca13f02, analog style
 9cc84dde, retro manga
 9cde17f8, Cartoon Girl
@@ -2807,7 +2795,6 @@ ab4941a7, fantasticmrfox
 ab5ea887, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base, albedobaseXL_v13.safetensors
 ab5ea887, photo|2d|3d|anime|game|photorealistic|cinematic|design|contemporary|art, albedobaseXLPre_v15pre.safetensors
 ab770255, Anime
-ab861d3d, N/A
 ab8b0894, Drawn in the style of Summertime Saga
 ab96dea3, cartoon character|animation character
 ab9d9647, sks man
@@ -3218,7 +3205,6 @@ c9462890, Archilab
 c951cc0e, sks person
 c95c43ce, Mature Female
 c9a2e2a1, GGH23 person
-c9a83c78, furry|anthro
 c9c45d16, Pris
 ca198d1c, actionauf, actionauf_v10.safetensors
 ca198d1c, alstar, alstar_v10.safetensors
@@ -3374,7 +3360,6 @@ d52fc124, kurisu|1girl
 d5438b80, 1girl
 d56a53f3, aodai|cotrang
 d57fa787, by hanaarare
-d58ab10e, N/A
 d5ab6701, Evang
 d5b1726a, Masterpiece|Best Quality
 d5cea653, gege
@@ -3479,7 +3464,6 @@ db4c9d4d, Kath1
 db4f8fe5, chilloutWorld|chilloutWorld_v1
 db5960c1, OOKZA Vampire Style
 db63da75, dal|photo
-db9093bd, earthmover|charging spear|immobilized|lights
 dba10b61, lyndacarter
 dbbf8175, in lomostyle
 dbee7f6e, furry|anthro
@@ -3962,7 +3946,6 @@ fab2577c, modelshoot style|analog style|mdjrny-v4 style
 fab53a35, rcnz_niji style
 fad41caf, kawakaze azur lane|silver hair|blue eyes
 fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
-faf2688c, Score_9|score_8_up|score_7_up|masterpiece|best quality|
 fb82c754, realistic|photrealistic
 fb8354fa, kpt digital artstyle|gui
 fbaed9a3, dskyart1|deetz1
