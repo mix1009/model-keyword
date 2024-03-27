@@ -76,7 +76,6 @@
 02dc71ee, hunsha_girl, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, illustration, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, masterpiece|realistic|best quality, ClearVAE_V2.3_fp16.safetensors
-02dc71ee, mature female, ClearVAE_V2.3_fp16.safetensors
 02f311af, BELLEZA, vanesa_v10.ckpt
 02f311af, David, modelguyyy_v10.ckpt
 02f311af, Joh1, joh1_v10.ckpt
@@ -697,7 +696,6 @@
 1c83d3db, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 1c842e26, furry
 1cecdd34, anime|girl|boy|woman|man|robo
-1d080a8f, mature female
 1d0d03ee, botw style
 1d116781, furry
 1d132f9e, whatif style|tdst style
@@ -2094,7 +2092,6 @@
 8371a0bf, spicto
 8381f785, jclnhbe style
 83db46be, Fantasy|Anime|fantasy Backgrounds
-83dd9d1a, professional photo
 844eeb7d, 1 girl
 84597c2e, style of joemadureira
 8469c1b7, in WKHW1 Beautiful Art Style
@@ -3202,7 +3199,6 @@ c90f9fe6, highres|raifu
 c91be480, Dloz|Dloz style
 c9462890, Archilab
 c951cc0e, sks person
-c95c43ce, Mature Female
 c9a2e2a1, GGH23 person
 c9c45d16, Pris
 ca198d1c, actionauf, actionauf_v10.safetensors
@@ -3858,6 +3854,7 @@ f4d857f2, God
 f4d8697e, lastname name
 f4dd44ad, svtbuild
 f4f5e408, rwx woman
+f506e136, Futuristic city|drone view|
 f536a061, wvyari
 f56062de, nvinkpunk|mdjrny-v4 style|kairowez|lisdusk1|lisdusk2
 f588c09f, cloud
