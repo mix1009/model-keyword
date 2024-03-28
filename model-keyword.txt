@@ -491,7 +491,8 @@
 10209fd6, dalcefo
 1024463c, realistic|photorealistic
 1027d657, httr
-1034f5f1, masterpiece|best quality|
+1034f5f1, OIL PAINTING|FLOWER, shimily_v10.safetensors
+1034f5f1, masterpiece|best quality|, shmily_v10.safetensors
 10419930, hassanfantasy style
 10783134, furry
 108830f2, 1 girl
