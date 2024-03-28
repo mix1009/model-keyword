@@ -2511,7 +2511,8 @@
 9c55fd12, mirrormask
 9c5da18d, girl|woman|man|boy
 9c7652fc, OBJECT|NO HUMANS|SOLO FOCUS|ITEMS
-9c87d0f1, xmbl
+9c87d0f1, xiong, 90 Epoch.safetensors
+9c87d0f1, xmbl, xmbl_v10.safetensors
 9c88bb9e, PiroxiumDiffusion style
 9ca13f02, analog style
 9cc84dde, retro manga
@@ -3462,6 +3463,7 @@ db5960c1, OOKZA Vampire Style
 db63da75, dal|photo
 dba10b61, lyndacarter
 dbbf8175, in lomostyle
+dbe745d9, horizontal composition|vertical composition|monochrome|grayscale|no humans|traditional media
 dbee7f6e, furry|anthro
 dc01dfdd, ohwx|demon|werewolf|minotaur|zombie|
 dc05355d, sksi object|sksi
