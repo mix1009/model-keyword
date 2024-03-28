@@ -764,7 +764,6 @@
 207a41ba, rainbowpatch
 20814a0a, daniela
 208f75ce, lamia
-20a0e612, furry|anthro
 20c6a837, Nvinkpunk|samdoesarts
 20fa24db, xxmixgirl
 2115985a, see description
@@ -876,6 +875,7 @@
 282b4e08, Fraufembot
 2857f4c6, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 28ae9d27, tk-char|tk-env
+28b4be0c, furry|anthro
 28b9b487, masterpiece|top quality|best quality|official art|beautiful and aesthetic:1.2|8k|best quality|masterpiece:1.2|no humans
 28bfe9f2, anthro|furry|female|canine
 28c385a0, Bloodborne Style
@@ -1996,6 +1996,7 @@
 7b70e8f9, sam yang
 7b8aff9d, Pokemon
 7b9572be, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+7b9ed6d0, furry|anthro
 7baf9aba, Realistic Anime Style|Realistic|Anime|Hybrid reality
 7bfb80d6, sks style
 7bfd4934, modelshoot style
@@ -3501,7 +3502,6 @@ de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetens
 de2f2560, anime, decxcris_v10.safetensors
 de2f2560, aroamoyasi|kishida mel|amamiya yuko|shihou matsuri|hiten|mituk1|yohaku, alusStew_v10.safetensors
 de2f2560, dal, dalcefoKanim_v3.safetensors
-de2f2560, furry|anthro, furationBETA_rebootedVPREDPart.safetensors
 de2f2560, girl, replicantV30_v30.safetensors
 de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
 de2f2560, illustration, trMagicOnPaperSD15_Illustration.safetensors
