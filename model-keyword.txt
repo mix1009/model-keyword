@@ -18,7 +18,6 @@
 01a6ec8e, ldr
 01b659b9, nomanssky style|starship
 01bc5b9e, cnxianxia
-01de4b16, Disney|Pixar
 01e48467, anime
 01e58d70, ryokuchamichi|clothed midsection|bottom heavy body|top heavy body|tubefeeding|tubefeeding in mouth|gigantic belly|hyper belly|belly on floor
 01f61612, clonewars style
@@ -788,7 +787,6 @@
 223531c6, laura pausini|maria elena boschi|ela weber|sabrina ferilli|claudia pandolfi|sanna marin|andariel|maghda|diablo|infested sarah kerrigan|selvaggia lucarelli|elisa isoardi|fatima trotta|virginia raggi|chiara francini|barbara d'urso|michela vittoria brambilla|lorena bianchetti, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, luna, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, masterpiece, vae-ft-mse-840000-ema-pruned.ckpt
-223a75d4, Disney|Pixar
 223c514b, Evang style
 2258c119, CNDigitalArt Style
 2275f2cf, 90s retro anime style|xx year anime style
@@ -3287,6 +3285,7 @@ d05570b1, nieniezi girl|1girl|pink eye|purple eye|demon tail|ahoge|demon wings|h
 d081535b, doang woman
 d0941469, muscular|bodybuilder|large muscles|big muscles|hairy chest|hairy body
 d098dada, dskbbb1
+d0a464b0, Disney||Pixar
 d0b457ae, modelshoot style|analog style|mdjrny-v4 style
 d0bbd388, pre-rendered|3d graphics
 d0ce5e98, stoneocean
@@ -3371,6 +3370,7 @@ d634b8cb, kvn, myModelKevin_v10.ckpt
 d634b8cb, paul, sameer_v1.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
+d636e597, Realistic|Art|Surreal|Experimentell, sdxl_vae.safetensors
 d636e597, UMP45, sdxl_vae.safetensors
 d636e597, bbone|vpanties|vibrator insertion|, sdxl_vae.safetensors
 d636e597, india|saree|influencer|saree model|real face|beautiful|sexy, indianSaree_v10.safetensors
@@ -3691,6 +3691,7 @@ e9a220ba, 1girl|solo|mole under eye
 e9c42a35, meitu|sailor moon style|anime style|manga
 e9caaf6a, analog style|chromav5|nvinkpunk
 e9cbb77e, musician
+e9d8a855, Disney||Pixar
 ea0081f1, photography|all|hyperrealistic
 ea0c5b7a, ArchModern
 ea1e7cc7, FlonixMatyukhinft|FlonixApterus|Danmumford style
