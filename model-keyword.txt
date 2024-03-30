@@ -886,6 +886,7 @@
 29071f31, Happy new year
 291b67b8, maxwell the cat
 291e7dc8, monochrome
+29315b68, thai
 29323d76, Ligne Claire|PC-98
 2933589a, bld aesthetic
 29342dcf, a strawberry|butter|pink|vector illustration|cartoon|anime|cute|baby|kirby|strawberries with whipped butter
@@ -2811,6 +2812,7 @@ ab48e25c, chibi
 ab4941a7, fantasticmrfox
 ab5ea887, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base, albedobaseXL_v13.safetensors
 ab5ea887, photo|2d|3d|anime|game|photorealistic|cinematic|design|contemporary|art, albedobaseXLPre_v15pre.safetensors
+ab5ea887, update, update_v10.safetensors
 ab770255, Anime
 ab8b0894, Drawn in the style of Summertime Saga
 ab96dea3, cartoon character|animation character
