@@ -3167,6 +3167,7 @@ c3c086d6, artstyle bse
 c3c1dc18, a painting in the style of guidao style
 c3cfd75d, powa
 c3d52f46, Femboy|Feminine|Short hair|Cute|Beautiful|Flat chest, femboyLora_v10.safetensors
+c3d52f46, Mina, test_mina.safetensors
 c3d52f46, bob cut, 1712321743829754255.safetensors
 c3d52f46, brown hair|clara|short hair|mini skirt|orange skirt, claraHananokouji_v10.safetensors
 c3d52f46, cute woman|bowtie|sailor collar|pleated skirt, priya_v10.safetensors
@@ -3607,6 +3608,7 @@ e136d291, None
 e13c6405, RAW photo of|Analog photo of
 e1a9b17f, 1girl
 e1b7c805, woolitize
+e1c7ea87, sad
 e1e66020, entp
 e246da64, syberart
 e2494235, FLUIDART LIQUID SPLASH KNOLLINGCASE FOOD_CRIT BEEPLE
