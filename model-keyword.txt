@@ -1181,6 +1181,7 @@
 3f6fbd7f, PERSON, lawillis_v10.ckpt
 3f6fbd7f, person prueba, lawillis_v10.ckpt
 3f76682f, Anime|manga|cartoon
+3f9bbd71, score_9|score_8_up|score_7_up|3d-realisticstyle|score_9|score_8_up|score_7_up|2d-animestyle
 3fb6a757, Cute|kawaii|high-angle view
 3ff95373, sks woman
 4003fb6f, by kurige
@@ -1726,6 +1727,7 @@
 6706598a, FUTANARI|NO_TESTICLES|ERECTION|GIRL
 670c1702, photo of rafivai person
 671719a5, furry
+671fd921, Game style
 672d1e3e, lea-seydoux person|lea-seydoux
 673ca4ea, modelshoot style
 6785492c, nier9s
@@ -2166,6 +2168,7 @@
 883864bf, speedpainting
 883f759a, jwl watercolor
 8853491f, cartoon character
+885be986, daniellemoinet
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
 88ff0293, evang
 890cb2e4, photorealistic
@@ -3987,7 +3990,8 @@ fab53a35, rcnz_niji style
 fad41caf, kawakaze azur lane|silver hair|blue eyes
 fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
 faecabab, furry|anthro
-faf2688c, Score_9|score_8_up|score_7_up|masterpiece|best quality|
+faf2688c, Score_9|score_8_up|score_7_up|masterpiece|best quality|, iselestiaDiffusion5_mk1Cute.safetensors
+faf2688c, masterpiece|score_9|score_8_up|score_7_up|best quality|, iselestiaDiffusion5_mk5Aesthetic.safetensors
 fb82c754, realistic|photrealistic
 fb8354fa, kpt digital artstyle|gui
 fbaed9a3, dskyart1|deetz1
