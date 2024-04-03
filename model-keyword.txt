@@ -13,6 +13,7 @@
 00f52966, Ugly
 0134e6b7, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
 0149de1f, linus sebastian person
+01518964, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 019cc77b, masterpiece|face portrait|ultra detailed
 01a35826, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 01a6ec8e, ldr
@@ -76,6 +77,7 @@
 02dc71ee, hunsha_girl, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, illustration, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, masterpiece|realistic|best quality, ClearVAE_V2.3_fp16.safetensors
+02dc71ee, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, ClearVAE_V2.3_fp16.safetensors
 02f311af, BELLEZA, vanesa_v10.ckpt
 02f311af, David, modelguyyy_v10.ckpt
 02f311af, Joh1, joh1_v10.ckpt
@@ -120,6 +122,7 @@
 050f0bae, Analog Style|Photorealistic|Realistic|Mature Adult|Fantasy Art|Illustration|Watercolor|Concept Art|Oil Painting|Surrealism|Brush Strokes|Pointillism|Hyperrealistic|Perfect Shading|Masterpiece|Subsurface Scattering|Perfect Lighting|Volumetric Lighting
 0519e070, nerdphoton1, nerdPhoton1_v10.ckpt
 0519e070, nerdphoton2, guttoNerdPhoton2_v20.ckpt
+053a9feb, Oil Painting|Watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn
 0579cceb, pixiv masterpiece
 057f38eb, cumonhands|hanging testicles|blackfemale|whitefemale|redbonefemale|cumfacial|blowjobsex|handjobsex|cumshot|cumonbreasts|man's cock|whiteman|blackman|whitecock|blackcock|nakedoldman|one man|eroticposing
 0586db75, cornflower
@@ -803,6 +806,7 @@
 23245ceb, realistic|realism|photo
 234cc409, comicmay artsyle
 235ea42c, sks woman
+2362ed25, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 2375d404, P4U14
 237ec903, Evang
 2386519a, 树|印象派|抽象
@@ -3018,6 +3022,7 @@ b742bc35, 8k|raw photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.
 b742bc35, m, girlMix_girlsmix.safetensors
 b744269d, Evang
 b78b4650, filfigari
+b798ff50, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 b79a53c1, greek
 b7a08fdf, ohwx monster|ohwx monster devil|ohwx devil
 b7ba5b22, effeff9 woman|effeff9 man|effeff9 creature|effeff9 architecture, effeffixConcept_main.ckpt
@@ -3036,6 +3041,7 @@ b8e8e6ac, _mohawk_|character
 b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
 b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
 b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style, aargArchitecture_v10.safetensors
+b962464e, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 b97d7651, #SexyRed
 b9ac173c, SDArt
 b9c3fe1b, ohwx|bnha
@@ -3488,9 +3494,11 @@ dab15164, microworld, microworldsRemake_version2.ckpt
 dab15164, romanallcoma, romanallcoma_v10.ckpt
 dab15164, wawavawa, model1_ver1.ckpt
 dab3bb51, marblesh|marblee|marblee style
+dab88696, Oil Painting|Watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, kl-f8-anime2.safetensors
 dab88696, futanari|erection|flaccid|puffy nipples, kl-f8-anime2.safetensors
 dab88696, futanari|erection|flaccid|testicles, kl-f8-anime2.safetensors
 dab88696, narrow_waist|curvy, kl-f8-anime2.safetensors
+dab88696, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, kl-f8-anime2.safetensors
 dab88696, shiny skin, kl-f8-anime2.safetensors
 dad06477, Realistic, matrixStellar_v11VAE.safetensors
 dad06477, female|male|landscapes|realistic|man|woman|SCIFI, matrixStellar_v11VAE.safetensors
@@ -3733,6 +3741,7 @@ e97f7a1c, human, alignmentTurnHumansTo_2000Steps.safetensors
 e98189f6, Hassaku|Meina
 e9828af0, cumonbreasts|cumfacial|cumshot|nakedoldman|penis|testicles|cum on hair|cum on body|cum on breasts|cum
 e9a220ba, 1girl|solo|mole under eye
+e9b6176e, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 e9c42a35, meitu|sailor moon style|anime style|manga
 e9caaf6a, analog style|chromav5|nvinkpunk
 e9cbb77e, musician
