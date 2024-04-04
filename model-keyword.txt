@@ -1786,6 +1786,7 @@
 6ba9c09a, girl
 6baa48b3, modelshoot style
 6bb23006, elden ring style
+6bb6e31f, hana_aikatsu
 6bb855f1, modelshoot style
 6bcb4769, trained with chilloutmix|chinabeauty|dreamlike|a lot of others
 6bccbcc6, EduCH, edumodel_v10.ckpt
