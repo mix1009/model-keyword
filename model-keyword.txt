@@ -22,6 +22,7 @@
 01e48467, anime
 01e58d70, ryokuchamichi|clothed midsection|bottom heavy body|top heavy body|tubefeeding|tubefeeding in mouth|gigantic belly|hyper belly|belly on floor
 01f61612, clonewars style
+01f7e1e7, furry|anthro
 01f8af50, Evang
 020f5e3f, R2-D2, r2D2Diffusion_v10.safetensors
 020f5e3f, nomanssky style, noMansDiffusion_v02.safetensors
@@ -3556,7 +3557,7 @@ de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetens
 de2f2560, anime, decxcris_v10.safetensors
 de2f2560, aroamoyasi|kishida mel|amamiya yuko|shihou matsuri|hiten|mituk1|yohaku, alusStew_v10.safetensors
 de2f2560, dal, dalcefoKanim_v3.safetensors
-de2f2560, furry|anthro, furationBETA_refinedVPRED.safetensors
+de2f2560, furry|anthro, furationBETA_rebootedREFINEDVPRED.safetensors
 de2f2560, girl, replicantV30_v30.safetensors
 de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
 de2f2560, illustration, trMagicOnPaperSD15_Illustration.safetensors
@@ -3923,6 +3924,7 @@ f5aa9391, SDArt
 f5b84ac3, Shataki
 f5bf5a19, SDArt
 f5c6687f, masterpiece|score_9|score_8_up|score_7_up|best quality|
+f5d900ae, d
 f5d9c703, snthwve style
 f60494f4, Monet|close up|full body|Victorian, noisyElementXL_noisyElementXL.safetensors
 f60494f4, Victorian|Monet|full body|close up, victorianAnimeArtXL_vaxl.safetensors
