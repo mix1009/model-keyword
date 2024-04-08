@@ -2018,6 +2018,7 @@
 7a77a7f5, yu-gi-oh!creature
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
 7a8ece1f, Evang
+7aaeee43, woman
 7ad31fc7, none
 7af9cd4c, EduSDII, modelcharacter_v10.ckpt
 7af9cd4c, otanisauota, otanisauota_v10.ckpt
@@ -3436,6 +3437,7 @@ d636e597, realistic|real face|hyper realsitic|influencer|insta influencer|beauti
 d636e597, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up|source_anime, sdxl_vae.safetensors
+d636e597, woman, sdxl_vae.safetensors
 d636e597, woman|sexy figure|Finnish|alluring, sdxl_vae.safetensors
 d636e597, ziov, sdxl_vae.safetensors
 d659f794, rcnz_niji style
