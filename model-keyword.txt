@@ -2692,7 +2692,8 @@ a3e9ec50, painting
 a402810e, 1990 style|retro artstyle|1980 style, eraEstheticRetroAnime_retroV21VAE.safetensors
 a402810e, 1990s style|1980 style|retro artstyle, eraEstheticRetroAnime_retroV30VAE.safetensors
 a402810e, 1990s style|1980s style|retro artstyle, eraEstheticRetroAnime_retroV60VAE.safetensors
-a402810e, anime screencap, animeScreencapStyle_assV14Beta.safetensors
+a402810e, anime screencap, animeScreencapStyle_assV13.safetensors
+a402810e, anime screencap|anime coloring, animeScreencapStyle_assV14Beta.safetensors
 a402810e, ogipote, crystalCleanOgipote_ogipote25DV20.safetensors
 a4066aa4, emaiti
 a41a2496, gigachad
