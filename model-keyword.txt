@@ -2553,7 +2553,7 @@
 9c55fd12, mirrormask
 9c5da18d, girl|woman|man|boy
 9c7652fc, OBJECT|NO HUMANS|SOLO FOCUS|ITEMS
-9c87d0f1, xiong, 90 Epoch.safetensors
+9c87d0f1, xiong, last-000090.safetensors
 9c87d0f1, xmbl, xmbl_v10.safetensors
 9c88bb9e, PiroxiumDiffusion style
 9c9f016f, N/A
