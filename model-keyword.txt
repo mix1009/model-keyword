@@ -1270,6 +1270,7 @@
 457435c3, blue skin, avatarlook_avatarStyle200.ckpt
 457435c3, emina, eminanas_v10.ckpt
 457435c3, na'vi|Avatar|Blue skin, avatarlook_avatarStyle50.ckpt
+4582bfd0, kawaii|chibi
 4583e79e, samdoesarts
 45935779, Benshapiro Person
 459c7820, everydream
