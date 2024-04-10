@@ -1083,6 +1083,7 @@
 3747a99f, iayuso person
 376c5b7b, flowerman, flowerManSD15ckpt_v10.safetensors
 376c5b7b, flowerman2, flowerManSD15lines_v10Refiner.safetensors
+3771a958, BKLD
 37b1ec55, t, animeLineartMangaLike_v30MangaLike.safetensors
 37b1ec55, trtsts, cd_v10.safetensors
 37c58221, guttojugg2
@@ -2170,6 +2171,7 @@
 86baad27, daizu
 86bd187b, elxchavo
 86c0becf, qtcg|licg|gfcg|xscg
+86ca631e, BLUE
 86f94aa2, zrpgstyle
 871a078a, ciloranko|tianliang duohe fangdongye|wlop|mikozin|zyugoya|ask askzy|onono imoko|shanyao_jiang_tororo
 87278b15, ZRpee
@@ -3149,6 +3151,8 @@ bfe69b94, photo of evang style
 bff9c2fc, POW Style
 c01cb481, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 c022d9d2, asiangirlslikeness
+c026097d, FF, tmndmix_v10.safetensors
+c026097d, LAWDA, tmndmix_v10.safetensors
 c0302f10, Gllltchy style|Gllltchy, gllltchy_v1.ckpt
 c0302f10, filmation motu style, filmationMOTU_v1.ckpt
 c055a24d, Game interface|content|buttons|logo|image content|return|stars|flowers
