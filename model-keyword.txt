@@ -1087,6 +1087,7 @@
 37b1ec55, t, animeLineartMangaLike_v30MangaLike.safetensors
 37b1ec55, trtsts, cd_v10.safetensors
 37c58221, guttojugg2
+37c75d53, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 37c9e311, Jessewatters Person
 37dd5eba, fking_scifi
 37deca87, dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories|startling stories|sd-pulp
@@ -1872,6 +1873,7 @@
 705ae506, None
 7088b556, lego man|lego|constructor
 70a6140b, 1980s style||1990s style||retro artstyle|, kmMIXRetroArt25D_v10.safetensors
+70a6140b, chibi, kmMIXByproduct_v4.safetensors
 70a6140b, retro artstyle||1990s style||1980s style|, kmMIXRetroAnimationArt_v10.safetensors
 70f7b200, 1girl|girlvn01
 714f9084, Game characters|full body|original art design
