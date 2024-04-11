@@ -1302,6 +1302,7 @@
 4789dff9, chibi|cute
 4792ff92, ech_gen
 47a34de9, sticker|vector-art
+47a4565a, World
 47b2d7e7, chinese inn, SDXLChineseInn_v10.safetensors
 47b2d7e7, modern villa, SDXLModernVillaV10_v10.safetensors
 47b2d7e7, pixel art, SDXLTurboPixelArtSuper_sdxl10.safetensors
@@ -2672,6 +2673,7 @@ a1f49fa9, A visual title screen
 a1f8c83a, shinyunbok painting
 a2073f09, by mika pikazo
 a21b69c5, bigbrains
+a2228725, masterpiece
 a22399ba, analog style|chromav5|nvinkpunk
 a23afa51, dvarchmodern|dvarchgothic|dvarchvictorian, dvarchMultiPrompt_dvarchExterior.ckpt
 a23afa51, dvmech, dvmech_1017030MergeWithEpic.ckpt
