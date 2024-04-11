@@ -647,7 +647,8 @@
 18b7217d, game icon
 18b72c7b, zainabt
 18c428bc, ysy_anime
-18fcf4d0, score_9|score_8_up|score_7_up|source_anime
+18fcf4d0, digital painting|all the other Pony quality tags|check the prompts!, edgFromZero_v10.safetensors
+18fcf4d0, score_9|score_8_up|score_7_up|source_anime, incursiosMemeDiffusion_v16PDXL.safetensors
 19014c4a, estiloventidois
 190bc75e, 1girl|mecha|
 191173a0, 1
