@@ -822,6 +822,7 @@
 23f104f6, Evang
 23fb9b9e, 1girl|moyou
 2402f7e7, lamia
+2403f1a1, Realistic|Photorealistic
 24130fdd, milf
 2431ddbd, N/A
 24362016, fiat, fiatPanda_v10.safetensors
@@ -1014,6 +1015,7 @@
 31e8084e, Evang style
 31e82ff7, sketch artstyle
 31f96e8b, duskametrik
+32079196, hanfu
 3219d551, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 326d9620, Evang Style
 3272e7dd, masterpiece|best quality, bbMIXLUCI_v10.safetensors
@@ -2671,6 +2673,7 @@ a184fedc, gigafractal artstyle
 a1d9f84f, anime|style|woman, gnomePower_v111.safetensors
 a1d9f84f, score_9|score_8_up|score_7_up, copycat_v13.safetensors
 a1d9f84f, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, ponyFaetality_v10.safetensors
+a1d9f84f, source_anime|figure style, ponyPvcFigure_pony.safetensors
 a1ddf000, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 a1e1b00c, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
 a1f0ad54, insertNameHere
@@ -3333,6 +3336,7 @@ ce1e267a, korean beauty|korean mixed|realistic
 ce21b743, sjh style
 ce273db5, lolsplashart
 ce59d07b, female|male
+ce604a2f, RealisticMix
 ce6d2934, masterpiece|best quality
 ce787c96, evang
 cea9fbcc, modisn disney
@@ -3569,6 +3573,7 @@ dd539c7c, dsktaro1
 dd74bb1c, gilgamesh|1boy
 dd847c89, oilpainting
 dd95fcaf, wabori|tatoo
+dda48439, Realistic|Photorealistic
 ddb22bf6, emaiti
 ddc0f9e2, 1girl|moyou|
 ddc6edf2, mdjrny-v4 style
