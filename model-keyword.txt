@@ -3332,6 +3332,7 @@ cda39816, ccdwr artstyle, conceptCharacter_ccdwrArtstyleBV0.safetensors
 cda39816, ccdwr illustration, conceptCharacter_ccdwrIllustrationBV0.safetensors
 cda836aa, aimoji
 cdc0074f, asian girl|sexy girl
+cdd22aca, raw photo|cosplay photo|fashion photo|anime artwork|cotton doll
 cde643bb, dalcefo
 cdec87a5, chaingirldark style
 ce1e267a, korean beauty|korean mixed|realistic
