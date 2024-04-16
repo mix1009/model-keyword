@@ -890,6 +890,7 @@
 27ea8c02, snthwve style|nvinkpunk
 282b4e08, Fraufembot
 2857f4c6, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
+2869803d, WAS26
 28ae9d27, tk-char|tk-env
 28b4be0c, furry|anthro
 28b9b487, masterpiece|top quality|best quality|official art|beautiful and aesthetic:1.2|8k|best quality|masterpiece:1.2|no humans
@@ -2129,6 +2130,7 @@
 82cb7b65, germy
 82cbe3e7, sks woman|(sks woman)
 82d72bc8, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
+82e257ae, LiquidAF-0-1
 82fd8300, 1 girl
 8300ecaa, artificial-journey style
 83078a1e, 抽象|色块
@@ -2993,6 +2995,7 @@ b23ffcd4, a woman
 b240717e, shuimobysim|shukezouma
 b245152f, powercolor.v1|Drippy watercolor|Vivid watercolor
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
+b284cd62, motion_checkpoint_less_motion
 b29ef034, analog style
 b2c06b09, natnapinh
 b2c47ed5, LEGOstyle
@@ -3392,6 +3395,7 @@ d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|Ao
 d164c734, 4x-animesharp
 d1708df8, sd-prohib|broad brushstrokes|medium brushstrokes|fine brushstrocks|painterly|sentimental|pictorial|idealism|family life|romance|adventure|action|1914|1920|1924|1925|1928|1930|1933|1934|1937
 d184f857, bdicon
+d1a17517, Smoooth-0-1
 d1a80918, thanhph
 d1a8d83f, isometricfuture
 d1b390d3, girl
@@ -3559,6 +3563,7 @@ db4c9d4d, Kath1
 db4f8fe5, chilloutWorld|chilloutWorld_v1
 db5960c1, OOKZA Vampire Style
 db63da75, dal|photo
+db9093bd, woman|full shot
 dba10b61, lyndacarter
 dbbf8175, in lomostyle
 dbe745d9, horizontal composition|vertical composition|monochrome|grayscale|no humans|traditional media
@@ -4101,6 +4106,7 @@ feaa3687, furry|anthro
 feb09aa5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
 ff2d4341, Cartoon|Cartoon Style
+ff4a5e39, motion_checkpoint_more_motion
 ff6a26ef, N/A
 ff7616f1, FRPGFaceGen
 ff7d13a0, architecture|modern house|exterior|building|interior|kitchen|bedroom|livingroom
