@@ -536,6 +536,7 @@
 12558260, 2D|2.5D|Anime|Photo-Realistic|3D Style
 125f67d1, henderson creature|humanoid|house interior|interior|exterior|dark|crawling|large|small
 126f21de, Zwxthej
+12aa363c, briefs|muscles|fixed hands|teeth|long legs
 12c978ba, Shigenori Style
 12cc710c, vjt
 12d0e504, chibi
@@ -1755,7 +1756,8 @@
 6706598a, FUTANARI|NO_TESTICLES|ERECTION|GIRL
 670c1702, photo of rafivai person
 671719a5, furry
-671fd921, Game style
+671fd921, Game style, sdxlV1_v10.safetensors
+671fd921, PVC|3D|Best quality|masterpiece, yutianpvc1058xl19V10_v10.safetensors
 672d1e3e, lea-seydoux person|lea-seydoux
 673ca4ea, modelshoot style
 6785492c, nier9s
