@@ -2159,6 +2159,7 @@
 846a7c0f, N/A
 847546f4, cartoon|cartoon style
 84768f33, dublex
+84820cb6, raw photo|cosplay photo|fashion photo|anime artwork|cotton doll
 8483ace1, Furry|anthropomorphic
 848b72d0, depth of field, unrealityV30_v30.safetensors
 848b72d0, depth of field|film, unrealityV30_v20.safetensors
@@ -3382,6 +3383,7 @@ cfe68a4c, murasa
 d0003adb, ohwx|library
 d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+d027dc5d, Biomech|ink drawing|anatomical|Da_Vinci|vitruvian|painted in renaissance style
 d049af0b, Evang
 d04c5d76, SEE APPENDIX A
 d04d8a1f, lamia
