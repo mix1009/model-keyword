@@ -2028,6 +2028,7 @@
 79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10.safetensors
 79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.safetensors
 79c63bd9, Landscape design
+7a0fd151, 1111, anything_fp16.safetensors
 7a0fd151, BJ_Street-photo, anything_fp16.safetensors
 7a0fd151, Game Icon Institute, anything_fp16.safetensors
 7a0fd151, ang, anything_fp16.safetensors
@@ -3115,7 +3116,7 @@ baf83ef9, 3D modeling|photos|real world, animatedModelsOf_v10.safetensors
 baf83ef9, Photos|real ones|Anime|Illustration, dominationWorld_v02.safetensors
 bb029452, kindigitstyle
 bb167491, UMP45
-bb20f881, SDS_girl, sdsFILMXL_210.safetensors
+bb20f881, SDS_girl, sdsFILM_210.safetensors
 bb20f881, leogirl, leosamsHelloworldXL_helloworldXL10.safetensors
 bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
