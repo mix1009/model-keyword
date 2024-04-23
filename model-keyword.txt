@@ -901,6 +901,7 @@
 28c385a0, Bloodborne Style
 28d20569, sks woman
 28e99b90, See Appendix|见附录部分
+28f509c0, raw photo|cosplay photo|fashion photo|anime artwork|cotton doll
 29071f31, Happy new year
 291b67b8, maxwell the cat
 291e7dc8, monochrome
@@ -2159,7 +2160,6 @@
 846a7c0f, N/A
 847546f4, cartoon|cartoon style
 84768f33, dublex
-84820cb6, raw photo|cosplay photo|fashion photo|anime artwork|cotton doll
 8483ace1, Furry|anthropomorphic
 848b72d0, depth of field, unrealityV30_v30.safetensors
 848b72d0, depth of field|film, unrealityV30_v20.safetensors
