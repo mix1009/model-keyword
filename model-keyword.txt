@@ -1509,7 +1509,8 @@
 566842ff, janadefi
 5683b788, Sofia Wylie
 56a552e4, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
-56b88092, guigubahuang|chinese style|1girl, modelStyleExtraction_guiguExtract2.safetensors
+56b88092, guigubahuang|chinese style, animeIllustDiffusion_guiguExtract3.safetensors
+56b88092, guigubahuang|chinese style|1girl, animeIllustDiffusion_guiguExtract2.safetensors
 56b88092, guigubahuang|chinese style|oil painting \medium\, kmMIXByproduct_wlopstyleGuiguStyle.safetensors
 56b88092, humanoid robot||science fiction||robot joints||android, kmExperimentalMIX_v10.safetensors
 56e15182, dal|nsfw
@@ -1582,6 +1583,7 @@
 5aceb664, kor_mixed 1girl
 5ad07226, art by yaguru magiku
 5ad28e96, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
+5adb37c6, score_9|score_8_up|score_7_up|perfect eyes
 5ae66f17, FANTASY|ANIME|FANTASY WORLD|FANTASY BACKGROUNDS
 5b2c56f8, [white background:1.5|::2]1girl|solo
 5b2d4455, EmiliaClarke woman
@@ -1893,7 +1895,7 @@
 7088b556, lego man|lego|constructor
 70a6140b, 1980s style||1990s style||retro artstyle|, kmMIXRetroArt25D_v10.safetensors
 70a6140b, chibi, kmMIXByproduct_v4.safetensors
-70a6140b, guigubahuang|1girl|chinese style, modelStyleExtraction_guiguExtract1.safetensors
+70a6140b, guigubahuang|1girl|chinese style, animeIllustDiffusion_guiguExtract1.safetensors
 70a6140b, retro artstyle||1990s style||1980s style|, kmMIXRetroAnimationArt_v10.safetensors
 70f7b200, 1girl|girlvn01
 714f9084, Game characters|full body|original art design
@@ -2051,6 +2053,7 @@
 7a8ece1f, Evang
 7aaeee43, woman
 7ad31fc7, none
+7add5eca, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 7af9cd4c, EduSDII, modelcharacter_v10.ckpt
 7af9cd4c, otanisauota, otanisauota_v10.ckpt
 7b34a884, SEE APPENDIX
@@ -2949,6 +2952,7 @@ af8016c8, katebush
 af8cc85f, sbwidowmakerxx person
 af9bb53b, julietmills
 afc6eaf9, Oldjourney
+afd86b19, score_9|score_8_up|score_7_up|source_real|
 afd9d2d4, mj|cozy|cinematic
 afde7fdc, satellite image of oeax location
 afe165d2, sybildanning
@@ -3546,6 +3550,7 @@ d9df6037, masterpiece|best quality|long white hair|warm lighting|white dress
 d9e8b72c, 3d render|3d cartoon
 d9f5f699, Cartoon Girl
 d9fd25bc, Sexy Blonde|Lingere
+da028ec7, raw photo|cosplay photo|anime artwork|fashion photo|cotton doll
 da02d76b, HarryPotterStyle
 da1b42e0, sks woman|(sks woman)
 da3d89ca, sks
