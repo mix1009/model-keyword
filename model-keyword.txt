@@ -3182,6 +3182,7 @@ becdbc5d, Kavellion|Kavellion style
 bee71543, sailulu style
 bef2a590, Fruits|Vegetables|
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
+bf52174c, Anthro|Photo
 bf64b437, BRAV5_RealisianV50
 bf7386ef, diovasnsc
 bf7aedf0, bakirda|kridaba|DaKriDi|dikrida
@@ -3493,6 +3494,7 @@ d634b8cb, kvn, myModelKevin_v10.ckpt
 d634b8cb, paul, sameer_v1.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
+d636e597, Anthro|Photo, sdxl_vae.safetensors
 d636e597, Realistic|Art|Surreal|Experimentell, sdxl_vae.safetensors
 d636e597, UMP45, sdxl_vae.safetensors
 d636e597, bbone|vpanties|vibrator insertion|, sdxl_vae.safetensors
