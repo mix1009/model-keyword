@@ -3459,6 +3459,7 @@ d386996c, 3d|render|japparii|cinema4d|photoshop|album cover|minimalism|digital|p
 d38ddb80, female|male
 d3921bc9, armor|1boy
 d3a9cef0, hanfu
+d3d1a929, raw photo|cosplay photo|fashion photo|anime artwork|cotton doll|worst anatomy|worst quality|distortion
 d3e1658b, flowerman2
 d3efb13c, comic
 d3f3df02, all|hyperrealistic mix, mixRealisticPhotoV5_v15.ckpt
