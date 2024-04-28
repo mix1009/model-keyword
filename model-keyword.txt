@@ -6,6 +6,7 @@
 0003ba25, SmolOne
 007edaa3, clayitization
 0097dd62, audra miller
+00a22474, Beyond_Realistic
 00d62a36, photorealistic|naked
 00e7b299, anime
 00ee0e8e, score_9|score_8_up|best quality|masterpiece|4k|uncensored|prefect lighting|rating_explicit|very aesthetic|BREAK
@@ -3498,6 +3499,7 @@ d634b8cb, paul, sameer_v1.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
 d636e597, Anthro|Photo, sdxl_vae.safetensors
+d636e597, Beyond_Realistic, sdxl_vae.safetensors
 d636e597, Realistic|Art|Surreal|Experimentell, sdxl_vae.safetensors
 d636e597, UMP45, sdxl_vae.safetensors
 d636e597, bbone|vpanties|vibrator insertion|, sdxl_vae.safetensors
