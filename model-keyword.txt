@@ -3289,6 +3289,7 @@ c5ec95b4, loli
 c6211d26, bedroomai
 c627932e, 1girl
 c63f2567, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
+c6678361, gmic_\2dxiantiao\
 c670dcdd, Realistic
 c67fbe37, SEE APPENDIX A|见附录A
 c6bb6991, hearthstone card
@@ -3505,6 +3506,7 @@ d636e597, Beyond_Realistic, sdxl_vae.safetensors
 d636e597, Realistic|Art|Surreal|Experimentell, sdxl_vae.safetensors
 d636e597, UMP45, sdxl_vae.safetensors
 d636e597, bbone|vpanties|vibrator insertion|, sdxl_vae.safetensors
+d636e597, gmic_\2dxiantiao\, sdxl_vae.safetensors
 d636e597, india|saree|influencer|saree model|real face|beautiful|sexy, indianSaree_v10.safetensors
 d636e597, realistic photograph of, sdxl_vae.safetensors
 d636e597, realistic|real face|hyper realsitic|influencer|insta influencer|beautiful|sexy|pretty, realisticInsta_v10.safetensors
