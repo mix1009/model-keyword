@@ -2345,6 +2345,7 @@
 910fb637, btdmnky|primary|military|magic|support|hero, stableBTD6_v10.ckpt
 9116f7ed, aodai
 914137b7, all|realistic
+914f9ff9, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 915383b6, AbstrAnm spritesheet
 916881f0, kazuma_kaneko|knkz_deface
 916ea38c, pixelsprite|16bitscene
@@ -3824,6 +3825,7 @@ e853d0aa, flat vector art|vector illustration|flat vector art|
 e85e8888, AYU23 person
 e8635c3a, multipla
 e86fa1fb, dancing|nice hands
+e8739a04, cartoon|anime|3D
 e881533d, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
 e8a0ce25, by kayahara
 e8bf8633, DUNHUANG|HANFU
