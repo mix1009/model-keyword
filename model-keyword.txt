@@ -1452,6 +1452,7 @@
 52395e18, none
 52500c41, masterpiece|best quality
 52665586, flat vector art|vector illustration
+529b49de, raw photo|cosplay photo|fashion photo|anime artwork|cotton doll|worst quality|worst anatomy|distortion
 52d7fbac, Boxing gloves|boxing ring
 5301c7c5, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 532b3e28, anime
@@ -3432,6 +3433,7 @@ d0efcea0, Mikelindell Person, theMyPillowGuy_v10.safetensors
 d0efcea0, Topnotch Artstyle, TopnotchArtstyleVolume118_v10.safetensors
 d0efcea0, Tuckercarlson Person, tuckerCarlsonTuckercarlson_v10.safetensors
 d0fd0f0c, Photorealistic|realistic
+d12d9c15, aki|aoki|aoi|nobu|sota
 d14d4d5f, anime in real life|photo background
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
 d164c734, 4x-animesharp
