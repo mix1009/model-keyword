@@ -235,6 +235,7 @@
 0b910e4b, duskametrik, isometricDreams_1.safetensors
 0b910e4b, fldsky1, floraFauna_1.safetensors
 0ba4521e, 
+0bc986b4, sexy|toon
 0bd29ada, Alf Person
 0bd469b6, evang
 0bd9f938, hyperrealistic
@@ -1668,6 +1669,7 @@
 600db6b8, gerdbaier, grattlerDiffusionViper_v1.safetensors
 600db6b8, rainerwinkler, winklerDiffusion_v1.safetensors
 606224fd, groo_the_wanderer
+6067746b, ishikeistyle
 606f384c, penis|testicles
 6076842b, nvinkpunk|dreamlikeart|samdoesart|kuvshinov
 60851177, dgs illustration style
