@@ -1573,7 +1573,8 @@
 59c58ef0, speedpainting
 59cc6f73, <niji-se-3d>
 59d5d3c5, dross_style|femboy|penis|anal|sex|missionary|sexy|caleb|cody|ash|taylor|full_nelson|from_behind|ass|pov
-59ea056b, scenery|no humans
+59ea056b, PVC|3D, ytpvc672xlf012XL_v10.safetensors
+59ea056b, scenery|no humans, animatBackgroundV1_v02.safetensors
 5a020453, bbone|vpanties|vibrator insertion|
 5a07846b, auburn
 5a1ae211, by kaisen chuui
@@ -1610,7 +1611,8 @@
 5c3af880, ai protest|ai protest|3d logo
 5c60eb9e, 1girl|female|ulzzang|masterpiece|aesthetic|cute
 5c742e44, CCDDA artstyle
-5c77038b, Personal
+5c77038b, Personal, personalData_personalV10.safetensors
+5c77038b, fuyao, windRisesMix_v10.safetensors
 5c7e6e88, 80sFashionRobot, 80sFashionRobot_v1.ckpt
 5c7e6e88, 80sfashionrobot, 80sfashionrobot_v10.ckpt
 5c98e895, 1boy|1girl|futanari|sex|penis|pussy, vae-ft-mse-840000-ema-pruned_fp16.safetensors
