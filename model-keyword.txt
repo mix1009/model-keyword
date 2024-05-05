@@ -25,6 +25,7 @@
 01f61612, clonewars style
 01f7e1e7, furry|anthro
 01f8af50, Evang
+02074d41, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 020f5e3f, R2-D2, r2D2Diffusion_v10.safetensors
 020f5e3f, nomanssky style, noMansDiffusion_v02.safetensors
 02104d32, Photorealistic|Realitistic
