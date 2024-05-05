@@ -6,7 +6,8 @@
 0003ba25, SmolOne
 007edaa3, clayitization
 0097dd62, audra miller
-00a22474, Beyond_Realistic
+00a22474, B_Anime|B_Realistic, beyondMega_v20.safetensors
+00a22474, Beyond_Realistic, beyondMega_v10.safetensors
 00d62a36, photorealistic|naked
 00e7b299, anime
 00ee0e8e, score_9|score_8_up|best quality|masterpiece|4k|uncensored|prefect lighting|rating_explicit|very aesthetic|BREAK
@@ -533,6 +534,7 @@
 11b66877, fish|fishes
 11c35df3, bganidusk
 11d9b273, FUTANARI|NO_TESTICLES|ERECTION|GIRL
+1200fb56, glasses
 1221b4fa, jian guo
 1231b645, none
 12485093, rcnz_niji style
