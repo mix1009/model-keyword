@@ -100,6 +100,7 @@
 02f311af, resha, lyrielWithResha_v10.ckpt
 02faa048, sphx style
 030933d0, l4lisa
+030964f1, cinematic|film grain|RAW|movie still|realistic photography|dutch angle style|chromatic aberration
 031b21f6, Niji|Anime, XL_VAE_F1.safetensors
 031b21f6, aki|aoki|aoi|isao|nao|nobu|shou, XL_VAE_E7.safetensors
 031b21f6, pixel art|16 bit|32 bit|64 bit, XL_VAE_C1.safetensors
@@ -3289,8 +3290,10 @@ c3b103e8, lvmd aesthetic|3d render
 c3c086d6, artstyle bse
 c3c1dc18, a painting in the style of guidao style
 c3cfd75d, powa
+c3d52f46, Ayana Fujisawa, ayanaFujisawa_v10.safetensors
 c3d52f46, Femboy|Feminine|Short hair|Cute|Beautiful|Flat chest, femboyLora_v10.safetensors
 c3d52f46, Mina, test_mina.safetensors
+c3d52f46, ayana fujisawa, ayanaFujisawa_v10.safetensors
 c3d52f46, bob cut, 1712321743829754255.safetensors
 c3d52f46, brown hair|clara|short hair|mini skirt|orange skirt, claraHananokouji_v10.safetensors
 c3d52f46, cute woman|bowtie|sailor collar|pleated skirt, priya_v10.safetensors
