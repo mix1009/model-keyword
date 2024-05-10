@@ -2849,6 +2849,7 @@ a7e848cb, photo by Miroslav Tichy, miroslavTichy_.ckpt
 a7e848cb, pimploy|thai model, pimploy_V10.ckpt
 a7e848cb, shaded, shadedDiffusion_v10.ckpt
 a7e848cb, vffxxdx, model2_v1.ckpt
+a808b21c, photo|b0dy1|b0dy2|b0dy3|b0dy4|realistic
 a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 a8372572, wooditize
 a8434aad, CCDDA Artstyle
@@ -3546,6 +3547,7 @@ d636e597, UMP45, sdxl_vae.safetensors
 d636e597, bbone|vpanties|vibrator insertion|, sdxl_vae.safetensors
 d636e597, gmic_\2dxiantiao\, sdxl_vae.safetensors
 d636e597, india|saree|influencer|saree model|real face|beautiful|sexy, indianSaree_v10.safetensors
+d636e597, photo|b0dy1|b0dy2|b0dy3|b0dy4|realistic, sdxl_vae.safetensors
 d636e597, realistic photograph of, sdxl_vae.safetensors
 d636e597, realistic|real face|hyper realsitic|influencer|insta influencer|beautiful|sexy|pretty, realisticInsta_v10.safetensors
 d636e597, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
