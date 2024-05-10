@@ -970,7 +970,6 @@
 2cf88589, irmntro person
 2cf9bf02, raiden mei apho
 2d168544, Evang
-2d1def3a, cinematic|film grain|RAW|movie still|realistic photography|dutch angle style|chromatic aberration
 2d447b0f, tk-char|tk-env
 2d527bd2, Evang
 2d6488e1, furry|anthro
@@ -1549,6 +1548,7 @@
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM, sdxl_vae.safetensors
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM|yutamix-twinkle, sdxl_vae.safetensors
 584f63ab, masterpiece|score_9|score_8_up|score_7_up|best quality|, sdxl_vae.safetensors
+584f63ab, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
 584f63ab, ~*~aesthetic~*~, sdxl_vae.safetensors
 584f63ab, 伤妃-刘亦菲|1girl|, sdxl_vae.safetensors
 5851a557, |Style7
@@ -1562,7 +1562,6 @@
 589c75f9, realistic
 58bc7732, alraune|arachne|centaur|cyclops|harpy|lamia|mermaid|mothgirl|satyr|scylla|slimegirl|colored skin
 58db528f, rcnz_niji style
-58e6917c, cinematic|film grain|RAW|movie still|realistic photography|dutch angle style|chromatic aberration
 59139221, man s4ntos
 592c21fd, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 5942a771, xyz
@@ -2993,6 +2992,7 @@ afde7fdc, satellite image of oeax location
 afe165d2, sybildanning
 aff93ee4, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 b0093a9d, jian guo
+b01cecc6, model
 b0429cca, adriennebarbeau
 b047abbc, cmodel
 b0557e7c, 马
@@ -3054,6 +3054,7 @@ b23ffcd4, a woman
 b240717e, shuimobysim|shukezouma
 b245152f, powercolor.v1|Drippy watercolor|Vivid watercolor
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
+b276826e, cinematic|film grain|RAW|movie still|realistic photography|dutch angle style|chromatic aberration
 b284cd62, motion_checkpoint_less_motion
 b29ef034, analog style
 b2c06b09, natnapinh
@@ -3734,6 +3735,7 @@ dfafd600, duskametric15|microworld
 dfaff748, furry
 dfb90adf, by kyoani
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+dfefb6a8, score_9|score_8_up|score_7_up
 e000edd2, Navia
 e01546fb, cornflower
 e01ac9d6, who
