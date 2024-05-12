@@ -227,6 +227,7 @@
 0aed3741, modelshoot style
 0af74262, 1girl with __color__ hair|__color__ eyes|__clothing_style__ clothing|__background__|
 0b02fdb1, Master of everything|photography
+0b0341fc, analog style|modelshoot style|nsfw|nudity
 0b071c53, bilsh21
 0b09ad3b, ctsmscl
 0b2cf1fe, evang
@@ -654,6 +655,7 @@
 1861f018, sdart|dyce|ohwx|bnp|juli|aten|hep|fcu|hiko|ufos|nwsl|cous|aved|mth|gani|kprc|kuro|asot|jap|weho|hmv|psst|sqm|irgc|buka|buon|nmwx|byes|utm|dany|avel|vaw|zaki|guin|urd|nasi|vini|hta|crit|inem|mlas|isch|phol|vedi|dds|acu|httr|pte|oxi|ibc, sdartElemental_v1UserTokenVersion.safetensors
 186d5bbb, anime
 187550ac, 80sanimestyle
+18756300, analog style|modelshoot style|nsfw|nudity
 1877a743, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|D&D character|fantasy poster|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|masterpiece|intricate|detailed|hyperrealistic
 189e3972, shinyunbok painting
 18b7217d, game icon
@@ -920,6 +922,7 @@
 29342dcf, a strawberry|butter|pink|vector illustration|cartoon|anime|cute|baby|kirby|strawberries with whipped butter
 293c9eda, vanille
 293dc728, Evang
+2943d1df, analog style|modelshoot style|nsfw|nudity
 29801141, tf2map|team fortress 2|map|tf2 map
 299f0871, Evang
 29bfa344, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
@@ -1136,6 +1139,7 @@
 38c588d9, synthpunk|cyberpunk|fantasy
 38cee4b1, Mariia|Anna
 38e36880, nighttime|lighting|photorealistic|dynamic_color_range
+38e75709, analog style|modelshoot style|nsfw|nudity
 38e89fda, itojunji style
 390c1eb3, dunhuang|dunhuang_face|dunhuang_background
 390d2cdf, FluidArt
@@ -1176,6 +1180,7 @@
 3c1ee4c5, wewulzkz
 3c22d47f, nkneghmn
 3c24f797, OHWX PERSON
+3c30b472, analog style|modelshoot style|nsfw|nudity
 3c401697, redshift style
 3c752646, snvhs
 3c7538b7, mecha
@@ -1445,6 +1450,7 @@
 5141b47d, loli
 514a1db3, rcnz_hqr
 515a5199, circetorre
+51748799, analog style|modelshoot style|nsfw|nudity
 51776aaf, statue
 51883359, anime
 518d78a0, 35mmstyle
@@ -1471,6 +1477,7 @@
 537fce5a, Woman|Portrait
 5386e8fb, demoura artstyle
 538d7157, pcrc style
+53b388b3, analog style|modelshoot style|nsfw|nudity
 53bf0958, futanari|erection|flaccid|testicles
 53d6b1c7, tattoo|tattoos|tattooed|tattooed face|tattooed body|BigDarkTattoos
 53da5ded, nachoneko
@@ -1811,6 +1818,7 @@
 69389227, borderlands
 69462e0c, furry
 6965c077, iayuso person
+69677096, analog style|modelshoot style|nsfw|nudity
 697c8786, orna santa, ornamentalSanta_anythingv30Fp1603.ckpt
 697c8786, orna santa|white hair|golden eyes|beautiful eyes|detail|flower meadow|cumulonimbus clouds|lighting|detailed sky|garden|modern disney style, ornamentalSanta_mergedVersionAnythingv3.ckpt
 698424e4, nsfw
@@ -2055,7 +2063,8 @@
 79009b03, Evang
 7906524a, cornflower
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
-79587710, zombie
+79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV60B1_v20Novae.safetensors
+79587710, zombie, wendigo_v20.safetensors
 7960116e, evang
 79b55ef7, bigbadejo alien_monster
 79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10.safetensors
@@ -2183,6 +2192,7 @@
 8312b529, bigbadejo alien_monster
 8320ad8c, Subaru|Emilia|Rem|Ram|Beako|Beatrice|Roswaal|Frederica|Garfiel
 83295fd6, mdjrny-pntrt
+832c6e6a, analog style|modelshoot style|nsfw|nudity
 833060ae, mdjrny-v4 style|nousr robot
 835e7dc1, gigafractal artstyle
 8371a0bf, spicto
@@ -2214,6 +2224,7 @@
 85e2c81a, Charliekirk Person
 85ea6baf, 3d
 8619e7cc, Evang
+8624248c, analog style|modelshoot style|nsfw|nudity
 863d6185, empress
 86443106, ameliaintan
 8644d3fc, realistic
@@ -3400,6 +3411,7 @@ cc5b68d0, lndskp|nvinkpunk|redshift
 cc781a63, s
 cca12107, chibi
 cce02454, nvjobaim
+cceb87e1, analog style|modelshoot style|nsfw|nudity
 ccf3615f, modern disney style
 cd22968e, whatif style
 cd3bb82a, furry
@@ -3688,6 +3700,7 @@ de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
 de2f2560, Shadowheart|armor|black hair|pointy ears|bangs|circlet|ponytail|green eyes|braid, shadowheart_v10.safetensors
 de2f2560, ae, tokeaa_mancet.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
+de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV60B1_v13.safetensors
 de2f2560, anime, decxcris_v10.safetensors
 de2f2560, aroamoyasi|kishida mel|amamiya yuko|shihou matsuri|hiten|mituk1|yohaku, alusStew_v10.safetensors
 de2f2560, dal, dalcefoKanim_v3.safetensors
@@ -4135,6 +4148,7 @@ f9c02b32, 100memories
 f9d8ee86, modelshoot style|swpunk|synthwave|paint splatters
 fa0cfefb, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 fa10a43f, kratos person
+fa199e0c, analog style|modelshoot style|nsfw|nudity
 fa199edb, girl|woman|cute girl|tank top|face model|actress
 fa1b6601, Beautiful detailed portrait
 fa3a1716, hrgiger
