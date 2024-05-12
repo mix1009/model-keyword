@@ -2189,6 +2189,7 @@
 8381f785, jclnhbe style
 83db46be, Fantasy|Anime|fantasy Backgrounds
 83dd9d1a, professional photo
+83f582b4, muchen|cngirl
 844eeb7d, 1 girl
 84597c2e, style of joemadureira
 8469c1b7, in WKHW1 Beautiful Art Style
@@ -3220,7 +3221,8 @@ beb87f9d, furry|girl
 becccd91, 1girl|1boy, osorubeshiXL_z.safetensors
 becccd91, 1girl|1boy|female|male|comic, osoruwest_v01.safetensors
 becdbc5d, Kavellion|Kavellion style
-bee71543, sailulu style
+bee71543, impasto|flat coloring, nijiStyleXL_v20.safetensors
+bee71543, sailulu style, MyzyCelluloidKohaku_kohakuDelta.safetensors
 bef2a590, Fruits|Vegetables|
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
 bf52174c, Anthro|Photo
