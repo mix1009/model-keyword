@@ -4220,6 +4220,7 @@ ff6a26ef, N/A
 ff7616f1, FRPGFaceGen
 ff7d13a0, architecture|modern house|exterior|building|interior|kitchen|bedroom|livingroom
 ff838ac8, fantasy
+ffa024a4, furry|tgj|aviarie
 fff0c339, 1girl, wdr_v10.safetensors
 fff0c339, 1girl|1boy, nijiflat_v02.safetensors
 fff0c339, 1girl|solo, nijiflat_v01.safetensors
