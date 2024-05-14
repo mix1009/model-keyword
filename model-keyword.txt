@@ -2328,7 +2328,8 @@
 8d4b1ddc, furry|anthro
 8d4eea3a, girl|woman
 8d6f9c6b, sks woman
-8d77bb3e, yuanjineng
+8d77bb3e, 1Girl|Any_girl|Chinese Hanfu, mistXLHyperCharacterStyleModel_hyper.safetensors
+8d77bb3e, yuanjineng, yuanjinengSDXL01Arch_v10.safetensors
 8d9aaa54, nvinkpunk
 8d9f015b, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 8d9f6326, highres|raifu
@@ -3950,6 +3951,7 @@ ecf8473f, furry|anthro
 ecf98c5e, valorant style
 ed0b4125, anime style|illustration|oil painting|analog style|realistic|photorealistic
 ed296396, goldentrig|GTv2
+ed3f76c1, score_9|score_8_up|score_7_up|score_6_up
 ed65d07a, SEE APPENDIX|见附录
 ed87e89c, tchnclr style
 ed89f73a, big eyes|pale skin|glossy lipstick
