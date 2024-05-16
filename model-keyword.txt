@@ -1553,7 +1553,7 @@
 580b06dd, lamia|harpy|centaur|scylla|mermaid|arachne
 582e14a8, plump
 582e89f3, kylxn
-584f63ab, Positive: score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up|Negative: score_1_up|ugly|blurry|boring|bland|bad quality|low quality|watermark|logo|source_anime|asian|source_cartoon, sdxl_vae.safetensors
+584f63ab, Positive: score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up|Negative: score_1_up|ugly|blurry|boring|bland|bad quality|low quality|watermark|logo|source_anime|asian|source_cartoon|Also works well with no negatives|Try and experiment, sdxl_vae.safetensors
 584f63ab, SEE APPENDIX A|见附录A, sdxl_vae.safetensors
 584f63ab, SEE APPENDIX|见附录, sdxl_vae.safetensors
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality|, sdxl_vae.safetensors
@@ -3207,7 +3207,7 @@ bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bbfb82f1, realistic
 bc26ee23, samylady
 bc39c10a, zainabt
-bc8952a5, Positive: score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up|Negative: score_1_up|ugly|blurry|boring|bland|bad quality|low quality|watermark|logo|source_anime|asian|source_cartoon
+bc8952a5, Positive: score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up|Negative: score_1_up|ugly|blurry|boring|bland|bad quality|low quality|watermark|logo|source_anime|asian|source_cartoon|Also works well with no negatives|Try and experiment
 bc9bddc5, cory chase|ohwx woman
 bca4f28b, mizulina
 bcb60ee3, twinklestardodo
