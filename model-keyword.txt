@@ -1074,6 +1074,7 @@
 344bd3b5, anthro furry|post-impressionist
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
 3470a2b3, 1girl
+34976697, [realistic lighting]|[photo]|[photorealistic]
 34a6e0ca, ertiao
 34a92094, p1xanotherworld, anotherWorldRetro_v20.safetensors
 34a92094, p1xbladerunner, bladeRunnerRetro_v10.safetensors
@@ -3918,6 +3919,7 @@ e9c42a35, meitu|sailor moon style|anime style|manga
 e9caaf6a, analog style|chromav5|nvinkpunk
 e9cbb77e, musician
 e9d8a855, Disney||Pixar
+e9df6339, test
 ea0081f1, photography|all|hyperrealistic
 ea0c5b7a, ArchModern
 ea1e7cc7, FlonixMatyukhinft|FlonixApterus|Danmumford style
