@@ -689,6 +689,7 @@
 1aad9ffb, SEE APPENDIX A|见附录A
 1ad16feb, multiarm
 1ae0031d, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
+1aec0ad3, score_10|score_9|score_8|score_7|score_9_up|score_8_up|score_7_up
 1af66ab9, fntsy1
 1b06a93e, suren|suren01, 01_no1.safetensors
 1b06a93e, suren|suren1, Amateur_no1.safetensors
@@ -878,6 +879,7 @@
 2644427e, sks
 265e757d, Sidon|Sidon style
 26621fc2, tdst style
+266edf7c, digital art|doll style
 2684c304, cr1m3
 268bbd52, SEE Description
 268f2132, Pharmabro Person
@@ -906,6 +908,7 @@
 282b4e08, Fraufembot
 2857f4c6, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 2869803d, WAS26
+28978ab2, she has her breasts exposed|she has her vagina exposed|she is totally naked|she is partially naked|gigantic fake oversized breasts
 28ae9d27, tk-char|tk-env
 28b4be0c, furry|anthro
 28b9b487, masterpiece|top quality|best quality|official art|beautiful and aesthetic:1.2|8k|best quality|masterpiece:1.2|no humans
@@ -1555,7 +1558,7 @@
 580b06dd, lamia|harpy|centaur|scylla|mermaid|arachne
 582e14a8, plump
 582e89f3, kylxn
-584f63ab, Positive: score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up|Negative: score_1_up|ugly|blurry|boring|bland|bad quality|low quality|watermark|logo|source_anime|asian|source_cartoon|Also works well with no negatives|Try and experiment, sdxl_vae.safetensors
+584f63ab, Positive: score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, sdxl_vae.safetensors
 584f63ab, SEE APPENDIX A|见附录A, sdxl_vae.safetensors
 584f63ab, SEE APPENDIX|见附录, sdxl_vae.safetensors
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality|, sdxl_vae.safetensors
@@ -1965,6 +1968,7 @@
 73012bca, 3D model
 730a7d56, none
 730b9cb5, m_style
+733d605e, Anime Edition
 73547d1c, 1girl
 73771530, kazuya
 738df5d3, fashion
@@ -3212,7 +3216,7 @@ bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bbfb82f1, realistic
 bc26ee23, samylady
 bc39c10a, zainabt
-bc8952a5, Positive: score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up|Negative: score_1_up|ugly|blurry|boring|bland|bad quality|low quality|watermark|logo|source_anime|asian|source_cartoon|Also works well with no negatives|Try and experiment
+bc8952a5, Positive: score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 bc9bddc5, cory chase|ohwx woman
 bca4f28b, mizulina
 bcb60ee3, twinklestardodo
