@@ -104,7 +104,6 @@
 031b21f6, aki|aoki|aoi|isao|nao|nobu|shou, XL_VAE_E7.safetensors
 031b21f6, pixel art|16 bit|32 bit|64 bit, XL_VAE_C1.safetensors
 0323e306, Bean_Lab|Pure Beauty|1 girl|best quality
-0327f3cc, [score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up]|[realistic lighting]|[photo]|[photorealistic]
 0338061e, modisn disney|modisn disney style
 0341fc9b, sexy
 034ad774, fft|pixel art
