@@ -2250,6 +2250,7 @@
 86613a53, ANIME|SEX
 8663e8f6, photo of geoxor album artwork
 866f9274, sakimi mix
+866fbdf0, realistic|cinematic film still|photo
 86818bae, googiearch
 8687d7a5, samdoesarts style
 868fceae, phtdzk1
@@ -3591,6 +3592,7 @@ d636e597, gmic_\2dxiantiao\, sdxl_vae.safetensors
 d636e597, india|saree|influencer|saree model|real face|beautiful|sexy, indianSaree_v10.safetensors
 d636e597, photo|b0dy1|b0dy2|b0dy3|b0dy4|realistic, sdxl_vae.safetensors
 d636e597, realistic photograph of, sdxl_vae.safetensors
+d636e597, realistic|cinematic film still|photo, sdxl_vae.safetensors
 d636e597, realistic|real face|hyper realsitic|influencer|insta influencer|beautiful|sexy|pretty, realisticInsta_v10.safetensors
 d636e597, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up|score_6_up, sdxl_vae.safetensors
