@@ -142,6 +142,7 @@
 061ee127, Yulia
 06283b03, pokedanta-bl
 0655784d, gtav style
+0657c6d8, loona
 06a9d223, mengersponge|sierpsponge
 06c844cf, 3D|Disney
 06dcaa2d, glasses|1girl
@@ -217,6 +218,7 @@
 0a2a8967, aerith|bowsette|mercy|widowmaker|tracer|dva|black cat dva|star guardian jinx|star guardian lux|irelia|nidalee|kda seraphine|kda kaisa|akali|katarinaclassicoutfit|pokemon|animal|realistic|portrait|woman|closeup|selfie|instagram
 0a4320df, dalcefo
 0a4d0386, 
+0a7b6048, loona
 0a84de4f, IN MATRIX
 0a8a028d, shadow flat vector art|Minimalism
 0a92be44, 1girl|cat_ears
@@ -760,6 +762,7 @@
 1f5c87ad, rainbowpatch
 1f96e58d, photo|photograph
 1fb30a55, aimoji
+201adfca, score_9|score_8_up|score_7_up|score_6_up
 20225e21, movie|cg
 202360be, by b-ginga, bGingaModel_bgingaV1130k.safetensors
 202360be, by chon, chonModel_chonV19k.safetensors
@@ -3590,6 +3593,7 @@ d636e597, photo|b0dy1|b0dy2|b0dy3|b0dy4|realistic, sdxl_vae.safetensors
 d636e597, realistic photograph of, sdxl_vae.safetensors
 d636e597, realistic|real face|hyper realsitic|influencer|insta influencer|beautiful|sexy|pretty, realisticInsta_v10.safetensors
 d636e597, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
+d636e597, score_9|score_8_up|score_7_up|score_6_up, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, sdxl_vae.safetensors
 d636e597, score_9|score_8_up|score_7_up|source_anime, sdxl_vae.safetensors
 d636e597, woman, sdxl_vae.safetensors
