@@ -1642,6 +1642,7 @@
 5c742e44, CCDDA artstyle
 5c77038b, Personal, personalData_personalV10.safetensors
 5c77038b, fuyao, windRisesMix_v10.safetensors
+5c77038b, hanfu, 扶摇汉服V3.fp16.safetensors
 5c7e6e88, 80sFashionRobot, 80sFashionRobot_v1.ckpt
 5c7e6e88, 80sfashionrobot, 80sfashionrobot_v10.ckpt
 5c98e895, 1boy|1girl|futanari|sex|penis|pussy, vae-ft-mse-840000-ema-pruned_fp16.safetensors
@@ -3570,6 +3571,7 @@ d4cee16a, ratatatat74
 d4d9e349, anime
 d4fd8843, rotungwoka person
 d52fc124, kurisu|1girl
+d53bef23, alphonsestyle
 d5438b80, 1girl
 d56a53f3, aodai|cotrang
 d57fa787, by hanaarare
@@ -3855,6 +3857,7 @@ e3fb641e, chibi|cute
 e3fd6fba, insertNameHere
 e426a38f, dskyart1
 e43b2dfd, most beatiful ever
+e4498029, [realistic lighting]|[photo]|[photorealistic]
 e476ecf5, justyeaa
 e492ca3d, Bright LUT|Cinematic LUT|Horror LUT|Instagram LUT|Romance LUT|Winter LUT|Vintage LUT|Wedding LUT
 e49471b9, Digimon
