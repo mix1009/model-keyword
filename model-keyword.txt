@@ -1231,6 +1231,7 @@
 3f76682f, Anime|manga|cartoon
 3f9bbd71, score_9|score_8_up|score_7_up|3d-realisticstyle|score_9|score_8_up|score_7_up|2d-animestyle
 3fb6a757, Cute|kawaii|high-angle view
+3ff05333, score_9|score_8_up|score_7_up|score_6_up
 3ff95373, sks woman
 4003fb6f, by kurige
 40156a7f, 3d render|cgi|unreal engine 5 render|cg
@@ -3292,6 +3293,7 @@ c0302f10, Gllltchy style|Gllltchy, gllltchy_v1.ckpt
 c0302f10, filmation motu style, filmationMOTU_v1.ckpt
 c055a24d, Game interface|content|buttons|logo|image content|return|stars|flowers
 c09d432b, photorealistic|nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
+c0ae74e1, reddit|low quality|traditional media|amateur|real life photo|raw|film grain
 c0afa279, 3d style|3d
 c0c220d3, furry
 c0c8c2cb, Ligne claire illustration|By Jean-Pierre Gibrat|By Roy Krenkel|By Milo Manara|By Francois Schuiten
