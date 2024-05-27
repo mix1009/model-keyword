@@ -664,6 +664,7 @@
 18b72c7b, zainabt
 18c428bc, ysy_anime
 18fcf4d0, digital painting|all the other Pony quality tags|check the prompts!, edgFromZero_v10.safetensors
+18fcf4d0, score_9|score_8_up|score_7_up|score_6_up|detailed, rtxincursios_sekkaaaiiiideeeV1.safetensors
 18fcf4d0, score_9|score_8_up|score_7_up|source_anime, incursiosMemeDiffusion_v16PDXL.safetensors
 19014c4a, estiloventidois
 190bc75e, 1girl|mecha|
@@ -1571,6 +1572,7 @@
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM|yutamix-twinkle, sdxl_vae.safetensors
 584f63ab, masterpiece|score_9|score_8_up|score_7_up|best quality|, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
+584f63ab, score_9|score_8_up|score_7_up|score_6_up|detailed, sdxl_vae.safetensors
 584f63ab, ~*~aesthetic~*~, sdxl_vae.safetensors
 584f63ab, 伤妃-刘亦菲|1girl|, sdxl_vae.safetensors
 5851a557, |Style7
@@ -2377,6 +2379,7 @@
 8ec9d746, amongus man
 8ecd9616, makima_chainsaw_man
 8ed66211, neon|sci-fi|colorful
+8ed998da, INDOOR RENDERING
 8ef1792d, indoor
 8f0bf53d, battle_map
 8f2e1466, art by Boris Groh
@@ -3488,6 +3491,7 @@ cf5c8a2a, margot
 cf5ed516, @Spirited
 cf64a27d, pee|peeing|urine|splash
 cf6e2f43, anime
+cf82820e, [realistic lighting]|[photo]|[photorealistic]
 cfa305bc, by mankai kaika
 cfa70908, cinematic|movie still|chromatic aberration|realistic|depth of field
 cfaa3370, Cartoon Style|Anime Style|Comicstyle|sharp focus
