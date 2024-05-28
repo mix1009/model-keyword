@@ -2001,6 +2001,7 @@
 745e745c, scthrinsctrpkmn
 7460a6fa, final, finalEditionIk_finalEditionIk.ckpt
 7460a6fa, ik, mymodelIk_v10.ckpt
+7460a6fa, ik2805, ik2805_v10.ckpt
 7460a6fa, ikmodel, ikmodel_v20.ckpt
 7460a6fa, sk man, kay_11.ckpt
 7475158a, figurine|figure
