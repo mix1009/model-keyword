@@ -146,6 +146,7 @@
 06a9d223, mengersponge|sierpsponge
 06c844cf, 3D|Disney
 06dcaa2d, glasses|1girl
+070af006, furry|anthro
 070bb507, pastel
 0714d7da, Warm colors
 0719ddac, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
@@ -1621,6 +1622,7 @@
 5a71feb9, abandoned building|overgrown with vegetation|concrete|underwater|overtaked by the sea|from outside the building|indoors
 5a747794, mechanical parts|mechanical 'body part or object|cyberware style
 5a75e4b5, man|woman|boy|girl|etc
+5a8779c4, furry|anthro
 5a8a0324, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 5a9e41b8, Anime Style
 5aceb664, kor_mixed 1girl
@@ -3763,7 +3765,7 @@ de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV60B1_v13.sa
 de2f2560, anime, decxcris_v10.safetensors
 de2f2560, aroamoyasi|kishida mel|amamiya yuko|shihou matsuri|hiten|mituk1|yohaku, alusStew_v10.safetensors
 de2f2560, dal, dalcefoKanim_v3.safetensors
-de2f2560, furry|anthro, furationBETA_rebootedREFINEDVPRED.safetensors
+de2f2560, furry|anthro, furationBETA_rebootedOptifinedB.safetensors
 de2f2560, girl, replicantV30_v30.safetensors
 de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
 de2f2560, illustration, trMagicOnPaperSD15_Illustration.safetensors
