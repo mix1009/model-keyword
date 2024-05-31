@@ -742,6 +742,7 @@
 1dafb778, 1 girl
 1dc14b76, cyberpunk
 1de02855, qwert
+1de07e87, [realistic lighting]|[photo]|[photorealistic]
 1de806f4, rcnz_hqr style
 1df99c75, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
 1e06ed13, gran
@@ -3241,6 +3242,7 @@ bb666a18, 3d product render|product render
 bb7dbcff, anusithara
 bb8034db, pattern
 bbbd71ed, sks
+bbc26f2a, [realistic lighting]|[photo]|[photorealistic]
 bbf68d8e, 1 girl
 bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bbfb82f1, realistic
