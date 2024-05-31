@@ -748,6 +748,7 @@
 1e1e49e4, sks woman
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1e2b3832, lula
+1e3cd1ab, hanfu
 1e50a350, Nothing
 1e6822b7, comics style|analog style|illustration|lineart
 1e768fbb, furry|furry girl|furry man|furry woman|furry boy
@@ -2004,6 +2005,7 @@
 745e745c, scthrinsctrpkmn
 7460a6fa, final, finalEditionIk_finalEditionIk.ckpt
 7460a6fa, ik, mymodelIk_v10.ckpt
+7460a6fa, ik-30-05, ik3005_ik3005.ckpt
 7460a6fa, ik2805, ik2805_v10.ckpt
 7460a6fa, ikmodel, ikmodel_v20.ckpt
 7460a6fa, sk man, kay_11.ckpt
