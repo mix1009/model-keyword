@@ -569,7 +569,8 @@
 13a6777c, modelshoot style|nousr robot
 13c19cad, female|male
 13c3e49f, collage style
-13dcb8cc, synthwave punk style|vaporwave style|synthwave|vaporwave colors|retro photography|neon lighting|paint splash|nvinkpunk
+13dcb8cc, comic book style|comic book wallpaper|illustration, EDvae_Final.safetensors
+13dcb8cc, synthwave punk style|vaporwave style|synthwave|vaporwave colors|retro photography|neon lighting|paint splash|nvinkpunk, EDvae_Final.safetensors
 13e74cc9, speedpainting
 13f13d60, Neco-arc
 1400e684, Airlock, djzAirlockV21768V21512_v15.safetensors
@@ -3021,6 +3022,7 @@ ad10f3a2, irmntro person
 ad14174f, FLUIDART|LIQUID SPLASH|Knollingcase|FOOD_CRIT|Beeple
 ad38c466, silverfox5213|
 ad4470e8, eldmeisterog style|sks style
+ad53ab6f, comic book style|comic book wallpaper|illustration
 ad73b609, anime
 ad7d89e9, empresshacker, hackerEmpressCracker_v10.safetensors
 ad7d89e9, lyndacarter, lyndaCarter1980s_v10.safetensors
