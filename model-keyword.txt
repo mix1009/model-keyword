@@ -83,6 +83,7 @@
 02dc71ee, hunsha_girl, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, illustration, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, masterpiece|realistic|best quality, ClearVAE_V2.3_fp16.safetensors
+02dc71ee, mature female, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, ClearVAE_V2.3_fp16.safetensors
 02f311af, BELLEZA, vanesa_v10.ckpt
 02f311af, David, modelguyyy_v10.ckpt
@@ -728,6 +729,7 @@
 1c83d3db, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 1c842e26, furry
 1cecdd34, anime|girl|boy|woman|man|robo
+1d080a8f, mature female
 1d0d03ee, botw style
 1d116781, furry
 1d132f9e, whatif style|tdst style
@@ -2010,6 +2012,7 @@
 745e745c, scthrinsctrpkmn
 7460a6fa, final, finalEditionIk_finalEditionIk.ckpt
 7460a6fa, ik, mymodelIk_v10.ckpt
+7460a6fa, ik-0106, ik0106_v10.ckpt
 7460a6fa, ik-30-05, ik3005_ik3005.ckpt
 7460a6fa, ik2805, ik2805_v10.ckpt
 7460a6fa, ikmodel, ikmodel_v20.ckpt
@@ -3191,6 +3194,7 @@ b725e575, wtrcolor style
 b742bc35, 8k|raw photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.37|high detailed background|1girl in a blue shirt|shy expression|cute|cityscape|night|rain|wet|professional lighting|photon mapping|radiosity|physically-based rendering||beautiful breasts|medium breast|look at viewer, girlMix_girlsmix.safetensors
 b742bc35, m, girlMix_girlsmix.safetensors
 b744269d, Evang
+b769ba0c, Mature Female
 b78b4650, filfigari
 b798ff50, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 b79a53c1, greek
@@ -3435,6 +3439,7 @@ c91be480, Dloz|Dloz style
 c9291e5c, car interior
 c9462890, Archilab
 c951cc0e, sks person
+c95c43ce, Mature Female
 c9a2e2a1, GGH23 person
 c9a83c78, furry|anthro
 c9c45d16, Pris
