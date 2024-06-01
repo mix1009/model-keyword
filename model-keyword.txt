@@ -3785,6 +3785,7 @@ de2f2560, komi shouko, komiShoukoModelLORA_10.safetensors
 de2f2560, lapis lazuli, lapis_v10.safetensors
 de2f2560, looking at viewer, aliaBhatt_v10.safetensors
 de2f2560, m, mmGirlm_v10.safetensors
+de2f2560, masterpiece|best quality|1girl|smile|blonde hair|hair over one eye|multicolored hair|grey eyes|<lora:Kromer:1>, k1_v10.safetensors
 de2f2560, masterpiece|best quality|dark theme|pink theme, bbmixKALI_v10.safetensors
 de2f2560, masterpiece|best quality|orange theme|pink theme, bbmixLUCI_v20.safetensors
 de2f2560, masterpiece|best quality|white theme|black theme, bbmixEIMI_v10.safetensors
@@ -3847,7 +3848,7 @@ e0dcec61, 1girl
 e0e1b606, FURRY|ANTHROPOMORPHIC|FURRY ART|DIGITAL ART|UPLOADED_ON_E621:1.4|ANTHRO FURRY:1.5
 e0f5c75f, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
 e109253c, raw photo
-e12cccd2, Cartoon Style|Anime Style|Comicstyle|sharp focus
+e12cccd2, Cartoon Style|Anime Style|Comicstyle|sharp focus|complementary colors|dreamlike
 e13105fc, masterpiece|best quality, bbMIXALICE_v10.safetensors
 e13105fc, masterpiece|best quality|white theme|black theme, bbmixRUIS_bbmixRUIS.safetensors
 e136d291, None
