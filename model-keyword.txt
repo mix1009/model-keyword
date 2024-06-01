@@ -1120,6 +1120,7 @@
 36f0a2be, furry
 36f1e334, Evang
 3706616b, furry girl
+37114932, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 3747a99f, iayuso person
 376c5b7b, flowerman, flowerManSD15ckpt_v10.safetensors
@@ -1825,6 +1826,7 @@
 6785492c, nier9s
 679df996, by Boris Vallejo|by Brom|by Frank Frazetta|by Hajime Sorayama|by Kelly Freas|by Luis Royo|by Milo Manara|by Olivia De Berardinis|by Philippe Druillet|by Simon Bisley
 67c24e97, chinese mythology
+67c4904e, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 67e082c9, half body|closeup
 67e8a0ae, analog style|dreamlikeart|knollingcase|modelshoot style|elden ring style|bf|sci-fi
 67eabc3f, anthro|body fur
