@@ -1636,6 +1636,7 @@
 5ad07226, art by yaguru magiku
 5ad28e96, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 5adb37c6, score_9|score_8_up|score_7_up|perfect eyes
+5ae14563, Realistic
 5ae66f17, FANTASY|ANIME|FANTASY WORLD|FANTASY BACKGROUNDS
 5b2c56f8, [white background:1.5|::2]1girl|solo
 5b2d4455, EmiliaClarke woman
@@ -3496,7 +3497,7 @@ ce21b743, sjh style
 ce273db5, lolsplashart
 ce4fe817, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 ce59d07b, female|male
-ce604a2f, RealisticMix
+ce604a2f, Realistic|Photorealistic
 ce6d2934, masterpiece|best quality
 ce787c96, evang
 cea9fbcc, modisn disney
@@ -4165,6 +4166,7 @@ f5a08244, uterine prolapse|anal prolapse|rectal prolapse
 f5aa9391, SDArt
 f5b84ac3, Shataki
 f5bf5a19, SDArt
+f5c2befb, furry|anthro
 f5c6687f, masterpiece|score_9|score_8_up|score_7_up|best quality|
 f5d900ae, d
 f5d9c703, snthwve style
