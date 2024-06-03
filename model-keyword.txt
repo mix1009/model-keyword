@@ -2880,6 +2880,7 @@ a62a688d, anime style|illustration|oil painting|analog style|realistic|photoreal
 a6428756, holliemengert artstyle
 a64b9e1f, sdart|bnp|abia|abit|adl|afs|aon|lpg|apro|nwsl|mth|arl|arum|asar|batt|bios|kuro|blob|bnha|bpd|buda|exe|irgc|buka|buon|cae|cava|ccd|chor|aroa|ccu|cep|clos|urd|crit|cudi|doa|cwgc|ylor|dats|ddc|acu|oxi
 a6590543, mksks style|detailed background
+a693115a, aqheodd|realistic style
 a69bb214, Oldjourney
 a69d6019, photo|metart
 a69f9ce1, best quality|sksTakuya
@@ -3634,6 +3635,7 @@ d636e597, Anthro|Photo, sdxl_vae.safetensors
 d636e597, Beyond_Realistic, sdxl_vae.safetensors
 d636e597, Realistic|Art|Surreal|Experimentell, sdxl_vae.safetensors
 d636e597, UMP45, sdxl_vae.safetensors
+d636e597, aqheodd|realistic style, sdxl_vae.safetensors
 d636e597, bbone|vpanties|vibrator insertion|, sdxl_vae.safetensors
 d636e597, gmic_\2dxiantiao\, sdxl_vae.safetensors
 d636e597, india|saree|influencer|saree model|real face|beautiful|sexy, indianSaree_v10.safetensors
