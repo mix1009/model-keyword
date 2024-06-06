@@ -898,6 +898,7 @@
 26945dab, female|male
 269b8567, general
 269de172, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION
+26a4c78b, hanfu|female_orgasm
 26acd9f3, furrender style
 26bde476, vrass
 26c85a2d, Nintendo mii|modern_mii|classic_mii|highres|eye_whites|fighting|tennis, nintendoMiiStyle_v11.safetensors
@@ -3283,6 +3284,7 @@ bdec7588, richevans
 be141210, bakirda|kridaba|DaKriDi|dikrida
 be2cde01, sabrinasalerno
 be373504, Actress
+be3898b2, HGoedexx
 be4652f1, samdoesarts
 be694d23, modelo|joven|sexy
 be6ca5be, there is no trigger word
