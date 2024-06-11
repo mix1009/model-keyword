@@ -2220,7 +2220,9 @@
 81b68188, tk_env|tk_char
 81d725dd, irl
 81da0383, dvOldWorld
+81efa05b, 1girl|pinup|female focus|solo|
 81f23ca9, worst quality|lowres|easynegative|hermaphrodite|cropped|not in the frame|additional faces|jpeg large artifacts|jpeg small artifacts|ugly|tiling|poorly drawn hands|poorly drawn feet|poorly drawn face|out of frame|extra limbs|disfigured|deformed|body out of frame|blurry|bad anatomy|blurred|watermark|grainy|signature|cut off|draft|not finished drawing|unfinished image|bad eyes|doll|3d|cartoon|bad eyes:1.2|worst quality:1.2|low quality:1.2|bad-image-v2-39000|bad_prompt_version2:0.8
+81f5123b, 1girl|pinup|female focus|solo|
 81f77d29, HARDblend
 81fa8dc4, dunhuang|dunhuang_background|dunhuang_face
 8206821b, woman
