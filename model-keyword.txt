@@ -1374,6 +1374,7 @@
 48823be0, coralchar
 488f085e, sexy
 48d0f413, Mtg art
+48fc7f73, RGBimagining
 490b0a46, kukuhtw
 4928c317, abstractchaos
 493480fc, pixel art
@@ -3652,6 +3653,7 @@ d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
 d636e597, Anthro|Photo, sdxl_vae.safetensors
 d636e597, Beyond_Realistic, sdxl_vae.safetensors
+d636e597, RGBimagining, sdxl_vae.safetensors
 d636e597, Realistic|Art|Surreal|Experimentell, sdxl_vae.safetensors
 d636e597, UMP45, sdxl_vae.safetensors
 d636e597, aqheodd|realistic style, sdxl_vae.safetensors
