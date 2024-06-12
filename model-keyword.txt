@@ -3091,6 +3091,7 @@ b0a2f552, furry
 b0a44c16, Evang, sneekSupermech_v10.safetensors
 b0a44c16, evang style, sneekkioRobotModel_sneekkioRobotDetail.safetensors
 b0a8dd3c, me
+b0b3bbb9, Renaissance: Botticelli|Bruegel Pieter|Da Vinci|Durer|El Greco|Giorgione|Giovanni Bellini|Jan Van Eyck|Raphael|Michelangelo|Paul Veronese|Tintoretto|Vecelli|Weyden|Pieter il Giovane  Baroque/Rococo: Aelbert Cuyp|Boucher more Rococo|Caravaggio|Chardin|Claude Lorrain|Gainsborough|Tiepolo|Hals|Rubens|Poussin|Rembrandt|Van Dyck|Velazquez|Vermeer  Neoclassicism/Romanticism/Realism: Bouguereau|Constable|Courbet|David|Delacroix|Friedrich|Gericault|Goya|Ingres|Tissot|Millet|Repin|Turner  Impressionism: Caillebotte|Degas|Gauguin|Hassam|Lautrec|Manet|Marcel Dyf|Martin|Monet|Pissarro|Van Gogh|Renoir|Seurat|Sidaner|Signac|Sisley|Sorolla  Other Artists Modern or without a specific school: Leyendecker|Norman Rockwell|Alma|Antonov|Boudin|Chagall|Camille|Fechin|Gerhartz|Gerome|Greuze|Hobbema|Afremov|Morandi|Millais|Sargent|Shishkin|Sorolla|Streeton
 b102b70e, alizee|amy winehouse|ariana grande|audra miller|avril lavigne|billie eilish|camila cabello|charli xcx|christina aguilera|dua lipa|emma stone|emma watson|hayley williams|jennifer lawrence|katy perry|lady gaga|lana del rey|marina diamandis|miley cyrus|p!nk|rihanna|selena gomez|shakira|sophie ellis bextor|taylor swift|heart on cheek|lips piercing|nose piercing|nose stud|nose ring|verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 b109bf50, diffusable
 b11200d1, samanthafox
@@ -3477,6 +3478,7 @@ ca198d1c, paleolithic, paleolithicArt10_paleoartV10.safetensors
 ca198d1c, weirdcore, dreamcoreDiffusion_v10.safetensors
 ca4fcc12, snnmrn|snnmrn woman
 ca682192, sjh style
+ca9f8215, hair ornament|hatsune miku||capelet||detached sleeves|dress flower|white shirt|black skirt|white sleeves||white socks||high heels|
 cab77b73, ANIME CARTOON
 cadfbc28, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 caea14ad, lvngvncnt
