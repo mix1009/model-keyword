@@ -699,6 +699,7 @@
 1ae0031d, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
 1aec0ad3, score_10|score_9|score_8|score_7|score_9_up|score_8_up|score_7_up
 1af66ab9, fntsy1
+1af8b1c3, [score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up]
 1b06a93e, suren|suren01, 01_no1.safetensors
 1b06a93e, suren|suren1, Amateur_no1.safetensors
 1b08178f, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
@@ -1048,6 +1049,7 @@
 3087797c, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
 30a2dcbc, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 30c2b7ca, chibi
+30ce0bd3, FURRY
 30e45754, cityscape
 30ee044a, test
 30fbd8bc, sks person
@@ -1480,6 +1482,7 @@
 511b3786, furry|anthro
 511d6e1f, 11, 11_v10.safetensors
 511d6e1f, 触发词1|触发词2, 眼睛双.safetensors
+513c45fc, 1girl|white skin|CJ|
 5141b47d, loli
 514a1db3, rcnz_hqr
 515a5199, circetorre
@@ -2827,6 +2830,7 @@ a23afa51, dvarchmodern|dvarchgothic|dvarchvictorian, dvarchMultiPrompt_dvarchExt
 a23afa51, dvmech, dvmech_1017030MergeWithEpic.ckpt
 a24036f3, mloctst
 a25e79ba, Neytiriblueskinbabe
+a28315eb, [score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up]
 a2a802b2, 16-bit-landscape pixel art style, pixelLandscapes_v1.ckpt
 a2a802b2, DBlinebrush style, linebrushStyle_V2.ckpt
 a2a802b2, JWST, deepSpaceDiffusion_v1.ckpt
@@ -3510,6 +3514,7 @@ cca12107, chibi
 cce02454, nvjobaim
 cceb87e1, analog style|modelshoot style|nsfw|nudity
 ccf3615f, modern disney style
+cd1f57a4, Anime Edition
 cd22968e, whatif style
 cd3bb82a, furry
 cd72665c, sks person
@@ -3848,6 +3853,7 @@ de2f2560, zephyr, zephyr_v10.safetensors
 de357355, zrpgstyle
 de41984b, no
 de430242, joseSabogal
+de5d3202, cjregshw|1girl|
 de948984, furry|kemono
 de9a5c01, yagoboedo
 deb6b205, gatto
