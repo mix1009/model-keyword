@@ -109,6 +109,7 @@
 0341fc9b, sexy
 034ad774, fft|pixel art
 036d2bcf, furry|kemono
+0375e77f, cool
 03869a26, anime|realism|photo|game|videogame|woman|human
 03b174c1, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 03f434be, MTG card art
@@ -538,6 +539,7 @@
 117f2d51, nvinkpunk|modelshoot style|samdoesart|dreamlikeart|kuvshinov
 1192bd48, ancient|china|painting|landscapes, locsChinaLandscapes_locsChinaLandscapes.ckpt
 1192bd48, chinese|mountains|ancient chinese style landscape painting|mountains in front|beautiful winding green river behind|extremely sharp old paper detail|high paper detail|high line detail|high resolution|ultra high quality|raw|8k image|extremely high color detail|intricate|epic composition|cinematic lighting|masterpiece|bold complimentary colors. stunning masterfully illustrated by artgerm and range chinese style landscape painting|yellow paper color|painted with black and white ink|artstation|sergey svistunov|hyperrealistic|fog, locsChinaLandscapes_locsChinaLandscapes.ckpt
+11936967, Anime girl|cute
 1194073d, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
 11b66877, fish|fishes
 11c35df3, bganidusk
@@ -2042,7 +2044,8 @@
 74e33b7a, masterpiece|best quality|furry|kemono
 74f4c61c, redshift style
 74feb08d, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up|source_cartoon|source_anime
-7505c058, Game Icon Institute
+7505c058, Game Icon Institute, gameIconInstitute_v23.safetensors
+7505c058, icon, iconMaker_v10.safetensors
 751059ed, prfns
 751cf5dd, art by
 75294b00, chaingirldark style
@@ -2731,6 +2734,7 @@
 9d60f782, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 9d7c69e8, photo of skibidibop person
 9d7d8155, food_crit
+9d88b9a4, Anime girl|cute
 9d92a005, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
 9d9d6f38, .bsp
 9d9ea029, fantadsk2
@@ -3826,6 +3830,7 @@ de2f2560, dal, dalcefoKanim_v3.safetensors
 de2f2560, furry|anthro, furationBETA_rebootedOptifinedB.safetensors
 de2f2560, gangbang, einia_.safetensors
 de2f2560, girl, replicantV30_v30.safetensors
+de2f2560, green owl mascot, duolingo_v10.safetensors
 de2f2560, https://civitai.com/models, aiKorea_sd15.safetensors
 de2f2560, illustration, trMagicOnPaperSD15_Illustration.safetensors
 de2f2560, indoor_lhl, indoorLhl_indoorLhlV10.safetensors
