@@ -2137,6 +2137,7 @@
 7a0fd151, 1girl|realistic, blessed2_fp16.safetensors
 7a0fd151, BJ_Street-photo, anything_fp16.safetensors
 7a0fd151, Game Icon Institute, anything_fp16.safetensors
+7a0fd151, Mika kit, blessed2_fp16.safetensors
 7a0fd151, ang, anything_fp16.safetensors
 7a0fd151, anime, anything_fp16.safetensors
 7a0fd151, illustration, blessed2.vae.safetensors
