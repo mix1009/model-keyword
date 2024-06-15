@@ -3206,6 +3206,7 @@ b5abbb71, scene view
 b5b85ff6, synthwave punk style|vaporwave style|synthwave|vaporwave colors|retro photography|neon lighting|paint splash|nvinkpunk
 b5c0b653, modelshoot style
 b5e156ba, vskeei1
+b5f1a902, realistic|anime|toon|cartoon
 b5f6fe6c, pepe_frog
 b5fd73b9, digital art|cartoon style
 b622490a, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
@@ -3695,6 +3696,7 @@ d636e597, woman, sdxl_vae.safetensors
 d636e597, woman|sexy figure|Finnish|alluring, sdxl_vae.safetensors
 d636e597, ziov, sdxl_vae.safetensors
 d659f794, rcnz_niji style
+d65a1f08, realistic|anime|toon|cartoon
 d65c923a, 1girl
 d676dd55, deetz1
 d6b2691a, oddlyterrifying
