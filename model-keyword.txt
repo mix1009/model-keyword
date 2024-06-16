@@ -4030,6 +4030,7 @@ e94339de, Realistic
 e952eaf1, Riko|shift dress|cold outfit|Reg|aubade helmet|aubade cape|arm extended|Shiggy|Nat|Kiyui|bell|Jiruo|child|moon whistle|Habo|black whistle|Marulk|maid outfit|Ozen|ozen white whistle|ozen armor|Lyza|lyza white whistle|Bondrewd|bondrewd white whistle|Nanachi|abyssal hat|young|human Nanachi|Mitty|human Mitty|delver outfit|delver helmet|red whistle|blue whistle|backpack|blaze reap|bleeding curse|Orth town|the abyss|windmill|gondola platform|orphanage|the first layer|gondola|eternal fortunes|cliffs|upper second layer|lower second layer|seeker camp|the third layer|the fourth layer|garden of eternal fortunes|nanachi's hideout|exterior|backyard|the fifth layer|ido front|playroom|crimson splitjaw|corpse weeperorb piercer|narehate|Meinya|dreamlikeart
 e95310af, CCDDA artstyle
 e96904c7, sks juri
+e978717a, [realistic lighting]|[photo]|[photorealistic]|[score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up]
 e97f7a1c, focal points on attractive face|sly grin that reaches eyes|eyes gleaming with joy|1woman|vivid colors|complex patterns|motion|action|leading lines|visual cues|rule of thirds, simplePromptWithA_v01.safetensors
 e97f7a1c, human, alignmentTurnHumansTo_2000Steps.safetensors
 e98189f6, Hassaku|Meina
