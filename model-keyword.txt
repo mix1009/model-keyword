@@ -2213,6 +2213,7 @@
 8023d5ab, 1girl|intricate detail|milf|reference sheet|concept character|Random hairstyle:1.3|character design sheet|assorted color hair
 80391624, analog style|chromav5|nvinkpunk
 803b115b, N/A
+805511d3, dvrc2 digital art
 805a02a8, Evang style, arty2023_arty2023MoreDetail.safetensors
 805a02a8, evang style, arty2023_arty2023ADD.safetensors
 805a02a8, image in ukj style, arty2023_safetenser.safetensors
@@ -2251,6 +2252,7 @@
 822b8799, pepestyle person
 823525d4, pixel
 82402518, balacbk
+82562766, flat vector art|vector illustration
 82780037, tpkify
 82795246, Abcessive
 8279f8c1, N/A
