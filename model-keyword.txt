@@ -37,6 +37,7 @@
 023ec7c7, furry
 0248da5c, 35mmneon, 35mmneon_v10.safetensors
 0248da5c, Evang, klofmanAndSneek_v1KlofmanSneekSafe.safetensors
+0248da5c, LR_arcstl, artStyleLuisRoyoFor15_v10.safetensors
 0248da5c, Rainbowpatch, rainbowpatch12_rainbowpatchV12.safetensors
 0248da5c, SDArt|agne|ohwx|bnp|atum|aved|bsf|aten|fcu|cees|chor|cna|nrf|elio|gani|pfa|kprc|kuro|asot|elis|bsp|psst|sqm|irgc|byes|dany|lpg|miro|avel|vaw|zaki|guin|pz|reys|crit|doa|suma|taku|ufos|phol|vedi|dds|weho|pte|oxi|yuck|zas, sdartSomewhere_v2.safetensors
 0248da5c, SDArt|appt|ohwx|asr|aten|fcu|chor|cpec|pfa|kprc|kuro|asot|elis|sill|exe|bsp|grl|hap|byes|lpg|yler|avel|vaw|zaki|ohn|guin|vini|pz|crit|shma|doa|sks|szn|phol|utm|uy|dds|pte|oxi|ynna, sdartUnderwater_v2.safetensors
@@ -80,6 +81,7 @@
 02dc71ee, Kaiton_VN1, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, Porn|Big dick|masturbate, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, celine|woman|long hair, ClearVAE_V2.3_fp16.safetensors
+02dc71ee, first love, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, hunsha_girl, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, illustration, ClearVAE_V2.3_fp16.safetensors
 02dc71ee, masterpiece|realistic|best quality, ClearVAE_V2.3_fp16.safetensors
@@ -1329,6 +1331,7 @@
 447982f4, fantasy|fantasy art|80's fantasy art|90's fantasy art|Retro|Realistic|Photorealistic|Watercolor|Oil Painting|Science Fiction|Scifi Fantasy Art|Scifi|D&D Character|Character Design|Character Concept|Fantasy Poster|Analog|Analog Style|Volumetric Lighting|Subsurface Scattering|Photoreal|Perfect Body|Perfect Legs|Masterpiece|Intricate|Detailed|Hyperrealistic|Mature Adult|NSFW
 4482f951, modisn|modisn disney|modisn disney style
 448bbc26, alraune|arachne|centaur|cyclops|harpy|lamia|mermaid|mothgirl|satyr|scylla|slimegirl
+44ad88e8, first love
 44ae43e8, N/A
 44bbf751, realistic cartoon|artwork|masterpiece|detailed
 44bf0551, booru tags
@@ -1526,6 +1529,8 @@
 537fce5a, Woman|Portrait
 5386e8fb, demoura artstyle
 538d7157, pcrc style
+539828f7, 1girl|realistic|sexy
+53b21791, anime|manga|cartoon
 53b388b3, analog style|modelshoot style|nsfw|nudity
 53bf0958, futanari|erection|flaccid|testicles
 53d6b1c7, tattoo|tattoos|tattooed|tattooed face|tattooed body|BigDarkTattoos
@@ -1598,6 +1603,7 @@
 580b06dd, lamia|harpy|centaur|scylla|mermaid|arachne
 582e14a8, plump
 582e89f3, kylxn
+584f63ab, 2d|ScienceFiction|cyborg, sdxl_vae.safetensors
 584f63ab, Positive: score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, sdxl_vae.safetensors
 584f63ab, SEE APPENDIX A|见附录A, sdxl_vae.safetensors
 584f63ab, SEE APPENDIX|见附录, sdxl_vae.safetensors
@@ -2153,6 +2159,7 @@
 79d3364b, Anime|Art|studio ghibli|Cartoon
 7a0fd151, 1111, anything_fp16.safetensors
 7a0fd151, 1girl|realistic, blessed2_fp16.safetensors
+7a0fd151, 1girl|realistic|sexy, blessed2_fp16.safetensors
 7a0fd151, BJ_Street-photo, anything_fp16.safetensors
 7a0fd151, Game Icon Institute, anything_fp16.safetensors
 7a0fd151, Mika kit, blessed2_fp16.safetensors
@@ -2161,6 +2168,7 @@
 7a0fd151, illustration, blessed2.vae.safetensors
 7a0fd151, mksks style|detailed background, blessed2.vae.safetensors
 7a0fd151, poi氵, blessed2_fp16.safetensors
+7a0fd151, realistic, blessed2_fp16.safetensors
 7a12e74a, girl with big boobs|furry
 7a16febb, thecat, chikomokiiStyle_v1.ckpt
 7a16febb, yuqikun, yuqikunStyle_v1.ckpt
@@ -2183,6 +2191,7 @@
 7b9572be, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 7b9ed6d0, furry|anthro
 7baf9aba, Realistic Anime Style|Realistic|Anime|Hybrid reality
+7bce4c89, beauty asian girl
 7bfb80d6, sks style
 7bfd4934, modelshoot style
 7c175441, mmwtsn woman
@@ -2469,6 +2478,7 @@
 90626071, Housamo, kl-f8-anime2_fp16.safetensors
 90626071, Portrait, kl-f8-anime2_fp16.safetensors
 90626071, anime, kl-f8-anime2_fp16.safetensors
+90626071, beauty asian girl, kl-f8-anime2_fp16.safetensors
 90626071, shuimobysim|shukezouma, kl-f8-anime2.vae.safetensors
 90626071, women|woman|girl|cute|sexy|aieliteart, kl-f8-anime2_fp16.safetensors
 909dc1f2, a man in short briefs standing in a pool|a man in a thong standing in a pool|a man in short briefs standing in a garden
@@ -3574,6 +3584,7 @@ ceab3f7e, jacquelinebisset
 cebf8122, modelshoot style
 cec8722d, iayuso person
 ceede961, wide hips|narrow waist|cat girl|
+cf1f53d1, realistic
 cf24bbd9, man|armor|cyborg|royal|engrave
 cf364ff1, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 cf3a5f9e, sun wukong|Beijing opera
@@ -4003,6 +4014,7 @@ e58f3d77, sks woman
 e5951679, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 e5a88774, bed room，living room，kitchen，studyroom，
 e5afc733, zrpgstyle
+e5cf4ff3, 2d|ScienceFiction|cyborg
 e5d0d591, shiny skin
 e5d204e1, breasts|gigantic breasts:1.6|hyper breasts|massive breasts|oversized breasts|breast bigger then body|wide hips|
 e5e811ce, pixelart|#pixelart
@@ -4080,7 +4092,8 @@ ea3deaad, fkey70
 eaabd8c9, negative prompt :|door
 eabf280f, anthro|monster girl|colored skin|furry
 eae4113f, 没有/none
-eae836b4, mommy
+eae836b4, mommy, mommyGenerator_v10.safetensors
+eae836b4, surrealist|dmt, darkSurrealism_v10.safetensors
 eae95c5e, cardassian
 eb01f3b2, NijiFTB
 eb1666ba, 1girl|moyou
@@ -4277,6 +4290,7 @@ f6ca0e2b, comicmay
 f6cd8eee, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti|drui|wrali|aproi|wboi
 f6dfe1af, megamech
 f6ed99c8, {colorful}|{vivid colors}|{vivid}|{flat color}
+f6f64f67, realistic|girl|more detail
 f6fb8fde, lala_satalin_deviluke|momo_velia_deviluke|nana_asta_deviluke|konjiki_no_yami|yuuki_mikan|sairenji_haruna|kotegawa_yui|kurosaki meia|
 f71f0232, insertNameHere
 f74f4ebd, sketch|illustration
