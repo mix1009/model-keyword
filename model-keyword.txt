@@ -1510,6 +1510,7 @@
 51b47801, RAW photo of
 51bfb216, chibi
 51c34eea, Nendoroid
+51de870c, score_9|score_8_up|score_7_up|score_6_up
 51f16ca3, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
 5203b60b, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM
 521893a1, voxel-ish
@@ -1611,6 +1612,7 @@
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM, sdxl_vae.safetensors
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM|yutamix-twinkle, sdxl_vae.safetensors
 584f63ab, masterpiece|score_9|score_8_up|score_7_up|best quality|, sdxl_vae.safetensors
+584f63ab, realistic, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up|detailed, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up|realistic, sdxl_vae.safetensors
@@ -2205,6 +2207,7 @@
 7cbc2ac1, nekoxiangcao
 7cd5be4f, model|merge model
 7d255777, illustration
+7d3fe2bf, 4n1v3rs3
 7d4239bf, elem flowers|fire|water|earth|air|multielem
 7d4ca959, penelope
 7d5994fd, solo|nsfw|shouban|choko|vanilla|xiangcao|qiaokeli|girls
@@ -4193,6 +4196,7 @@ f1119556, score_9|score_8_up|best quality|masterpiece|4k|uncensored|prefect ligh
 f125fab8, P4U14
 f157610a, paigevanzant
 f15eaf3f, RAW photo of|Analog photo of
+f160280f, realistic, virileStallion_v35BETACinematic.safetensors
 f160280f, score_9|score_8_up|score_7_up|realistic, virileStallion_v30BETA.safetensors
 f160280f, score_9|score_8_up|score_7_up|realistic|, virileStallion_v30BETACinematic.safetensors
 f1746351, traditional|townhouse|architecture|bedroom|livingroom|badroom|walnut|interior modern|Japanese roof|Neoclassical
