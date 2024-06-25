@@ -1878,6 +1878,7 @@
 681f76ba, chibi
 682ba7df, irmntro person
 684c496a, [realistic lighting]|[photo]|[photorealistic]|[score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up]
+684d0280, score_9|score_8_up|score_7_up|score_6_up
 685ff1cd, soft_lighting|soft_skin_tone|feminin_hair|white background|simple background
 6864b87d, caebhx|dark purple hair|red eyes
 6873ad1a, neonHorror style
@@ -1988,6 +1989,7 @@
 6fb99464, depth of field|film|evening, sexSexyEasternExperienceV3_sexV10.safetensors
 6fb99464, depth of field|film|portrait|realistic, sexSexyEasternExperienceV3_sexV20.safetensors
 6fb9cedf, Zskuijia|armor|Chinese armor|
+6fbe073c, woman|clock tower|cheetah|gorilla|lion|humming bird
 6fbfba65, beautiful Chinese Landscape Art|Chinese Landscape Art|water colors
 6fcaeaae, FUTANARI|NO_TESTICLES|ERECTION|GIRL
 6fd3570f, clean lines|digital illustration|manga style|minimalistic style
