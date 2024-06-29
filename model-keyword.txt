@@ -472,6 +472,7 @@
 0eb3318b, rightnow, djzRightNow_v21768.safetensors
 0eb3318b, rivervalley, djzRiverValley_v21.safetensors
 0eb3318b, robotwars, djzRobotWars_v21.safetensors
+0eb3318b, sakshi, sk_v10.safetensors
 0eb3318b, scuffedrobotics, djzScuffedRobotics_v21.safetensors
 0eb3318b, sdn, terokNor_320.safetensors
 0eb3318b, sevenwonders, djzSevenWonders_v21768.safetensors
@@ -2862,6 +2863,7 @@ a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a150faa4, icon|blender|C4D
 a184fedc, gigafractal artstyle
 a1d9f84f, anime|style|woman, gnomePower_v111.safetensors
+a1d9f84f, huge breasts|gigantic breasts, bNARHBBrightNightAnd_v10.safetensors
 a1d9f84f, score_9|score_8_up|score_7_up, copycat_v13.safetensors
 a1d9f84f, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, ponyFaetality_v10.safetensors
 a1d9f84f, source_anime|figure style, ponyPvcFigure_pony.safetensors
@@ -4080,6 +4082,7 @@ e8a0ce25, by kayahara
 e8bf8633, DUNHUANG|HANFU
 e8c8476a, by kayahara
 e8d24e03, pattern
+e91025e3, Lightning|XL|SDXL|NSFW|sfw|girl|realiste
 e912a994, Evang
 e93cb7f3, hrrzg
 e94339de, Realistic
