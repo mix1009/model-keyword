@@ -2010,6 +2010,7 @@
 702eac14, usual|watch pictures
 703f7ff1, high fantasy
 705ae506, None
+7061e3cc, score_9|score_8_up|score_7_up|
 7088b556, lego man|lego|constructor
 70a6140b, 1980s style||1990s style||retro artstyle|, kmMIXRetroArt25D_v10.safetensors
 70a6140b, chibi, kmMIXByproduct_v4.safetensors
