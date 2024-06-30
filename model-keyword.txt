@@ -3810,7 +3810,8 @@ d9e8b72c, 3d render|3d cartoon
 d9f5f699, Cartoon Girl
 d9fd25bc, Sexy Blonde|Lingere
 da028ec7, raw photo|cosplay photo|anime artwork|fashion photo|cotton doll
-da02d76b, HarryPotterStyle
+da02d76b, HarryPotterStyle, harryPotterArtworkStyle_10.ckpt
+da02d76b, lexce, testMascot_v10.ckpt
 da1b42e0, sks woman|(sks woman)
 da3d89ca, sks
 da44489a, Sexy Toon
