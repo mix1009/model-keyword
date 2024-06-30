@@ -279,6 +279,7 @@
 0d8373ed, realistic|photorealistic
 0d9677ee, DannyTheFallen
 0d985eef, sks woman
+0d9b57d0, sketch|charcoal sketch|pencil sketch|rough sketch
 0e0a9a25, abandoned building|overgrown with vegetation|concrete|underwater|overtaked by the sea|from outside the building|indoors
 0e19e7fb, 3dcharacter|3dcutecharacter|cloud|waves
 0e3bcabc, 1 girl|Bean_Labs|B&W|masterpiece|stunning light and shadow
@@ -2366,6 +2367,7 @@
 876e83c8, game icon, gameIconInstitute_v30.safetensors
 876e83c8, game icon|game logo|game asset, stylez_v10.safetensors
 87758a47, SEE APPENDIX A|见附录A
+878b31dd, art by cc-3d|art by cc-anime
 87c5d24e, dra|vinyl record cover|12-inch|electronic|<decade> album cover|the designers republic
 87fb604f, 3d render|3d cartoon
 88021122, pixel|pixel art
