@@ -1590,7 +1590,7 @@
 564d5ca4, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
 566842ff, janadefi
 5683b788, Sofia Wylie
-5691137c, Caustics1_Subsurface_Scattering1|Trompe_l_œil1|high_resolution_detailed_shot_of1
+5691137c, HIGH_RESOLUTION_DETAILED_SHOT_OF1 	•	4D_GLOSSY_CRISP_PHOTOREALISTIC_SHOT_OF 	•	SUPER-RESOLUTION_3D_ANAMORPHIC_STYLE 	•	3D_ANAMORPHIC_STYLE 	•	PHOTOREALISTIC_FALLOUT_STYLE 	•	STYLE_L3ONARD0V1 	•	LEONARD0 	•	TROMPE_L_ŒIL1 	•	PHOTOREALISTIC_FALLOUT_STYLE_IMAGE 	•	CAUSTICS1_SUBSURFACE_SCATTERING1|ALEX_GREY_XL_BASE 	•	OPTICAL_ILLUSION 	•	ADD_DETAIL_XL 	•	ARTFULLYENGRAVED 	•	UNREAL_ENGINE_STYLE 	•	T-SHIRT_DESIGN 	•	ARTFULLYLOGO
 56a552e4, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 56b88092, guigubahuang|chinese style, animeIllustDiffusion_guiguExtract3.safetensors
 56b88092, guigubahuang|chinese style|1girl, animeIllustDiffusion_guiguExtract2.safetensors
