@@ -3212,6 +3212,7 @@ b245152f, powercolor.v1|Drippy watercolor|Vivid watercolor
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
 b276826e, cinematic|film grain|RAW|movie still|realistic photography|dutch angle style|chromatic aberration
 b284cd62, motion_checkpoint_less_motion
+b2896205, score_9|score_8_up|score_7_up|
 b29ef034, analog style
 b2c06b09, natnapinh
 b2c47ed5, LEGOstyle
