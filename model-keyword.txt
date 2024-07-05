@@ -925,6 +925,7 @@
 26c85a2d, moba game icon, mobaGameEquipment_v10.safetensors
 26c85a2d, q skill icon, qSkillIcon_v10.safetensors
 26c85a2d, q style, qStyle_v10.safetensors
+270105d2, legendary godzilla
 27023a8d, Realistic|Photorealistic
 270e37fc, night|dark
 27455e1d, Viz
@@ -3481,6 +3482,7 @@ c3d52f46, bob cut, 1712321743829754255.safetensors
 c3d52f46, brown hair|clara|short hair|mini skirt|orange skirt, claraHananokouji_v10.safetensors
 c3d52f46, cute woman|bowtie|sailor collar|pleated skirt, priya_v10.safetensors
 c3d52f46, filipino|javi|pinoy, javi_v10.safetensors
+c3d52f46, legendary godzilla, legendaryGodzilla_legendaryGodzilla.safetensors
 c3d52f46, mastersick, marge_v10.safetensors
 c3d52f46, oragegirlyohan1754, freestyleOrange_v10a.safetensors
 c3d52f46, yellow eyes|slit eyes|narrowed eyes|eyelashes|white earmuffs|white hair|very long hair|gigantic breasts|dressed in her outfit|revolver halo|military coat|shoulder coat|white pantyhose|high heels|gloves|navel cutout, silvaBombergirl_v10.safetensors
