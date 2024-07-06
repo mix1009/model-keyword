@@ -2610,6 +2610,7 @@
 979864ce, john rambo, ramboDiffusion_v15.ckpt
 979864ce, meowskulls, meowskullsModel_meowskulls.ckpt
 979de0ab, 2xdrdisrespect
+979e23cb, furry|anthro|snout
 97a0eac5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 97a9eca6, cult of cthulhu|giger|post-apocalypse|biomechanicals|terror|horror|Cthulhu|creepy
 97b7c192, simsini
@@ -2632,6 +2633,7 @@
 98acd4e4, RPG|realistic|base model|fantasy|semi-realistic|character
 98c37fb6, 美女
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
+98fe4820, score_9|score_8_up|score_7_up
 9907dc3a, sanane
 9912cb8d, danmumford style
 99156105, furry
