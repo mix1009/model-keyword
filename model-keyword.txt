@@ -1106,6 +1106,7 @@
 333a860f, female|male|girl|boy|robo, matrixAsianParadise_v653VAE.safetensors
 333a860f, male|female, matrixAsianParadise_v653VAE.safetensors
 333ecf3c, sks woman|(sks woman)|((sks woman))
+3340f1aa, photoart_style
 3391204b, half body|closeup
 339c88c0, object|no humans|solo focus|items
 33c549f1, swpunk|synthwave|paint splatters
@@ -2373,6 +2374,7 @@
 87758a47, SEE APPENDIX A|见附录A
 878b31dd, art by cc-3d|art by cc-anime
 87c5d24e, dra|vinyl record cover|12-inch|electronic|<decade> album cover|the designers republic
+87dd03b9, young woman
 87fb604f, 3d render|3d cartoon
 88021122, pixel|pixel art
 880ebdda, monster girls|centaur|lamia|arachne|scylla|etc...
