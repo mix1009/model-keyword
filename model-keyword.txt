@@ -2521,7 +2521,6 @@
 91cf8f7b, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 91d18805, 
 91ec9ea6, dwspop style|dwspop space|dwspop forest|dwspop landscape
-91f5f54c, scribble|watercolor|subversive|exciting|croquis|flat|colorful|pastel|xslx
 9207f242, realistic|photorealistic|ultra realistic|photorealism|raw photo|realistic photo|realism|photo|raw picture
 920e21fa, rcnz_hqr
 92144649, yuzu$style
@@ -3854,7 +3853,8 @@ dab88696, shiny skin, kl-f8-anime2.safetensors
 dad06477, Realistic, matrixStellar_v11VAE.safetensors
 dad06477, female|male|landscapes|realistic|man|woman|SCIFI, matrixStellar_v11VAE.safetensors
 daecbd84, FleischerStyle
-dafa131a, realistic|raw photo|photo realistic|hyper realistic|realistic photo|ultra realistic|photorealism|realism
+dafa131a, realistic|raw photo|photo realistic|hyper realistic|realistic photo|ultra realistic|photorealism|realism, sdxlYamersRealisticNSFW_v4VAE.safetensors
+dafa131a, scribble|watercolor|subversive|exciting|croquis|flat|colorful|pastel|xslx, megaPainterXL_v10.safetensors
 db0d4f46, fluffy furry beastman
 db10a0ee, sks woman
 db1c462d, luna
