@@ -1052,6 +1052,7 @@
 2fb183e3, 1girl
 2fd6057b, Batman_the_animated_series
 2fdd0123, guweiz|nixeu|wlop
+2fe0ca51, surreal
 2ffe0d53, Evang, mummy_v10.ckpt
 2ffe0d53, evang, mummy_v2.ckpt
 3013bb9f, 80sDarkSouls style|80sDarkSoul style|knight|armour|castle
@@ -2025,6 +2026,7 @@
 70a6140b, guigubahuang|1girl|chinese style, animeIllustDiffusion_guiguExtract1.safetensors
 70a6140b, retro artstyle||1990s style||1980s style|, kmMIXRetroAnimationArt_v10.safetensors
 70f7b200, 1girl|girlvn01
+71241227, inzoi
 714f9084, Game characters|full body|original art design
 7159aa58, shinyunbok
 717ae1a9, guttonerdjul23, guttoNerdJulho23_v10.ckpt
