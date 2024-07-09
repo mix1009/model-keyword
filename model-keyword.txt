@@ -4001,7 +4001,6 @@ e13105fc, masterpiece|best quality, bbMIXALICE_v10.safetensors
 e13105fc, masterpiece|best quality|white theme|black theme, bbmixRUIS_bbmixRUIS.safetensors
 e136d291, None
 e13c6405, RAW photo of|Analog photo of
-e169a355, Master Chief
 e1a9b17f, 1girl
 e1b7c805, woolitize
 e1c7ea87, sad
@@ -4146,6 +4145,7 @@ ea3cb787, monster girl
 ea3deaad, fkey70
 eaabd8c9, negative prompt :|door
 eabf280f, anthro|monster girl|colored skin|furry
+eac8d83c, score_9|score_8_up|score_7_up|score_6_up
 eae4113f, 没有/none
 eae836b4, mommy, mommyGenerator_v10.safetensors
 eae836b4, surrealist|dmt, darkSurrealism_v10.safetensors
