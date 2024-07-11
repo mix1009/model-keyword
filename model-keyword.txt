@@ -1097,7 +1097,8 @@
 328ad29d, sks man
 32b08cff, gotou hitori|inoue takina|kita ikuyo|kubo nagisa|nishikigi chisato|sabine|sendou erika|shiina mahiru|yamano mitsuha|shuka high school uniform|lycoris uniform
 32b8c220, kemono|furry|gouache|oil|impressionism
-32c2104e, uka|sexy|breast
+32c2104e, uka|sexy|breast, uka_v15Full.safetensors
+32c2104e, uka|sexy|breast|nsfw, uka_v16Full.safetensors
 32c810f1, outfit|glowing
 32ccf42a, JangYouSun
 33006be6, Vintage style|Vintage face|Pulp Cover|Vintage
@@ -4412,6 +4413,7 @@ f963da04, 3dcharacter|3dcutecharacter|chibi|waves|cloud|gradient background|simp
 f9715a85, illustration|fantasy|assassin
 f9718fa8, realistic|photorealistic
 f973721a, jenniferconnelly
+f9766d19, man showing his large erected penis|portrait photo
 f97af94a, 1 girl
 f97ba63a, phse
 f9bc0f7b, fashion
