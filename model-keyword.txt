@@ -2072,6 +2072,7 @@
 727f0812, modelshoot style
 72922615, looney tunes style|disney style|classic animation style
 72b0d5bb, sculpture
+72c1d746, erected penis|portrait photo|naked man
 72d80922, nvinkpunk|mdjrny-v4 style|kairowez|lisdusk1|lisdusk2
 72f11307, 3Reich|Wehrmacht uniform|German SS uniform|Peaked cap|side cap|breast eagle emblem|wreathed cockade emblem
 73012bca, 3D model
@@ -2999,6 +3000,7 @@ a5e6f199, color|flat|high contrast
 a5e9c481, brutalism|brutalist|building
 a60545fc, itojunji style
 a62a688d, anime style|illustration|oil painting|analog style|realistic|photorealistic
+a63de555, photo real|realistic
 a6428756, holliemengert artstyle
 a64b9e1f, sdart|bnp|abia|abit|adl|afs|aon|lpg|apro|nwsl|mth|arl|arum|asar|batt|bios|kuro|blob|bnha|bpd|buda|exe|irgc|buka|buon|cae|cava|ccd|chor|aroa|ccu|cep|clos|urd|crit|cudi|doa|cwgc|ylor|dats|ddc|acu|oxi
 a6590543, mksks style|detailed background
@@ -4491,6 +4493,7 @@ fe3c6142, ilsgiovannibattistapiranesi|etching, giovanniBattista_piranesiV10.safe
 fe3c6142, sphereworldmap|sphere-height-map-texture|sphere-colour-texture, planet_Sphereworldmaptexture.safetensors
 fe3c6142, themechwarriorrpgart, theMechwarriorRPGArt_theMechwarriorRPGArt.safetensors
 fe3c6142, theoldshadowrunstyles, theOldShadowRunStyles_1990sV10.safetensors
+fe534aff, nicknitro
 fe579299, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 fe5aae36, telltale style
 fe5b6b94, 3D
