@@ -724,6 +724,7 @@
 1b0f1051, lqo_adrn
 1b30cc76, eva123xyzmendes
 1b44e9d1, 1girl|moyou
+1b51119d, photo portrait|surrealistic|woman|large breasts|erected penis
 1b51225c, ClaymationXmas, claymationXmas_sd2.ckpt
 1b51225c, Mosaic Art, mosaicArt_v2768.ckpt
 1b51225c, dronelightshow, dronelightshow_v1.ckpt
@@ -929,6 +930,7 @@
 26c85a2d, moba game icon, mobaGameEquipment_v10.safetensors
 26c85a2d, q skill icon, qSkillIcon_v10.safetensors
 26c85a2d, q style, qStyle_v10.safetensors
+26cf2815, woman|naked|surrealist|planets|sphere|cube|psychedelic|erected penis
 270105d2, legendary godzilla
 27023a8d, Realistic|Photorealistic
 270e37fc, night|dark
@@ -1260,6 +1262,7 @@
 3d28e095, 3D Style|Rick Roll|fullbody shot|bad cosplay man
 3d61b720, 3D product render|3D product render style
 3da648f5, in the style of AImanhwa
+3da7dedf, Renho|Woman|large collar|Asian|Middle-aged|black short hair|White suit
 3dccab21, pepereal
 3dd9c14a, moyou|1girl|White hair|
 3e008b4d, bethharmon
@@ -1717,6 +1720,7 @@
 5bb1fddd, 1girl|OD_sword_girl
 5bba7f87, as a t-shirt logo in the style of <magifactory> art
 5bba81f8, 3d product render|product render
+5bbc69d0, Kazuhiro Haraguchi|Old man|Gray hair|Asian|skin head|suit
 5bbf52a0, house|peop
 5bcbb8a5, sks person
 5bcd62ae, megapals|megapals style
@@ -4277,7 +4281,8 @@ f0916d71, mariawhittaker
 f094a27f, Mobian or Sonic character name
 f098482b, masterpiece|best quality|ultra-detailed|illustration|an extremely delicate and beautiful|dynamic angle|floating|beautiful detailed eyes|bright eyes|detailed light|solo|
 f0a2955a, sss
-f0add89a, bex
+f0add89a, beksinski, bexArtSelecy_v10.safetensors
+f0add89a, bex, artbex_v10.safetensors
 f0ddc933, realistic
 f0e8d121, blowjobsex|handjobsex|cumfacial|cumshot|cumonbreasts|cumonhands|whiteman|blackman|whitecock|blackcock|whitefemale|blackfemale|redbonefemale|femalefingernails|nakedoldman|one man|man's cock|eroticposing
 f0f9c9ee, photo of luxury-arabic-1979
@@ -4484,6 +4489,7 @@ fdcf65e7, DREAMLIKE||Cheese Daddy's Landscapes mix, portraitAndLandscape_portrai
 fdd028f0, mature female|milf
 fde0bd53, elminisonii
 fdf478cb, [realistic lighting]|[photo]|[photorealistic]
+fdfc6c4c, viro
 fe2725bb, <SIZE> BREASTS|<size> ass|<size> belly|hyperbreasts|hyperass|flat chest|caricature
 fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
 fe3c6142, dragzkz, dragonDiffusion_4500Steps.safetensors
