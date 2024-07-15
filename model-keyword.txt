@@ -794,6 +794,8 @@
 1f96e58d, photo|photograph
 1fb30a55, aimoji
 1fe4f7cf, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
+1ffe41f9, russia, paamaRUSSIANWOMAN_paamaUKRAINEWOMANV1.safetensors
+1ffe41f9, russian, paamaRUSSIANWOMAN_paamaUKRAINEWOMANV14.safetensors
 201adfca, score_9|score_8_up|score_7_up|score_6_up
 20225e21, movie|cg
 202360be, by b-ginga, bGingaModel_bgingaV1130k.safetensors
@@ -855,6 +857,7 @@
 2275f2cf, 90s retro anime style|xx year anime style
 228b3ab5, evang
 22a55888, insertNameHere
+22c22e44, Izumi Kenta|Asian|Suit|Black Hair|Tie
 22ca4aaa, guigubahuang|1girl|chinese style
 231d588a, photo of benzaki women
 23234436, furry
@@ -3690,6 +3693,7 @@ cfe68a4c, murasa
 d0003adb, ohwx|library
 d023e7a8, stbtc|stbcf
 d024ffdc, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+d0257572, russian
 d027dc5d, Biomech|ink drawing|anatomical|Da_Vinci|vitruvian|painted in renaissance style
 d049af0b, Evang
 d04c5d76, SEE APPENDIX A
@@ -3896,6 +3900,7 @@ dab88696, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn,
 dab88696, shiny skin, kl-f8-anime2.safetensors
 dad06477, Realistic, matrixStellar_v11VAE.safetensors
 dad06477, female|male|landscapes|realistic|man|woman|SCIFI, matrixStellar_v11VAE.safetensors
+dada189d, russian
 daecbd84, FleischerStyle
 dafa131a, realistic|raw photo|photo realistic|hyper realistic|realistic photo|ultra realistic|photorealism|realism, sdxlYamersRealisticNSFW_v4VAE.safetensors
 dafa131a, scribble|watercolor|subversive|exciting|croquis|flat|colorful|pastel|xslx, megaPainterXL_v10.safetensors
@@ -3982,6 +3987,7 @@ de2f2560, phantylia|phantylia honkai, phantylia_v10.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 de2f2560, post-Impressionist, exquisiteDetails_art.safetensors
+de2f2560, russian, paamaRUSSIANWOMAN_paamaRUSSIANWOMANV13.safetensors
 de2f2560, schwarz|red dress, schwarzTest_schwarzDressV10.safetensors
 de2f2560, shiny_skin, realshinymixV1_v10.safetensors
 de2f2560, shirtlift, jackie_v10.safetensors
@@ -4392,6 +4398,7 @@ f6dfe1af, megamech
 f6ed99c8, {colorful}|{vivid colors}|{vivid}|{flat color}
 f6f64f67, realistic|girl|more detail
 f6fb8fde, lala_satalin_deviluke|momo_velia_deviluke|nana_asta_deviluke|konjiki_no_yami|yuuki_mikan|sairenji_haruna|kotegawa_yui|kurosaki meia|
+f703e3d4, russian
 f71f0232, insertNameHere
 f74f4ebd, sketch|illustration
 f751a45e, woman|girl|young
