@@ -947,6 +947,7 @@
 27de1ee8, Jimmie Åkesson
 27e6cf13, Anime|3d style|realistic
 27ea8c02, snthwve style|nvinkpunk
+27fdbfd6, Master Chief
 282b4e08, Fraufembot
 2855347e, score_9|score_8_up|score_7_up||thick outlines
 2857f4c6, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
@@ -2577,6 +2578,7 @@
 9264dfbc, dal|nsfw
 928734f5, asian|aodai|suonxam
 928af693, kyoko
+929615db, Master Chief
 92a1f3a4, miaokapvc|best quality|ultra detailed|realistic|shiny_skin|
 92aab0fe, furry
 92b23a18, kemono|furry
@@ -2644,6 +2646,7 @@
 962c3253, anisenti88
 965c5e50, mashu_yuino
 9672fada, shiny skin|long legs
+968ffdf3, Master Chief
 9695a9cd, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 96e9bd73, art by yaguru magiku
 96f94d09, sks woman
@@ -2822,6 +2825,7 @@
 9c3572e7, realistic|best quality|masterpiece
 9c55fd12, mirrormask
 9c5da18d, girl|woman|man|boy
+9c679ed4, Hyperrealistic_Trompeloeil1|Ambient_Occlusion|Vibrant_Shot_of1|B3YOND: Avant_Garde_Style|cinematic_style trompe_l_œil|3D_anamorphic_Trompeloeil_Style1
 9c7652fc, OBJECT|NO HUMANS|SOLO FOCUS|ITEMS
 9c87d0f1, xiong, last-000090.safetensors
 9c87d0f1, xmbl, xmbl_v10.safetensors
