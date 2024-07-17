@@ -1449,6 +1449,7 @@
 4a5813b4, [realistic lighting]|[photo]|[photorealistic]|[score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up]
 4a6720b1, sks carrie
 4a9c3831, ahrender
+4ac27207, flat color
 4ad569be, N/A
 4adec77d, InToThe2KGothClub
 4aef3692, sks woman
@@ -2421,6 +2422,7 @@
 876e83c8, game icon|game logo|game asset, stylez_v10.safetensors
 87758a47, SEE APPENDIX A|见附录A
 878b31dd, art by cc-3d|art by cc-anime
+879054f9, portrait style|selfie photo|casting photo full shot naked|rlfce realistic person|fkfce fake person|closeup photo face
 87c5d24e, dra|vinyl record cover|12-inch|electronic|<decade> album cover|the designers republic
 87dd03b9, young woman
 87fb604f, 3d render|3d cartoon
@@ -3451,6 +3453,7 @@ becccd91, 1girl|1boy, osorubeshiXL_z.safetensors
 becccd91, 1girl|1boy|female|male|comic, osoruwest_v01.safetensors
 becdbc5d, Kavellion|Kavellion style
 bee71543, impasto|flat coloring, nijiStyleXL_v21.safetensors
+bee71543, masterpiece|best quality|highres, sanaexlAnime_v01.safetensors
 bee71543, sailulu style, MyzyCelluloidKohaku_kohakuDelta.safetensors
 bef2a590, Fruits|Vegetables|
 befd836a, 1girl|character|copyright|artist|stuff|best quality|absurdres
