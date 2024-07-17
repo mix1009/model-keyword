@@ -1195,6 +1195,7 @@
 37ff0195, chibi|cute
 38137311, realistic|analog|hyperealistic|photography
 3814a52a, surrealsteampunkai
+381e8459, furry|snout|anthro
 3824f0fa, female|male, matrixRealistic_v15VAE.safetensors
 3824f0fa, female|male|robo, matrixRealistic_v15VAE.safetensors
 3824f0fa, woman|man, matrixRealistic_v15VAE.safetensors
