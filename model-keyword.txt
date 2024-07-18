@@ -1379,6 +1379,7 @@
 4507a9f0, Makima
 4509a913, by mitsudoue
 4518d991, Evang style
+4534193a, artistic portrait|beautiful detailed face|looking at the viewer|digital art style|oil painting style|colorful|dynamic lighting|vibrant light|shadow detailed|highly detailed|anime style|speed art|brush strokes|beautiful and aesthetic|masterpiece|ultra wide angle|surrealist|abstract artistic|gradient background
 4563a63d, anime
 456c0bfb, sks woman
 4571d7f2, starfox
@@ -2279,6 +2280,7 @@
 7d5994fd, solo|nsfw|shouban|choko|vanilla|xiangcao|qiaokeli|girls
 7d6c3acc, photorealistic
 7d6df7c9, 3D|checkpoint|girl|sexy|nsfw|sfw
+7d7a22ee, PEX_style
 7d9a25d8, Photography|Realistic
 7dada922, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|BEST AESTHETIC|NORMAL AESTHETIC|BAD AESTHETIC|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 7dbd8b97, test
@@ -2813,6 +2815,7 @@
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
 9b5251e8, flat|high contrast|color, fluentuiEmoji_sd15.ckpt
 9b5251e8, muppet|kermit|cookie monster|drummer muppet|Miss. Piggy|sesame street|Elmo, muppets_sd15MuppetBlip.ckpt
+9b53a81b, score_9|score_8_up|score_7_up|
 9b5926f8, celebrity
 9b69308b, mangadusk1
 9b70df45, sexy toon
@@ -3780,6 +3783,7 @@ d3870529, iclight
 d38ddb80, female|male
 d3921bc9, armor|1boy
 d3a9cef0, hanfu
+d3cda7e2, PEX_style
 d3d1a929, raw photo|cosplay photo|fashion photo|anime artwork|cotton doll|worst anatomy|worst quality|distortion
 d3e1658b, flowerman2
 d3efb13c, comic
@@ -4209,6 +4213,7 @@ ea3deaad, fkey70
 eaabd8c9, negative prompt :|door
 eabf280f, anthro|monster girl|colored skin|furry
 eac8d83c, score_9|score_8_up|score_7_up|score_6_up
+ead93840, artistic portrait|beautiful detailed face|looking at the viewer|digital art style|oil painting style|colorful|dynamic lighting|vibrant light|shadow detailed|highly detailed|anime style|speed art|brush strokes|beautiful and aesthetic|masterpiece|ultra wide angle|surrealist|abstract artistic|gradient background
 eae4113f, 没有/none
 eae836b4, mommy, mommyGenerator_v10.safetensors
 eae836b4, surrealist|dmt, darkSurrealism_v10.safetensors
