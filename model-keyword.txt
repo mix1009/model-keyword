@@ -70,6 +70,7 @@
 0248da5c, tibetentankas  tibetan buddhist painting meditating|meditating|tankas|painting|landscape, rebirth_tibetantankasFp32.safetensors
 0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_01.safetensors
 0250e61d, 35mmneon
+0256617c, chinese traditional painting
 02858163, Master Chief
 028e8d50, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 029cc27d, SLE|mksks style|detailed background
@@ -626,6 +627,7 @@
 14e1ef5d, sksi, csGOMapGenerator_v1.ckpt
 14e1ef5d, swpunk|synthwave|paint splatters, synthpunkSearch_raw.ckpt
 14fe5bd7, nousr robot
+15026ae5, Ogasawara_Islands|clear water|beach|rock|cliff|blue sky
 1508e1f1, akisato konoha|shimoda kaori|uehara meiko|yamada touya|akutsu ruri|eimura akane|fuuki iinchou|hanabatake yoshiko|sumino sayaka|gotoh futari|gotoh hitori|gotoh michiyo|hiroi kikuri|ijichi nijika|ijichi seika|kita ikuyo|pa san|yamada ryou|shimokitazawa uniform|shuka high school uniform|hoto cocoa|kafuu chino|tedeza rize|hitori bocchi|honshou aru|kurai kako|ojousa mayo|rakita sotoka|sunao nako|inukai karen|nekotani mike|tsukishiro usagi|inoue takina|nishikigi chisato|lycoris uniform|2girls|lycoris uniform|blue dress|lycoris uniform|red dress|chiyoda momo|sata anri|yoshida ryouko|yoshida yuuko|kiriya nozomi|serizawa fumino|tsuzuki otome|umenomori chise|iijima yun|suzukaze aoba|takimoto hifumi|tooyama rin|yagami kou|hozuki momiji|oyama mahiro|oyama mihari|onimai uniform|blazer|onimai uniform|suspender skirt|arima kana|hoshino ai|hoshino ruby|kurokawa akane|sumi yuki|youtou uniform|sabine|yamano mitsuha|aizawa rena|ashida kei|inatomi yuyu|natsukawa aika|sajou kaede|sasaki fuuka|shinomiya rin|akaza akari|funami yui|toshinou kyouko|yoshikawa chinatsu|nanamori uniform|long sleeves|nanamori uniform|short sleeves|evans charlotte|katase shiori|kubo nagisa|mie ai|shiina mahiru|shirakawa runa|usami mizuki|yamada anna
 150aae87, 1girl
 150ed84f, Comic Style|Illustration|Line Art|Comic Poster|Realistic
@@ -2695,6 +2697,7 @@
 993cd75a, sks woman
 993f2358, Anjana, anjana_v10.ckpt
 993f2358, Asher|blue eyes, asherAngel_asheAngel512V10.ckpt
+993f2358, BEwatercolor, MarianaTrenchMusicVideo_v10.ckpt
 993f2358, G2FFace, g2fface_01.ckpt
 993f2358, KasaneTeto, kasaneTeto_v10.ckpt
 993f2358, MCSkin, minecraftskin_v11.ckpt
