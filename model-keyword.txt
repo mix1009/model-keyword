@@ -525,6 +525,7 @@
 10209fd6, dalcefo
 1024463c, realistic|photorealistic
 1027d657, httr
+10343beb, Master Chief
 1034f5f1, OIL PAINTING|FLOWER, shimily_v10.safetensors
 1034f5f1, masterpiece|best quality|, shmily_v10.safetensors
 10419930, hassanfantasy style
@@ -908,7 +909,6 @@
 254fb5cd, hasanpiker person
 2566389c, Knollingcase|Beeple Style|Dreamshaper|Voxel-ish|Naturitize|Colorfulsurrealismai Surrealism
 256850b0, KEMONO
-256be7dc, Master Chief
 258f79e3, stylized game icon|sci-fi|steampunk|spell
 2593818e, ren|1boy
 25ba4550, modelshoot style|swpunk|synthwave|paint splatters
@@ -1084,7 +1084,6 @@
 3080b312, mobian or sonic character name
 30833d87, luffy man|zoro man|nami woman|sanji man|nico woman|chopper boy|franky man|usopp man|brook man|jimbei man
 3087797c, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
-3091a6f2, Master Chief
 30a2dcbc, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 30c2b7ca, chibi
 30ce0bd3, FURRY
@@ -1135,6 +1134,7 @@
 339c88c0, object|no humans|solo focus|items
 33aadf44, Master Chief
 33c549f1, swpunk|synthwave|paint splatters
+33ce0bf3, Master Chief
 33ec9575, Pixar|anime|manga|comic|hand art
 33ee7e2a, furry
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
@@ -1866,7 +1866,6 @@
 64113636, See Appendix A|见附录A
 6414e2dc, liquid splash|papercut|porcelain doll
 6418d85d, person_in_Jar
-642a1fa2, Master Chief
 6435131a, 1girl|realistic
 6438aa24, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|BEST AESTHETIC|NORMAL AESTHETIC|BAD AESTHETIC|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 643afbd9, Microscopic
@@ -2076,7 +2075,6 @@
 71830e27, kate woman
 7185212f, evang
 718c368e, mikeidsk1
-7196204b, Master Chief
 71a00f8d, as cartoon character
 71b0b5fb, tyznedsk1
 71c4ccc2, 见附录A|See Appendix A
@@ -2102,7 +2100,6 @@
 733d605e, Anime Edition
 73547d1c, 1girl
 73771530, kazuya
-737f36d3, Master Chief
 738df5d3, fashion
 738e9523, Beautiful women|pretty girls|and more
 73aebb03, rammstein
@@ -3001,6 +2998,7 @@ a476b99d, 11
 a480df4d, hanfu
 a48a2a1b, ghibli style
 a499f7e7, roasted pig
+a4b69b21, Master Chief
 a4dbc300, pikachu
 a4e4cfcf, lowbrow
 a516c7c0, rotungwoka person
@@ -3963,6 +3961,7 @@ ddcfb000, Girl
 dde11c1e, smitsv
 ddee9854, strories|h&r
 ddf1d6d8, muscular|large muscles|bara|bodybuilder|brutalmass
+ddf88a48, Chinese prompt
 de21ca2c, masterpiece
 de27bfdb, man|woman
 de2f2560, 6girls+, theGoldenMirage_v11.safetensors
@@ -4426,7 +4425,6 @@ f6f64f67, realistic|girl|more detail
 f6fb8fde, lala_satalin_deviluke|momo_velia_deviluke|nana_asta_deviluke|konjiki_no_yami|yuuki_mikan|sairenji_haruna|kotegawa_yui|kurosaki meia|
 f703e3d4, russian
 f71f0232, insertNameHere
-f725778b, Master Chief
 f74f4ebd, sketch|illustration
 f751a45e, woman|girl|young
 f7570fdc, cp
