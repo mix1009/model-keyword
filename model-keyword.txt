@@ -669,6 +669,7 @@
 17bb0452, discodifland
 17e77d7e, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo
 17ea864a, masterpiece|best quality
+18019f36, anime
 182440bd, first love
 1848190c, sd-pulp|dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories
 1861f018, Evang style, colorfulGlow_v6MoreDetails.safetensors
@@ -1452,7 +1453,6 @@
 4a33fce8, insertNameHere
 4a3dfda4, p5r style
 4a5715f0, Defoko
-4a5813b4, [realistic lighting]|[photo]|[photorealistic]|[score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up]
 4a6720b1, sks carrie
 4a9c3831, ahrender
 4ac27207, flat color
@@ -4453,6 +4453,7 @@ f851f6a0, hunsha_girl
 f86aeb35, renne
 f86e4589, anime
 f885f32d, JasonAldean Person
+f89a083d, 1girl|ninomae ina'nis|hololive|hololive english|meconopsis ninomae ina'nis
 f8b2fd9e, girl
 f8c291fa, painting|girl
 f8e650bb, 3dmdt1
@@ -4515,6 +4516,7 @@ fd294ceb, nvinkpunk|modelshoot style|samdoesart|dreamlikeart|kuvshinov
 fd357580, latex|latex hood|latex mask|full face latex mask
 fd433acd, dal
 fd496cc1, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
+fd52d066, Elisa
 fd5feb6d, Renho/Gintama/|black bar over eyes|Censored Face|very short hairstyle|large collar|white coat
 fd6d0b83, oil painting
 fd7a0fd0, wltzwthbshr
