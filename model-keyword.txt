@@ -186,6 +186,7 @@
 08f7a22d, Papercut
 08fe03fe, by sky-freedom
 09083164, rcnz_niji style
+095a87ca, Master Chief
 0963da31, masterpiece|best quality
 096596d8, pow artstyle
 097a6c2e, 植物|动物
@@ -918,6 +919,7 @@
 25e0ae7a, anime
 25e42458, Evang, floatingHeadDreamLook_v3Safetensers.safetensors
 25e42458, banchan, bananoChan_anythingV3.safetensors
+25eed422, Master Chief
 260ab54a, Photo Realistic
 2622a6d6, Van Gogh|impressionism
 262674b8, cartoon style
@@ -1094,6 +1096,7 @@
 30fbd8bc, sks person
 31164c3c, killer pov|cenobite|science fiction|xmen 1869 tokusatsu
 3125d2c9, Master Chief
+312b6daa, Master Chief
 314630cf, duskypie|lisdusk1|lisdusk2|kairowez|mdjrny-v4 style
 3148d4f3, female|male
 3150f324, shiny skin
@@ -1304,6 +1307,7 @@
 3f6fbd7f, PERSON, lawillis_v10.ckpt
 3f6fbd7f, person prueba, lawillis_v10.ckpt
 3f76682f, Anime|manga|cartoon
+3f836c01, Master Chief
 3f9bbd71, score_9|score_8_up|score_7_up|3d-realisticstyle|score_9|score_8_up|score_7_up|2d-animestyle
 3fb6a757, Cute|kawaii|high-angle view
 3ff05333, score_9|score_8_up|score_7_up|score_6_up
@@ -2384,6 +2388,7 @@
 848b72d0, depth of field|film, unrealityV30_v20.safetensors
 848d7290, Yuuna
 8495185b, girl
+84c25c2c, Master Chief
 84ec5fea, subaru|1boy
 84f6b9a2, whatif style
 8516254c, girl|woman|sexy
@@ -3182,6 +3187,7 @@ ad14174f, FLUIDART|LIQUID SPLASH|Knollingcase|FOOD_CRIT|Beeple
 ad38c466, silverfox5213|
 ad4470e8, eldmeisterog style|sks style
 ad53ab6f, comic book style|comic book wallpaper|illustration
+ad572272, Master Chief
 ad73b609, anime
 ad7d89e9, empresshacker, hackerEmpressCracker_v10.safetensors
 ad7d89e9, lyndacarter, lyndaCarter1980s_v10.safetensors
@@ -3977,7 +3983,7 @@ de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, Hannah, hannah_v10.safetensors
 de2f2560, JenniferJBD, jenniferjbd_.safetensors
 de2f2560, JukyungLim, jukyunglim_v20.safetensors
-de2f2560, Master Chief, lemixRealisticAsians_v51.safetensors
+de2f2560, Master Chief, lemixRealisticAsians_v8Final.safetensors
 de2f2560, Mina Sundwall, minaSundwall_v10.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
 de2f2560, Shadowheart|armor|black hair|pointy ears|bangs|circlet|ponytail|green eyes|braid, shadowheart_v10.safetensors
@@ -4217,6 +4223,7 @@ ea3deaad, fkey70
 eaabd8c9, negative prompt :|door
 eabf280f, anthro|monster girl|colored skin|furry
 eac8d83c, score_9|score_8_up|score_7_up|score_6_up
+eac9918a, Master Chief
 ead93840, artistic portrait|beautiful detailed face|looking at the viewer|digital art style|oil painting style|colorful|dynamic lighting|vibrant light|shadow detailed|highly detailed|anime style|speed art|brush strokes|beautiful and aesthetic|masterpiece|ultra wide angle|surrealist|abstract artistic|gradient background
 eae4113f, 没有/none
 eae836b4, mommy, mommyGenerator_v10.safetensors
