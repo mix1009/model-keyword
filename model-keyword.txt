@@ -3988,7 +3988,7 @@ de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, Hannah, hannah_v10.safetensors
 de2f2560, JenniferJBD, jenniferjbd_.safetensors
 de2f2560, JukyungLim, jukyunglim_v20.safetensors
-de2f2560, Master Chief, lemixRealisticAsians_v8Final.safetensors
+de2f2560, Master Chief, lemixRealisticAsians_v6Full.safetensors
 de2f2560, Mina Sundwall, minaSundwall_v10.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
 de2f2560, Shadowheart|armor|black hair|pointy ears|bangs|circlet|ponytail|green eyes|braid, shadowheart_v10.safetensors
@@ -4158,6 +4158,7 @@ e6b83610, BTYLER23 person
 e6c793d7, DUNHUANG|HANFU|1960s \style\
 e6d0f9b8, Futanari|No testicles|erection
 e6d571b6, ohwx|pianist
+e6d5d6b9, Master Chief
 e6d8b0c0, 1990s style || 1980s \style\ || retro artstyle
 e6f776f5, ghibli
 e717e83f, infp
