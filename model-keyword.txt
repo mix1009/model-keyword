@@ -928,6 +928,7 @@
 265e757d, Sidon|Sidon style
 26621fc2, tdst style
 266edf7c, digital art|doll style
+267f323c, furry|anthro
 2684c304, cr1m3
 268bbd52, SEE Description
 268f2132, Pharmabro Person
@@ -3369,6 +3370,7 @@ b7010dfe, Mosaic Art
 b701219e, clone wars style|clonewars style|batman_the_animated_series
 b7244379, mecha hanbok|techwear hanbok|mechanical arm|mecha wear
 b725e575, wtrcolor style
+b734d0ee, score_9_up|score_8_up|score_7_up|score_6_up|score_5_up
 b742bc35, 8k|raw photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.37|high detailed background|1girl in a blue shirt|shy expression|cute|cityscape|night|rain|wet|professional lighting|photon mapping|radiosity|physically-based rendering||beautiful breasts|medium breast|look at viewer, girlMix_girlsmix.safetensors
 b742bc35, m, girlMix_girlsmix.safetensors
 b744269d, Evang
