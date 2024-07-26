@@ -701,6 +701,7 @@
 19643d1f, furry
 197571ec, nai3
 19804fc4, 1girl|moyou
+19872cc2, 1girl|amabilis
 1994138c, ChilloutDiverseMix
 19b72626, analog style|dreamlikeart|redshift style
 19b7510b, FXXDBXCK
@@ -3481,6 +3482,7 @@ bee71543, sailulu style, MyzyCelluloidKohaku_kohakuDelta.safetensors
 bef2a590, Fruits|Vegetables|
 befd836a, 1girl|character|copyright|artist|stuff|best quality|absurdres
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
+bf08aebb, anime|anime style
 bf158cd4, cartoon
 bf52174c, Anthro|Photo
 bf64b437, BRAV5_RealisianV50
@@ -3981,8 +3983,8 @@ dde11c1e, smitsv
 ddee9854, strories|h&r
 ddf1d6d8, muscular|large muscles|bara|bodybuilder|brutalmass
 ddf88a48, Chinese prompt, kolors8AcceleratedVersionOf8_accelerated.safetensors
-ddf88a48, niji style|anime artwork|real photo, openkolors_v13.safetensors
-ddf88a48, real photo|anime artwork, openkolors_v10.safetensors
+ddf88a48, niji style|anime artwork|real photo, openkolorsUnet_v13.safetensors
+ddf88a48, real photo|anime artwork, openkolorsUnet_v10.safetensors
 de21ca2c, masterpiece
 de27bfdb, man|woman
 de2f2560, 6girls+, theGoldenMirage_v11.safetensors
