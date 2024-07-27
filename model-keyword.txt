@@ -151,6 +151,7 @@
 06283b03, pokedanta-bl
 0655784d, gtav style
 0657c6d8, loona
+06647f49, 宝可梦世界
 06a9d223, mengersponge|sierpsponge
 06c844cf, 3D|Disney
 06dcaa2d, glasses|1girl
@@ -167,6 +168,7 @@
 0786845e, trained with chilloutmix|chinabeauty|dreamlike|a lot of others
 079b172e, illustration style kurzgesagtish
 079bb56e, country flag
+07e7dc81, man
 081160b4, Beautiful Asian girls
 0817babf, sks chessevolved
 081c78a3, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
@@ -1365,6 +1367,7 @@
 43a3cb40, mm_sd_v15_v2.ckpt
 43a5955f, photorealistic
 43ab0d4e, insertNameHere
+43bc8a3a, 原神风
 43c1d91f, furry
 43df363d, who
 43e4db69, anime
@@ -2479,6 +2482,7 @@
 8a7088c5, JzzyeonAi_v5
 8a868ec0, girl, randomGirl_v10.safetensors
 8a868ec0, test, test23452354_v10.safetensors
+8aa526f6, 一只黑白相间的猫
 8aaf1bec, raw photo|a close up portrait photo of 30 y.o woman in wastelander clothes|redhair|short haircut|pale skin|slim body|background is city ruins|high detailed skin:1.2|8k uhd|dslr|soft lighting|high quality|film grain|fujifilm xt3
 8abb053c, jiaocha
 8aca88c2, bakirda|kridaba|DaKriDi|dikrida
@@ -3429,6 +3433,7 @@ bb36de97, fantasy art, larryElmoreStyle_v25.safetensors
 bb36de97, fantasy art|dragonlance|dungeonsanddragons, larryElmoreStyle_v20.safetensors
 bb3992f1, Edsheeran Person
 bb420520, anime|illustration|cartoon|detailed
+bb4d8af4, genshin
 bb58613f, A photorealistic image of Beautiful girl Olya|the girl has bright red hair and light green eyes.
 bb666a18, 3d product render|product render
 bb7dbcff, anusithara
@@ -3580,6 +3585,7 @@ c3d52f46, 美少女, momonga_v10.safetensors
 c3d6718c, furry
 c3dc4a16, cheetah|feathers|woman|glacier
 c40bd8e7, lanawood
+c41d6c17, genshin
 c448dc23, wide hips|narrow waist|qi lolita|
 c44bb585, duskametrick15
 c45eb528, xiao yi xian
