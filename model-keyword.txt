@@ -730,6 +730,7 @@
 1b06a93e, suren|suren01, 01_no1.safetensors
 1b06a93e, suren|suren1, Amateur_no1.safetensors
 1b08178f, hyperstyle|art by mandy jurgens|oil painting|realistic:1.8
+1b0ba7bb, best quality
 1b0f1051, lqo_adrn
 1b30cc76, eva123xyzmendes
 1b44e9d1, 1girl|moyou
@@ -1146,6 +1147,7 @@
 33aadf44, Master Chief
 33c549f1, swpunk|synthwave|paint splatters
 33ce0bf3, Master Chief
+33df6195, best quality
 33ec9575, Pixar|anime|manga|comic|hand art
 33ee7e2a, furry
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
@@ -1197,6 +1199,7 @@
 376c5b7b, flowerman, flowerManSD15ckpt_v10.safetensors
 376c5b7b, flowerman2, flowerManSD15lines_v10Refiner.safetensors
 3771a958, BKLD
+37785887, best quality
 37b1ec55, t, animeLineartMangaLike_v30MangaLike.safetensors
 37b1ec55, trtsts, cd_v10.safetensors
 37c58221, guttojugg2
@@ -3896,6 +3899,7 @@ d843660f, quinn \(league of legends\), quinnFromLeagueOf_quinnNaiMix.ckpt
 d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
 d84b15d9, none
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
+d85fa716, jac|Jac|Jacki
 d86d05ea, Pulid
 d8892ed6, 1girl|moyou
 d89bc06c, m
