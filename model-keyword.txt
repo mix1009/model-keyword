@@ -1823,6 +1823,7 @@
 600db6b8, Lauterbach, karlLauterbachLauterbach_v10.safetensors
 600db6b8, gerdbaier, grattlerDiffusionViper_v1.safetensors
 600db6b8, rainerwinkler, winklerDiffusion_v1.safetensors
+6035292d, k4s4
 606224fd, groo_the_wanderer
 6067746b, ishikeistyle
 606f384c, penis|testicles
@@ -2205,6 +2206,7 @@
 7746fc20, vector|raster|exaggerate body proportion|big, modill_v10.ckpt
 7775c5b3, ky_d
 7791b0e6, monx style
+77bd7f0b, sythentic anime
 77c6d270, by narae
 77d2c8ef, Colorful|Neon|Steampunk|sci-fi
 77d829fa, секс
