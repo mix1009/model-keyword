@@ -1729,6 +1729,7 @@
 5a1eeb22, m_wlop
 5a4b600e, none
 5a526d93, jillstjohn
+5a550d6a, Master Chief
 5a639898, ink style|ink wash painting
 5a71feb9, abandoned building|overgrown with vegetation|concrete|underwater|overtaked by the sea|from outside the building|indoors
 5a747794, mechanical parts|mechanical 'body part or object|cyberware style
@@ -3721,6 +3722,7 @@ ce787c96, evang
 cea9fbcc, modisn disney
 ceab3f7e, jacquelinebisset
 cebf8122, modelshoot style
+cec357eb, photo of|RAW photo of|Analog photo of
 cec8722d, iayuso person
 ceede961, wide hips|narrow waist|cat girl|
 cf1f53d1, realistic
