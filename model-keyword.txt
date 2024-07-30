@@ -66,6 +66,7 @@
 0248da5c, sdart|bnp|abia|abit|adl|afs|aon|lpg|apro|nwsl|mth|arl|arum|asar|batt|bios|kuro|blob|bnha|bpd|buda|exe|irgc|buka|buon|cae|cava|ccd|chor|aroa|ccu|cep|clos|urd|crit|cudi|doa|cwgc|ylor|dats|ddc|acu|oxi, sdartImaginaryFriend_v2.safetensors
 0248da5c, sdart|dyce|ohwx|bnp|tobi|keel|conv|cov|aten|stg|fcu|nwsl|cous|gare|mth|nrf|elio|gani|pfa|kprc|kuro|ndi|asot|sill|coyi|bsp|psst|sqm|irgc|buka|lili|hns|cq|bdg|scd|byes|dany|yler|aroa|avel|vaw|zaki|muna|ewe|guin|erra|urd|nasi|vini|fbs|crit|doa|mlas|ylor|isch|phol|vedi|dds|acu|pte|oxi|bsgo, sdartCatstravaganza_v1.safetensors
 0248da5c, seconddusk, duskfallVirtual3D_10.safetensors
+0248da5c, source_arcstl|arcstl, artStyleLuisRoyoFor15_v20.safetensors
 0248da5c, surrealsteampunkai, surrealsteampunkai_V10.safetensors
 0248da5c, tibetentankas  tibetan buddhist painting meditating|meditating|tankas|painting|landscape, rebirth_tibetantankasFp32.safetensors
 0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_01.safetensors
@@ -4014,7 +4015,7 @@ de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, Hannah, hannah_v10.safetensors
 de2f2560, JenniferJBD, jenniferjbd_.safetensors
 de2f2560, JukyungLim, jukyunglim_v20.safetensors
-de2f2560, Master Chief, lemixRealisticAsians_v6Full.safetensors
+de2f2560, Master Chief, lemixRealistic_v6Full.safetensors
 de2f2560, Mina Sundwall, minaSundwall_v10.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
 de2f2560, Shadowheart|armor|black hair|pointy ears|bangs|circlet|ponytail|green eyes|braid, shadowheart_v10.safetensors
