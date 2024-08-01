@@ -2444,6 +2444,7 @@
 86bd187b, elxchavo
 86c0becf, qtcg|licg|gfcg|xscg
 86ca631e, BLUE
+86f1a996, Photo of|RAW Photo of|Analog photo of
 86f94aa2, zrpgstyle
 871a078a, ciloranko|tianliang duohe fangdongye|wlop|mikozin|zyugoya|ask askzy|onono imoko|shanyao_jiang_tororo
 87278b15, ZRpee
@@ -3320,6 +3321,7 @@ b284cd62, motion_checkpoint_less_motion
 b2896205, score_9|score_8_up|score_7_up|
 b29ef034, analog style
 b2a0766e, zelda|peach|daisy|samus|link|luigi
+b2ae9510, yuno
 b2c06b09, natnapinh
 b2c47ed5, LEGOstyle
 b2de9d62, silverfox5213|
@@ -4019,7 +4021,7 @@ de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, Hannah, hannah_v10.safetensors
 de2f2560, JenniferJBD, jenniferjbd_.safetensors
 de2f2560, JukyungLim, jukyunglim_v20.safetensors
-de2f2560, Master Chief, lemixRealistic_v9Final.safetensors
+de2f2560, Master Chief, lemixRealisticAsians_v9Final.safetensors
 de2f2560, Mina Sundwall, minaSundwall_v10.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
 de2f2560, Shadowheart|armor|black hair|pointy ears|bangs|circlet|ponytail|green eyes|braid, shadowheart_v10.safetensors
