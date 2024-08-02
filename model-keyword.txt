@@ -72,7 +72,6 @@
 0248da5c, yae miko from genshin impact|ei from genshin impact, genshin_01.safetensors
 0250e61d, 35mmneon
 0256617c, chinese traditional painting
-02858163, Master Chief
 028e8d50, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 029cc27d, SLE|mksks style|detailed background
 02a55bbe, ligne claire|By Roy Krenkel|By Jean-Pierre Gibrat
@@ -529,7 +528,6 @@
 10209fd6, dalcefo
 1024463c, realistic|photorealistic
 1027d657, httr
-10343beb, Master Chief
 1034f5f1, OIL PAINTING|FLOWER, shimily_v10.safetensors
 1034f5f1, masterpiece|best quality|, shmily_v10.safetensors
 10419930, hassanfantasy style
@@ -865,6 +863,7 @@
 223531c6, luna, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, masterpiece, vae-ft-mse-840000-ema-pruned.ckpt
 223c514b, Evang style
+225885de, Master Chief
 2258c119, CNDigitalArt Style
 2275f2cf, 90s retro anime style|xx year anime style
 228b3ab5, evang
@@ -921,10 +920,10 @@
 2593818e, ren|1boy
 25ba4550, modelshoot style|swpunk|synthwave|paint splatters
 25c9c744, cdunn
+25d4f007, Master Chief
 25e0ae7a, anime
 25e42458, Evang, floatingHeadDreamLook_v3Safetensers.safetensors
 25e42458, banchan, bananoChan_anythingV3.safetensors
-25eed422, Master Chief
 260ab54a, Photo Realistic
 2622a6d6, Van Gogh|impressionism
 262674b8, cartoon style
@@ -986,6 +985,7 @@
 293dc728, Evang
 2943d1df, analog style|modelshoot style|nsfw|nudity
 295c9ca7, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
+29740213, Master Chief
 29801141, tf2map|team fortress 2|map|tf2 map
 29993478, photo|low light
 299f0871, Evang
@@ -1036,6 +1036,7 @@
 2caa7a2f, SEE INTRODUCTION|见模型介绍|導入セクションを見る
 2cc9e101, pixarstyle
 2cd4cf48, sjh style
+2cd60c2e, Master Chief
 2cdfd31d, Evang, atomicDreamlook_v10.ckpt
 2cdfd31d, evang, atomiccomicV3_v3.ckpt
 2ce026e5, photorealistic
@@ -1077,7 +1078,6 @@
 2fd6057b, Batman_the_animated_series
 2fdd0123, guweiz|nixeu|wlop
 2fe0ca51, surreal
-2ff9dded, Master Chief
 2ffe0d53, Evang, mummy_v10.ckpt
 2ffe0d53, evang, mummy_v2.ckpt
 3013bb9f, 80sDarkSouls style|80sDarkSoul style|knight|armour|castle
@@ -1100,7 +1100,6 @@
 30ee044a, test
 30fbd8bc, sks person
 31164c3c, killer pov|cenobite|science fiction|xmen 1869 tokusatsu
-3125d2c9, Master Chief
 314630cf, duskypie|lisdusk1|lisdusk2|kairowez|mdjrny-v4 style
 3148d4f3, female|male
 3150f324, shiny skin
@@ -1142,7 +1141,6 @@
 339c88c0, object|no humans|solo focus|items
 33a96b51, anime
 33c549f1, swpunk|synthwave|paint splatters
-33ce0bf3, Master Chief
 33df6195, best quality
 33ec9575, Pixar|anime|manga|comic|hand art
 33ee7e2a, furry
@@ -1278,7 +1276,6 @@
 3caeeaf3, vintage polaroid analog portrait photography of
 3cb52e96, shuimobysim|shukezouma
 3cbacf0f, ned stark|jon snow|catelyn stark|daenerys targaryen|robert baratheon|arya stark|joffrey baratheon|tyrion lannister|jaime lannister|robb stark|petyr baelish|littlefinger|sansa stark|bran stark|cersei lannister|viserys targaryen|jorah mormont|benjen stark|waymar royce|rakharo dothraki|will ranger|jeor mormont|doreah handmaid|irri dothraki|maester luwin|khal drogo|the hound|sandor clegane|lord varys|rast ranger|rodrik cassel|maester aemon|mycah butcher son|grenn ranger|gared ranger|theon greyjoy|ser barristan selmy|jory cassel|ros cook|yoren recruiter|wildling girl|royal steward|catspaw assassin|pypar steward|old nan|illyrio mopatis|ilyn payne|lancel lannister|renly baratheon|mikken blacksmith|alliser thorne|syrio forel|game of thrones
-3d0eaf3d, Master Chief
 3d28e095, 3D Style|Rick Roll|fullbody shot|bad cosplay man
 3d61b720, 3D product render|3D product render style
 3da648f5, in the style of AImanhwa
@@ -1321,7 +1318,7 @@
 4093cd83, girl|Hypnotic Alluring Female Geisha|Chinese dress
 409d5f37, 1girl
 40ada8c2, watercolor
-40ced46e, Master Chief
+40c87bb2, Master Chief
 40e5672c, Anthro|Photo
 40f03cf4, artistic portrait|beautiful detailed face|looking at the viewer|digital art style|oil painting style|colorful|dynamic lighting|vibrant light|shadow detailed|highly detailed|anime style|speed art|brush strokes|beautiful and aesthetic|masterpiece|ultra wide angle|surrealist|abstract artistic|gradient background
 41358439, furry|anthro
@@ -1348,6 +1345,7 @@
 426cf881, xxmixgirl
 4283ebdc, GOLDENGLASS|MAXWELL THE CAT|POKEMODEL|ChromaV5
 428509f3, meitu|sailor moon style|anime style|manga
+42cbe292, Master Chief
 42d1c972, PadoruMeme
 42da2d52, art by yaguru magiku
 42eefbf3, nauskaavalofw
@@ -1767,7 +1765,6 @@
 5c9b51d3, dreamworks artstyle
 5cc1bba0, style of ohwx
 5cc891f2, pixar|C4D|blender|3d
-5cc90fa1, Master Chief
 5cc9b7ba, modelshoot style
 5cdf5e55, N/A
 5cf5ae06, wasteland
@@ -2228,7 +2225,6 @@
 79587710, zombie, wendigo_v20.safetensors
 7960116e, evang
 796f5ad4, cat
-7971a271, Master Chief
 79b55ef7, bigbadejo alien_monster
 79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10.safetensors
 79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.safetensors
@@ -2278,7 +2274,6 @@
 7c83b897, monochrome
 7c8db7f9, Soft light|1girl|1boy
 7c8eef56, analog style|chromav5|nvinkpunk
-7ca86ee9, Master Chief
 7cb76003, poolsuite style
 7cbc2ac1, nekoxiangcao
 7cd5be4f, model|merge model
@@ -2301,7 +2296,6 @@
 7e8d1b0b, coralchar
 7e9708cb, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 7ea37667, uka|sexy|breast
-7eb0436d, Master Chief
 7ebe8fad, buzz Lightyear  eat hotdrynoodle
 7ec31957, beth woman
 7edc8e08, mksks style
@@ -3087,6 +3081,7 @@ a8434aad, CCDDA Artstyle
 a84b8518, rcnz_hqr style
 a866286f, mtg card art
 a8af5a13, erduh man
+a8b87be2, Master Chief
 a8bfb6df, hanfu|genshin impact
 a8c7eec2, fking_mtg
 a8d2f3e7, SDArt
@@ -3655,13 +3650,13 @@ ca198d1c, graphicart, graphicArt_15V10.safetensors
 ca198d1c, paleolithic, paleolithicArt10_paleoartV10.safetensors
 ca198d1c, weirdcore, dreamcoreDiffusion_v10.safetensors
 ca4fcc12, snnmrn|snnmrn woman
+ca5a17e0, Master Chief
 ca682192, sjh style
 ca9f8215, hair ornament|hatsune miku||capelet||detached sleeves|dress flower|white shirt|black skirt|white sleeves||white socks||high heels|
 cab77b73, ANIME CARTOON
 cadfbc28, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 caea14ad, lvngvncnt
 caf6fda6, Realistic|Photorealistic
-caf7b574, Master Chief
 cafd0b18, analog|photography
 cb01edf8, 1girl|moyou
 cb144970, by k-suwabe
@@ -4004,7 +3999,7 @@ de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, Hannah, hannah_v10.safetensors
 de2f2560, JenniferJBD, jenniferjbd_.safetensors
 de2f2560, JukyungLim, jukyunglim_v20.safetensors
-de2f2560, Master Chief, lemixRealisticAsians_v9Final.safetensors
+de2f2560, Master Chief, lemixRealisticAsians_v9Full.safetensors
 de2f2560, Mina Sundwall, minaSundwall_v10.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
 de2f2560, Shadowheart|armor|black hair|pointy ears|bangs|circlet|ponytail|green eyes|braid, shadowheart_v10.safetensors
@@ -4532,6 +4527,7 @@ fbf5d1b5, sks place
 fc04f144, furry|aviarie|tgj
 fc1375ea, Realistic|Photorealistic
 fc151a15, reasonabledrink
+fc2ab4b0, Master Chief
 fc3440eb, woman|photo
 fc41b940, evgenii-ponasenkov
 fc83c5ad, civsix style
