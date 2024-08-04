@@ -1099,6 +1099,7 @@
 30e45754, cityscape
 30ee044a, test
 30fbd8bc, sks person
+30fcaf3d, cyberbotgilzv1
 31164c3c, killer pov|cenobite|science fiction|xmen 1869 tokusatsu
 314630cf, duskypie|lisdusk1|lisdusk2|kairowez|mdjrny-v4 style
 3148d4f3, female|male
@@ -2393,6 +2394,7 @@
 84f6b9a2, whatif style
 8516254c, girl|woman|sexy
 85293b6a, particle effect|lens flare|concept art
+852ad25f, InteriorDesign
 853e5ff4, wvebg1
 859342ff, MMN|MN|cho girls
 85979c1f, 1990 style|1980 style|retro artstyle
@@ -3299,7 +3301,7 @@ b276826e, cinematic|film grain|RAW|movie still|realistic photography|dutch angle
 b284cd62, motion_checkpoint_less_motion
 b2896205, score_9|score_8_up|score_7_up|
 b29ef034, analog style
-b2a0766e, zelda|peach|daisy|samus|link|luigi
+b2a0766e, zelda|samus|link|luigi|princess peach|princess daisy
 b2ae9510, yuno
 b2c06b09, natnapinh
 b2c47ed5, LEGOstyle
