@@ -137,6 +137,7 @@
 0519e070, nerdphoton1, nerdPhoton1_v10.ckpt
 0519e070, nerdphoton2, guttoNerdPhoton2_v20.ckpt
 053a9feb, Oil Painting|Watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn
+0556ed1e, Master Chief
 0579cceb, pixiv masterpiece
 057f38eb, cumonhands|hanging testicles|blackfemale|whitefemale|redbonefemale|cumfacial|blowjobsex|handjobsex|cumshot|cumonbreasts|man's cock|whiteman|blackman|whitecock|blackcock|nakedoldman|one man|eroticposing
 0586db75, cornflower
@@ -240,6 +241,7 @@
 0ae9e220, goosebumps art by tim jacobus
 0aed3741, modelshoot style
 0af74262, 1girl with __color__ hair|__color__ eyes|__clothing_style__ clothing|__background__|
+0afe0ecc, Master Chief
 0b02fdb1, Master of everything|photography
 0b0341fc, analog style|modelshoot style|nsfw|nudity
 0b071c53, bilsh21
@@ -800,6 +802,7 @@
 1f27bb0e, sks woman
 1f3b83dd, Trish1
 1f5c87ad, rainbowpatch
+1f92efc6, Master Chief
 1f96e58d, TEST, test_v10.safetensors
 1f96e58d, photo|photograph, nextphoto_v30.safetensors
 1fb30a55, aimoji
@@ -865,7 +868,6 @@
 223531c6, luna, vae-ft-mse-840000-ema-pruned.ckpt
 223531c6, masterpiece, vae-ft-mse-840000-ema-pruned.ckpt
 223c514b, Evang style
-225885de, Master Chief
 2258c119, CNDigitalArt Style
 2275f2cf, 90s retro anime style|xx year anime style
 228b3ab5, evang
@@ -956,6 +958,7 @@
 276edfa7, evang
 27a594ef, GIRL 3D SUBJECT RENDER PHOTOREALISTIC FEMALE RETRO ANATOMICAL ART INTRICATE ACCURATE WOMAN ILLUSTRATION CARS CARTOON CINEMATIC FANTASY PHOTOGRAPHY REALISTIC
 27b2d819, Evang
+27b357df, Master Chief
 27b791e4, pow style|sometimes8916|526christian2526|akumetsu9719982|andretheapache9587|bitspirit31653|bwm_nubby6416|crazykazoo2431|eppinette-chi6220|espasmo9486|flowwolf4607|guizmus7459|h20_dancing8979|horvallis7915|jeremy6194|jrw19948464|junglerally3955|max headroom6734|meezy1963|millennium_gun6377|munkyfoot7944|nerfgun37508|nicogj2781|noofthebeast8209|omnia2931|owleye1290|phaff1970|piscabo8649|ras6722|residentchiefnz6989|rhapsody8685|satyam_ssj107387|tazi2574|trash--panda6213|valanya6869|vcm077281|vil0404|wpatzz5836|xthisisbotoxx8765
 27d7d4a1, vapodusk1
 27de1ee8, Jimmie Åkesson
@@ -986,7 +989,6 @@
 293dc728, Evang
 2943d1df, analog style|modelshoot style|nsfw|nudity
 295c9ca7, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
-29740213, Master Chief
 29801141, tf2map|team fortress 2|map|tf2 map
 29993478, photo|low light
 299f0871, Evang
@@ -1037,6 +1039,7 @@
 2caa7a2f, SEE INTRODUCTION|见模型介绍|導入セクションを見る
 2cc9e101, pixarstyle
 2cd4cf48, sjh style
+2cd60c2e, Master Chief
 2cdfd31d, Evang, atomicDreamlook_v10.ckpt
 2cdfd31d, evang, atomiccomicV3_v3.ckpt
 2ce026e5, photorealistic
@@ -1148,6 +1151,7 @@
 33f5960a, {colorful}|{vivid colors}|{vivid}|{flat color}
 340ddd58, digital art|cartoon style
 341b1b4d, dragzkz
+343d9278, Master Chief
 344ad699, KEMONO
 344bd3b5, anthro furry|post-impressionist
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
@@ -1319,7 +1323,6 @@
 4093cd83, girl|Hypnotic Alluring Female Geisha|Chinese dress
 409d5f37, 1girl
 40ada8c2, watercolor
-40c87bb2, Master Chief
 40e5672c, Anthro|Photo
 40f03cf4, artistic portrait|beautiful detailed face|looking at the viewer|digital art style|oil painting style|colorful|dynamic lighting|vibrant light|shadow detailed|highly detailed|anime style|speed art|brush strokes|beautiful and aesthetic|masterpiece|ultra wide angle|surrealist|abstract artistic|gradient background
 41358439, furry|anthro
@@ -1572,6 +1575,7 @@
 521893a1, voxel-ish
 523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
 52395e18, none
+52481371, Master Chief
 52500c41, masterpiece|best quality
 52665586, flat vector art|vector illustration
 52898605, oil painting|palette knife|bold brushstrokes|greg rutkowski
@@ -2588,6 +2592,7 @@
 918b8228, cartoon|cartoon style
 918c71de, furry girl
 91b85e84, lowbrow
+91ca1114, Master Chief
 91cf8f7b, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 91d18805, 
 91ec9ea6, dwspop style|dwspop space|dwspop forest|dwspop landscape
@@ -2844,6 +2849,7 @@
 9bcc259d, choker|croped shirt|two pig-tails
 9bdc6717, none|just prompt
 9c036bf5, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult
+9c0ae5fd, Master Chief
 9c246bf0, hanfu
 9c3572e7, realistic|best quality|masterpiece
 9c55fd12, mirrormask
@@ -3015,6 +3021,7 @@ a4723a65, anime
 a476b99d, 11
 a480df4d, hanfu
 a48a2a1b, ghibli style
+a48cb372, Master Chief
 a499f7e7, roasted pig
 a4dbc300, pikachu
 a4e4cfcf, lowbrow
@@ -3058,6 +3065,7 @@ a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 a6f96d80, BelleDelphine|woman
 a72de66c, MedabotV2
 a731246e, Merge
+a7328d38, Master Chief
 a7358fae, 1990s style|1980s style|retro artstyle
 a73b3094, 3d render of|3d cartoon of
 a74ca246, cbzbb|microworld, microcharsMerge_10.ckpt
@@ -3081,6 +3089,7 @@ a7e848cb, photo by Miroslav Tichy, miroslavTichy_.ckpt
 a7e848cb, pimploy|thai model, pimploy_V10.ckpt
 a7e848cb, shaded, shadedDiffusion_v10.ckpt
 a7e848cb, vffxxdx, model2_v1.ckpt
+a7f55619, Master Chief
 a808b21c, photo|b0dy1|b0dy2|b0dy3|b0dy4|realistic
 a8273a26, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 a8372572, wooditize
@@ -3088,7 +3097,6 @@ a8434aad, CCDDA Artstyle
 a84b8518, rcnz_hqr style
 a866286f, mtg card art
 a8af5a13, erduh man
-a8b87be2, Master Chief
 a8bfb6df, hanfu|genshin impact
 a8c7eec2, fking_mtg
 a8d2f3e7, SDArt
@@ -3206,6 +3214,7 @@ ad9d6205, fart62
 addf5b58, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
 adf18b48, Any
 ae19a9dd, pspp man
+ae3342bc, Master Chief
 ae40b48d, cult of cthulhu|giger|Cthulhu|post-apocalypse|biomechanical
 ae703f08, sweat
 ae88607a, black-and-white photograph
@@ -3399,6 +3408,7 @@ b8d8a250, emaiti
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
 b8e63a5d, Evang
 b8e8e6ac, _mohawk_|character
+b8f63757, Master Chief
 b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
 b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
 b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style, aargArchitecture_v10.safetensors
@@ -3520,6 +3530,7 @@ c0e63696, 2000s|1990s|1980s|1970s|1960s|1950s|1940s|aleksei gilev style|andrew v
 c0e7c884, snthwve style|nvinkpunk
 c0ed7dfb, l4lisa
 c0f32ab1, plushiedsk
+c112b482, Master Chief
 c11fb943, modelshoot style
 c12e4c21, Evang
 c142c7cf, outline|monochrome|lineart|black and white|grayscale|greyscale
@@ -3657,7 +3668,6 @@ ca198d1c, graphicart, graphicArt_15V10.safetensors
 ca198d1c, paleolithic, paleolithicArt10_paleoartV10.safetensors
 ca198d1c, weirdcore, dreamcoreDiffusion_v10.safetensors
 ca4fcc12, snnmrn|snnmrn woman
-ca5a17e0, Master Chief
 ca682192, sjh style
 ca9f8215, hair ornament|hatsune miku||capelet||detached sleeves|dress flower|white shirt|black skirt|white sleeves||white socks||high heels|
 cab77b73, ANIME CARTOON
@@ -3880,6 +3890,7 @@ d6e9461b, abd
 d6e9d2b1, dvMJv4
 d7049739, cat
 d7149094, lnkdn photography
+d7527c81, Master Chief
 d75fa7fc, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 d7cc8710, manyakis art style|rabbit girl
 d7d31a4e, motion design|C4D|rendering|light and shadow
@@ -4104,6 +4115,7 @@ e1b24811, irl
 e1b7c805, woolitize
 e1c7ea87, sad
 e1e66020, entp
+e231802f, Master Chief
 e246da64, syberart
 e2494235, FLUIDART LIQUID SPLASH KNOLLINGCASE FOOD_CRIT BEEPLE
 e24a9c03, 2d|masterpiece|best quality|anime
