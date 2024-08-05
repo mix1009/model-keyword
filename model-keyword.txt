@@ -1877,6 +1877,7 @@
 638ca327, jp_style person
 6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 63d09205, latex|latex catsuit|latex corset|bondage|bound|metal collar|metal cuffs|swedish collar|swedish cuffs
+63dc2f31, vintage|book cover|surrealist|text
 63ec42c3, noble ai|noble mix fix|reality|noblemixfix|person|character|photograph
 63f63601, estilovintedois
 64113636, See Appendix A|见附录A
@@ -4110,6 +4111,7 @@ e13105fc, masterpiece|best quality, bbMIXALICE_v10.safetensors
 e13105fc, masterpiece|best quality|white theme|black theme, bbmixRUIS_bbmixRUIS.safetensors
 e136d291, None
 e13c6405, RAW photo of|Analog photo of
+e17829ff, Princess Peach|Princess Daisy|Princess Zelda|Samus Aran|Link|Luigi|Serena from Pokemon|Misty from Pokemon|Hilda from Pokemon|Jessie from Pokemon|Bowsette
 e1a9b17f, 1girl
 e1b24811, irl
 e1b7c805, woolitize
