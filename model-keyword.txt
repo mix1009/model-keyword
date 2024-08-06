@@ -1254,12 +1254,14 @@
 3a41dbca, read description
 3a4bafd1, liquid splash|porcelain doll|papercut
 3a548d27, N64style|psxstyle|ocarinaoftime
+3a5feecf, Master Chief
 3a72437c, cornflower
 3ab0ed25, mksks
 3ae3405f, 70年式
 3ae92812, masterpiece|realistic|best quality
 3afdc872, bedroomai
 3b214cf8, style
+3b27ef9d, IRL
 3b35f9ee, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
 3b439695, audra miller
 3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
@@ -1809,6 +1811,7 @@
 5ec42e28, as a t-shirt logo in the style of <magifactory> art
 5ed38041, OBJECT|NO HUMANS|SOLO FOCUS|ITEMS
 5ef236a8, darkflatartai
+5f025155, chen5
 5f06aa6f, Fran, testFranmodelf_v10.ckpt
 5f06aa6f, ttdddd, froggyStyle_toad.ckpt
 5f1199a7, adl|cae|fck|gsp|hta|httr|lun|olis|omd|rcn|sown|rps|tux|waj|gote|dbz|ulf
@@ -2674,6 +2677,7 @@
 962c3253, anisenti88
 965c5e50, mashu_yuino
 9672fada, shiny skin|long legs
+967b6e5d, Master Chief
 9695a9cd, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 96e9bd73, art by yaguru magiku
 96f94d09, sks woman
