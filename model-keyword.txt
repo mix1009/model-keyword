@@ -3971,6 +3971,7 @@ dab88696, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn,
 dab88696, shiny skin, kl-f8-anime2.safetensors
 dad06477, Realistic, matrixStellar_v11VAE.safetensors
 dad06477, female|male|landscapes|realistic|man|woman|SCIFI, matrixStellar_v11VAE.safetensors
+dad0a6bf, vintage|book cover|photo|surrealist
 dada189d, russian
 daecbd84, FleischerStyle
 dafa131a, realistic|raw photo|photo realistic|hyper realistic|realistic photo|ultra realistic|photorealism|realism, sdxlYamersRealisticNSFW_v4VAE.safetensors
