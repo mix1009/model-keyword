@@ -2966,7 +2966,7 @@ a150faa4, icon|blender|C4D
 a184fedc, gigafractal artstyle
 a1d9f84f, anime|style|woman, gnomePower_v111.safetensors
 a1d9f84f, huge breasts|gigantic breasts, bNARHBBrightNightAnd_v10.safetensors
-a1d9f84f, score_9|score_8_up|score_7_up, copycat_v13.safetensors
+a1d9f84f, score_9|score_8_up|score_7_up, yixPONYByYeiyeiart_yixOriginal.safetensors
 a1d9f84f, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, ponyFaetality_v10.safetensors
 a1d9f84f, source_anime|figure style, ponyPvcFigure_pony.safetensors
 a1d9f84f, source_photorealistic|fleshmutant|cybermutant, ponyspanded_betaV05.safetensors
