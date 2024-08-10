@@ -4035,6 +4035,7 @@ de2f2560, JukyungLim, jukyunglim_v20.safetensors
 de2f2560, Master Chief, lemixRealisticAsians_v10Full.safetensors
 de2f2560, Mina Sundwall, minaSundwall_v10.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
+de2f2560, Photo of|RAW photo of|Analog photo of, freshPhotoRealism_v25-inpainting.safetensors
 de2f2560, RAW photo of|Analog photo of|Photo of, freshPhotoRealism_v25.safetensors
 de2f2560, Shadowheart|armor|black hair|pointy ears|bangs|circlet|ponytail|green eyes|braid, shadowheart_v10.safetensors
 de2f2560, ae, tokeaa_mancet.safetensors
