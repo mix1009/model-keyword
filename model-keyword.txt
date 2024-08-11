@@ -6,8 +6,8 @@
 0003ba25, SmolOne
 007edaa3, clayitization
 0097dd62, audra miller
-00a22474, B_Anime|B_Realistic, beyondMega_v20.safetensors
-00a22474, Beyond_Realistic, beyondMega_v10.safetensors
+00a22474, B_Anime|B_Realistic, beyondExperimental_v20.safetensors
+00a22474, Beyond_Realistic, beyondExperimental_v10.safetensors
 00d62a36, photorealistic|naked
 00e7b299, anime
 00ee0e8e, score_9|score_8_up|best quality|masterpiece|4k|uncensored|prefect lighting|rating_explicit|very aesthetic|BREAK
@@ -3588,7 +3588,8 @@ c37cd72c, blurry background|depth of field
 c3860cb4, furry
 c3b103e8, lvmd aesthetic|3d render
 c3c086d6, artstyle bse
-c3c1dc18, a painting in the style of guidao style
+c3c1dc18, a painting in the style of guidao style, wlopArienwlopstylexl_v10.safetensors
+c3c1dc18, score_9|score_8_up|score_7_up, incursiosMemeDiffusion_v27PDXL.safetensors
 c3cfd75d, powa
 c3d52f46, Ayana Fujisawa, ayanaFujisawa_v10.safetensors
 c3d52f46, Femboy|Feminine|Short hair|Cute|Beautiful|Flat chest, femboyLora_v10.safetensors
