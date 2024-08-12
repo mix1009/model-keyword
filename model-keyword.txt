@@ -275,7 +275,8 @@
 0c91adf8, chinazhengzhou
 0c93a576, name|oumeifeng style|redshift style
 0cdb758d, tea picker
-0cf33d87, PVCstyle
+0cf33d87, PVCstyle, copycatPVC_v10.safetensors
+0cf33d87, score_9|score_8_up|score_7_up, copycatASC_v10.safetensors
 0cf442f0, dakota person
 0cfa53d7, *read notes*
 0d0abaae, sks human RAW photo
@@ -4040,6 +4041,7 @@ de2f2560, Mina Sundwall, minaSundwall_v10.safetensors
 de2f2560, OchakoUraraka, ochakoUraraka_v10.safetensors
 de2f2560, Photo of|RAW photo of|Analog photo of, freshPhotoRealism_v25-inpainting.safetensors
 de2f2560, RAW photo of|Analog photo of|Photo of, freshPhotoRealism_v25.safetensors
+de2f2560, RAW photo of|Photo of|Analog photo of, freshPhotoRealism_v25LCM.safetensors
 de2f2560, Shadowheart|armor|black hair|pointy ears|bangs|circlet|ponytail|green eyes|braid, shadowheart_v10.safetensors
 de2f2560, ae, tokeaa_mancet.safetensors
 de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
