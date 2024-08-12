@@ -4,6 +4,7 @@
 #model_hash,keyword,filename.ckpt
 0001af3a, db01
 0003ba25, SmolOne
+004976fd, none
 007edaa3, clayitization
 0097dd62, audra miller
 00a22474, B_Anime|B_Realistic, beyondExperimental_v20.safetensors
@@ -658,6 +659,7 @@
 16527de9, realism|realistic|cinematic|photo realism
 16552af2, sks woman
 168f95ca, asim style
+16af7a28, none
 16c2e9fc, longziyan
 16d2a02c, dreamlikeart|samdoesart|kuvshinov
 16d77205, elden ring style
@@ -968,6 +970,7 @@
 27ea8c02, snthwve style|nvinkpunk
 282b4e08, Fraufembot
 2855347e, score_9|score_8_up|score_7_up||thick outlines
+285548e4, Master Chief
 2857f4c6, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 2869803d, WAS26
 28978ab2, she has her breasts exposed|she has her vagina exposed|she is totally naked|she is partially naked|gigantic fake oversized breasts
@@ -1477,6 +1480,7 @@
 4adec77d, InToThe2KGothClub
 4aef3692, sks woman
 4af11463, game icon
+4af4416b, none
 4af5a824, Evang
 4b075428, 8k|RAW photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.37|omertosa|1girl|Kpop idol|aegyo sal:1best quality|ultra high res|photorealistic:1.4|1woman:1.5|best quality|illustration，beautiful detailed eyes，extremely detailed CG unity 8k wallpaper|art of light novel|from side below|fish-eye shot|In the sea of flowers，[dusk:0.6|stars:0.4]，sunset，1girl:1.5，blond long hair，gary pupils，wear a wreath，white veil，red roses adorn the skirt，white gauze short cloak，long dress，white silk stockings，{young girl}，rose headdress，sitting，{{masterpiece}}，hang head，Hold a bunch of white rose，lowered eyebrows，small|1girl:1.5|
 4b1af12d, ishowspeed|ishowspeed and talking ben|talking ben
@@ -2073,6 +2077,7 @@
 6fbfba65, beautiful Chinese Landscape Art|Chinese Landscape Art|water colors
 6fcaeaae, FUTANARI|NO_TESTICLES|ERECTION|GIRL
 6fd3570f, clean lines|digital illustration|manga style|minimalistic style
+6fe6ef71, unbuttoned clothes
 6fe8f5ad, chibi
 6feb162d, evang
 6ff25eff, Evang
@@ -3323,6 +3328,7 @@ b240717e, shuimobysim|shukezouma
 b245152f, powercolor.v1|Drippy watercolor|Vivid watercolor
 b2510902, Cyborgdiffusion|Cyborgdiffusion style
 b276826e, cinematic|film grain|RAW|movie still|realistic photography|dutch angle style|chromatic aberration
+b282c192, none
 b284cd62, motion_checkpoint_less_motion
 b2896205, score_9|score_8_up|score_7_up|
 b29ef034, analog style
@@ -3792,6 +3798,7 @@ d0efcea0, Mikelindell Person, theMyPillowGuy_v10.safetensors
 d0efcea0, Topnotch Artstyle, TopnotchArtstyleVolume118_v10.safetensors
 d0efcea0, Tuckercarlson Person, tuckerCarlsonTuckercarlson_v10.safetensors
 d0fd0f0c, Photorealistic|realistic
+d10dc445, Master Chief
 d12d9c15, aki|aoki|aoi|nobu|sota
 d14d4d5f, anime in real life|photo background
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
