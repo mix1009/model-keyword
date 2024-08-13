@@ -2977,6 +2977,7 @@ a149572b, vector-art, vectorArt_Beta.safetensors
 a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a150faa4, icon|blender|C4D
 a184fedc, gigafractal artstyle
+a1d9f84f, ArsMJStyle|Watercolor, arsMidjourneyPony_watercolorPonyV01.safetensors
 a1d9f84f, anime|style|woman, gnomePower_v111.safetensors
 a1d9f84f, huge breasts|gigantic breasts, bNARHBBrightNightAnd_v10.safetensors
 a1d9f84f, score_9|score_8_up|score_7_up, yixPONYByYeiyeiart_yixOriginal.safetensors
