@@ -159,6 +159,7 @@
 06a9d223, mengersponge|sierpsponge
 06c844cf, 3D|Disney
 06dcaa2d, glasses|1girl
+070672c1, Pixel Art
 070af006, furry|anthro
 070bb507, pastel
 0714d7da, Warm colors
@@ -2135,6 +2136,7 @@
 738df5d3, fashion
 738e9523, Beautiful women|pretty girls|and more
 73aebb03, rammstein
+73c50100, none
 73ca29f4, raw photo
 73d359a0, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 73d558d7, jakquelynn
@@ -2262,6 +2264,7 @@
 7a0fd151, Game Icon Institute, anything_fp16.safetensors
 7a0fd151, Mika kit, blessed2_fp16.safetensors
 7a0fd151, ang, anything_fp16.safetensors
+7a0fd151, anime lineart, anything_fp16.safetensors
 7a0fd151, anime, anything_fp16.safetensors
 7a0fd151, illustration, blessed2.vae.safetensors
 7a0fd151, mksks style|detailed background, blessed2.vae.safetensors
@@ -4135,6 +4138,7 @@ e04f7e7f, character
 e0844d20, pbr
 e0a3ab60, xivcine person
 e0a60e11, dskyart1|style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
+e0b1cf84, anime lineart
 e0d019bb, samdoesarts
 e0dc1c4f, 1girl|1boy
 e0dcec61, 1girl
