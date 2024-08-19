@@ -3484,6 +3484,7 @@ babc9f45, swwinf style
 baf09b14, SEE APPENDIX|见附录
 baf83ef9, 3D modeling|photos|real world, animatedModelsOf_v10.safetensors
 baf83ef9, Photos|real ones|Anime|Illustration, dominationWorld_v02.safetensors
+bafadd5d, Manga
 bb029452, kindigitstyle
 bb167491, UMP45
 bb20f881, SDS_girl, sdsFILM_210.safetensors
