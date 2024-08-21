@@ -1865,6 +1865,7 @@
 609698f6, Cailee Spaeny, caileeSpaeny_v10.safetensors
 609698f6, Peyton Elizabeth Lee, peytonElizabethLee_v10.safetensors
 60cbc38b, Isometric|No Humans
+60f02a52, anime illustration
 60f72dcb, Evang
 60fc9a30, anime screencap
 60fe2f34, modelshoot style|analog style|mdjrny-v4 style|nousr robot
@@ -2115,6 +2116,7 @@
 700b1fd2, |stylized game icon
 702eac14, usual|watch pictures
 703f7ff1, high fantasy
+7043784b, realistic
 705ae506, None
 7061e3cc, score_9|score_8_up|score_7_up|
 7088b556, lego man|lego|constructor
@@ -2409,6 +2411,7 @@
 822b8799, pepestyle person
 823525d4, pixel
 82402518, balacbk
+8253f226, 3D RENDER|CGI|3D
 82562766, flat vector art|vector illustration
 82780037, tpkify
 82795246, Abcessive
