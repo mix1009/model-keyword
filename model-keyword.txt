@@ -603,6 +603,7 @@
 13c3e49f, collage style
 13dcb8cc, comic book style|comic book wallpaper|illustration, EDvae_Final.safetensors
 13dcb8cc, synthwave punk style|vaporwave style|synthwave|vaporwave colors|retro photography|neon lighting|paint splash|nvinkpunk, EDvae_Final.safetensors
+13e35a8b, master makeup
 13e74cc9, speedpainting
 13f13d60, Neco-arc
 1400e684, Airlock, djzAirlockV21768V21512_v15.safetensors
