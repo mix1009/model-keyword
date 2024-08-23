@@ -2982,6 +2982,7 @@
 9fc9d4fb, pixel art|low poly|3D|2D|Top Down|RPG|D&D|UOStyle|Ultima Online|pixel art|oil painting|NES|ocarinaoftime|majorasmask|n64style|psxstyle|ps1 style||PSXstyle|ps1 style|n64style|ocarinaoftime|majroasmask, flashbackxl_v10FlashbackAlpha.safetensors
 9fd02bb8, photo, colorfulxl_v10.safetensors
 9fd02bb8, wgz style, wlopSTYLEXL_v2.safetensors
+9fd860ed, score_9|score_8_up|score_7_up|source_anime|
 9fee5b60, maddiesmith
 9ff4bcf1, dalcefo
 9ff529c8, anime
