@@ -1802,6 +1802,7 @@
 5c77038b, hanfu, 扶摇汉服V3.fp16.safetensors
 5c7e6e88, 80sFashionRobot, 80sFashionRobot_v1.ckpt
 5c7e6e88, 80sfashionrobot, 80sfashionrobot_v10.ckpt
+5c8376b6, niji style
 5c98e895, 1boy|1girl|futanari|sex|penis|pussy, vae-ft-mse-840000-ema-pruned_fp16.safetensors
 5c98e895, Happy new year, vae-ft-mse-840000-ema-pruned_fp16.safetensors
 5c98e895, anime|sexy|hentai, vae-ft-mse-840000-ema-pruned_fp16.safetensors
