@@ -283,6 +283,7 @@
 0c90f664, HUAWEI
 0c91adf8, chinazhengzhou
 0c93a576, name|oumeifeng style|redshift style
+0ca6716f, cocoart|cocoart animal|vibrant cocoart
 0cdb758d, tea picker
 0cf33d87, PVCstyle, copycatPVC_v10.safetensors
 0cf33d87, score_9|score_8_up|score_7_up, copycatASC_v10.safetensors
@@ -3467,6 +3468,7 @@ b78b4650, filfigari
 b798ff50, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 b79a53c1, greek
 b7a08fdf, ohwx monster|ohwx monster devil|ohwx devil
+b7a20917, man stands aboard a boat
 b7ab508f, MagMix Girl
 b7ba5b22, effeff9 woman|effeff9 man|effeff9 creature|effeff9 architecture, effeffixConcept_main.ckpt
 b7ba5b22, orna santa, ornamentalSanta_default10.ckpt
