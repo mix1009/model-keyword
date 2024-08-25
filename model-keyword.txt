@@ -750,6 +750,7 @@
 1b0ba7bb, best quality, Genie_Vae_SD1x.safetensors
 1b0f1051, lqo_adrn
 1b30cc76, eva123xyzmendes
+1b37026c, moroccan ghibli style
 1b44e9d1, 1girl|moyou
 1b51119d, photo portrait|surrealistic|woman|large breasts|erected penis
 1b51225c, ClaymationXmas, claymationXmas_sd2.ckpt
@@ -1583,6 +1584,7 @@
 50481b4d, anime|girl
 505f27ef, Oofa
 506ed641, glowing|neon
+50756c81, lyh|anime
 508104ff, isohomes
 509bd95f, CosPlay Mix
 50ad914b, e621
@@ -1610,6 +1612,7 @@
 51c34eea, Nendoroid
 51de870c, score_9|score_8_up|score_7_up|score_6_up
 51f16ca3, masterpiece|best quality|a beautiful face|a kawaii face|an exceptional face|a perfect face
+51f82dd3, 77oussam 90s
 5203b60b, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM
 521893a1, voxel-ish
 523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
@@ -2344,6 +2347,7 @@
 7cb76003, poolsuite style
 7cbc2ac1, nekoxiangcao
 7cd5be4f, model|merge model
+7cebfa59, FOOD-77oussam
 7d255777, illustration
 7d3fe2bf, 4n1v3rs3
 7d4239bf, elem flowers|fire|water|earth|air|multielem
@@ -2443,7 +2447,8 @@
 83295fd6, mdjrny-pntrt
 832c6e6a, analog style|modelshoot style|nsfw|nudity
 833060ae, mdjrny-v4 style|nousr robot
-83416818, anime|lyh
+83416818, anime|lyh, diffusion_pytorch_model.safetensors
+83416818, lyh|anime, diffusion_pytorch_model.safetensors
 835e7dc1, gigafractal artstyle
 8371a0bf, spicto
 8381f785, jclnhbe style
@@ -3481,6 +3486,7 @@ b853964b, nsfw
 b895edc4, mdjrny-v4 style
 b8978189, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 b8a220c1, nebulaewisdomanimestyle
+b8be42ba, golden skeleton
 b8d8a250, emaiti
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
 b8e63a5d, Evang
