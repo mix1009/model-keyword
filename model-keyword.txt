@@ -2982,6 +2982,7 @@
 9ecb88d8, photo of zhy zhangyi
 9ed4ea56, Oldjourney
 9ede614e, 80's anime style
+9ee01169, TOK
 9ee95c80, anime|2d anime|3d anime|anime style
 9ef9f138, gigafractal artstyle
 9f159502, *read notes*
@@ -3046,6 +3047,7 @@ a1d9f84f, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, ponyFa
 a1d9f84f, source_anime|figure style, ponyPvcFigure_pony.safetensors
 a1d9f84f, source_photorealistic|fleshmutant|cybermutant, ponyspanded_betaV05.safetensors
 a1d9f84f, source_photorealistic|fleshmutant|cybermutant|ncrender, ponyspanded_betaV04.safetensors
+a1d9f84f, source_photo|dazstyle|NCRender|asmaria, ponyspanded_betaV07.safetensors
 a1d9f84f, source_photo|mydaz|fleshmutant|cybermutant|NCRender, ponyspanded_betaV06.safetensors
 a1ddf000, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 a1e1b00c, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
@@ -4011,6 +4013,7 @@ d8d282fe, modisn|modisn disney|modisn disney style
 d8e16309, realistic|photorealistic
 d8f1cb00, 1girl
 d902a082, design|interrior|interriordesign
+d904ad94, score_9|score_8_up|score_7_up|source_anime|
 d90a034f, yuzu$style
 d9194229, Hendrick|Baden|Nora|Inissa
 d927bc1a, 二维码
