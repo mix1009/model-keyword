@@ -283,7 +283,6 @@
 0c90f664, HUAWEI
 0c91adf8, chinazhengzhou
 0c93a576, name|oumeifeng style|redshift style
-0ca6716f, cocoart|cocoart animal|vibrant cocoart
 0cdb758d, tea picker
 0cf33d87, PVCstyle, copycatPVC_v10.safetensors
 0cf33d87, score_9|score_8_up|score_7_up, copycatASC_v10.safetensors
@@ -1995,6 +1994,7 @@
 67a7c1b1, girl
 67c24e97, chinese mythology
 67c4904e, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
+67d424fa, niji5|niji6
 67e082c9, half body|closeup
 67e8a0ae, analog style|dreamlikeart|knollingcase|modelshoot style|elden ring style|bf|sci-fi
 67eabc3f, anthro|body fur
