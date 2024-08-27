@@ -283,8 +283,10 @@
 0c90f664, HUAWEI
 0c91adf8, chinazhengzhou
 0c93a576, name|oumeifeng style|redshift style
+0ca6716f, cocoart|cocoart animal|vibrant cocoart
 0cdb758d, tea picker
 0cf33d87, PVCstyle, copycatPVC_v10.safetensors
+0cf33d87, masterpiece|best_quality, copycat_v30.safetensors
 0cf33d87, score_9|score_8_up|score_7_up, copycatASC_v10.safetensors
 0cf442f0, dakota person
 0cfa53d7, *read notes*
@@ -1625,6 +1627,7 @@
 52665586, flat vector art|vector illustration
 52898605, oil painting|palette knife|bold brushstrokes|greg rutkowski
 529b49de, raw photo|cosplay photo|fashion photo|anime artwork|cotton doll|worst quality|worst anatomy|distortion
+529cfff5, realistic style|anime style|<gamename> style
 52d7fbac, Boxing gloves|boxing ring
 5301c7c5, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 532b3e28, anime
@@ -2888,6 +2891,7 @@
 99cc51d8, masterpiece, darkPizzaXLOriginXL_v33.safetensors
 99cc51d8, masterpiece|comic, darkPizzaXLOriginXL_v34.safetensors
 99cc51d8, xsfantasy|western fantasy|oriental fantasy, neverdream_neverdV23.safetensors
+99cf6769, TOK
 99d08e67, latex
 99e78387, SinCityMovie Style
 99ff99fd, BJ_Pure_Realistic, pureRealisticV10_v10.safetensors
@@ -3765,6 +3769,7 @@ ca4fcc12, snnmrn|snnmrn woman
 ca682192, sjh style
 ca6c800f, 1girl
 ca9f8215, hair ornament|hatsune miku||capelet||detached sleeves|dress flower|white shirt|black skirt|white sleeves||white socks||high heels|
+caa842f5, alina_rin
 cab77b73, ANIME CARTOON
 cadfbc28, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 cae61f5b, black & white|perspective|oil painting|brutalism style
