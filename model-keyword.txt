@@ -1393,6 +1393,7 @@
 42eefbf3, nauskaavalofw
 4326c062, ppllnnn
 4335b329, audra miller
+433f13c6, Light shadow
 43606100, analog style
 436dd50e, 3d product render|product render
 4391d84b, citroen, citroenDS_v10.safetensors
@@ -1435,7 +1436,6 @@
 4534193a, artistic portrait|beautiful detailed face|looking at the viewer|digital art style|oil painting style|colorful|dynamic lighting|vibrant light|shadow detailed|highly detailed|anime style|speed art|brush strokes|beautiful and aesthetic|masterpiece|ultra wide angle|surrealist|abstract artistic|gradient background
 4563a63d, anime
 456c0bfb, sks woman
-456f37bb, medium eyes|detailed eyes|expressive eyes|realistic|disney pixar style|3d|3d rendering
 4571d7f2, starfox
 457348b3, girl|female|woman
 45734a1b, aki|aoki|aoi|isao|nao|nobu|shou
@@ -1983,6 +1983,7 @@
 66bd3bf0, space nebula|fog|dust|star cluster|space dust
 66c3d376, caebhx|dark purple hair|red eyes
 66c87a89, sybildanning
+66d3a78e, medium eyes|detailed eyes|expressive eyes|realistic|disney pixar style|3d|3d rendering
 66def034, sks woman
 66ed97f9, 1
 670044d9, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
@@ -3382,7 +3383,7 @@ b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
 b1facb5b, anime, copaxAnimeXL_v2.safetensors
 b1facb5b, cartoon|cute, copaxCuteXLSDXL10_v10.safetensors
-b1facb5b, colorful, copaxTimelessxlSDXL1_colorfulV2.safetensors
+b1facb5b, colorful, copaxTimelessxl_colorfulV2.safetensors
 b1facb5b, disney cartoon|cute cartoon, LahCuteCartoonSDXL_beta1.safetensors
 b1facb5b, disney cartoon|cute cartoon|cute chinese|chibi chinese, LahCuteCartoonSDXL_alpha.safetensors
 b1facb5b, elemental|effect, soraFocusEffectSDXL_v01.safetensors
@@ -3391,9 +3392,9 @@ b1facb5b, mysterious, LahMysteriousSDXL_v355.safetensors
 b1facb5b, mysterious|fantasy|dark fantasy|3D rendering|anime, LahMysteriousSDXL_v30.safetensors
 b1facb5b, mysterious|fantasy|lofi style|anime, LahMysteriousSDXL_v295.safetensors
 b1facb5b, mysterious|fantasy|peplos|greek|anime, LahMysteriousSDXL_v256.safetensors
-b1facb5b, pores|realistic, copaxTimelessxlSDXL1_v22SkinUpdate.safetensors
+b1facb5b, pores|realistic, copaxTimelessxl_v22SkinUpdate.safetensors
 b1facb5b, portrait|medium close-up shot|photo|photograph, SDXLPeople_v05.safetensors
-b1facb5b, realistic, copaxTimelessxlSDXL1_v2.safetensors
+b1facb5b, realistic, copaxTimelessxl_v2.safetensors
 b1fd9215, ginkddd
 b2035b44, butterfly sex|blowjob|doggy style|handjob|licking cock|riding cowgirl|reversecowgirl|sidefuck|titty fucking|reverse gang bang|self stroking|undressing|orgasming|foodtease|teasing|cumshot|threesome|foursome|fivesome
 b2066f4d, laracroftsd
@@ -4300,6 +4301,7 @@ e6184e6b, sks woman|(sks woman)|((sks woman))
 e622b9c3, Read Description
 e6865330, shadow flat vector art|Minimalism
 e695afa2, modelshoot style|nousr robot
+e6a58177, niji5|niji6
 e6b56e48, Saya...
 e6b83610, BTYLER23 person
 e6c793d7, DUNHUANG|HANFU|1960s \style\
