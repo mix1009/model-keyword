@@ -871,6 +871,7 @@
 2185ba37, bakirda|kridaba|DaKriDi|dikrida
 218cee5d, mksks style|detailed background
 219cbfe8, RKart style
+21b86e39, dalle|lyh|anime
 21d6cfcc, ligne claire|by Roy Krenkel|by Jean-Pierre Gibrat
 21f26bfa, nwpnn
 2206906b, guofeng|chinese|bokeh|silk dress
@@ -1585,6 +1586,7 @@
 500bc3e3, Evang, mummy_v3.safetensors
 500bc3e3, evang style, mummy_v4.safetensors
 501a50ad, realistic|photorealistic|raw photo|raw picture|realism|realistic style
+5035f0fc, nsfw|woman
 50444ca2, trnlgcy
 50481b4d, anime|girl
 505f27ef, Oofa
@@ -2455,6 +2457,7 @@
 832c6e6a, analog style|modelshoot style|nsfw|nudity
 833060ae, mdjrny-v4 style|nousr robot
 83416818, anime|lyh, diffusion_pytorch_model.safetensors
+83416818, dalle|lyh|anime, diffusion_pytorch_model.safetensors
 83416818, lyh|anime, diffusion_pytorch_model.safetensors
 835e7dc1, gigafractal artstyle
 8371a0bf, spicto
