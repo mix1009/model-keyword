@@ -667,7 +667,6 @@
 1586c88f, sks
 15952be6, furry
 15bf7d9d, pixel
-15c17c1f, anime|lyh
 15c86f04, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 15f7afca, retro anime style|retro vibes
 1604613a, muscular
@@ -804,6 +803,7 @@
 1dc14b76, cyberpunk
 1de02855, qwert
 1de07e87, [realistic lighting]|[photo]|[photorealistic]
+1de6c22c, lyh|anime|1girl
 1de806f4, rcnz_hqr style
 1df99c75, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
 1e06ed13, gran
@@ -2465,6 +2465,7 @@
 83416818, anime|lyh, diffusion_pytorch_model.safetensors
 83416818, dalle|lyh|anime, diffusion_pytorch_model.safetensors
 83416818, lyh|anime, diffusion_pytorch_model.safetensors
+83416818, lyh|anime|1girl, diffusion_pytorch_model.safetensors
 835e7dc1, gigafractal artstyle
 8371a0bf, spicto
 8381f785, jclnhbe style
