@@ -2181,6 +2181,7 @@
 72922615, looney tunes style|disney style|classic animation style
 72b0d5bb, sculpture
 72c1d746, erected penis|portrait photo|naked man
+72cd2d1f, score_9|score_8_up|score_7_up|source anime|
 72d80922, nvinkpunk|mdjrny-v4 style|kairowez|lisdusk1|lisdusk2
 72f11307, 3Reich|Wehrmacht uniform|German SS uniform|Peaked cap|side cap|breast eagle emblem|wreathed cockade emblem
 73012bca, 3D model
@@ -2464,6 +2465,7 @@
 83295fd6, mdjrny-pntrt
 832c6e6a, analog style|modelshoot style|nsfw|nudity
 833060ae, mdjrny-v4 style|nousr robot
+83416818, An anime pvc figure of <...>, diffusion_pytorch_model.safetensors
 83416818, anime|lyh, diffusion_pytorch_model.safetensors
 83416818, dalle|lyh|anime, diffusion_pytorch_model.safetensors
 83416818, lyh|anime, diffusion_pytorch_model.safetensors
@@ -3739,6 +3741,7 @@ c670dcdd, Realistic
 c67fbe37, SEE APPENDIX A|见附录A
 c6bb6991, hearthstone card
 c6bd9e1d, Rori
+c6e97867, score_9|score_8_up|score_7_up|source anime|
 c717d277, zrpgstyle
 c75080c5, score_9|score_8_up|score_7_up|
 c76b8b8e, sks woman
@@ -4396,6 +4399,7 @@ ea35b744, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen bo
 ea38c702, quicksand
 ea3cb787, monster girl
 ea3deaad, fkey70
+ea861d13, niji5|niji6
 eaabd8c9, negative prompt :|door
 eabf280f, anthro|monster girl|colored skin|furry
 eac8d83c, score_9|score_8_up|score_7_up|score_6_up
@@ -4500,6 +4504,7 @@ f098482b, masterpiece|best quality|ultra-detailed|illustration|an extremely deli
 f0a2955a, sss
 f0add89a, beksinski, bexArtSelecy_v10.safetensors
 f0add89a, bex, artbex_v10.safetensors
+f0da8e8b, An anime pvc figure of <...>
 f0ddc933, realistic
 f0e8d121, blowjobsex|handjobsex|cumfacial|cumshot|cumonbreasts|cumonhands|whiteman|blackman|whitecock|blackcock|whitefemale|blackfemale|redbonefemale|femalefingernails|nakedoldman|one man|man's cock|eroticposing
 f0f9c9ee, photo of luxury-arabic-1979
