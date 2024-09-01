@@ -2470,6 +2470,7 @@
 83416818, dalle|lyh|anime, diffusion_pytorch_model.safetensors
 83416818, lyh|anime, diffusion_pytorch_model.safetensors
 83416818, lyh|anime|1girl, diffusion_pytorch_model.safetensors
+83416818, lyh|anime|blue archive|1girl|gawr gura, diffusion_pytorch_model.safetensors
 835e7dc1, gigafractal artstyle
 8371a0bf, spicto
 8381f785, jclnhbe style
@@ -2795,6 +2796,7 @@
 97e92c9a, score_9|score_8_up|score_7_up|source_explicit|source_pony|
 97fc027e, weriart style
 97fd8cc4, iwanagakotoko
+97ffc947, architecture|competition style
 980005ba, Evang
 981d1719, color fur|red fur|orange fur|purple fur|blue fur|green fur|species furry gender|anthro|fursona|anthropomorphic, sevensMixFurryModel_7thmixV2Anythingbake.safetensors
 981d1719, color fur|red fur|orange fur|yellow fur|green fur|blue fur|species gender furry|fursona|anthro|anthropomorphic, sevensMixFurryModel_7thmixV2OrangebakeS.safetensors
@@ -3473,6 +3475,7 @@ b5b85ff6, synthwave punk style|vaporwave style|synthwave|vaporwave colors|retro 
 b5c0b653, modelshoot style
 b5dfa841, 𝚊𝚛𝚝𝚒𝚜𝚝𝚒𝚌 𝚙𝚘𝚛𝚝𝚛𝚊𝚒𝚝|𝚋𝚎𝚊𝚞𝚝𝚒𝚏𝚞𝚕 𝚍𝚎𝚝𝚊𝚒𝚕𝚎𝚍 𝚏𝚊𝚌𝚎|𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚟𝚒𝚎𝚠𝚎𝚛|𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚊𝚛𝚝 𝚜𝚝𝚢𝚕𝚎|𝚘𝚒𝚕 𝚙𝚊𝚒𝚗𝚝𝚒𝚗𝚐 𝚜𝚝𝚢𝚕𝚎|𝚌𝚘𝚕𝚘𝚛𝚏𝚞𝚕|𝚍𝚢𝚗𝚊𝚖𝚒𝚌 𝚕𝚒𝚐𝚑𝚝𝚒𝚗𝚐|𝚟𝚒𝚋𝚛𝚊𝚗𝚝 𝚕𝚒𝚐𝚑𝚝|𝚜𝚑𝚊𝚍𝚘𝚠 𝚍𝚎𝚝𝚊𝚒𝚕𝚎𝚍|𝚑𝚒𝚐𝚑𝚕𝚢 𝚍𝚎𝚝𝚊𝚒𝚕𝚎𝚍|𝚊𝚗𝚒𝚖𝚎 𝚜𝚝𝚢𝚕𝚎|𝚜𝚙𝚎𝚎𝚍 𝚊𝚛𝚝|𝚋𝚛𝚞𝚜𝚑 𝚜𝚝𝚛𝚘𝚔𝚎𝚜|𝚋𝚎𝚊𝚞𝚝𝚒𝚏𝚞𝚕 𝚊𝚗𝚍 𝚊𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌|𝚖𝚊𝚜𝚝𝚎𝚛𝚙𝚒𝚎𝚌𝚎|𝚞𝚕𝚝𝚛𝚊 𝚠𝚒𝚍𝚎 𝚊𝚗𝚐𝚕𝚎|𝚜𝚞𝚛𝚛𝚎𝚊𝚕𝚒𝚜𝚝|𝚊𝚋𝚜𝚝𝚛𝚊𝚌𝚝 𝚊𝚛𝚝𝚒𝚜𝚝𝚒𝚌|𝚐𝚛𝚊𝚍𝚒𝚎𝚗𝚝 𝚋𝚊𝚌𝚔𝚐𝚛𝚘𝚞𝚗𝚍
 b5e156ba, vskeei1
+b5e92399, lyh|anime|blue archive|1girl|gawr gura
 b5f1a902, realistic|anime|toon|cartoon
 b5f6fe6c, pepe_frog
 b5fd73b9, digital art|cartoon style
@@ -4491,6 +4494,7 @@ efd54274, elden ring style
 efdd9fcf, GAME ICON, gameIconInstitute_v20.safetensors
 efdd9fcf, game icon, gameIconInstitute_v21.safetensors
 efe608ac, Clay Mann
+f0067cd7, nsfw|woman|intimate
 f00b92e0, detailed|official art|colorful|accessories|fractal art|aesthetic|chinese clothes
 f00b95d9, 1girl，moyou
 f00d9299, HighHumanion
