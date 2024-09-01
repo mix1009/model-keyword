@@ -1303,6 +1303,7 @@
 3b35f9ee, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
 3b439695, audra miller
 3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
+3b815a87, TzigoAnimeStyle
 3bb0e1fc, 2D|anim|sex|nsfw|sfw|ai|manga|girl
 3bb264a1, Furry|Hentai|Nude|Yiff|Breasts|Naked|Fur|NSFW|porn|sex
 3bbfd044, modelshoot style
@@ -2471,7 +2472,6 @@
 83416818, dalle|lyh|anime, diffusion_pytorch_model.safetensors
 83416818, lyh|anime, diffusion_pytorch_model.safetensors
 83416818, lyh|anime|1girl, diffusion_pytorch_model.safetensors
-83416818, lyh|anime|blue archive|1girl|gawr gura, diffusion_pytorch_model.safetensors
 835e7dc1, gigafractal artstyle
 8371a0bf, spicto
 8381f785, jclnhbe style
@@ -3166,6 +3166,7 @@ a69f9ce1, best quality|sksTakuya
 a6a7d3ac, thm style|fantastical realism
 a6b4eaf3, no
 a6dbd500, tchnclr
+a6e49f52, graphic novel|comic book style|sketch|lineart|ligne claire
 a6ea17df, female|male
 a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
@@ -3476,7 +3477,6 @@ b5b85ff6, synthwave punk style|vaporwave style|synthwave|vaporwave colors|retro 
 b5c0b653, modelshoot style
 b5dfa841, 𝚊𝚛𝚝𝚒𝚜𝚝𝚒𝚌 𝚙𝚘𝚛𝚝𝚛𝚊𝚒𝚝|𝚋𝚎𝚊𝚞𝚝𝚒𝚏𝚞𝚕 𝚍𝚎𝚝𝚊𝚒𝚕𝚎𝚍 𝚏𝚊𝚌𝚎|𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚟𝚒𝚎𝚠𝚎𝚛|𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚊𝚛𝚝 𝚜𝚝𝚢𝚕𝚎|𝚘𝚒𝚕 𝚙𝚊𝚒𝚗𝚝𝚒𝚗𝚐 𝚜𝚝𝚢𝚕𝚎|𝚌𝚘𝚕𝚘𝚛𝚏𝚞𝚕|𝚍𝚢𝚗𝚊𝚖𝚒𝚌 𝚕𝚒𝚐𝚑𝚝𝚒𝚗𝚐|𝚟𝚒𝚋𝚛𝚊𝚗𝚝 𝚕𝚒𝚐𝚑𝚝|𝚜𝚑𝚊𝚍𝚘𝚠 𝚍𝚎𝚝𝚊𝚒𝚕𝚎𝚍|𝚑𝚒𝚐𝚑𝚕𝚢 𝚍𝚎𝚝𝚊𝚒𝚕𝚎𝚍|𝚊𝚗𝚒𝚖𝚎 𝚜𝚝𝚢𝚕𝚎|𝚜𝚙𝚎𝚎𝚍 𝚊𝚛𝚝|𝚋𝚛𝚞𝚜𝚑 𝚜𝚝𝚛𝚘𝚔𝚎𝚜|𝚋𝚎𝚊𝚞𝚝𝚒𝚏𝚞𝚕 𝚊𝚗𝚍 𝚊𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌|𝚖𝚊𝚜𝚝𝚎𝚛𝚙𝚒𝚎𝚌𝚎|𝚞𝚕𝚝𝚛𝚊 𝚠𝚒𝚍𝚎 𝚊𝚗𝚐𝚕𝚎|𝚜𝚞𝚛𝚛𝚎𝚊𝚕𝚒𝚜𝚝|𝚊𝚋𝚜𝚝𝚛𝚊𝚌𝚝 𝚊𝚛𝚝𝚒𝚜𝚝𝚒𝚌|𝚐𝚛𝚊𝚍𝚒𝚎𝚗𝚝 𝚋𝚊𝚌𝚔𝚐𝚛𝚘𝚞𝚗𝚍
 b5e156ba, vskeei1
-b5e92399, lyh|anime|blue archive|1girl|gawr gura
 b5f1a902, realistic|anime|toon|cartoon
 b5f6fe6c, pepe_frog
 b5fd73b9, digital art|cartoon style
