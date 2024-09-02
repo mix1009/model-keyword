@@ -1190,6 +1190,7 @@
 344ad699, KEMONO
 344bd3b5, anthro furry|post-impressionist
 3460aae9, a photo of pxyz woman|negative: lowres|bad anatomy|bad hands|text|error|missing fingers|extra digit|fewer digits|cropped|worst quality|low quality|normal quality|jpeg artifacts|signature|watermark|username|blurry|bad feet
+3462eae2, watercolor
 3470a2b3, 1girl
 34976697, [realistic lighting]|[photo]|[photorealistic]
 34a6e0ca, ertiao
@@ -1739,6 +1740,7 @@
 584f63ab, score_9|score_8_up|score_7_up|realistic, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up|realistic|, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up|score_6_up|detailed, sdxl_vae.safetensors
+584f63ab, watercolor, sdxl_vae.safetensors
 584f63ab, ~*~aesthetic~*~, sdxl_vae.safetensors
 584f63ab, 伤妃-刘亦菲|1girl|, sdxl_vae.safetensors
 5851a557, |Style7
@@ -4681,6 +4683,7 @@ fa765db4, Anime Style|Cartoon Style
 faa16408, Analog Style|Photorealistic|Realistic|Mature Adult|Fantasy Art|Illustration|Watercolor|Concept Art|Oil Painting|Surrealism|Brush Strokes|Pointillism|Hyperrealistic|Perfect Shading|Masterpiece|Subsurface Scattering|Perfect Lighting|Volumetric Lighting
 fab2577c, modelshoot style|analog style|mdjrny-v4 style
 fab53a35, rcnz_niji style
+facd2861, Western Comics|4n1vers3
 fad41caf, kawakaze azur lane|silver hair|blue eyes
 fad858bb, ivy|ivy \deadlock\|deadlock
 fae962e2, ComplexLA style|nvinkpunk|marioalberti artstyle|ghibli style
