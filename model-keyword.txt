@@ -1461,7 +1461,8 @@
 4609b935, celine|woman|long hair
 461e9d29, sassy style|edg bodytape|riley star|lana rhoades|karlee grey|eva sedona|vivian taylor|skylar vox|kylie shay|hannah hays|haley spades|foxy alissa|christy marks|ivy lebelle
 4629eda6, mj|cozy|cinematic
-46314e53, close up character design|multiple concept designs|
+46314e53, close up character design|multiple concept designs|, mr_.safetensors
+46314e53, pastel_boy, adjustPastel_v10.safetensors
 46440438, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 465dd42d, 4n1v3rs3
 467df46e, 1girl|anime|mastepiece|best quality
@@ -2014,6 +2015,7 @@
 67e082c9, half body|closeup
 67e8a0ae, analog style|dreamlikeart|knollingcase|modelshoot style|elden ring style|bf|sci-fi
 67eabc3f, anthro|body fur
+67ee40e2, Mucha
 68120148, ashenhard style
 681f76ba, chibi
 682ba7df, irmntro person
