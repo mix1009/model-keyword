@@ -256,6 +256,7 @@
 0b0341fc, analog style|modelshoot style|nsfw|nudity
 0b071c53, bilsh21
 0b09ad3b, ctsmscl
+0b1f8f7c, score_9|score_8_up|score_7_up|
 0b2cf1fe, evang
 0b4924f1, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 0b5cc604, fantasy|fantasy art|80's fantasy art|90's fantasy art|Retro|Realistic|Photorealistic|Watercolor|Oil Painting|Science Fiction|Scifi Fantasy Art|Scifi|D&D Character|Character Design|Character Concept|Fantasy Poster|Analog|Analog Style|Volumetric Lighting|Subsurface Scattering|Photoreal|Perfect Body|Perfect Legs|Masterpiece|Intricate|Detailed|Hyperrealistic|Mature Adult|NSFW
@@ -705,6 +706,7 @@
 187550ac, 80sanimestyle
 18756300, analog style|modelshoot style|nsfw|nudity
 1877a743, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|D&D character|fantasy poster|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|masterpiece|intricate|detailed|hyperrealistic
+18835db8, Score_9|score_8_up|score_7_up
 189e3972, shinyunbok painting
 18a585a0, sunshyne|bladerunner
 18b7217d, game icon
@@ -2318,7 +2320,7 @@
 7960116e, evang
 796f5ad4, cat
 79b55ef7, bigbadejo alien_monster
-79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10.safetensors
+79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10SD15.safetensors
 79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.safetensors
 79c63bd9, Landscape design
 79d3364b, Anime|Art|studio ghibli|Cartoon
@@ -3028,6 +3030,7 @@
 9fc108a7, Evang
 9fc9d4fb, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base, albedobaseXL_v12.safetensors
 9fc9d4fb, pixel art|low poly|3D|2D|Top Down|RPG|D&D|UOStyle|Ultima Online|pixel art|oil painting|NES|ocarinaoftime|majorasmask|n64style|psxstyle|ps1 style||PSXstyle|ps1 style|n64style|ocarinaoftime|majroasmask, flashbackxl_v10FlashbackAlpha.safetensors
+9fcdaf26, kisliptu style|abbe bi style|basety style|sassy style|pomagip|dalle style|midjourney style|thepit style|samdoesart style|owler style|cherrmous style|arosen style|anime style|suicidegirl|digital art|colorful|wild nature
 9fd02bb8, photo, colorfulxl_v10.safetensors
 9fd02bb8, wgz style, wlopSTYLEXL_v2.safetensors
 9fd860ed, score_9|score_8_up|score_7_up|source_anime|
@@ -3587,7 +3590,7 @@ bd66b7ba, Bluey
 bd747e17, dark|shadow|fantasy
 bd7df541, timor|timorm
 bda49b29, ashenhard style
-bda7821c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10.ckpt
+bda7821c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10SD15.ckpt
 bda7821c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.ckpt
 bda88570, modern disney style
 bdb4b12c, by popqn
@@ -4612,6 +4615,7 @@ f6355763, Evang, beejaydel_bjd20000.safetensors
 f63dafbe, Realistic
 f6412c6b, 1girl
 f661ebc1, 2dskillicon
+f67008fe, monochrome
 f68b2ecb, woman
 f69b7a31, Nothing
 f6a9004f, nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
