@@ -1784,7 +1784,8 @@
 59de42c6, master
 59ea056b, PVC|3D, ytpvc672xlf012XL_v10.safetensors
 59ea056b, scenery|no humans, animatBackgroundV1_v02.safetensors
-5a020453, bbone|vpanties|vibrator insertion|
+5a020453, anime|source_anime, speciosaAnime_v12.safetensors
+5a020453, bbone|vpanties|vibrator insertion|, boneGirlCheckpoint_ponyBonegirlV02.safetensors
 5a07846b, auburn
 5a1ae211, by kaisen chuui
 5a1e4b93, coralchar
