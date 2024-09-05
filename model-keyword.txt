@@ -301,7 +301,6 @@
 0d53acd4, beatniks|retro futurism|hip|blue note album cover design
 0d773f38, cotton doll|fashion_photo|anime artwork|head_only|upperbody|knee_level|fullbody
 0d8373ed, realistic|photorealistic
-0d8e4c8e, anime|lyh
 0d9677ee, DannyTheFallen
 0d985eef, sks woman
 0d9b57d0, sketch|charcoal sketch|pencil sketch|rough sketch
@@ -551,6 +550,7 @@
 1034f5f1, masterpiece|best quality|, shmily_v10.safetensors
 10419930, hassanfantasy style
 10783134, furry
+1087cb80, anime|source_anime
 108830f2, 1 girl
 10923f57, Glen Orbik|Earle Bergey|Robert Maguire|Gil Elvgren
 109f5177, mature woman
@@ -1517,7 +1517,8 @@
 4a2eab64, SDArt|appt|ohwx|asr|aten|fcu|chor|cpec|pfa|kprc|kuro|asot|elis|sill|exe|bsp|grl|hap|byes|lpg|yler|avel|vaw|zaki|ohn|guin|vini|pz|crit|shma|doa|sks|szn|phol|utm|uy|dds|pte|oxi|ynna
 4a33fce8, insertNameHere
 4a3dfda4, p5r style
-4a470f55, Analog style|vhs style|Dvd screengrab|classic anime
+4a470f55, Analog style|vhs style|Dvd screengrab|classic anime, duchaiten_v20.safetensors
+4a470f55, Analog style|vhs style|Dvd screengrab|old anime|classic anime, duchaiten_v30.safetensors
 4a5715f0, Defoko
 4a6720b1, sks carrie
 4a9c3831, ahrender
@@ -2132,6 +2133,7 @@
 6efa7caf, dreamlikeart
 6efbb478, photo of mannavai person
 6eff939c, sks person
+6f271681, anime|lyh
 6f4ab0a0, duskgem|jem and the holograms
 6f59f272, tail|scaly tail|tufted tail|furry tail|horse tail|fluffy tail
 6f5fc35d, 3d render of|3d cartoon of
@@ -3497,6 +3499,7 @@ b62d2ebc, aki|aoki|nobu|aoi|sota
 b6310dde, saukztf|arinax|1girl|ktjtn
 b63a47bb, synthpunk|cyberpunk|fantasy
 b63e1a80, zelda style image of
+b6597b6e, hanfu|chinese|songmo|mamian skirt
 b65a0407, N/A
 b67477ba, KEMONO
 b69a7398, photo of zky zhong kunyi
@@ -3966,6 +3969,7 @@ d386996c, 3d|render|japparii|cinema4d|photoshop|album cover|minimalism|digital|p
 d3870529, iclight
 d38ddb80, female|male
 d3921bc9, armor|1boy
+d3932b91, Priscilla Ricart
 d3a9cef0, hanfu
 d3cda7e2, PEX_style
 d3d1a929, raw photo|cosplay photo|fashion photo|anime artwork|cotton doll|worst anatomy|worst quality|distortion
