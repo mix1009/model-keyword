@@ -805,7 +805,6 @@
 1dc14b76, cyberpunk
 1de02855, qwert
 1de07e87, [realistic lighting]|[photo]|[photorealistic]
-1de6c22c, lyh|anime|1girl
 1de806f4, rcnz_hqr style
 1df99c75, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
 1e06ed13, gran
@@ -1380,6 +1379,7 @@
 416a7f7c, dreamlikeart
 4192fc16, kurzgesagt style
 41c67857, minchien
+41d50a60, anime|lyh
 41d721c0, swpunk|synthwave|paint splatters
 41ee5b72, pixel art
 41fef4bd, nousr robot
@@ -2133,7 +2133,6 @@
 6efa7caf, dreamlikeart
 6efbb478, photo of mannavai person
 6eff939c, sks person
-6f271681, anime|lyh
 6f4ab0a0, duskgem|jem and the holograms
 6f59f272, tail|scaly tail|tufted tail|furry tail|horse tail|fluffy tail
 6f5fc35d, 3d render of|3d cartoon of
@@ -2396,6 +2395,7 @@
 7e232ae2, none
 7e67267b, eldmeisterOG
 7e6c193b, Real|realistics
+7e894e6c, source_anime|anime
 7e8d1b0b, coralchar
 7e9708cb, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 7ea37667, uka|sexy|breast
@@ -2635,7 +2635,6 @@
 8d9f015b, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 8d9f6326, highres|raifu
 8de50d7b, Mature female
-8dea0bbd, lyh|1girl|anime
 8e121fec, none
 8e145533, claymation|80's anime style
 8e194b43, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
