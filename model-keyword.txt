@@ -6,6 +6,7 @@
 0003ba25, SmolOne
 004976fd, none
 007edaa3, clayitization
+009100c7, lenaayad
 0097dd62, audra miller
 00a22474, B_Anime|B_Realistic, beyondExperimental_v20.safetensors
 00a22474, Beyond_Realistic, beyondExperimental_v10.safetensors
