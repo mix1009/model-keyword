@@ -2484,9 +2484,7 @@
 83416818, An anime pvc figure of <...>, diffusion_pytorch_model.safetensors
 83416818, anime|lyh, diffusion_pytorch_model.safetensors
 83416818, dalle|lyh|anime, diffusion_pytorch_model.safetensors
-83416818, lyh|1girl|anime, diffusion_pytorch_model.safetensors
 83416818, lyh|anime, diffusion_pytorch_model.safetensors
-83416818, lyh|anime|1girl, diffusion_pytorch_model.safetensors
 835e7dc1, gigafractal artstyle
 8371a0bf, spicto
 8381f785, jclnhbe style
