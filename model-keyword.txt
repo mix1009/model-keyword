@@ -141,6 +141,7 @@
 04a81662, official art|yu-gi-oh!
 04baab99, a 3d render of|a 3d cartoon of
 04cdb6b7, Burgie|prilosecotc1
+04d1387e, model
 04dc4f68, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|Analog Style|Watercolor
 050f0bae, Analog Style|Photorealistic|Realistic|Mature Adult|Fantasy Art|Illustration|Watercolor|Concept Art|Oil Painting|Surrealism|Brush Strokes|Pointillism|Hyperrealistic|Perfect Shading|Masterpiece|Subsurface Scattering|Perfect Lighting|Volumetric Lighting
 0519e070, nerdphoton1, nerdPhoton1_v10.ckpt
@@ -248,6 +249,7 @@
 0a8a028d, shadow flat vector art|Minimalism
 0a92be44, 1girl|cat_ears
 0aaa4d66, girl
+0ab43c6e, ynsemre
 0acd5bea, martianwarlord
 0ad612b8, painting|Allen Anderson|Earle Bergey|Frank Frazetta|George Gross|Gil Elvgren|Glen Orbik|Robert Maguire|Robert Stanley|Tom Lovell|pulp style|Action|Western|Romance|Scifi|Fantasy
 0ae9e220, goosebumps art by tim jacobus
@@ -2090,7 +2092,7 @@
 6c452923, fat|Doraemon|belly|huge|overweight
 6c481f5c, mksks style
 6c594911, real photo|anime artwork|niji style, openkolors_v13.safetensors
-6c594911, 二次元动漫风格|anime artwork, openkolorsAnime_v10.safetensors
+6c594911, 二次元动漫风格|anime artwork, openkolorsAnime_alpha.safetensors
 6c5dc775, kpt digital artstyle|gui
 6c62e23b, Game interface|game mechanics|tags|buttons||currency bar|paper background
 6c7102ea, botw style
@@ -3577,6 +3579,7 @@ bb58613f, A photorealistic image of Beautiful girl Olya|the girl has bright red 
 bb666a18, 3d product render|product render
 bb7dbcff, anusithara
 bb8034db, pattern
+bb9a34f2, smoking
 bbbd71ed, sks
 bbc26f2a, [realistic lighting]|[photo]|[photorealistic]
 bbf68d8e, 1 girl
@@ -4165,6 +4168,7 @@ de2f2560, 6girls+, theGoldenMirage_v11.safetensors
 de2f2560, ArtComposition, moomooeCommerce_v4.safetensors
 de2f2560, Asian|Man|Female|Cute, asianMix_alpha30.safetensors
 de2f2560, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION, SD2Berryartify_sd21V02.safetensors
+de2f2560, Baby Bot, babyBotReupload_v1.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
 de2f2560, Hannah, hannah_v10.safetensors
 de2f2560, JenniferJBD, jenniferjbd_.safetensors
