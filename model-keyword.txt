@@ -1744,6 +1744,7 @@
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM, sdxl_vae.safetensors
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM|yutamix-twinkle, sdxl_vae.safetensors
 584f63ab, masterpiece|score_9|score_8_up|score_7_up|best quality|, sdxl_vae.safetensors
+584f63ab, neon|glowing|silhouette, sdxl_vae.safetensors
 584f63ab, realistic, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up|detailed, sdxl_vae.safetensors
@@ -3342,6 +3343,7 @@ ad7d89e9, lyndacarter, lyndaCarter1980s_v10.safetensors
 ad82a9dd, Evang
 ad9100fe, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 ad9d6205, fart62
+adb2b67c, neon|glowing|silhouette
 addf5b58, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
 adf18b48, Any
 ae19a9dd, pspp man
@@ -3591,6 +3593,7 @@ bbfaa3d3, boring-psychic|1boy_pink_hair_green_glasses_anime_handsome
 bbfb82f1, realistic
 bc26ee23, samylady
 bc39c10a, zainabt
+bc43dd3d, glasses
 bc8952a5, Positive: score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 bc972545, WEIRDEXPENSIVE
 bc9bddc5, cory chase|ohwx woman
@@ -4125,6 +4128,7 @@ dad06477, Realistic, matrixStellar_v11VAE.safetensors
 dad06477, female|male|landscapes|realistic|man|woman|SCIFI, matrixStellar_v11VAE.safetensors
 dad0a6bf, vintage|book cover|photo|surrealist
 dada189d, russian
+dae327c6, score_9|score_8_up|score_7_up|score_4|score_5|score_6|BREAK|NSFW
 daecbd84, FleischerStyle
 dafa131a, realistic|raw photo|photo realistic|hyper realistic|realistic photo|ultra realistic|photorealism|realism, sdxlYamersRealisticNSFW_v4VAE.safetensors
 dafa131a, scribble|watercolor|subversive|exciting|croquis|flat|colorful|pastel|xslx, megaPainterXL_v10.safetensors
