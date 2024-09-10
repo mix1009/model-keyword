@@ -1502,7 +1502,6 @@
 47b2d7e7, shs, animeblendxl_v10.safetensors
 47b655b8, 1girl
 47bcfb66, goldenglass
-47ce208e, lyh|anime
 47dc1883, 1boy|1girl|futanari|sex|penis|pussy
 481ba411, there are too many please see the description
 482ff583, poster
@@ -2499,6 +2498,7 @@
 83416818, An anime pvc figure of <...>, diffusion_pytorch_model.safetensors
 83416818, anime|lyh, diffusion_pytorch_model.safetensors
 83416818, dalle|lyh|anime, diffusion_pytorch_model.safetensors
+83416818, lyh, diffusion_pytorch_model.safetensors
 83416818, lyh|anime, diffusion_pytorch_model.safetensors
 835e7dc1, gigafractal artstyle
 8371a0bf, spicto
@@ -2999,6 +2999,7 @@
 9cec73d3, photorealistic|anime|cartoon
 9cf9ef13, realistic
 9cfc4e43, SDArt
+9d01dab8, lyh
 9d24e3d5, best quality
 9d45143a, noble ai|nobleai|noblemixfix
 9d604670, boxing gloves|boxing ring
