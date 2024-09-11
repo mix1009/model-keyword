@@ -4186,6 +4186,7 @@ ddf1d6d8, muscular|large muscles|bara|bodybuilder|brutalmass
 ddf88a48, Chinese prompt, kolors8AcceleratedVersionOf8_accelerated.safetensors
 ddf88a48, niji style|anime artwork|real photo, openkolorsUnet_v13.safetensors
 ddf88a48, real photo|anime artwork, openkolorsUnet_v10.safetensors
+ddffea30, lyh
 de21ca2c, masterpiece
 de27bfdb, man|woman
 de2f2560, 6girls+, theGoldenMirage_v11.safetensors
@@ -4465,7 +4466,8 @@ eb01f3b2, NijiFTB
 eb1666ba, 1girl|moyou
 eb1b80e4, ziov
 eb3a4159, dal
-eb6dc28c, lyh|anime
+eb6dc28c, lyh, ae.safetensors
+eb6dc28c, lyh|anime, ae.safetensors
 eb70ff01, concept-art
 eba3d197, helenmirren
 ebb17c4d, pow style|ofi|mohd|rmb|dca|muc|onex|toid|sura|juli|veli|gsp|tux|tvc|pbc|pgs|rps|dbz|soca|suru|nips|rune|pafc|nlwx|fck|cae|sohn|dori|zawa|revs|hmv|whoo|asar|blob|xiao|kilt|ulf|loeb|bnha|gote|omd|adl|shld|waj|sown|rcn|httr|dits|hta|lun|olis
