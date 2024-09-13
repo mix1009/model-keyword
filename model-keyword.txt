@@ -2177,6 +2177,7 @@
 702eac14, usual|watch pictures
 703f7ff1, high fantasy
 7043784b, realistic
+70483f67, anthro|furry|ratatoskr style|flat colors
 705ae506, None
 7061e3cc, score_9|score_8_up|score_7_up|
 7088b556, lego man|lego|constructor
@@ -2582,6 +2583,7 @@
 88b8d946, desi_fit_girl, realisticFitGirls_desi.safetensors
 88b8d946, goose_fit_girl, realisticFitGirls_goose.safetensors
 88ff0293, evang
+88ff0bad, masterpiece|best_quality
 890cb2e4, photorealistic
 89372903, none
 895f5d25, dal|photo
@@ -4623,6 +4625,7 @@ f37775c3, photo of Evang style
 f3a2ad84, rcnz_niji style
 f3b011a6, furry
 f3dae826, BRAV5_Realisianv50_PFv30
+f4248b11, anthro|furry|ratatoskr style|flat colors
 f44e6e9c, 1boy|young|cute
 f457c3e6, shiinamashiro
 f465d2bc, score_9|score_8_up|score_7_up|score_6_up
