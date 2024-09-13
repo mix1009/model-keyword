@@ -1806,7 +1806,7 @@
 5a1ae211, by kaisen chuui
 5a1e4b93, coralchar
 5a1eeb22, m_wlop
-5a35da76, loli
+5a35da76, loli|loli:1.3
 5a4b600e, none
 5a526d93, jillstjohn
 5a639898, ink style|ink wash painting
@@ -1824,6 +1824,7 @@
 5ae66f17, FANTASY|ANIME|FANTASY WORLD|FANTASY BACKGROUNDS
 5b2c56f8, [white background:1.5|::2]1girl|solo
 5b2d4455, EmiliaClarke woman
+5b347261, neil degrasse tyson
 5b4e980d, style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
 5b698c45, N/A
 5b8f72ee, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
@@ -2265,6 +2266,7 @@
 752d6971, highres|booru|raifu, sotemix_v30.safetensors
 752d6971, highres|raifu, sotemix_v22.safetensors
 753c101f, 2d dnd battlemap
+754995c3, lyh
 75555781, Batfleck
 755bd415, elle fanning|3113fann1ng3
 75967262, joemadureira|valorant|samdoesarts
@@ -3005,7 +3007,6 @@
 9cec73d3, photorealistic|anime|cartoon
 9cf9ef13, realistic
 9cfc4e43, SDArt
-9d01dab8, lyh
 9d24e3d5, best quality
 9d45143a, noble ai|nobleai|noblemixfix
 9d604670, boxing gloves|boxing ring
