@@ -14,6 +14,7 @@
 00e7b299, anime
 00ee0e8e, score_9|score_8_up|best quality|masterpiece|4k|uncensored|prefect lighting|rating_explicit|very aesthetic|BREAK
 00ee24b4, modelshoot style|analog style|mdjrny-v4 style
+00f05225, furry|kemono
 00f52966, Ugly
 0134e6b7, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
 01389ba5, pixel art
@@ -1977,6 +1978,7 @@
 6445fb3d, score_9|score_8_up|score_7_up
 6447d29d, master
 645a42cf, newstl
+64770f08, anime|lyh|ando|mia
 648c45b6, Evang
 649dfd0a, chibi
 64ae4b26, WGG
@@ -2178,7 +2180,6 @@
 702eac14, usual|watch pictures
 703f7ff1, high fantasy
 7043784b, realistic
-70483f67, anthro|furry|ratatoskr style|flat colors
 705ae506, None
 7061e3cc, score_9|score_8_up|score_7_up|
 7088b556, lego man|lego|constructor
@@ -2318,6 +2319,7 @@
 77bd7f0b, sythentic anime
 77c6d270, by narae
 77d2c8ef, Colorful|Neon|Steampunk|sci-fi
+77d61999, anthro|furry|ratatoskr style|flat colors
 77d829fa, секс
 77e2b449, vintage film
 7811fc5f, humanoid robot
@@ -2983,6 +2985,7 @@
 9b79ef98, photo of crisron person
 9b836ce6, by Boris Vallejo|by Brom|by Frank Frazetta|by Hajime Sorayama|by Kelly Freas|by Luis Royo|by Milo Manara|by Olivia De Berardinis|by Philippe Druillet|by Simon Bisley
 9b83a557, cmodel|clayitization|cbzbb|oldjourney|classicnegative|concept-art|redshift style|by vector-art|pulp-diffusion|chv3czombie|chv3calien|chv3cbird|chv3cknight|chv3cwizard|chv3cbarb|chv3mtroll|chv3mdeath|chv3crogue|chv3ccyberpunk|chv3csamurai|chv3crobot|chv3slighthouse|chv3scute|chv3smacro|chv3sworld|chv3sscifi|chv3mdragon|chv3cvehicle
+9b8906ae, high quality|cocoart|master piece|1girl|outfit|detailed eyes|
 9b8aa544, hoi4
 9ba8ee98, lisafrankstyle
 9bafcbb4, lunachan
@@ -3741,6 +3744,7 @@ c3466734, by t6
 c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 c361dd5f, masterpiece, sarabasmix_v1.safetensors
 c361dd5f, tiny, beenyou_v1.safetensors
+c37af4df, furry|kemono
 c37ba157, androidarts
 c37cd72c, blurry background|depth of field
 c3860cb4, furry
@@ -4020,6 +4024,7 @@ d4021aa4, art by Boris Groh
 d409472c, kamita
 d414f7d6, ma1
 d4288eeb, photograph|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|lk artstyle legend of korra artstyle|hg artstyle realistic 3d renders|cw artstyle starwars: the clone wars artstyle|kd artstyle ghibli movies artstyle|wy artstyle makoto shinkai artstyle|tn artstyle disney 3d artstyle|hq artstyle high-quality digital art|aa artstyle digital line art|dd artstyle darkest dungeon artstyle|toc artstyle turtle of canada artstyle with their permission|skimpy sg outfit with cape supergirl outfit|gs outfit with cape generic superhero outfit|videl wearing sy outfit with cape and helmet great saiyawoman outfit|cor korra doesnt translate well into other artstyles|with sd hairstyle season 1-3|with sh hairstyle season 4|wearing df outfit season 1|wearing sc outfit season 1 winter|wearing pb outfit season 1 probending|wearing fs outfit season 4|wearing ek outfit season 4 earth kingdom|oyla with ay hairstyle wearing hz outfit aloy wearing standard outfit doesnt translate well into other artstyles|akos wearing sw outfit ahsoka wearing season 7 outfit doesnt translate well into other artstyles|woman with pointed ears elfs|futuristic outfit|futuristic armor|fantasy armor|fantasy outfit|tribal fantasy outfit|cl outfit post-apocalyptic outfit|giant woman works best with "hg artstyle" is biased towards naked women|tiny woman works best with "hg artstyle" is biased towards naked women
+d4306156, 3d character
 d43471bb, femboy
 d44ae168, pvc figure
 d45ad4bf, sks person
@@ -4479,6 +4484,7 @@ eb01f3b2, NijiFTB
 eb1666ba, 1girl|moyou
 eb1b80e4, ziov
 eb3a4159, dal
+eb6dc28c, anime|lyh|ando|mia, ae.safetensors
 eb6dc28c, lyh, ae.safetensors
 eb6dc28c, lyh|anime, ae.safetensors
 eb70ff01, concept-art
@@ -4632,7 +4638,6 @@ f37775c3, photo of Evang style
 f3a2ad84, rcnz_niji style
 f3b011a6, furry
 f3dae826, BRAV5_Realisianv50_PFv30
-f4248b11, anthro|furry|ratatoskr style|flat colors
 f44e6e9c, 1boy|young|cute
 f457c3e6, shiinamashiro
 f465d2bc, score_9|score_8_up|score_7_up|score_6_up
