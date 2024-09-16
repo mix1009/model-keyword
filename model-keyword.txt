@@ -1632,6 +1632,7 @@
 511d6e1f, 11, 11_v10.safetensors
 511d6e1f, 触发词1|触发词2, 眼睛双.safetensors
 513c45fc, 1girl|white skin|CJ|
+513cac63, BeyondNegative
 5141b47d, loli
 514a1db3, rcnz_hqr
 515a5199, circetorre
@@ -4206,7 +4207,7 @@ ddf1d6d8, muscular|large muscles|bara|bodybuilder|brutalmass
 ddf88a48, Chinese prompt, kolors8AcceleratedVersionOf8_accelerated.safetensors
 ddf88a48, niji style|anime artwork|real photo, openkolorsUnet_v13.safetensors
 ddf88a48, real photo|anime artwork, openkolorsUnet_v10.safetensors
-ddffea30, lyh|anime|hatyuuruinohito style|the0neulost
+ddffea30, lyh|anime
 de21ca2c, masterpiece
 de27bfdb, man|woman
 de2f2560, 6girls+, theGoldenMirage_v11.safetensors
