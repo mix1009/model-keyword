@@ -882,7 +882,6 @@
 2185ba37, bakirda|kridaba|DaKriDi|dikrida
 218cee5d, mksks style|detailed background
 219cbfe8, RKart style
-21b86e39, dalle|lyh|anime
 21d6cfcc, ligne claire|by Roy Krenkel|by Jean-Pierre Gibrat
 21f26bfa, nwpnn
 2206906b, guofeng|chinese|bokeh|silk dress
@@ -2270,7 +2269,6 @@
 752d6971, highres|booru|raifu, sotemix_v30.safetensors
 752d6971, highres|raifu, sotemix_v22.safetensors
 753c101f, 2d dnd battlemap
-754995c3, lyh
 75555781, Batfleck
 755bd415, elle fanning|3113fann1ng3
 75967262, joemadureira|valorant|samdoesarts
@@ -2510,8 +2508,6 @@
 833060ae, mdjrny-v4 style|nousr robot
 83416818, An anime pvc figure of <...>, diffusion_pytorch_model.safetensors
 83416818, anime|lyh, diffusion_pytorch_model.safetensors
-83416818, dalle|lyh|anime, diffusion_pytorch_model.safetensors
-83416818, lyh, diffusion_pytorch_model.safetensors
 83416818, lyh|anime, diffusion_pytorch_model.safetensors
 83416818, lyh|anime|ando|mia, diffusion_pytorch_model.safetensors
 835e7dc1, gigafractal artstyle
@@ -3015,7 +3011,7 @@
 9cec73d3, photorealistic|anime|cartoon
 9cf9ef13, realistic
 9cfc4e43, SDArt
-9d01dab8, lyh
+9d01dab8, lyh|anime|hatyuuruinohito style|the0neulost
 9d24e3d5, best quality
 9d45143a, noble ai|nobleai|noblemixfix
 9d604670, boxing gloves|boxing ring
@@ -3650,7 +3646,6 @@ bdd04c5e, noble ai|nobleai|noblemixfix
 bde477d2, junemodel
 bdec7588, richevans
 be141210, bakirda|kridaba|DaKriDi|dikrida
-be1c02c5, lyh|anime
 be2cde01, sabrinasalerno
 be373504, Actress
 be3898b2, HGoedexx
@@ -4211,7 +4206,7 @@ ddf1d6d8, muscular|large muscles|bara|bodybuilder|brutalmass
 ddf88a48, Chinese prompt, kolors8AcceleratedVersionOf8_accelerated.safetensors
 ddf88a48, niji style|anime artwork|real photo, openkolorsUnet_v13.safetensors
 ddf88a48, real photo|anime artwork, openkolorsUnet_v10.safetensors
-ddffea30, lyh
+ddffea30, lyh|anime|hatyuuruinohito style|the0neulost
 de21ca2c, masterpiece
 de27bfdb, man|woman
 de2f2560, 6girls+, theGoldenMirage_v11.safetensors
@@ -4492,8 +4487,8 @@ eb1666ba, 1girl|moyou
 eb1b80e4, ziov
 eb3a4159, dal
 eb6dc28c, anime|lyh|ando|mia, ae.safetensors
-eb6dc28c, lyh, ae.safetensors
 eb6dc28c, lyh|anime, ae.safetensors
+eb6dc28c, lyh|anime|hatyuuruinohito style|the0neulost, ae.safetensors
 eb6dc28c, lyh|anime|mia|ando, ae.safetensors
 eb70ff01, concept-art
 eba3d197, helenmirren
