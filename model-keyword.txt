@@ -669,6 +669,7 @@
 15376d1f, girl
 15540f03, gigafractal artstyle
 156749a9, BEST AESTHETIC|NORMAL AESTHETIC|BAD AESTHETIC|REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
+156aa9c6, toadstool
 15717746, Realistic|Photorealistic
 1578af98, bigbadejo alien_monster
 1586c88f, sks
@@ -2592,6 +2593,7 @@
 88ff0bad, masterpiece|best_quality
 890cb2e4, photorealistic
 89372903, none
+895394e7, kisliptu style|abbe bi style|basety style|sassy style|pomagip|dalle style|midjourney style|thepit style|samdoesart style|owler style|cherrmous style|arosen style|anime style|suicidegirl|digital art|colorful|wild nature
 895f5d25, dal|photo
 89892ec8, dal
 89a3f11a, gatto
@@ -4675,6 +4677,7 @@ f5c2befb, furry|anthro
 f5c6687f, masterpiece|score_9|score_8_up|score_7_up|best quality|
 f5d900ae, d
 f5d9c703, snthwve style
+f5eda2c4, BeyondNegative
 f60494f4, Monet|close up|full body|Victorian, noisyElementXL_noisyElementXL.safetensors
 f60494f4, Victorian|Monet|full body|close up, victorianAnimeArtXL_vaxl.safetensors
 f60494f4, all fours|seiza|wariza|squatting|kneeling|high kick|flying kick|Monet|real life|anime|realistic|Victorian|hand focus|foot focus|full body|close up, noisyElementXL_v25.safetensors
