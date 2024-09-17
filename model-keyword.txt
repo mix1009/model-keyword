@@ -1108,6 +1108,7 @@
 2eb2f2cc, cyberpunk
 2ec7346e, micsakana
 2ede2fec, gdk
+2ee07c11, Anime|AnimeXL
 2ee0bd8f, penis|testicles
 2ee24e88, kylxn
 2ee82b98, fashion|film grain|like a painting|eboy|psychedelic|flowers|makeup|bodyart|statue
@@ -1116,6 +1117,7 @@
 2f122e47, HarryPotterStyle
 2f17d5f4, 8k|raw photo|best quality|masterpiece:1.2|realistic|photo-realistic:1.37|high detailed background|1girl in a blue shirt|shy expression|cute|cityscape|night|rain|wet|professional lighting|photon mapping|radiosity|physically-based rendering||beautiful breasts|medium breast|look at viewer|high detail raw color photo|near shot|of girl wearing ancient chinese dress|wearing thin white shirt|clothed|standing in the middle of the battlefield|dragon tattoos on breast|elegant|beautiful face|blue eyes|girl|30 yeas old|light blonde|light curls|cybernetic impalnts:1.2|augmentations|detailed skin|supple skin pores|silicon|metal|intricately detailed|fine details|hyperdetailed|bloom:0.4|raytracing|subsurface scattering|diffused lighting|side lighting:0.5|shallow depth of field|photographed on a canon eos r5|85mm lens|f/2.8|sharp focus|smooth|cinematic film still <lora:mix4:0.8
 2f322439, fluffy|3D
+2f4374d7, score_9|score_8|score_7 etc. source_realism|rating_safe/explicit/lewd
 2f4d3f4d, 1girl
 2f4e14a4, litebrite
 2f5a97cb, in the style of 2eros_underwear
@@ -2400,6 +2402,7 @@
 7c175441, mmwtsn woman
 7c2024f8, sks person
 7c4971d4, timeless style
+7c5924d1, lighthouse
 7c7299af, sayori \neko works\|sayori|backgroud
 7c83b897, monochrome
 7c8db7f9, Soft light|1girl|1boy
@@ -2626,6 +2629,7 @@
 8ae4d0fb, ageha|monstergirl|unusual eye|extra pupils|extra arms|frilled dress
 8b3a0e37, wearing randoseru backpack and buruma and gym uniform with colored hem
 8b3c8f11, charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle
+8b53501d, queondakan
 8b694d34, Photography|Realistic
 8b8efdcc, best quality|masterpiece|
 8b917b1c, xixiprincess
@@ -3500,6 +3504,7 @@ b37ac68b, ohwx woman
 b386ef07, 1girl|clothes
 b3a85bdf, dal
 b3aed361, caebhx
+b3b04f77, Yokai style
 b3b73d0d, masterpiece|best quality|virtual youtuber|character:1.2
 b3d63325, zwx art style|oxwbdtmv art style
 b435006c, JasonAldean Person
