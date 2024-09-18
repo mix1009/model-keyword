@@ -917,6 +917,7 @@
 2375d404, P4U14
 237ec903, Evang
 2386519a, 树|印象派|抽象
+23a51b2c, masterpiece|best quality|a beautiful girl
 23bd8637, 2000s|1990s|1980s|1970s|1960s|1950s|1940s|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jiri tulach style|komrant style|marie dashkova style|olga boyko style|digital art|interior design|macro photography|polaroid style|sucidegirl|wild nature
 23dbfa93, oiled skin
 23e4b09e, Evang Style, maxGrecki15500_15500ADD.safetensors
@@ -2643,6 +2644,7 @@
 8c1772f8, Realistic|Photorealistic|Raw photo|realism|realistic style
 8c36d946, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 8c3b86ce, chilloutmix-Ni.safetensors
+8c3ca1c1, score_9|score_8_up|score_7_up||rating_explicit||source_anime|
 8c6624df, 1nt4n
 8c7b6bc3, Evang
 8c7efd5f, itojunji style
