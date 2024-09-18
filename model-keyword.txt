@@ -1109,7 +1109,7 @@
 2eb2f2cc, cyberpunk
 2ec7346e, micsakana
 2ede2fec, gdk
-2ee07c11, Anime|AnimeXL
+2ee07c11, Anime|AnimeXL|GROCK SO|GockSo
 2ee0bd8f, penis|testicles
 2ee24e88, kylxn
 2ee82b98, fashion|film grain|like a painting|eboy|psychedelic|flowers|makeup|bodyart|statue
@@ -4361,6 +4361,7 @@ e35af7e4, 1girl|dynamic angle|dynamic pose|chinese style architecture|hanfu
 e3711854, 1girl
 e37a18ee, Evang, vector2_v10.safetensors
 e37a18ee, evang, vector2_v1.safetensors
+e37c0e14, shelley
 e3ac27b1, bioluminescence:1.2|dark background|darkness|negative space|best quality|masterpiece
 e3ad5893, dskyart1|gendigi
 e3af0732, btywtrclr
@@ -4735,6 +4736,7 @@ f851f6a0, hunsha_girl
 f86aeb35, renne
 f86e4589, anime
 f885f32d, JasonAldean Person
+f890e7be, shelley
 f89a083d, 1girl|ninomae ina'nis|hololive|hololive english|meconopsis ninomae ina'nis
 f8b2fd9e, girl
 f8c291fa, painting|girl
