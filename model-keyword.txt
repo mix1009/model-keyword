@@ -180,6 +180,7 @@
 0768c30c, insertNameHere
 07727188, half body|closeup
 07737b93, hotporn
+077f8138, anime
 0786845e, trained with chilloutmix|chinabeauty|dreamlike|a lot of others
 079b172e, illustration style kurzgesagtish
 079bb56e, country flag
@@ -3603,6 +3604,7 @@ ba1d106b, modern disney style
 ba210b22, sks woman
 ba2d4b1a, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic|mature adult|oil painting|comic poster
 ba468443, no
+ba607932, gura|anya
 ba6e3476, furry
 ba72b2dc, Blood Everywhere
 ba98b625, booba style|ronidu style|thepit style|samdoesart style
@@ -4500,6 +4502,7 @@ eb1666ba, 1girl|moyou
 eb1b80e4, ziov
 eb3a4159, dal
 eb6dc28c, anime|lyh|ando|mia, ae.safetensors
+eb6dc28c, gura|anya, ae.safetensors
 eb6dc28c, lyh|anime, ae.safetensors
 eb6dc28c, lyh|anime|hatyuuruinohito style|the0neulost, ae.safetensors
 eb6dc28c, lyh|anime|mia|ando, ae.safetensors
