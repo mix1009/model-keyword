@@ -4,6 +4,7 @@
 #model_hash,keyword,filename.ckpt
 0001af3a, db01
 0003ba25, SmolOne
+004242d3, shelley
 004976fd, none
 007edaa3, clayitization
 009100c7, lenaayad
@@ -737,6 +738,7 @@
 1994138c, ChilloutDiverseMix
 19b72626, analog style|dreamlikeart|redshift style
 19b7510b, FXXDBXCK
+19ce2ec5, juli
 19d911b0, djct woman|djct
 19db0652, Furry girl, ricecakeFurryRemix_later.safetensors
 19db0652, furry girl, ricecakeFurryRemix_color.safetensors
@@ -4502,6 +4504,7 @@ eb1b80e4, ziov
 eb3a4159, dal
 eb6dc28c, anime|lyh|ando|mia, ae.safetensors
 eb6dc28c, gura|anya, ae.safetensors
+eb6dc28c, lyh_niji|anime|1girl|lyh, ae.safetensors
 eb6dc28c, lyh|anime, ae.safetensors
 eb6dc28c, lyh|anime|hatyuuruinohito style|the0neulost, ae.safetensors
 eb6dc28c, lyh|anime|mia|ando, ae.safetensors
@@ -4648,6 +4651,7 @@ f317afa4, sks woman
 f3196d59, carbon|duochrome|holographic
 f32626be, estilovintedois, vintedoisDiffusionV0_v01.ckpt
 f32626be, heixuan furry, kuroteroHeixuanFurry_v10.ckpt
+f340e618, lyh_niji|anime|1girl|lyh
 f341184d, msfluentui style
 f3653237, anime|anime girl|anime man|anime style, sdxlYamersAnime_ysAnimeV5.safetensors
 f3653237, anime|anime style, sdxlYamersAnime_ysAnimeV5VAE.safetensors
