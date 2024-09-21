@@ -2118,8 +2118,9 @@
 6c0b3fc5, coralchar
 6c452923, fat|Doraemon|belly|huge|overweight
 6c481f5c, mksks style
-6c594911, real photo|anime artwork|niji style, openkolors_v13.safetensors
+6c594911, real photo|anime artwork|niji style, KolorsOpenkolorsV21_v13.safetensors
 6c594911, 二次元动漫风格|anime artwork, openkolorsAnime_alpha.safetensors
+6c594911, 二次元动漫风格|anime artwork|realistic photo|vector art|真实风格, KolorsOpenkolorsV21_v21Checkpoint.safetensors
 6c5dc775, kpt digital artstyle|gui
 6c62e23b, Game interface|game mechanics|tags|buttons||currency bar|paper background
 6c7102ea, botw style
@@ -4221,6 +4222,7 @@ dde11c1e, smitsv
 ddee9854, strories|h&r
 ddf1d6d8, muscular|large muscles|bara|bodybuilder|brutalmass
 ddf88a48, Chinese prompt, kolors8AcceleratedVersionOf8_accelerated.safetensors
+ddf88a48, anime artwork|二次元动漫风格|vector art|realistic photo|真实照片, KolorsOpenkolorsV21_v21Unet.safetensors
 ddf88a48, niji style|anime artwork|real photo, openkolorsUnet_v13.safetensors
 ddf88a48, real photo|anime artwork, openkolorsUnet_v10.safetensors
 ddffea30, lyh|anime
