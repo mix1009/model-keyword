@@ -130,6 +130,7 @@
 03f434be, MTG card art
 03f5f311, apolo
 04066faa, graphic novels illustration|comics|outline|sketch
+0415094d, Ratatoskr Style|Anthro|furry|flat colors
 042435b0, photo of morgen person
 04251f10, AI IP
 04324700, 波普艺术|十二生肖|抽象
@@ -3457,8 +3458,8 @@ b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photoreali
 b1f4f421, 1girl
 b1facb5b, 1girl, nijiDiffusionXlBase1_v10.safetensors
 b1facb5b, Art|Creepy, 2dCreepyArtMonster_v11.safetensors
-b1facb5b, Fantasy|dark fantasy|mysterious|anime|anime style|3D rendering|Realistic, LahMysteriousSDXL_v315.safetensors
-b1facb5b, Mysterious|eyes detail|fox girl, LahMysteriousSDXL_v251.safetensors
+b1facb5b, Fantasy|dark fantasy|mysterious|anime|anime style|3D rendering|Realistic, LahMysteriousFlux_v315.safetensors
+b1facb5b, Mysterious|eyes detail|fox girl, LahMysteriousFlux_v251.safetensors
 b1facb5b, Sketch art, artsyik_v10.safetensors
 b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
@@ -3468,11 +3469,11 @@ b1facb5b, colorful, copaxTimelessxl_colorfulV2.safetensors
 b1facb5b, disney cartoon|cute cartoon, LahCuteCartoonSDXL_beta1.safetensors
 b1facb5b, disney cartoon|cute cartoon|cute chinese|chibi chinese, LahCuteCartoonSDXL_alpha.safetensors
 b1facb5b, elemental|effect, soraFocusEffectSDXL_v01.safetensors
-b1facb5b, fantasy|dark fantasy|mysterious|anime|realistic|3d rendering|cyberpunk|cyborg, LahMysteriousSDXL_v330.safetensors
-b1facb5b, mysterious, LahMysteriousSDXL_v355.safetensors
-b1facb5b, mysterious|fantasy|dark fantasy|3D rendering|anime, LahMysteriousSDXL_v30.safetensors
-b1facb5b, mysterious|fantasy|lofi style|anime, LahMysteriousSDXL_v295.safetensors
-b1facb5b, mysterious|fantasy|peplos|greek|anime, LahMysteriousSDXL_v256.safetensors
+b1facb5b, fantasy|dark fantasy|mysterious|anime|realistic|3d rendering|cyberpunk|cyborg, LahMysteriousFlux_v330.safetensors
+b1facb5b, mysterious, LahMysteriousFlux_v355.safetensors
+b1facb5b, mysterious|fantasy|dark fantasy|3D rendering|anime, LahMysteriousFlux_v30.safetensors
+b1facb5b, mysterious|fantasy|lofi style|anime, LahMysteriousFlux_v295.safetensors
+b1facb5b, mysterious|fantasy|peplos|greek|anime, LahMysteriousFlux_v256.safetensors
 b1facb5b, pores|realistic, copaxTimelessxl_v22SkinUpdate.safetensors
 b1facb5b, portrait|medium close-up shot|photo|photograph, SDXLPeople_v05.safetensors
 b1facb5b, realistic, copaxTimelessxl_v2.safetensors
