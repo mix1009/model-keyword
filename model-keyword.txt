@@ -798,7 +798,8 @@
 1c83d3db, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 1c842e26, furry
 1ca03455, test
-1ce7e5dd, belhyto
+1ce7e5dd, Aliljen, alil_v10.ckpt
+1ce7e5dd, belhyto, belhytoart_v10.ckpt
 1cecdd34, anime|girl|boy|woman|man|robo
 1cf6bfc3, nasolabial_fold|anime_coloring|realistic_nose
 1d080a8f, mature female
@@ -3822,6 +3823,7 @@ c63f2567, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
 c6678361, gmic_\2dxiantiao\
 c670dcdd, Realistic
 c67fbe37, SEE APPENDIX A|见附录A
+c6b761da, nai3_style_for_flux
 c6bb6991, hearthstone card
 c6bd9e1d, Rori
 c6e97867, score_9|score_8_up|score_7_up|source anime|
@@ -4815,6 +4817,7 @@ fc1375ea, Realistic|Photorealistic
 fc151a15, reasonabledrink
 fc2ab4b0, Master Chief
 fc3440eb, woman|photo
+fc35e78c, score_9|score_8_up|score_7_up|
 fc41b940, evgenii-ponasenkov
 fc83c5ad, civsix style
 fc88eb89, sks person
