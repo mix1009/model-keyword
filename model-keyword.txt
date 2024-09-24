@@ -604,7 +604,8 @@
 1305a1e2, 1girl
 1311b3e9, FUTANARI|NO_TESTICLES|ERECTION|GIRL
 13274be5, furry|anthro
-13448c14, chibi|meme face
+13448c14, chibi|meme face, komeAnime3dChibiQ_v10.safetensors
+13448c14, nai3_for_sdxl, echonai3XL_v10.safetensors
 1351eaf1, cgi|cgi style
 135bf420, furry
 136b5302, ici, scifiSurreal_v10.safetensors
@@ -4099,6 +4100,7 @@ d636e597, aqheodd|realistic style, sdxl_vae.safetensors
 d636e597, bbone|vpanties|vibrator insertion|, sdxl_vae.safetensors
 d636e597, gmic_\2dxiantiao\, sdxl_vae.safetensors
 d636e597, india|saree|influencer|saree model|real face|beautiful|sexy, indianSaree_v10.safetensors
+d636e597, nai3_for_sdxl, echonai3XL_v10.safetensors
 d636e597, photo|b0dy1|b0dy2|b0dy3|b0dy4|realistic, sdxl_vae.safetensors
 d636e597, realistic photograph of, sdxl_vae.safetensors
 d636e597, realistic|cinematic film still|photo, sdxl_vae.safetensors
