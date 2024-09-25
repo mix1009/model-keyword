@@ -304,7 +304,6 @@
 0d0abaae, sks human RAW photo
 0d102d86, kawahara
 0d15d20e, score_9|score_8_up|score_7_up|
-0d207a6f, score_9|score_8_up|score_7_up
 0d3940d3, furry|kemono
 0d4e61b4, samtemple
 0d53acd4, beatniks|retro futurism|hip|blue note album cover design
@@ -801,6 +800,7 @@
 1c83d3db, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 1c842e26, furry
 1ca03455, test
+1caf1146, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 1ce7e5dd, Aliljen, alil_v10.ckpt
 1ce7e5dd, belhyto, belhytoart_v10.ckpt
 1cecdd34, anime|girl|boy|woman|man|robo
@@ -2071,6 +2071,7 @@
 684d0280, score_9|score_8_up|score_7_up|score_6_up
 685ff1cd, soft_lighting|soft_skin_tone|feminin_hair|white background|simple background
 6864b87d, caebhx|dark purple hair|red eyes
+6868c7ec, anime
 6873ad1a, neonHorror style
 68a6ed7a, evang
 68b463ba, clazy style
