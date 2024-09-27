@@ -1578,6 +1578,7 @@
 4c2b26a9, retro artstyle
 4c32e0c6, pov|missionary|legs up|legs grab|from above|wide spread legs|reaching|
 4c42236e, TVClown
+4c53c1cb, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 4c99e4be, Ghibli
 4cac193b, sks person|(sks person)
 4cb7336d, uka|sexy
@@ -3951,6 +3952,7 @@ ceab3f7e, jacquelinebisset
 cebf8122, modelshoot style
 cec357eb, photo of|RAW photo of|Analog photo of
 cec8722d, iayuso person
+cee1e9c9, Bilibin_illustration|retro_anime
 ceede961, wide hips|narrow waist|cat girl|
 cf1f53d1, realistic
 cf24bbd9, man|armor|cyborg|royal|engrave
