@@ -1141,6 +1141,7 @@
 2f9fee68, 77oussam-realistic
 2fb183e3, 1girl
 2fd6057b, Batman_the_animated_series
+2fd72136, 1girl
 2fdd0123, guweiz|nixeu|wlop
 2fe0ca51, surreal
 2ffe0d53, Evang, mummy_v10.ckpt
@@ -1872,7 +1873,7 @@
 5c742e44, CCDDA artstyle
 5c77038b, Personal, personalData_personalV10.safetensors
 5c77038b, fuyao, windRisesMix_v10.safetensors
-5c77038b, hanfu, NSFW_v30.safetensors
+5c77038b, hanfu, PonyNSFW_sd15V30.safetensors
 5c7e6e88, 80sFashionRobot, 80sFashionRobot_v1.ckpt
 5c7e6e88, 80sfashionrobot, 80sfashionrobot_v10.ckpt
 5c8376b6, niji style
