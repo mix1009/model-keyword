@@ -127,6 +127,7 @@
 0375e77f, idk, sd3_v10.safetensors
 03869a26, anime|realism|photo|game|videogame|woman|human
 03b174c1, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
+03baad84, anime|TzigoAnimeStyle
 03f434be, MTG card art
 03f5f311, apolo
 04066faa, graphic novels illustration|comics|outline|sketch
@@ -2541,6 +2542,7 @@
 83295fd6, mdjrny-pntrt
 832c6e6a, analog style|modelshoot style|nsfw|nudity
 833060ae, mdjrny-v4 style|nousr robot
+834139aa, anime|TzigoAnimeStyle
 83416818, An anime pvc figure of <...>, diffusion_pytorch_model.safetensors
 83416818, anime|lyh, diffusion_pytorch_model.safetensors
 83416818, lyh|anime, diffusion_pytorch_model.safetensors
@@ -4230,6 +4232,7 @@ db4c9d4d, Kath1
 db4f8fe5, chilloutWorld|chilloutWorld_v1
 db5960c1, OOKZA Vampire Style
 db63da75, dal|photo
+db724d07, anime|TzigoAnimeStyle
 db8793e4, Tikuai
 db9093bd, woman|full shot
 dba10b61, lyndacarter
