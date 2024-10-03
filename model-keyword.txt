@@ -1664,6 +1664,7 @@
 51748799, analog style|modelshoot style|nsfw|nudity
 51776aaf, statue
 51883359, anime
+518d59c4, score_9|score_8_up|score_7_up|score_6_up|
 518d78a0, 35mmstyle
 51935af1, by chon
 51a80276, anime screencap
@@ -2544,6 +2545,7 @@
 833060ae, mdjrny-v4 style|nousr robot
 834139aa, anime|TzigoAnimeStyle
 83416818, An anime pvc figure of <...>, diffusion_pytorch_model.safetensors
+83416818, LYH_NIJI|LYH, diffusion_pytorch_model.safetensors
 83416818, anime|lyh, diffusion_pytorch_model.safetensors
 83416818, lyh|anime, diffusion_pytorch_model.safetensors
 83416818, lyh|anime|ando|mia, diffusion_pytorch_model.safetensors
@@ -2702,6 +2704,7 @@
 8d9aaa54, nvinkpunk
 8d9f015b, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 8d9f6326, highres|raifu
+8ddabe81, LYH_NIJI|LYH
 8de50d7b, Mature female
 8e121fec, none
 8e145533, claymation|80's anime style
