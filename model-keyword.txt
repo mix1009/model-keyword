@@ -115,6 +115,7 @@
 02faa048, sphx style
 030566be, 1girl
 030933d0, l4lisa
+03186377, rhs kick|raw|gated|reverse|C|C#|D|D#|E|F|F#|G|G#|A|A#|B|uptempo|psy
 031b21f6, Niji|Anime, XL_VAE_F1.safetensors
 031b21f6, aki|aoki|aoi|isao|nao|nobu|shou, XL_VAE_E7.safetensors
 031b21f6, pixel art|16 bit|32 bit|64 bit, XL_VAE_C1.safetensors
@@ -2262,6 +2263,7 @@
 72cd2d1f, score_9|score_8_up|score_7_up|source anime|
 72d80922, nvinkpunk|mdjrny-v4 style|kairowez|lisdusk1|lisdusk2
 72f11307, 3Reich|Wehrmacht uniform|German SS uniform|Peaked cap|side cap|breast eagle emblem|wreathed cockade emblem
+72f4e74d, Cross-dressing|nasolabial folds|wrinkles|anime|2.5D|realism
 73012bca, 3D model
 7303b51a, anime|photo|detail|dreamwalking
 730a7d56, none
@@ -3306,6 +3308,7 @@ a8372572, wooditize
 a8434aad, CCDDA Artstyle
 a84b8518, rcnz_hqr style
 a866286f, mtg card art
+a8a0e631, masterpiece|best_quality
 a8af5a13, erduh man
 a8bfb6df, hanfu|genshin impact
 a8c7eec2, fking_mtg
