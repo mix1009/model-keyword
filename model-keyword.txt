@@ -1237,7 +1237,7 @@
 34c64fad, nakamura masumi|blonde hair|blue eyes|white shirt|short sleeves|red ribbon|red skirt|brown skirt
 34cc3331, close up
 35035503, putinclown
-350d006c, nsfw|amateur
+350d006c, nsfw|amateur|Sex|pov
 35133590, person_in_Jar
 352ceed9, usashiro mani
 3582eab3, school uniform|1lady|1girl
@@ -1809,6 +1809,7 @@
 585e3828, nekoazuki|girls
 58819dc1, anime|realistic|masterpiece|best quality
 588a8013, zrpgstyle
+588c3649, cg
 58959faa, photo of zwx yu lexuan
 5896f8d5, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 589c75f9, realistic
@@ -2453,7 +2454,6 @@
 7c8eef56, analog style|chromav5|nvinkpunk
 7cb76003, poolsuite style
 7cbc2ac1, nekoxiangcao
-7cbd9a66, nsfw|woman|sex|intimate
 7cd5be4f, model|merge model
 7cebfa59, FOOD-77oussam
 7d255777, illustration
@@ -4086,7 +4086,7 @@ d331809b, Master Chief
 d357b061, dreamlikeart|kuvshinov|snthwve style|nvinkpunk
 d35823ba, jgba
 d35c2c25, augments|implants|mechanical_arms|post-apocalypse|post apocalyptic|vikingpunk|viking_punk|stillsuit
-d3672aca, nsfw|amateur
+d3672aca, nsfw|amateur|Sex|pov
 d37aed3d, 80's anime style|90's anime style
 d386996c, 3d|render|japparii|cinema4d|photoshop|album cover|minimalism|digital|print|vibrant
 d3870529, iclight
