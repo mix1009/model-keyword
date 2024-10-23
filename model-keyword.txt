@@ -602,6 +602,7 @@
 12558260, 2D|2.5D|Anime|Photo-Realistic|3D Style
 125f67d1, henderson creature|humanoid|house interior|interior|exterior|dark|crawling|large|small
 126f21de, Zwxthej
+12768458, hanfu
 127f03e7, gtmg woman
 12aa363c, briefs|muscles|fixed hands|teeth|long legs
 12b37bbf, Source_anime|IRL|Source_irl|Score_9_anime|score_9_irl|source_astronomy|rating_explicit|Rating_safe
@@ -2743,6 +2744,7 @@
 8e6777fc, masterpiece|best quality
 8e6c4bde, the list is in the description
 8e914010, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn
+8e94f77d, Riley_1
 8e950606, cosplay
 8e9d93c1, lamia
 8ea93b04, girl
@@ -3232,6 +3234,7 @@ a3676434, pastel
 a3823a97, score_9|score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 a3a20752, realistic|photo|raw photo|photography|photo realistic
 a3c809ba, pattern
+a3c87961, hanfu
 a3e9ec50, painting
 a402810e, 1990 style|retro artstyle|1980 style, eraEstheticRetroAnime_retroV21VAE.safetensors
 a402810e, 1990s style|1980 style|retro artstyle, eraEstheticRetroAnime_retroV30VAE.safetensors
@@ -4793,6 +4796,7 @@ f5bf5a19, SDArt
 f5c2befb, furry|anthro
 f5c3d7d3, This is a real high-definition photo
 f5c6687f, masterpiece|score_9|score_8_up|score_7_up|best quality|
+f5c67c94, hanfu
 f5d900ae, d
 f5d9c703, snthwve style
 f5eda2c4, BeyondNegative
