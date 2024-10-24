@@ -1803,6 +1803,7 @@
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM|yutamix-twinkle, sdxl_vae.safetensors
 584f63ab, black eyes, sdxl_vae.safetensors
 584f63ab, masterpiece|best quality, sdxl_vae.safetensors
+584f63ab, masterpiece|best quality|anime|realistic, sdxl_vae.safetensors
 584f63ab, masterpiece|score_9|score_8_up|score_7_up|best quality|, sdxl_vae.safetensors
 584f63ab, neon|glowing|silhouette, sdxl_vae.safetensors
 584f63ab, realistic, sdxl_vae.safetensors
@@ -2458,6 +2459,7 @@
 7b9572be, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 7b9ed6d0, furry|anthro
 7baf9aba, Realistic Anime Style|Realistic|Anime|Hybrid reality
+7bbb18c4, masterpiece|best quality|anime|realistic
 7bce4c89, beauty asian girl
 7bfb80d6, sks style
 7bfd4934, modelshoot style
