@@ -2581,6 +2581,7 @@
 83416818, An anime pvc figure of <...>, diffusion_pytorch_model.safetensors
 83416818, LYH_NIJI|LYH, diffusion_pytorch_model.safetensors
 83416818, anime|lyh, diffusion_pytorch_model.safetensors
+83416818, anime|niji-01, diffusion_pytorch_model.safetensors
 83416818, lyh|anime, diffusion_pytorch_model.safetensors
 83416818, lyh|anime|ando|mia, diffusion_pytorch_model.safetensors
 835e7dc1, gigafractal artstyle
@@ -3315,6 +3316,7 @@ a74ca246, cbzbb|microworld, microcharsMerge_10.ckpt
 a74ca246, food_crit|microworld, microcrittersMerge_10.ckpt
 a74ca246, microworld|clayitization, microclayMerge_10.ckpt
 a74ca246, microworld|knollingcase, microcasingMerge_10.ckpt
+a759d5d7, anime|niji-01
 a7694188, sks woman
 a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1|photrealistic:1.1
 a77d8ca7, sks woman
@@ -3790,6 +3792,7 @@ c026097d, LAWDA, tmndmix_v10.safetensors
 c0302f10, Gllltchy style|Gllltchy, gllltchy_v1.ckpt
 c0302f10, filmation motu style, filmationMOTU_v1.ckpt
 c055a24d, Game interface|content|buttons|logo|image content|return|stars|flowers
+c0777389, hanfu
 c09d432b, photorealistic|nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 c0ae74e1, reddit|low quality|traditional media|amateur|real life photo|raw|film grain
 c0afa279, 3d style|3d
@@ -4424,6 +4427,7 @@ e02601f3, rurudo, rurudo_v10.ckpt
 e02601f3, sks lucy, lucyFromCP_v1.ckpt
 e02601f3, sks vi|vi, viFromArcane_v1.ckpt
 e04f7e7f, character
+e050dd1e, photorealistic|woman|beauty
 e0844d20, pbr
 e0a3ab60, xivcine person
 e0a60e11, dskyart1|style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
