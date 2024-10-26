@@ -4339,6 +4339,7 @@ de2f2560, Asian|Man|Female|Cute, asianMix_alpha30.safetensors
 de2f2560, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION, SD2Berryartify_sd21V02.safetensors
 de2f2560, Baby Bot, babyBotReuploadIdkHowToTest_v1.safetensors
 de2f2560, CthuluBishop, djzCthuluBishopV21_v15Pix2pix.safetensors
+de2f2560, HNekoV2, hnekov2_.safetensors
 de2f2560, Hannah, hannah_v10.safetensors
 de2f2560, JenniferJBD, jenniferjbd_.safetensors
 de2f2560, JukyungLim, jukyunglim_v20.safetensors
@@ -4383,6 +4384,7 @@ de2f2560, portrait+ style|modelshoot style|analog style|timeless style|lomo styl
 de2f2560, post-Impressionist, exquisiteDetails_art.safetensors
 de2f2560, russian, paamaRUSSIANWOMAN_paamaRUSSIANWOMANV13.safetensors
 de2f2560, schwarz|red dress, schwarzTest_schwarzDressV10.safetensors
+de2f2560, seraphina blue jacket|shirt|neck ribbon|skirt|thighhighs|earrings, seraphina_v10.safetensors
 de2f2560, shiny_skin, realshinymixV1_v10.safetensors
 de2f2560, shirtlift, jackie_v10.safetensors
 de2f2560, timor|timorm, mandaladiffusion_v03.safetensors
