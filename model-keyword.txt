@@ -4427,7 +4427,7 @@ e02601f3, rurudo, rurudo_v10.ckpt
 e02601f3, sks lucy, lucyFromCP_v1.ckpt
 e02601f3, sks vi|vi, viFromArcane_v1.ckpt
 e04f7e7f, character
-e050dd1e, photorealistic|woman|beauty
+e050dd1e, beautiful
 e0844d20, pbr
 e0a3ab60, xivcine person
 e0a60e11, dskyart1|style of joe maduereira|90s comic book style|lisdusk1|nvinkpunk|style of salvadora larocca|lisdusk2
