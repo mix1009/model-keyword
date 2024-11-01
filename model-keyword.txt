@@ -3141,6 +3141,7 @@
 9e2a8f19, girl
 9e3883f6, negative prompt only if necessary|see prompts in loras
 9e43c2bf, looking at the viewer|raw|realistic
+9e44904f, the chad smile|the serious gigachad|sitting gigachad lean
 9e6f914a, armpit
 9e78c9e2, T4nn1aSD
 9e828d82, lqt
