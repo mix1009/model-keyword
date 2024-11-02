@@ -1030,6 +1030,7 @@
 276edfa7, evang
 2784495f, niji6|niji5
 27a594ef, GIRL 3D SUBJECT RENDER PHOTOREALISTIC FEMALE RETRO ANATOMICAL ART INTRICATE ACCURATE WOMAN ILLUSTRATION CARS CARTOON CINEMATIC FANTASY PHOTOGRAPHY REALISTIC
+27a98a4e, 1990s style|1980s style|retro artstyle|2000s style
 27b2d819, Evang
 27b791e4, pow style|sometimes8916|526christian2526|akumetsu9719982|andretheapache9587|bitspirit31653|bwm_nubby6416|crazykazoo2431|eppinette-chi6220|espasmo9486|flowwolf4607|guizmus7459|h20_dancing8979|horvallis7915|jeremy6194|jrw19948464|junglerally3955|max headroom6734|meezy1963|millennium_gun6377|munkyfoot7944|nerfgun37508|nicogj2781|noofthebeast8209|omnia2931|owleye1290|phaff1970|piscabo8649|ras6722|residentchiefnz6989|rhapsody8685|satyam_ssj107387|tazi2574|trash--panda6213|valanya6869|vcm077281|vil0404|wpatzz5836|xthisisbotoxx8765
 27d7d4a1, vapodusk1
@@ -3211,6 +3212,7 @@ a149572b, sticker|vector-art, stickerArt_sticker.safetensors
 a149572b, vector-art, vectorArt_Beta.safetensors
 a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a150faa4, icon|blender|C4D
+a158de14, 1990s style|1980s style|2000s style|retro artstyle
 a184fedc, gigafractal artstyle
 a1d9f84f, ArsMJStyle|Watercolor, arsMidjourneyPony_watercolorPonyV01.safetensors
 a1d9f84f, anime|style|woman, gnomePower_v111.safetensors
@@ -3263,9 +3265,9 @@ a3a20752, realistic|photo|raw photo|photography|photo realistic
 a3c809ba, pattern
 a3c87961, hanfu
 a3e9ec50, painting
-a402810e, 1990 style|retro artstyle|1980 style, eraEstheticRetroAnime_retroV21VAE.safetensors
-a402810e, 1990s style|1980 style|retro artstyle, eraEstheticRetroAnime_retroV30VAE.safetensors
-a402810e, 1990s style|1980s style|retro artstyle, eraEstheticRetroAnime_retroV60VAE.safetensors
+a402810e, 1990 style|retro artstyle|1980 style, newERANewEstheticRetro_retroV21VAE.safetensors
+a402810e, 1990s style|1980 style|retro artstyle, newERANewEstheticRetro_retroV30VAE.safetensors
+a402810e, 1990s style|1980s style|retro artstyle, newERANewEstheticRetro_retroV60VAE.safetensors
 a402810e, anime screencap, animeScreencapStyle_assV13.safetensors
 a402810e, anime screencap|anime coloring, animeScreencapStyle_assV14Beta.safetensors
 a402810e, ogipote, crystalCleanOgipote_ogipote25DV20.safetensors
