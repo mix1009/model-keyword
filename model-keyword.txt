@@ -1395,7 +1395,7 @@
 3e16efc8, Mona Lisa
 3e2e3be9, year 20XX
 3e309f9b, IN MATRIX
-3e32ba56, score_9|score_8_up|score_7_up|score_6_up|low quality|worst quality|simple background|white background
+3e32ba56, score_9|score_8_up|score_7_up|score_6_up|low quality|worst quality|simple background|white background|watermark|text
 3e51cea7, nasolabial folds|wrinkles|anime_coloring
 3e832815, kochergin
 3e8eb855, SEE APPENDIX A|见附录A
@@ -4746,6 +4746,7 @@ f08f39f8, mercury armor|grunge|clown party|RAW photograph
 f0916d71, mariawhittaker
 f094a27f, Mobian or Sonic character name
 f098482b, masterpiece|best quality|ultra-detailed|illustration|an extremely delicate and beautiful|dynamic angle|floating|beautiful detailed eyes|bright eyes|detailed light|solo|
+f09c202f, the chad smile|the serious gigachad|sitting gigachad lean
 f0a2955a, sss
 f0add89a, beksinski, bexArtSelecy_v10.safetensors
 f0add89a, bex, artbex_v10.safetensors
