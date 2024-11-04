@@ -1394,6 +1394,7 @@
 3e16efc8, Mona Lisa
 3e2e3be9, year 20XX
 3e309f9b, IN MATRIX
+3e32ba56, score_9|score_8_up|score_7_up|score_6_up|low quality|worst quality|simple background|white background
 3e51cea7, nasolabial folds|wrinkles|anime_coloring
 3e832815, kochergin
 3e8eb855, SEE APPENDIX A|见附录A
@@ -3380,6 +3381,7 @@ a97df246, 1girl
 a9c65c4e, no
 a9cf1812, cozmikduzk1
 a9e3e060, ChromaV5
+a9e689bf, anthro|furry
 aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 aa220ab4, Evang
 aa28f0e0, ukj person
