@@ -3704,6 +3704,7 @@ b8d8a250, emaiti
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
 b8e63a5d, Evang
 b8e8e6ac, _mohawk_|character
+b934f782, Halloween spooky photo||horror theme photo|jack-o'-lantern|pumpkins|moon|night|outdoors|skulls|ghosts|darkness|horror|autumn leaves|ghosted candles|lanterns|horror dusk|hollow eyes|gothic
 b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
 b95bfe75, a photo of a building|sunny|nightfall|night view|cloudy|sunset|dusk|Overcast|fog|Snowy|Rainy|with mist, aargArchitecture_v10.safetensors
 b95bfe75, a photo of residence|day view|night view|day-night handover|futuristic style|modern style|modern chinese style|modern classical style|new classical style|new chinese style, aargArchitecture_v10.safetensors
@@ -4904,6 +4905,7 @@ f86e4589, anime
 f885f32d, JasonAldean Person
 f890e7be, shelley
 f89a083d, 1girl|ninomae ina'nis|hololive|hololive english|meconopsis ninomae ina'nis
+f8a38426, schizocurrency
 f8b2fd9e, girl
 f8c291fa, painting|girl
 f8e650bb, 3dmdt1
