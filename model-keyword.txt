@@ -10,8 +10,6 @@
 007edaa3, clayitization
 009100c7, lenaayad
 0097dd62, audra miller
-00a22474, B_Anime|B_Realistic, beyondExperimental_v20.safetensors
-00a22474, Beyond_Realistic, beyondExperimental_v10.safetensors
 00d62a36, photorealistic|naked
 00e7b299, anime
 00ee0e8e, score_9|score_8_up|best quality|masterpiece|4k|uncensored|prefect lighting|rating_explicit|very aesthetic|BREAK
@@ -746,6 +744,7 @@
 18fcf4d0, score_9|score_8_up|score_7_up|detailed, incursiosMemeDiffusion_v21PDXL.safetensors
 18fcf4d0, score_9|score_8_up|score_7_up|score_6_up|detailed, rtxincursios_sekkaaaiiiideeeV1.safetensors
 18fcf4d0, score_9|score_8_up|score_7_up|source_anime, incursiosMemeDiffusion_v16PDXL.safetensors
+18fcf4d0, score_9|score_8_up|score_7_up||score_9|score_8_up|score_7_up|score_6_up|BREAK|score_9|score_8_up|score_7_up|score_6_up||, pulenkompotPonyxl_lebenicaxl.safetensors
 19014c4a, estiloventidois
 190bc75e, 1girl|mecha|
 191173a0, 1
@@ -3642,7 +3641,6 @@ b4df6423, xdusky1
 b4e2803e, girl
 b4f02391, qianzhi
 b5217013, 1girl|
-b540813d, BeyondNegative
 b5453f75, DBlinebrush style, linebrushStyle_V21.ckpt
 b5453f75, OOKZAVampire Style, vampireStyle_V20.ckpt
 b5453f75, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.ckpt
@@ -4213,7 +4211,6 @@ d634b8cb, paul, sameer_v1.ckpt
 d636e597, 1girl, sdxl_vae.safetensors
 d636e597, 1girl|anime, sdxl_vae.safetensors
 d636e597, Anthro|Photo, sdxl_vae.safetensors
-d636e597, Beyond_Realistic, sdxl_vae.safetensors
 d636e597, RGBimagining, sdxl_vae.safetensors
 d636e597, Realistic|Art|Surreal|Experimentell, sdxl_vae.safetensors
 d636e597, UMP45, sdxl_vae.safetensors
