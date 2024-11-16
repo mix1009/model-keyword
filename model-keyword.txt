@@ -2445,7 +2445,7 @@
 7960116e, evang
 796f5ad4, cat
 79b55ef7, bigbadejo alien_monster
-79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10SD15.safetensors
+79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10.safetensors
 79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11e9.safetensors
 79c63bd9, Landscape design
 79d3364b, Anime|Art|studio ghibli|Cartoon
@@ -3775,7 +3775,7 @@ bd66b7ba, Bluey
 bd747e17, dark|shadow|fantasy
 bd7df541, timor|timorm
 bda49b29, ashenhard style
-bda7821c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10SD15.ckpt
+bda7821c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10.ckpt
 bda7821c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11e9.ckpt
 bda88570, modern disney style
 bdb4b12c, by popqn
