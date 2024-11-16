@@ -2445,7 +2445,7 @@
 796f5ad4, cat
 79b55ef7, bigbadejo alien_monster
 79beb96c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10SD15.safetensors
-79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.safetensors
+79beb96c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11e9.safetensors
 79c63bd9, Landscape design
 79d3364b, Anime|Art|studio ghibli|Cartoon
 7a0fd151, 1111, anything_fp16.safetensors
@@ -3775,7 +3775,7 @@ bd747e17, dark|shadow|fantasy
 bd7df541, timor|timorm
 bda49b29, ashenhard style
 bda7821c, samdoesart style|thepit style|orwel style|cherrymouse style, babesKissableLips_10SD15.ckpt
-bda7821c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11Experiment9.ckpt
+bda7821c, thepit style|samdoesart style|orwel style|cherrymouse style, babes_11e9.ckpt
 bda88570, modern disney style
 bdb4b12c, by popqn
 bdd04c5e, noble ai|nobleai|noblemixfix
@@ -4390,7 +4390,7 @@ de2f2560, RAW photo of|Analog photo of|Photo of, freshPhotoRealism_v25.safetenso
 de2f2560, RAW photo of|Photo of|Analog photo of, freshPhotoRealism_v25LCM.safetensors
 de2f2560, Shadowheart|armor|black hair|pointy ears|bangs|circlet|ponytail|green eyes|braid, shadowheart_v10.safetensors
 de2f2560, ae, tokeaa_mancet.safetensors
-de2f2560, analog style|dreamlikeart|redshift style, babes_11Experiment8.safetensors
+de2f2560, analog style|dreamlikeart|redshift style, babes_11e8.safetensors
 de2f2560, analog style|modelshoot style|nsfw|nudity, realisticVisionV60B1_v13.safetensors
 de2f2560, anime, decxcris_v10.safetensors
 de2f2560, aroamoyasi|kishida mel|amamiya yuko|shihou matsuri|hiten|mituk1|yohaku, alusStew_v10.safetensors
