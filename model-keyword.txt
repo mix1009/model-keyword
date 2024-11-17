@@ -3325,6 +3325,7 @@ a5c134f5, pulp-diffusion, pulpDiffusion_pulpDiffusionAlpha.ckpt
 a5c134f5, vntgcrm style, VintageCream.ckpt
 a5e6f199, color|flat|high contrast
 a5e9c481, brutalism|brutalist|building
+a5fcbdb6, furry|anthro
 a60545fc, itojunji style
 a62a688d, anime style|illustration|oil painting|analog style|realistic|photorealistic
 a63de555, photo real|realistic|3d
