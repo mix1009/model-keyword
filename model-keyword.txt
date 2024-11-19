@@ -2693,6 +2693,7 @@
 88ff0293, evang
 88ff0bad, masterpiece|best_quality
 890cb2e4, photorealistic
+89185524, zhengjianyg|
 89372903, none
 895394e7, kisliptu style|abbe bi style|basety style|sassy style|pomagip|dalle style|midjourney style|thepit style|samdoesart style|owler style|cherrmous style|arosen style|anime style|suicidegirl|digital art|colorful|wild nature
 895f5d25, dal|photo
@@ -4699,6 +4700,7 @@ ece47e57, evangstyle
 ecf14450, male|female
 ecf8473f, furry|anthro
 ecf98c5e, valorant style
+ed023c01, score_9|score_8_up|score_7_up|source anime|
 ed0b4125, anime style|illustration|oil painting|analog style|realistic|photorealistic
 ed296396, goldentrig|GTv2
 ed3f76c1, score_9|score_8_up|score_7_up|score_6_up
