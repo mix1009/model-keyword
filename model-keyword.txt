@@ -2878,6 +2878,7 @@
 945ff873, boy
 946468be, Google Colab|DreamBooth_Stable
 94674f07, nvinkpunk
+94685661, 1girl|female focus|pinup
 946c48df, abc
 9487809d, Cecily Tynan
 948b6f4b, half body|closeup
@@ -4210,6 +4211,7 @@ d5b1726a, Masterpiece|Best Quality
 d5cea653, gege
 d5dfca31, beta01
 d5f72803, Evang Style
+d60a0b29, masterpiece|best quality
 d61a0cdc, egardiner
 d62ddc80, furry
 d634b8cb, Hina, itshinaInstagramModel_hina.ckpt
