@@ -2692,6 +2692,7 @@
 8853491f, cartoon character
 885be986, daniellemoinet
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
+888b8afa, RedCraft
 88b8d946, desi_fit_girl, realisticFitGirls_desi.safetensors
 88b8d946, goose_fit_girl, realisticFitGirls_goose.safetensors
 88ff0293, evang
@@ -3895,6 +3896,7 @@ c3466734, by t6
 c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 c361dd5f, masterpiece, sarabasmix_v1.safetensors
 c361dd5f, tiny, beenyou_v1.safetensors
+c3648938, RedCraft
 c37af4df, furry|kemono
 c37ba157, androidarts
 c37cd72c, blurry background|depth of field
