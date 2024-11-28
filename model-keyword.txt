@@ -2052,6 +2052,7 @@
 63746d4f, rtrophto1
 638ca327, jp_style person
 6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
+63994174, nasolabial folds|wrinkles|crossdressing
 63b61c91, xplus
 63d09205, latex|latex catsuit|latex corset|bondage|bound|metal collar|metal cuffs|swedish collar|swedish cuffs
 63dc2f31, vintage|book cover|surrealist|text
@@ -4007,6 +4008,7 @@ c9291e5c, car interior
 c9462890, Archilab
 c9513c51, Nasolabial folds|Age spots|Flat nose, liquid9745vae.safetensors
 c9513c51, nasolabial folds|age spots|flat nose, liquid9745vae.safetensors
+c9513c51, nasolabial folds|wrinkles|crossdressing, liquid9745vae.safetensors
 c9513c51, wrinkled|nasolabial fold|anime coloring, liquid9745vae.safetensors
 c951cc0e, sks person
 c95c43ce, Mature Female
