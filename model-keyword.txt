@@ -733,6 +733,7 @@
 1814656d, The Polaroid style，
 182440bd, first love
 1848190c, sd-pulp|dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories
+185142d9, score_9|score_8_up|score_7_up|BREAK
 1861f018, Evang style, colorfulGlow_v6MoreDetails.safetensors
 1861f018, Evang, greenRobot_safetenser.safetensors
 1861f018, SDArt, sdartEncapsulated_base15.safetensors
