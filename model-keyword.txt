@@ -1598,6 +1598,7 @@
 4983938e, AniLux Real Perfect
 49962996, nkneghmn
 49b5bcbf, newmarsmix
+4a0b8e45, Lysrix|girl|cut hair|cute face
 4a0c37d8, supermarionation
 4a146754, Topnotch Artstyle
 4a2eab64, SDArt|appt|ohwx|asr|aten|fcu|chor|cpec|pfa|kprc|kuro|asot|elis|sill|exe|bsp|grl|hap|byes|lpg|yler|avel|vaw|zaki|ohn|guin|vini|pz|crit|shma|doa|sks|szn|phol|utm|uy|dds|pte|oxi|ynna
@@ -1799,7 +1800,8 @@
 55f8aa74, mobian or sonic character name
 55fded84, 1girl|clock hair ornament|fox ear|split-color white and pink hair|red eyes|hair scrunchie|
 561e042a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti
-561f323d, anime|realistic|3d|no triggers and no this is not a trigger|this is to tell people you dont necessarily need to use a trigger cuz people on civitai lack skill called reading
+561f323d, Lysrix|girl|cut hair|cute face, AAA Anime VAE SDXL.safetensors
+561f323d, anime|realistic|3d|no triggers and no this is not a trigger|this is to tell people you dont necessarily need to use a trigger cuz people on civitai lack skill called reading, AAA Anime VAE SDXL.safetensors
 563ef790, hanfu
 564533e5, masterpiece|best quality
 564a5547, chinses ink painting
@@ -2955,6 +2957,7 @@
 9715ec6c, Anime|adult|2.5D|cross dressing|nasolabial folds|wrinkled skin
 972c5030, gendigi
 972cb2b5, guttoepic2
+973f0cc1, hanfu
 975b2546, 80's anime style
 975e371a, 'anime
 9769f791, realistic
