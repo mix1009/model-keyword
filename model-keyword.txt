@@ -1803,6 +1803,7 @@
 561e042a, pow style|nrgi|mgti|abiti|datsi|cavai|hikoi|cudii|cepi|enigi|difi|arumi|minhi|mdsi|plni|tichi|uwei|fleri|hepi|wazi|ouei|rithi|mikii|sshi|gerai|inemi|yohi|ronti|reemi|eneii|pethi|wivi|maari|eeti|wrayi|afsi|opii|pkgi|budai|ibci|ccui|ucni|emiti
 561f323d, Lysrix|girl|cut hair|cute face, AAA Anime VAE SDXL.safetensors
 561f323d, anime|realistic|3d|no triggers and no this is not a trigger|this is to tell people you dont necessarily need to use a trigger cuz people on civitai lack skill called reading, AAA Anime VAE SDXL.safetensors
+561f323d, masterpiece|best quality|realistic, AAA Anime VAE SDXL.safetensors
 563ef790, hanfu
 564533e5, masterpiece|best quality
 564a5547, chinses ink painting
@@ -4778,6 +4779,7 @@ ee695ac3, alraune|arachne|centaur|cyclops|harpy|lamia|mermaid|mothgirl|satyr|scy
 eeb2ed3e, evang style
 eebca96d, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 eec5b397, hungpham
+eecd721d, masterpiece|best quality|realistic
 eef06b18, masterpiece|best quality|nfixer|nfixernext|re-badprompt
 eefa7e96, girl|face|beautiful
 ef01c1e8, Henry Cavill|hnrycvll
