@@ -1195,7 +1195,6 @@
 3080b312, mobian or sonic character name
 30833d87, luffy man|zoro man|nami woman|sanji man|nico woman|chopper boy|franky man|usopp man|brook man|jimbei man
 3087797c, erect penis|flaccid penis|wa-vy style|snthwve style|nvinkpunk|synthwave|sci-fi|caspian sci-fi|star atlas|star citizen|render|postapocalypse|wjqwizard|wjqknight|wjqtitan|wjqjester|wjqautoma|wjqdemon|knollingcase|elden ring style|cyborgdiffusion|cyborgdiffusion style|artificial-journey style|analog style|sks person
-308e2e72, masterpiece|best quality|absurdres|safe
 30a2dcbc, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
 30c2b7ca, chibi
 30ce0bd3, FURRY
@@ -3880,6 +3879,7 @@ c0302f10, filmation motu style, filmationMOTU_v1.ckpt
 c055a24d, Game interface|content|buttons|logo|image content|return|stars|flowers
 c0777389, hanfu
 c09d432b, photorealistic|nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
+c0a703a2, Western Comics
 c0ae74e1, reddit|low quality|traditional media|amateur|real life photo|raw|film grain
 c0afa279, 3d style|3d
 c0c220d3, furry
@@ -4655,6 +4655,7 @@ e842dcc7, retro artstyle, ClearVAE_V2.2.safetensors
 e8468071, panamera04
 e84a0110, Cow
 e853d0aa, flat vector art|vector illustration|flat vector art|
+e8548dbf, masterpiece|best quality|absurdres|safe
 e85e8888, AYU23 person
 e8635c3a, multipla
 e86fa1fb, dancing|nice hands
@@ -4990,6 +4991,7 @@ f973721a, jenniferconnelly
 f9766d19, man showing his large erected penis|portrait photo
 f97af94a, 1 girl
 f97ba63a, phse
+f98863e5, CassandraVillain
 f9bc0f7b, fashion
 f9c02b32, 100memories
 f9d8ee86, modelshoot style|swpunk|synthwave|paint splatters
