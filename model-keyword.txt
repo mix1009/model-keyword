@@ -331,6 +331,7 @@
 0e19e7fb, 3dcharacter|3dcutecharacter|cloud|waves
 0e3bcabc, 1 girl|Bean_Labs|B&W|masterpiece|stunning light and shadow
 0e5bd0bf, CCDDA  artstyle
+0e6d0a13, Colette|Brawl Stars|Sharp teeth|White hair|Hair covering left eye|Red uniform|Cyan longest sleeved sweater, AAA Anime VAE SDXL v1_4.safetensors
 0e6d0a13, OSupport, AAA Anime VAE SDXL v1_4.safetensors
 0e6d0a13, Suijae|blonde|yellow eyes, shinHeejae_v10.safetensors
 0e725091, 2000s|1990s|1980s|1970s|1960s|1950s|1940s|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jiri tulach style|komrant style|marie dashkova style|olga boyko style|digital art|interior design|macro photography|polaroid style|sucidegirl|wild nature
@@ -3553,6 +3554,7 @@ adf18b48, Any
 ae19a9dd, pspp man
 ae3342bc, Master Chief
 ae40b48d, cult of cthulhu|giger|Cthulhu|post-apocalypse|biomechanical
+ae5b7b44, AIO|Anthro|ukiyoe|knotwork
 ae703f08, sweat
 ae88607a, black-and-white photograph
 ae8cfec6, 伤妃-刘亦菲|1girl|
