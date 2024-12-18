@@ -4386,6 +4386,7 @@ dad0a6bf, vintage|book cover|photo|surrealist
 dada189d, russian
 dae327c6, score_9|score_8_up|score_7_up|score_4|score_5|score_6|BREAK|NSFW
 daecbd84, FleischerStyle
+dafa131a, B_1|B_9, rogPony_v10.safetensors
 dafa131a, realistic|raw photo|photo realistic|hyper realistic|realistic photo|ultra realistic|photorealism|realism, sdxlYamersRealisticNSFW_v4VAE.safetensors
 dafa131a, scribble|watercolor|subversive|exciting|croquis|flat|colorful|pastel|xslx, megaPainterXL_v10.safetensors
 db0d4f46, fluffy furry beastman
