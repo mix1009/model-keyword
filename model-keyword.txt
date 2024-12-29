@@ -3256,6 +3256,7 @@
 9fee5b60, maddiesmith
 9ff4bcf1, dalcefo
 9ff529c8, anime
+a0134bd0, 1girl
 a026bc0d, glasses
 a0395ca6, kurumifaceXL
 a03d0c61, lyh|anime|ando|mia
@@ -4685,6 +4686,7 @@ e842dcc7, 3d, ClearVAE_V2.safetensors
 e842dcc7, Armor|golden cloth|genini cloth|saga|gemini saint, CleanVAE.safetensors
 e842dcc7, Cinematic|Skin Details|Full Body Photo|Photography, realisticASFV1_realisticASFXLV10.safetensors
 e842dcc7, KingShark|Humanshark|Sharkman, CleanVAE.safetensors
+e842dcc7, Lady Lovely Locks, CleanVAE.safetensors
 e842dcc7, glasses, CleanVAE.safetensors
 e842dcc7, madgod|stop motion|horror, ClearVAE_V2.safetensors
 e842dcc7, retro artstyle, ClearVAE_V2.2.safetensors
