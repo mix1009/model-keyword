@@ -2056,7 +2056,7 @@
 61f22d0a, iayuso person
 61f439e0, evang
 61f9323f, lb2cc|archi
-6208c354, splatoon|inkling|octoling
+6208c354, splatoon|inkling|octoling|3d
 62110ae2, nkoctst
 62117bfd, hikmix
 621c1e6c, merani
@@ -4127,7 +4127,7 @@ cc49ac37, bigbadejo alien_monster
 cc586421, a realistic photograph of, everclearPNYByZovya_v1VAE.safetensors
 cc586421, realistic photograph of, everclearPNYByZovya_v1.safetensors
 cc5b68d0, lndskp|nvinkpunk|redshift
-cc6f0de7, splatoon|inkling|octoling
+cc6f0de7, splatoon|inkling|octoling|3d
 cc781a63, s
 cca12107, chibi
 cce02454, nvjobaim
@@ -4932,6 +4932,7 @@ f3694755, modelshoot style
 f37775c3, photo of Evang style
 f38569d1, Anime|adult|2.5D|cross dressing|nasolabial folds|wrinkled skin
 f3a2ad84, rcnz_niji style
+f3ae58c4, 
 f3b011a6, furry
 f3dae826, BRAV5_Realisianv50_PFv30
 f3ff3ac7, Anime Style
