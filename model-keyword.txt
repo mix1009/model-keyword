@@ -616,6 +616,7 @@
 124de6a9, eldmeisterog
 12558260, 2D|2.5D|Anime|Photo-Realistic|3D Style
 125f67d1, henderson creature|humanoid|house interior|interior|exterior|dark|crawling|large|small
+126a6725, score_9|score_8_up|score_7_up
 126f21de, Zwxthej
 12768458, hanfu
 127f03e7, gtmg woman
@@ -2523,6 +2524,7 @@
 7a16febb, yuqikun, yuqikunStyle_v1.ckpt
 7a182a74, wjqarnpomo
 7a320666, score_9|score_8_up|score_7_up|score_6_up
+7a60abf0, score_9|score_8_up|score_7_up
 7a74f7c2, lineart of {objects}
 7a77a7f5, yu-gi-oh!creature
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
@@ -3312,6 +3314,7 @@ a1d9f84f, source_photorealistic|fleshmutant|cybermutant, ponyspanded_betaV05.saf
 a1d9f84f, source_photorealistic|fleshmutant|cybermutant|ncrender, ponyspanded_betaV04.safetensors
 a1d9f84f, source_photo|dazstyle|NCRender|asmaria, ponyspanded_betaV07.safetensors
 a1d9f84f, source_photo|mydaz|fleshmutant|cybermutant|NCRender, ponyspanded_betaV06.safetensors
+a1d9f84f, tanemorihahalargehand|tanemoriaunt|1girl|glasses|forehead|ponytail||tanemorisis|1girl|blonde hair|blonde eyes||tanemorisensei|1girl|glasses|dark skin|dark-skinned female|turtleneck|tight|curvy|fullbody||tanemorisisfriend|1girl|glasses|forehead|twin braids||tanemorihahalargehand|1girl|blonde hair|blonde eyes|, tanemoriPonyPonyMTSP_v10.safetensors
 a1ddf000, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 a1e1b00c, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
 a1f0ad54, insertNameHere
