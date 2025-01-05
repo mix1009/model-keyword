@@ -616,7 +616,7 @@
 124de6a9, eldmeisterog
 12558260, 2D|2.5D|Anime|Photo-Realistic|3D Style
 125f67d1, henderson creature|humanoid|house interior|interior|exterior|dark|crawling|large|small
-126a6725, score_9|score_8_up|score_7_up|fellatrix style
+126a6725, score_9|score_8_up|score_7_up|fellatrix style|urushihara satoshi style
 126f21de, Zwxthej
 12768458, hanfu
 127f03e7, gtmg woman
@@ -2524,7 +2524,7 @@
 7a16febb, yuqikun, yuqikunStyle_v1.ckpt
 7a182a74, wjqarnpomo
 7a320666, score_9|score_8_up|score_7_up|score_6_up
-7a60abf0, score_9|score_8_up|score_7_up|fellatrix style
+7a60abf0, score_9|score_8_up|score_7_up|fellatrix style|urushihara satoshi style
 7a74f7c2, lineart of {objects}
 7a77a7f5, yu-gi-oh!creature
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
