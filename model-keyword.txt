@@ -862,6 +862,7 @@
 1e1e49e4, sks woman
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1e2b3832, lula
+1e2b7b3e, illust style|digital illustration|anime style|high-quality anime drawing|simple illust style|flat color|solid circle eyes|manga style|monochrome|pc98 style|dithering|jaggy lines
 1e3cd1ab, hanfu
 1e50a350, Nothing
 1e6822b7, comics style|analog style|illustration|lineart
@@ -3523,6 +3524,7 @@ ab377a68, FlonixApterus
 ab38b8e3, ouka_studio
 ab48e25c, chibi
 ab4941a7, fantasticmrfox
+ab533a36, 3d|splatoon|inkling|octoling
 ab5ea887, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base, albedobaseXL_v13.safetensors
 ab5ea887, photo|2d|3d|anime|game|photorealistic|cinematic|design|contemporary|art, albedobaseXLPre_v15pre.safetensors
 ab5ea887, update, update_v10.safetensors
@@ -4775,6 +4777,7 @@ eb1666ba, 1girl|moyou
 eb1b80e4, ziov
 eb3a4159, dal
 eb6dc28c, 3lys34ly, vae.safetensors
+eb6dc28c, Interior|prspctvs|, prspctivsInterior_v1.safetensors
 eb6dc28c, anime|lyh|ando|mia, ae.safetensors
 eb6dc28c, gura|anya, ae.safetensors
 eb6dc28c, lyh_niji|anime|1girl|lyh, ae.safetensors
@@ -4861,6 +4864,7 @@ ef6890a5, dal
 ef6ecf6d, alloldrpgarts1
 ef82149e, score_9|score_8_up|score_7_up
 ef91d6a9, Jacey
+efb4f447, furry|kemono|bara
 efd54274, elden ring style
 efdd9fcf, GAME ICON, gameIconInstitute_v20.safetensors
 efdd9fcf, game icon, gameIconInstitute_v21.safetensors
