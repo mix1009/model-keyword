@@ -2534,6 +2534,7 @@
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
 7a8ece1f, Evang
 7aaeee43, woman
+7acae5a9, QR Face
 7ad31fc7, none
 7add5eca, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 7af9cd4c, EduSDII, modelcharacter_v10.ckpt
