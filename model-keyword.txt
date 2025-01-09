@@ -1859,6 +1859,7 @@
 584f63ab, black eyes, sdxl_vae.safetensors
 584f63ab, masterpiece|best quality, sdxl_vae.safetensors
 584f63ab, masterpiece|best quality|anime|realistic, sdxl_vae.safetensors
+584f63ab, masterpiece|best quality|highres|absurdres|amazing quality|very aesthetic, sdxl_vae.safetensors
 584f63ab, masterpiece|score_9|score_8_up|score_7_up|best quality|, sdxl_vae.safetensors
 584f63ab, neon|glowing|silhouette, sdxl_vae.safetensors
 584f63ab, realistic, sdxl_vae.safetensors
@@ -1867,6 +1868,7 @@
 584f63ab, score_9|score_8_up|score_7_up|realistic, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up|realistic|, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up|score_6_up|detailed, sdxl_vae.safetensors
+584f63ab, very awa|masterpiece|best quality|year 2024|newest|highres|absurdres, sdxl_vae.safetensors
 584f63ab, watercolor, sdxl_vae.safetensors
 584f63ab, ~*~aesthetic~*~, sdxl_vae.safetensors
 584f63ab, 伤妃-刘亦菲|1girl|, sdxl_vae.safetensors
@@ -3954,6 +3956,7 @@ c1591e6c, furry
 c16a2a6b, wjqfrottage
 c181b9bd, kemono|nj5furry
 c1918809, cartoon|illustration|toon
+c19435d3, very awa|masterpiece|best quality|year 2024|newest|highres|absurdres
 c194fe5c, furry:1.2|realistic fur|details down to every fluff|big eyes
 c1a72459, girl
 c1cb5ab4, 1girl|moyou
@@ -5108,6 +5111,7 @@ fc35e78c, score_9|score_8_up|score_7_up|
 fc41b940, evgenii-ponasenkov
 fc83c5ad, civsix style
 fc88eb89, sks person
+fcbb994f, Chibi
 fcbf8265, evang
 fcd6b416, sks woman
 fcfbf465, 3D_Anamorphic_Style|Photorealistic_Fallout_Style
