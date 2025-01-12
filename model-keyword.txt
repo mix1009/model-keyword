@@ -773,7 +773,8 @@
 19804fc4, 1girl|moyou
 19872cc2, 1girl|amabilis
 1994138c, ChilloutDiverseMix
-19a16f24, masterpiece|best quality
+19a16f24, masterpiece|best quality, pasanctuarySDXL_v10.safetensors
+19a16f24, very awa|masterpiece|best quality|year 2024|newest|highres|absurdres|realistic|photorealistic|photo|DSLR|3d|anime, pornmasterPro_noobV15VAE.safetensors
 19b72626, analog style|dreamlikeart|redshift style
 19b7510b, FXXDBXCK
 19ce2ec5, juli
@@ -3776,6 +3777,7 @@ b6a25334, yaju-senpai
 b6aaeb01, chibi
 b6c3c8a8, sks woman
 b6c5f0f7, glasses
+b6f2ffb1, Architectural CNCPTL RT|
 b7010dfe, Mosaic Art
 b701219e, clone wars style|clonewars style|batman_the_animated_series
 b7244379, mecha hanbok|techwear hanbok|mechanical arm|mecha wear
