@@ -2820,6 +2820,7 @@
 8c3b86ce, chilloutmix-Ni.safetensors
 8c3ca1c1, score_9|score_8_up|score_7_up||rating_explicit||source_anime|
 8c6624df, 1nt4n
+8c70639f, shebaobao
 8c7b6bc3, Evang
 8c7efd5f, itojunji style
 8ca5c5a1, zero_two_101
@@ -4833,6 +4834,7 @@ ed0b4125, anime style|illustration|oil painting|analog style|realistic|photoreal
 ed296396, goldentrig|GTv2
 ed3f76c1, score_9|score_8_up|score_7_up|score_6_up
 ed65d07a, SEE APPENDIX|见附录
+ed6f8245, realistic|photorealistic
 ed87e89c, tchnclr style
 ed89f73a, big eyes|pale skin|glossy lipstick
 ed977a93, bambaa, bambaa_v10.ckpt
