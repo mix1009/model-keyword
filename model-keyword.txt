@@ -1306,7 +1306,8 @@
 366915ea, sks moesharp|zkz atashi|anime|realistic|masterpiece|best quality
 36833c3d, jirai kei|jirai fashion|eye shadow|dark lips|twin tails|fishnet stockings
 36ae2bff, 3D product render|3D product render style
-36b07219, carred|tdg
+36b07219, RedCar|TA7, ta7_v10.safetensors
+36b07219, carred|tdg, ta7CIVCRPCars_v10.safetensors
 36b82728, zhaojun
 36c2aa20, score_9|score_8_up|score_7_up|source anime|
 36ce47dc, 1gilr
