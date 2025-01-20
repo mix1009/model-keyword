@@ -2833,6 +2833,7 @@
 8ca5c5a1, zero_two_101
 8cb4ebda, znchn style
 8cb6adb7, gay
+8cb7a827, qzr lalafell
 8cbbfea8, Kemono, fluffyTart_v70.safetensors
 8cbbfea8, kemono|furry, fluffyCake_v20.safetensors
 8cc017a0, vector-art|pulp-diffusion
