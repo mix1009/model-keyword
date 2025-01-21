@@ -1057,6 +1057,7 @@
 274d0bb6, trending on artstation|8k|ultra hd|1woman
 276edfa7, evang
 2784495f, niji6|niji5
+278ea2f5, qzr lalafell
 27a594ef, GIRL 3D SUBJECT RENDER PHOTOREALISTIC FEMALE RETRO ANATOMICAL ART INTRICATE ACCURATE WOMAN ILLUSTRATION CARS CARTOON CINEMATIC FANTASY PHOTOGRAPHY REALISTIC
 27a98a4e, 1990s style|1980s style|retro artstyle|2000s style
 27b2d819, Evang
@@ -2133,6 +2134,7 @@
 655f2458, niji style, sdvn7Nijistylexl_v1.safetensors
 655f2458, nijistyle, sdvn7Nijistylexl_demo.safetensors
 655f2458, yourname, sdvn8Artxl_yourname.safetensors
+6563e77a, qzr lalafell
 65961cf8, FURRY|FURRY FEMALE, Liquid0111vae.safetensors
 65961cf8, cartoon|cartoon style, Liquid0111vae.safetensors
 65961cf8, forehead|nasolabial folds|realistic nose|acne, Liquid0111vae.safetensors
