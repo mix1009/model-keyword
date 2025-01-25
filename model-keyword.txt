@@ -620,8 +620,8 @@
 124de6a9, eldmeisterog
 12558260, 2D|2.5D|Anime|Photo-Realistic|3D Style
 125f67d1, henderson creature|humanoid|house interior|interior|exterior|dark|crawling|large|small
-126a6725, score_9|score_8_up|score_7_up|fellatrix style|urushihara satoshi style, milfShaper_v20.safetensors
-126a6725, score_9|score_8_up|score_7_up|incase style|fellatrix style|maidoll style, milfShaper_v21.safetensors
+126a6725, score_9|score_8_up|score_7_up|fellatrix style|urushihara satoshi style, milfShaper_archivedPonysd15V20.safetensors
+126a6725, score_9|score_8_up|score_7_up|incase style|fellatrix style|maidoll style, milfShaper_archivedPonysd15V21.safetensors
 126f21de, Zwxthej
 12768458, hanfu
 127f03e7, gtmg woman
@@ -2549,8 +2549,8 @@
 7a16febb, yuqikun, yuqikunStyle_v1.ckpt
 7a182a74, wjqarnpomo
 7a320666, score_9|score_8_up|score_7_up|score_6_up
-7a60abf0, score_9|score_8_up|score_7_up|fellatrix style|urushihara satoshi style, milfShaper_v20.safetensors
-7a60abf0, score_9|score_8_up|score_7_up|incase style|fellatrix style|maidoll style, milfShaper_v21.safetensors
+7a60abf0, score_9|score_8_up|score_7_up|fellatrix style|urushihara satoshi style, milfShaper_archivedPonysd15V20.safetensors
+7a60abf0, score_9|score_8_up|score_7_up|incase style|fellatrix style|maidoll style, milfShaper_archivedPonysd15V21.safetensors
 7a74f7c2, lineart of {objects}
 7a77a7f5, yu-gi-oh!creature
 7a8b830f, sks woman|#sd1.5_vibs1#|woman
@@ -3455,6 +3455,7 @@ a6ea17df, female|male
 a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
 a6f5b356, GLEN ORBIK|EARLE BERGEY|ROBERT MAGUIRE|GIL ELVGREN
 a6f96d80, BelleDelphine|woman
+a7028b91, score_9|score_8_up|score_7_up
 a72de66c, MedabotV2
 a731246e, Merge
 a7328d38, Master Chief
