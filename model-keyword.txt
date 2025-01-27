@@ -2333,6 +2333,7 @@
 6fe8f5ad, chibi
 6feb162d, evang
 6ff25eff, Evang
+6ffd201b, persona|soejima shigenori|anime coloring
 6fff1ab3, Mike Mignola
 7003a758, shuimobysim|shukezouma
 7009ca74, mobian or sonic character name
@@ -3036,6 +3037,7 @@
 9769f791, realistic
 97730110, chibi|child|
 97777800, swpunk|synthwave|paint splatters
+977e7ed7, masterpiece|best quality|newest|absurdres|highres
 978e9ff8, h4zza
 979864ce, Meowskulls, meowskullsModel_v20.ckpt
 979864ce, haruno, harunomodel_v10.ckpt
