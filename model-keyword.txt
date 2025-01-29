@@ -2522,6 +2522,7 @@
 7906524a, cornflower
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
 7928fc22, the car
+79347729, pastel color
 7939e798, ChavGirl
 79587710, analog style|modelshoot style|nsfw|nudity, realisticVisionV60B1_v20Novae.safetensors
 79587710, zombie, wendigo_v20.safetensors
@@ -5051,6 +5052,7 @@ f6355763, Evang, beejaydel_bjd20000.safetensors
 f63dafbe, Realistic
 f6412c6b, 1girl
 f661ebc1, 2dskillicon
+f66bff55, 💘
 f67008fe, monochrome
 f68b2ecb, woman
 f69b7a31, Nothing
