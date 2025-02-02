@@ -4653,6 +4653,7 @@ e13105fc, masterpiece|best quality, bbMIXALICE_v10.safetensors
 e13105fc, masterpiece|best quality|white theme|black theme, bbmixRUIS_bbmixRUIS.safetensors
 e136d291, None
 e13c6405, RAW photo of|Analog photo of
+e15fb173, realistic|asian|1girl||1girl|high quality illustration is 8K anime with solid stroke|
 e17829ff, Princess Peach|Princess Daisy|Princess Zelda|Samus Aran|Link|Luigi|Serena from Pokemon|Misty from Pokemon|Hilda from Pokemon|Jessie from Pokemon|Bowsette
 e194bd99, muscular male
 e1a9b17f, 1girl
@@ -4969,6 +4970,7 @@ f1e9d943, masterpiece|realistic|best quality
 f1edf53b, in the style of HridleyXL|illustration
 f1f8a03e, CinematicVJ
 f202aa0e, Mikasa
+f20e984d, Xiaozhang|1 girl|solo|twintails|realistic|long hair|black hair|black eyes|looking at viewer|outdoors|cosplay
 f22d0019, PiroxiumDiffusion style
 f22ff389, trixiemattel drag queen
 f23fbe95, donghua|wallpaper
