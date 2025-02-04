@@ -1202,6 +1202,7 @@
 2feab2e5, 1girl|female focus|pinup|
 2ffe0d53, Evang, mummy_v10.ckpt
 2ffe0d53, evang, mummy_v2.ckpt
+3006a0c1, realistic|photorealistic|detailed
 3013bb9f, 80sDarkSouls style|80sDarkSoul style|knight|armour|castle
 301a6744, bezyminka|, bezyminka_v10.ckpt
 301a6744, vvyerA2, vvyera2_.ckpt
