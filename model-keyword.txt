@@ -966,6 +966,7 @@
 22a55888, insertNameHere
 22c22e44, Izumi Kenta|Asian|Suit|Black Hair|Tie
 22ca4aaa, guigubahuang|1girl|chinese style
+22d51e85, anime|cartoon
 22dd7942, secxyfpi style
 231d588a, photo of benzaki women
 23234436, furry
@@ -2157,6 +2158,7 @@
 665200a7, seras_ashrain
 665dcda7, pixar|blender|3D
 666a05ad, margot
+669d53ad, 3d
 66ab1e7a, portrait+ style|modelshoot style|analog style|photo|nsfw|nudity, photomerge_v11.safetensors
 66ab1e7a, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 66b4c45e, archer style
@@ -3681,6 +3683,7 @@ b0a44c16, evang style, sneekkioRobotModel_sneekkioRobotDetail.safetensors
 b0a8dd3c, me
 b0b3bbb9, Renaissance: Botticelli|Bruegel Pieter|Da Vinci|Durer|El Greco|Giorgione|Giovanni Bellini|Jan Van Eyck|Raphael|Michelangelo|Paul Veronese|Tintoretto|Vecelli|Weyden|Pieter il Giovane  Baroque/Rococo: Aelbert Cuyp|Boucher more Rococo|Caravaggio|Chardin|Claude Lorrain|Gainsborough|Tiepolo|Hals|Rubens|Poussin|Rembrandt|Van Dyck|Velazquez|Vermeer  Neoclassicism/Romanticism/Realism: Bouguereau|Constable|Courbet|David|Delacroix|Friedrich|Gericault|Goya|Ingres|Tissot|Millet|Repin|Turner  Impressionism: Caillebotte|Degas|Gauguin|Hassam|Lautrec|Manet|Marcel Dyf|Martin|Monet|Pissarro|Van Gogh|Renoir|Seurat|Sidaner|Signac|Sisley|Sorolla  Other Artists Modern or without a specific school: Leyendecker|Norman Rockwell|Alma|Antonov|Boudin|Chagall|Camille|Fechin|Gerhartz|Gerome|Greuze|Hobbema|Afremov|Morandi|Millais|Sargent|Shishkin|Sorolla|Streeton
 b102b70e, alizee|amy winehouse|ariana grande|audra miller|avril lavigne|billie eilish|camila cabello|charli xcx|christina aguilera|dua lipa|emma stone|emma watson|hayley williams|jennifer lawrence|katy perry|lady gaga|lana del rey|marina diamandis|miley cyrus|p!nk|rihanna|selena gomez|shakira|sophie ellis bextor|taylor swift|heart on cheek|lips piercing|nose piercing|nose stud|nose ring|verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
+b1091908, painting|art|neo
 b109bf50, diffusable
 b11200d1, samanthafox
 b125a56f, See Version Notes
@@ -3938,6 +3941,7 @@ be9edd61, SDXL
 beab2cb2, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 beb6bcfd, Evang
 beb87f9d, furry|girl
+bec4494e, hanfu
 becccd91, 1girl|1boy, osorubeshiXL_z.safetensors
 becccd91, 1girl|1boy|female|male|comic, osoruwest_v01.safetensors
 becdbc5d, Kavellion|Kavellion style
@@ -3986,6 +3990,7 @@ c0e63696, 2000s|1990s|1980s|1970s|1960s|1950s|1940s|aleksei gilev style|andrew v
 c0e7c884, snthwve style|nvinkpunk
 c0ed7dfb, l4lisa
 c0f32ab1, plushiedsk
+c0fcc9cb, chibi|
 c112b482, Master Chief
 c11fb943, modelshoot style
 c12e4c21, Evang
