@@ -120,6 +120,7 @@
 03186377, rhsp|ops|raw|gated|color|C|C#|D|D#|E|F|F#|G|G#|A|A#|B|zaag|psy|hardstyle|reverse, stableaudioRHSP_v20.safetensors
 031b21f6, Niji|Anime, XL_VAE_F1.safetensors
 031b21f6, aki|aoki|aoi|isao|nao|nobu|shou, XL_VAE_E7.safetensors
+031b21f6, masterpiece|best quality|amazing quality|absurdres, flatpiece.xl.vae.safetensors
 031b21f6, pixel art|16 bit|32 bit|64 bit, XL_VAE_C1.safetensors
 0323e306, Bean_Lab|Pure Beauty|1 girl|best quality
 03346468, realistic:1.2|cosplay
@@ -3489,6 +3490,7 @@ a74ca246, cbzbb|microworld, microcharsMerge_10.ckpt
 a74ca246, food_crit|microworld, microcrittersMerge_10.ckpt
 a74ca246, microworld|clayitization, microclayMerge_10.ckpt
 a74ca246, microworld|knollingcase, microcasingMerge_10.ckpt
+a75108e2, masterpiece|best quality|amazing quality|absurdres
 a759d5d7, anime|niji-01
 a7694188, sks woman
 a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1|photrealistic:1.1
