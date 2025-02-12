@@ -191,6 +191,7 @@
 071eb7b2, evang
 0754d880, letitsinkin
 0768c30c, insertNameHere
+076e1c1a, A woman|in an elegant white bridal gown with intricate lace details|standing in a neutral background|with an off-the-shoulder design and floral embroidery on the hem|looking at the observer|with a photorealistic appearance
 07727188, half body|closeup
 07737b93, hotporn
 077f8138, anime
@@ -3548,6 +3549,7 @@ aa366209, maxwell the cat, maxwellTheCat_10.safetensors
 aa366209, romcom style, romcomDiffusion_10.safetensors
 aa366209, source4 style, source4V10_v1Safetensors.safetensors
 aa366209, wewulzkz, werewolfDiffusion_1.safetensors
+aa42c89b, A woman|in an elegant white bridal gown with intricate lace details|standing in a neutral background|with an off-the-shoulder design and floral embroidery on the hem|looking at the observer|with a photorealistic appearance
 aa49e01c, anime pencil concept style
 aa7001cf, COLR_001, coloringBook_.ckpt
 aa7001cf, Nouvis, nouvisPsychedelic_nouvisFor21.ckpt
