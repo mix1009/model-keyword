@@ -782,7 +782,7 @@
 19872cc2, 1girl|amabilis
 1994138c, ChilloutDiverseMix
 19a16f24, masterpiece|best quality, pasanctuarySDXL_v10.safetensors
-19a16f24, very awa|masterpiece|best quality|year 2024|newest|highres|absurdres|realistic|photorealistic|photo|DSLR|3d|anime, pornmasterPro_noobV15VAE.safetensors
+19a16f24, very awa|masterpiece|best quality|year 2024|newest|highres|absurdres|realistic|photorealistic|photo|DSLR|3d|photo \medium\|real life|photo background|anime|anime coloring|anime screenshot|novel illustration|cover|cover image|cover page|cosplay photo, pornmasterPro_noobV15VAE.safetensors
 19b72626, analog style|dreamlikeart|redshift style
 19b7510b, FXXDBXCK
 19ce2ec5, juli
@@ -2783,7 +2783,7 @@
 872bdd84, zedra1 girl
 872fa838, Interior
 874c83a1, A photo of a BiYaoYao Animated Young Woman|biyaoyao
-8752c13a, very awa|masterpiece|best quality|year 2024|newest|highres|absurdres|realistic|photorealistic|photo|DSLR|3d|anime
+8752c13a, very awa|masterpiece|best quality|year 2024|newest|highres|absurdres|realistic|photorealistic|photo|DSLR|3d|anime|real life|real life insert|real world location|photo background||photo \medium\|cosplay photo
 876e83c8, game icon, gameIconInstitute_v30.safetensors
 876e83c8, game icon|game logo|game asset, stylez_v10.safetensors
 87758a47, SEE APPENDIX A|见附录A
@@ -4431,6 +4431,7 @@ d65a1f08, realistic|anime|toon|cartoon
 d65c923a, 1girl
 d676dd55, deetz1
 d6b2691a, oddlyterrifying
+d6b35a34, anime
 d6e9461b, abd
 d6e9d2b1, dvMJv4
 d7049739, cat
