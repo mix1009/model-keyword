@@ -259,6 +259,7 @@
 09f31518, no
 09f5166e, sks woman
 09fdb690, 1girl|moyou
+0a16c980, anime|source_anime
 0a29065f, anime
 0a2a8967, aerith|bowsette|mercy|widowmaker|tracer|dva|black cat dva|star guardian jinx|star guardian lux|irelia|nidalee|kda seraphine|kda kaisa|akali|katarinaclassicoutfit|pokemon|animal|realistic|portrait|woman|closeup|selfie|instagram
 0a3bbcef, old woman with nasolabial folds
@@ -1210,6 +1211,7 @@
 2ffe0d53, evang, mummy_v2.ckpt
 3006a0c1, realistic|photorealistic|detailed
 3013bb9f, 80sDarkSouls style|80sDarkSoul style|knight|armour|castle
+30145ef8, 1girl|realistic
 301a6744, bezyminka|, bezyminka_v10.ckpt
 301a6744, vvyerA2, vvyera2_.ckpt
 301a6744, ya beronika, galina_v10.ckpt
