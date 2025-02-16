@@ -4910,6 +4910,7 @@ ed296396, goldentrig|GTv2
 ed3f76c1, score_9|score_8_up|score_7_up|score_6_up
 ed65d07a, SEE APPENDIX|见附录
 ed6f8245, realistic|photorealistic
+ed790e00, Persona
 ed87e89c, tchnclr style
 ed89f73a, big eyes|pale skin|glossy lipstick
 ed977a93, bambaa, bambaa_v10.ckpt
