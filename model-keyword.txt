@@ -4510,6 +4510,7 @@ dab15164, romanallcoma, romanallcoma_v10.ckpt
 dab15164, wawavawa, model1_ver1.ckpt
 dab3bb51, marblesh|marblee|marblee style
 dab88696, Oil Painting|Watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, kl-f8-anime2.safetensors
+dab88696, cat|cartoon style|big green eyes|black fur|blue overalls., kl-f8-anime2.safetensors
 dab88696, futanari|erection|flaccid|puffy nipples, kl-f8-anime2.safetensors
 dab88696, futanari|erection|flaccid|testicles, kl-f8-anime2.safetensors
 dab88696, narrow_waist|curvy, kl-f8-anime2.safetensors
