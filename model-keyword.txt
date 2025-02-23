@@ -1501,6 +1501,7 @@
 41d721c0, swpunk|synthwave|paint splatters
 41ee5b72, pixel art
 41ee841c, BLSpl45h|Spl45hBackground|
+41f21df2, low light
 41fef4bd, nousr robot
 4207b96d, Nothing
 420cb71f, datou|white background|solo|upper body:1.5|
@@ -4665,6 +4666,7 @@ dfafd600, duskametric15|microworld
 dfaff748, furry
 dfb90adf, by kyoani
 dfc703db, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+dfe7a258, INTRLY
 dfefb6a8, score_9|score_8_up|score_7_up
 e000edd2, Navia
 e01546fb, cornflower
