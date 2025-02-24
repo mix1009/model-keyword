@@ -1165,6 +1165,7 @@
 2cee5111, intjpastel
 2cf88589, irmntro person
 2cf9bf02, raiden mei apho
+2d0595dd, portrait
 2d168544, Evang
 2d447b0f, tk-char|tk-env
 2d527bd2, Evang
@@ -4920,6 +4921,7 @@ ed023c01, score_9|score_8_up|score_7_up|source anime|
 ed0b4125, anime style|illustration|oil painting|analog style|realistic|photorealistic
 ed296396, goldentrig|GTv2
 ed3f76c1, score_9|score_8_up|score_7_up|score_6_up
+ed5fd74b, chickpea
 ed65d07a, SEE APPENDIX|见附录
 ed6f8245, realistic|photorealistic
 ed790e00, Persona
