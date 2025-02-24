@@ -1165,7 +1165,8 @@
 2cee5111, intjpastel
 2cf88589, irmntro person
 2cf9bf02, raiden mei apho
-2d0595dd, portrait
+2d0595dd, portrait, Lumina2Luminette_alpha1.safetensors
+2d0595dd, portrait|retro anime, Lumina2Luminette_alpha5.safetensors
 2d168544, Evang
 2d447b0f, tk-char|tk-env
 2d527bd2, Evang
@@ -3044,6 +3045,7 @@
 959e67a3, sks woman
 95a1510a, donnaewin
 95db88e5, Evang
+95f7557c, very awa|masterpiece|best quality|year 2024|newest|highres|absurdres|realistic|photorealistic|photo|dslr|cosplay photo|3D|real life|real life insert|real world location|photo background|anime|anime coloring|anime screenshot|novel illustration|cover|cover image|cover page
 95f8d0a7, Gghjjh, good_v10.safetensors
 95f8d0a7, armpit, module1_train1.safetensors
 95f8d0a7, graffiti illustrations|chilloutmix, graffitiArt_httpsCivitaiComModels.safetensors
