@@ -1214,7 +1214,8 @@
 2ffe0d53, evang, mummy_v2.ckpt
 3006a0c1, realistic|photorealistic|detailed
 3013bb9f, 80sDarkSouls style|80sDarkSoul style|knight|armour|castle
-30145ef8, 1girl|realistic
+30145ef8, 1girl|realistic, cocoamixxl_v9Anim4gine.safetensors
+30145ef8, 1girl|realistic|ultra real|detailed hair|high score|cocoart real|, cocoamixxl_verXC.safetensors
 301a6744, bezyminka|, bezyminka_v10.ckpt
 301a6744, vvyerA2, vvyera2_.ckpt
 301a6744, ya beronika, galina_v10.ckpt
