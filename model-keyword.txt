@@ -4237,7 +4237,8 @@ cc49ac37, bigbadejo alien_monster
 cc586421, a realistic photograph of, everclearPNYByZovya_v1VAE.safetensors
 cc586421, realistic photograph of, everclearPNYByZovya_v1.safetensors
 cc5b68d0, lndskp|nvinkpunk|redshift
-cc6f0de7, splatoon|inkling|octoling|3d
+cc6f0de7, 3d|by splatfusion, splatFusion_v4PONYXL.safetensors
+cc6f0de7, splatoon|inkling|octoling|3d, splatFusion_v10.safetensors
 cc781a63, s
 cca12107, chibi
 cce02454, nvjobaim
