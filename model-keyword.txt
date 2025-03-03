@@ -1921,6 +1921,7 @@
 58a6c253, score_9|score_8_up|score_7_up|
 58bc7732, alraune|arachne|centaur|cyclops|harpy|lamia|mermaid|mothgirl|satyr|scylla|slimegirl|colored skin
 58c71549, nsfw|woman|amateur|sex|anime
+58cd96eb, Kan
 58db528f, rcnz_niji style
 591152f2, RA3
 59139221, man s4ntos
@@ -4658,6 +4659,7 @@ de2f2560, timor|timorm, mandaladiffusion_v03.safetensors
 de2f2560, yorha2b, yorha2b_v20Animation.safetensors
 de2f2560, zephyr, zephyr_v10.safetensors
 de357355, zrpgstyle
+de38b03f, girl
 de41984b, no
 de430242, joseSabogal
 de5d3202, cjregshw|1girl|
