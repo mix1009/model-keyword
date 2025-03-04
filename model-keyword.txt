@@ -1989,6 +1989,7 @@
 5bba81f8, 3d product render|product render
 5bbc69d0, Kazuhiro Haraguchi|Old man|Gray hair|Asian|skin head|suit
 5bbf52a0, house|peop
+5bc15c26, Elmely Garmet woman, elmelyIllustrious_10.safetensors
 5bc15c26, Seleene Lorein, beautiesDiffused_10.safetensors
 5bc15c26, arosen style|cherrmous style|kuvshinov style|samdoesart style|thepit style|owler style, butterflyEclipse_10.safetensors
 5bc15c26, iridescent, iridesciaPrismara_10.safetensors
@@ -2764,6 +2765,7 @@
 85293b6a, particle effect|lens flare|concept art
 852ad25f, InteriorDesign
 853e5ff4, wvebg1
+8577d89d, score_9|score_8_up|score_7_up|score_6_up|source_anime
 859342ff, MMN|MN|cho girls
 85979c1f, 1990 style|1980 style|retro artstyle
 85afa8aa, instance token - "nyd"|class token -"messi"
