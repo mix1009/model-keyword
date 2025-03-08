@@ -1994,6 +1994,7 @@
 5bc15c26, Elmely Garmet woman, elmelyIllustrious_10.safetensors
 5bc15c26, Seleene Lorein, beautiesDiffused_10.safetensors
 5bc15c26, arosen style|cherrmous style|kuvshinov style|samdoesart style|thepit style|owler style, butterflyEclipse_10.safetensors
+5bc15c26, cyberpunk style, cyberpunkArt_10.safetensors
 5bc15c26, iridescent, iridesciaPrismara_10.safetensors
 5bc15c26, kisliptu style, illustrious10Babes_10.safetensors
 5bc15c26, kisliptu style|abbe bi style|basety style|sassy style|pomagip|dalle style|midjourney style|thepit style|samdoesart style|owler style|cherrmous style|arosen style|anime style|suicidegirl|digital art|colorful|wild nature, babesKissableLips_36p.safetensors
@@ -2063,6 +2064,7 @@
 5f1199a7, adl|cae|fck|gsp|hta|httr|lun|olis|omd|rcn|sown|rps|tux|waj|gote|dbz|ulf
 5f35773e, Maria
 5f4dbbb4, solo|male|portrait
+5f67fec1, Primav style
 5f77f3b8, zrpgstyle
 5f8683f1, B3BOO
 5fa1efdd, arien photography|chinese art photography|nfsw
@@ -2212,6 +2214,7 @@
 67755299, Master Chief
 6778b9aa, w
 6785492c, nier9s
+678f97b6, Primav style
 679df996, by Boris Vallejo|by Brom|by Frank Frazetta|by Hajime Sorayama|by Kelly Freas|by Luis Royo|by Milo Manara|by Olivia De Berardinis|by Philippe Druillet|by Simon Bisley
 67a7c1b1, girl
 67c24e97, chinese mythology
@@ -3037,6 +3040,7 @@
 94a0aa9d, anime
 94a1df93, Sf
 94bc80f2, cafa cardesign
+94c16724, Primav style
 94c7fd10, nayeonnine
 94c95dd2, Master Chief
 94d62b9f, animegao
@@ -4262,6 +4266,7 @@ cd0db611, cartoon
 cd1f57a4, Anime Edition
 cd22968e, whatif style
 cd3bb82a, furry
+cd6e3af1, ajapplegate
 cd72665c, sks person
 cda39816, ccdwr artstyle, conceptCharacter_ccdwrArtstyleBV0.safetensors
 cda39816, ccdwr illustration, conceptCharacter_ccdwrIllustrationBV0.safetensors
@@ -5273,6 +5278,7 @@ fdd028f0, mature female|milf
 fde0bd53, elminisonii
 fdf478cb, [realistic lighting]|[photo]|[photorealistic]
 fdfc6c4c, viro
+fe19ec9d, Primav style
 fe2725bb, <SIZE> BREASTS|<size> ass|<size> belly|hyperbreasts|hyperass|flat chest|caricature
 fe3c6142, TheRPGCharGenEsAFArt, rpg2000sInkAndPencil_rpg2000sInkAndPencil.safetensors
 fe3c6142, dragzkz, dragonDiffusion_4500Steps.safetensors
