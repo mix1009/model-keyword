@@ -740,6 +740,7 @@
 178ccbae, score_9|score_8_up|score_7_up|
 1794cf87, futanari
 17a8d3c3, kasukanrasty
+17adf0e9, realistic|cosplay
 17b7e1de, romerorzeternos
 17b8cc9c, woman|girl
 17bb0452, discodifland
@@ -4002,7 +4003,8 @@ bee71543, impasto|flat coloring, nijiStyleXL_v21.safetensors
 bee71543, masterpiece|best quality|highres, sanaexlAnime_v07.safetensors
 bee71543, sailulu style, MyzyCelluloidKohaku_kohakuDelta.safetensors
 bef2a590, Fruits|Vegetables|
-bef5b673, nothingdont use any|anime|realistic|3d
+bef5b673, 1990s style|1980s style|2000s style|retro artstyle, newERANewEstheticRetro_newErav50NAIEpsilon.safetensors
+bef5b673, nothingdont use any|anime|realistic|3d, boltilIllustriousxl_v20.safetensors
 befd836a, 1girl|character|copyright|artist|stuff|best quality|absurdres
 beffb160, gopnik|gopstyle|gopgirl|gopgirls
 bf08aebb, anime|anime style
@@ -4096,6 +4098,7 @@ c37ba157, androidarts
 c37cd72c, blurry background|depth of field
 c3860cb4, furry
 c3a88520, Jenna ortega|nude|sexy
+c3ac0992, 1boy|muscle|massive chest|big chest|huge pec|nipples|nude|abs perfect face|perfect eyes
 c3b103e8, lvmd aesthetic|3d render
 c3c086d6, artstyle bse
 c3c1dc18, a painting in the style of guidao style, wlopArienwlopstylexl_v10.safetensors
