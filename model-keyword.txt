@@ -1793,6 +1793,7 @@
 52d7fbac, Boxing gloves|boxing ring
 52f91342, QR Face
 5301c7c5, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
+5327d9e7, asian|japanese|chinese|tailand|korean|beauty|realism|realistic|photo
 532b3e28, anime
 5346a314, modernartst
 535673be, pixarstyle|fantasy|rpg
@@ -1998,6 +1999,7 @@
 5bc15c26, iridescent, iridesciaPrismara_10.safetensors
 5bc15c26, kisliptu style, illustrious10Babes_10.safetensors
 5bc15c26, kisliptu style|abbe bi style|basety style|sassy style|pomagip|dalle style|midjourney style|thepit style|samdoesart style|owler style|cherrmous style|arosen style|anime style|suicidegirl|digital art|colorful|wild nature, babesKissableLips_36p.safetensors
+5bc15c26, sakdl style|jenreed woman|tinbld woman|korbrw woman|perbld woman|catbrn woman|gilbld woman|amibld woman|betbrn woman|selbld woman|minbld woman|angbrn woman, plasticWaifus_10.safetensors
 5bcbb8a5, sks person
 5bcd62ae, megapals|megapals style
 5bd6ab22, Dread
@@ -3515,6 +3517,7 @@ a69f9ce1, best quality|sksTakuya
 a6a7d3ac, thm style|fantastical realism
 a6b4eaf3, no
 a6dbd500, tchnclr
+a6e495db, asian|japanese|chinese|tailand|korean|beauty|realism|realistic|photo
 a6e49f52, graphic novel|comic book style|sketch|lineart|ligne claire
 a6ea17df, female|male
 a6eb767f, zombie_vector|RottingZombie person|tryptophobitize
