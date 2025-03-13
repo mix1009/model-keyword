@@ -315,6 +315,7 @@
 0c90f664, HUAWEI
 0c91adf8, chinazhengzhou
 0c93a576, name|oumeifeng style|redshift style
+0c9f6d7f, Demi2
 0ca6716f, cocoart|cocoart animal|vibrant cocoart
 0cdb758d, tea picker
 0cf33d87, PVCstyle, copycatPVC_v10.safetensors
@@ -1782,6 +1783,7 @@
 51f82dd3, 77oussam 90s
 5203b60b, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM
 521893a1, voxel-ish
+522b2083, v2
 523847d0, BoMaple|BoMaple angel form|BoMaple beginner outfit|BoMaple black armor|BoMaple machinegod form|BoMaple pajama|BoMaple sheep form|BoMaple uniform|BoSally|BoSally cape|BoSally pajama|BoSally turtleneck scarf|BoSally uniform|BoMay|BoYui|BoKanade|BoKasumi|BoKasumi sarashi|BoIz|BoKuromu|BoDrag|BoDread|BoFrederica|BoPain|BoMii|BoMisery|BoMarcus|BoShin|Turtle Syrup|Fox Oboro|Dorazou|Monster Atrocity|Hydra
 52395e18, none
 52481371, Master Chief
@@ -2399,6 +2401,7 @@
 70a6140b, creepy|scary|horror, loraConceptGroupMIX_creepyConceptGroup.safetensors
 70a6140b, guigubahuang|1girl|chinese style, animeIllustDiffusion_guiguExtract1.safetensors
 70a6140b, retro artstyle||1990s style||1980s style|, kmMIXRetroAnimationArt_v10.safetensors
+70f4511c, Dep
 70f7b200, 1girl|girlvn01
 71241227, inzoi
 714f9084, Game characters|full body|original art design
@@ -3706,6 +3709,7 @@ aea008ef, afd
 aeb47ec2, noble ai|noble mix fix|reality|noblemixfix|person|character|photograph
 aebc1782, score_9|score_8|score_7_up
 aebfcabd, 1
+aed630fc, Clip
 aed94a4f, Michiru_Kagemori
 aef3d307, zukki_style
 af0ce122, SEE MODEL INTRODUCTION
