@@ -121,6 +121,7 @@
 031b21f6, Niji|Anime, XL_VAE_F1.safetensors
 031b21f6, aki|aoki|aoi|isao|nao|nobu|shou, XL_VAE_E7.safetensors
 031b21f6, masterpiece|best quality|amazing quality|absurdres, flatpiece.xl.vae.safetensors
+031b21f6, masterpiece|best quality|amazing quality|absurdres|, flatpiece.xl.vae.safetensors
 031b21f6, pixel art|16 bit|32 bit|64 bit, XL_VAE_C1.safetensors
 0323e306, Bean_Lab|Pure Beauty|1 girl|best quality
 03346468, realistic:1.2|cosplay
@@ -255,6 +256,7 @@
 09d7878a, pixarstyle
 09d81b43, t3|model
 09dd2ae4, BDSM model
+09ddcc93, masterpiece|best quality|amazing quality|absurdres|
 09edc9b2, furry|anime|woman|animal|pastel
 09f31518, no
 09f5166e, sks woman
