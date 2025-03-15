@@ -2760,6 +2760,7 @@
 83416818, anime|niji-01, diffusion_pytorch_model.safetensors
 83416818, lyh|anime, diffusion_pytorch_model.safetensors
 83416818, lyh|anime|ando|mia, diffusion_pytorch_model.safetensors
+83565229, realistic|photorealistic
 835e7dc1, gigafractal artstyle
 8371a0bf, spicto
 8381f785, jclnhbe style
@@ -3068,6 +3069,7 @@
 9571b2c7, nvinkpunk
 9577782b, fking_scifi_v2
 9578f5e6, genmodmr
+957f699b, no
 958eaa52, rcnz_niji style
 9593cdc0, surreal|surrealism
 9598c664, Craig Severance|CraigSeverance
