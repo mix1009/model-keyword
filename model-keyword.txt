@@ -198,6 +198,7 @@
 07737b93, hotporn
 077f8138, anime
 0786845e, trained with chilloutmix|chinabeauty|dreamlike|a lot of others
+0790598f, realistic
 079b172e, illustration style kurzgesagtish
 079bb56e, country flag
 07e7dc81, man
@@ -3654,6 +3655,7 @@ ab5ea887, update, update_v10.safetensors
 ab770255, Anime
 ab861d3d, N/A
 ab8b0894, Drawn in the style of Summertime Saga
+ab91ffc8, Reality
 ab96dea3, cartoon character|animation character
 ab9d9647, sks man
 aba3f332, wlop
