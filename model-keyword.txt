@@ -272,6 +272,7 @@
 0a638f5d, madgod|stop motion|horror
 0a6b22cf, prommh
 0a7b6048, loona
+0a837281, High quality and high contrast photography
 0a84de4f, IN MATRIX
 0a8a028d, shadow flat vector art|Minimalism
 0a8ead41, Yus#01
@@ -323,6 +324,7 @@
 0ca6716f, cocoart|cocoart animal|vibrant cocoart
 0cdb758d, tea picker
 0cf33d87, PVCstyle, copycatPVC_v10.safetensors
+0cf33d87, masterpiece|best quality, copycatIllustrious_v40.safetensors
 0cf33d87, masterpiece|best_quality, copycat_v30.safetensors
 0cf33d87, score_9|score_8_up|score_7_up, copycatASC_v10.safetensors
 0cf442f0, dakota person
@@ -2849,7 +2851,6 @@
 8853491f, cartoon character
 885be986, daniellemoinet
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
-888b8afa, RedCraft
 88b8d946, desi_fit_girl, realisticFitGirls_desi.safetensors
 88b8d946, goose_fit_girl, realisticFitGirls_goose.safetensors
 88ff0293, evang
@@ -4127,7 +4128,6 @@ c3466734, by t6
 c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 c361dd5f, masterpiece, sarabasmix_v1.safetensors
 c361dd5f, tiny, beenyou_v1.safetensors
-c3648938, RedCraft
 c37af4df, furry|kemono
 c37ba157, androidarts
 c37cd72c, blurry background|depth of field
