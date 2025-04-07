@@ -3521,6 +3521,7 @@ a476b99d, 11
 a480df4d, hanfu
 a48a2a1b, ghibli style
 a48cc910, chibi
+a4932d59, realistic|photorealistic|realistic skin texture|detailed
 a499f7e7, roasted pig
 a4dbc300, pikachu
 a4e4cfcf, lowbrow
@@ -3582,6 +3583,7 @@ a7722732, SEMI-SILHOUETTE light:1.1|raytracing:1.1|cryengine:1.1|skin detail:1.1
 a77d8ca7, sks woman
 a79f9549, asian|japanese|korean|chinese
 a7c6cf65, pony
+a7cd43a3, realistic|photorealistic|realistic skin texture|detailed
 a7d08ea1, masterpiece|best quality|very aesthetic|absurdres|illustrator|shine|sunlight|shadow|detail
 a7e66513, t3 model|t3
 a7e848cb, 90902k, krio70_002.ckpt
