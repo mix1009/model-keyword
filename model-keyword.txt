@@ -1464,6 +1464,7 @@
 3dccab21, pepereal
 3dd9c14a, moyou|1girl|White hair|
 3de85bba, anthro|furry|ratatoskr style|flat colors
+3df5324b, photorealistic
 3e008b4d, bethharmon
 3e01b66b, furry|kemono
 3e0f13fe, realistic|photography|photo|raw photo|photo realistic
@@ -1708,6 +1709,7 @@
 4cb7336d, uka|sexy
 4cdc58f8, tarasische
 4ce67ce0, lavender eyes|hinata hyuga
+4d05da1c, realstic|photorealistic
 4d1284f9, modern anime style
 4d12a089, sks person
 4d3efca6, furry
@@ -3495,6 +3497,7 @@ a3676434, pastel
 a3823a97, score_9|score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 a3a20752, realistic|photo|raw photo|photography|photo realistic
 a3a594af, baozhuang
+a3bb4001, realistic|photorealistic
 a3c00923, Anime
 a3c809ba, pattern
 a3c87961, hanfu
@@ -5020,6 +5023,7 @@ ed5fd74b, chickpea
 ed65d07a, SEE APPENDIX|见附录
 ed6f8245, realistic|photorealistic
 ed790e00, Persona
+ed7ab329, realistic|photorealistic
 ed87e89c, tchnclr style
 ed89f73a, big eyes|pale skin|glossy lipstick
 ed977a93, bambaa, bambaa_v10.ckpt
