@@ -1150,6 +1150,7 @@
 2b059ac7, fldsky1
 2b066feb, mmk
 2b4c2837, score_9|score_8_up|score_7_up
+2b4f63c3, Sara Taylor|Green Sweater|Brown Hair|Green Eyes|Red Sneakers|Ripped Jeans|Black Beanie Hat
 2b694ba7, modelshoot style|nousr robot
 2b6f9ef6, pop art
 2b8dc4ab, flower, testflowerrs_v10.safetensors
