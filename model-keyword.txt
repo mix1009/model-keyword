@@ -3297,7 +3297,8 @@
 9aebfd7b, illustration, multiplemixyy_aanmixv10.safetensors
 9aebfd7b, none, test_anyAANV10.safetensors
 9aedb25a, *read notes*
-9af85941, 3dcartoon
+9af85941, 3dcartoon, 3DCartoonip_v20.safetensors
+9af85941, illustration style, FlatIllustration_v10.safetensors
 9af8fb8d, guigubahuang
 9afc22f0, __character__ with __color__ __hair__ hair|__color__ eyes|__clothing_style__ clothing|__background__|__expressions__|__pose__|__cosmetics__
 9b1cddb6, detailed_skin|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin
