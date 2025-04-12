@@ -325,7 +325,7 @@
 0ca6716f, cocoart|cocoart animal|vibrant cocoart
 0cdb758d, tea picker
 0cf33d87, PVCstyle, copycatPVC_v10.safetensors
-0cf33d87, masterpiece|best quality, copycatIllustrious_v40.safetensors
+0cf33d87, masterpiece|best quality, copycatIllustrious_v50.safetensors
 0cf33d87, masterpiece|best_quality, copycat_v30.safetensors
 0cf33d87, score_9|score_8_up|score_7_up, copycatASC_v10.safetensors
 0cf442f0, dakota person
@@ -2736,6 +2736,7 @@
 80cb1b90, HANNI
 80ccbfb5, sks woman
 80ce284f, in the style of album cover art|album cover
+80d7f329, aeon
 80d84c30, by Atey Ghailan and Emmanuel Shiu|SamDoesArt1
 80fd103a, Juliette|aqua eyes|tiara|bridal veil|hair flower|collar|white gown with Puffy Sleeves|pink dress|white elbow gloves|white thigh highs|smile|frown|surprised|bored
 8114a3ed, sks style
