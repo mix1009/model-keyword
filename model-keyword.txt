@@ -1329,6 +1329,7 @@
 35aa200e, masterpiece|best_quality|ultra_detailed|illustration|volumetric_light|
 35af5a92, illustration
 35bb03b0, jako
+35bb5afc, realistic|photorealistic
 35c7735c, cg
 35d51e2e, RAW photo of
 35dc3dbf, evang
@@ -3063,6 +3064,7 @@
 92e4c246, sks person
 92e58ebf, Cosplay
 92e61297, art by yaguru magiku
+93044e0b, anthro|furry
 932dba2c, sks human RAW photo
 932f6317, indonesia|south east asian|indonesian|javanese|sundanese
 93423a00, jaggy|ps_game_screenshot|pc_game_screenshot|gamecube_game_screenshot|blood_and_gore|intense_violence|zotov_game_screenshot|eroge_game_screenshot|life_sim_game_screenshot|alter_echo
