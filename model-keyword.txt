@@ -3303,6 +3303,7 @@
 9aebfd7b, none, test_anyAANV10.safetensors
 9aedb25a, *read notes*
 9af85941, 3dcartoon, 3DCartoonip_v20.safetensors
+9af85941, Simplified illustration, 简约插图简笔画大模型_V2.0.safetensors
 9af85941, illustration style, FlatIllustration_v10.safetensors
 9af8fb8d, guigubahuang
 9afc22f0, __character__ with __color__ __hair__ hair|__color__ eyes|__clothing_style__ clothing|__background__|__expressions__|__pose__|__cosmetics__
