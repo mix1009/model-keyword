@@ -119,6 +119,7 @@
 030933d0, l4lisa
 03186377, rhs kick|raw|gated|reverse|C|C#|D|D#|E|F|F#|G|G#|A|A#|B|uptempo|psy, stableaudioRHSP_v10.safetensors
 03186377, rhsp|ops|raw|gated|color|C|C#|D|D#|E|F|F#|G|G#|A|A#|B|zaag|psy|hardstyle|reverse, stableaudioRHSP_v20.safetensors
+031b21f6, Evil Archaea, sdxl_S0.8.safetensors
 031b21f6, Niji|Anime, XL_VAE_F1.safetensors
 031b21f6, aki|aoki|aoi|isao|nao|nobu|shou, XL_VAE_E7.safetensors
 031b21f6, masterpiece|best quality|amazing quality|absurdres, flatpiece.xl.vae.safetensors
