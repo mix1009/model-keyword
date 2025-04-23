@@ -223,7 +223,8 @@
 08f7a22d, Papercut
 08fe03fe, by sky-freedom
 09083164, rcnz_niji style
-092ba51a, gptibli style
+092ba51a, belmawon style, sciFiPunkIllustrious_10.safetensors
+092ba51a, gptibli style, hamseenIllustrious_10.safetensors
 0963da31, masterpiece|best quality
 096596d8, pow artstyle
 097a6c2e, 植物|动物
