@@ -2448,6 +2448,7 @@
 70a6140b, retro artstyle||1990s style||1980s style|, kmMIXRetroAnimationArt_v10.safetensors
 70f4511c, Dep
 70f7b200, 1girl|girlvn01
+70ff927c, world
 71241227, inzoi
 714f9084, Game characters|full body|original art design
 7159aa58, shinyunbok
@@ -2679,6 +2680,7 @@
 7bce4c89, beauty asian girl
 7bfb80d6, sks style
 7bfd4934, modelshoot style
+7c0c0921, vtuber
 7c175441, mmwtsn woman
 7c2024f8, sks person
 7c4971d4, timeless style
