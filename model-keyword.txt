@@ -692,7 +692,6 @@
 1400e684, rfktrstyle, rfktrsDarkdream_v15bExperimental.safetensors
 1400e684, rpgicondiff, handpaintedRPGIcons_v1.safetensors
 14112628, anime|cartoon|anime style|2d
-14159aa0, furry|kemono
 142c3c11, cinematic style|photographic style|analog film|low-angle|dark colors
 1437ae07, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|background|male|cinematic, albedobaseXL_v01.safetensors
 1437ae07, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|male|cinematic, albedobaseXL_v02.safetensors
@@ -950,6 +949,7 @@
 207a41ba, rainbowpatch
 20814a0a, daniela
 20846c08, Customer Support
+2084daef, xenomorph|sci-fi_\theme\|cyberpunk|victorian|horror_\theme\|mechanical_parts|robot|1other|slime_\substance\|natural_skin_texture|pigment_variations|natural_imperfections|bokeh|wetness|wet_surface|feminine_anatomy|mescaline_anatomy|size_difference|voronoi|voronoi_pattern
 208f75ce, lamia
 20911bbf, Tamanokedama
 20a0e612, furry|anthro
@@ -4037,6 +4037,7 @@ bb7dbcff, anusithara
 bb8034db, pattern
 bb851ffd, semirealistic|realistic|photorealistic|3d render
 bb9a34f2, smoking
+bbaab5c6, xenomorph|sci-fi_\theme\|cyberpunk|victorian|horror_\theme\|mechanical_parts|robot|1other|slime_\substance\|natural_skin_texture|pigment_variations|natural_imperfections|bokeh|wetness|wet_surface|feminine_anatomy|mescaline_anatomy|size_difference|voronoi|voronoi_pattern
 bbbd71ed, sks
 bbc26f2a, [realistic lighting]|[photo]|[photorealistic]
 bbf68d8e, 1 girl
@@ -4187,7 +4188,6 @@ c3466734, by t6
 c35b7b6e, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart
 c361dd5f, masterpiece, sarabasmix_v1.safetensors
 c361dd5f, tiny, beenyou_v1.safetensors
-c37af4df, furry|kemono
 c37ba157, androidarts
 c37cd72c, blurry background|depth of field
 c3860cb4, furry
