@@ -3444,6 +3444,7 @@ a0134bd0, 1girl
 a026bc0d, glasses
 a0395ca6, kurumifaceXL
 a03d0c61, lyh|anime|ando|mia
+a045135b, masterpiece|best quality|very aesthetic|intricate details|vivid colors|smooth shading|dynamic lighting|professional illustration|soft gradients|balanced composition|elegant pose|high-resolution|sharp focus|8k|hdr|crisp lines|perfect lighting|sharp eyes|detailed eyes|highly detailed
 a06436da, wtrcolor style
 a06ae47a, chibi|cute
 a06c6681, photo|digital art|lk artstyle screencap|hg artstyle render|cw artstyle render|gh artstyle screencap|ms artstyle screencap|disney artstyle render|hq artstyle digital art|dd artstyle digital art|tc artstyle digital art|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid person/animal|anthro animal person|female/male x furry|dragon|person with feathered/dragon/insect/butterfly/fairy wings|giant woman|miniature woman|kr|ns|sn|kk|vd|al|ah|sweatjacket|sg outfit with cape|sy outfit with cape and helmet|df outfit|sc outfit|pb outfit with helmet|fs outfit|ek outfit|hz outfit|nz outfit|sw outfit|bl outfit|mk outfit|kd outfit|sidecut hairstyle|ponytail hairstyle|sd hairstyle|sh hairstyle|nr hairstyle|tl hairstyle|rh hairstyle|sb hairstyle|jf hairstyle
@@ -3892,7 +3893,6 @@ b2a0766e, zelda|samus|link|luigi|princess peach|princess daisy
 b2ae9510, yuno
 b2c06b09, natnapinh
 b2c47ed5, LEGOstyle
-b2c78db6, masterpiece|newest|absurdres|incredibly absurdres|abstract background|concept art|depth of field|volumetric lighting|dynamic angle|epic composition|epic proportion|masterpiece|best quality|amazing quality|very aesthetic|newest|detailed background|detailed environment
 b2de9d62, silverfox5213|
 b2e6aef1, aptic|zgambuf
 b2fb704b, anime artwork|cosplay photo|fashion photo|raw photo|cotton doll
@@ -4238,6 +4238,7 @@ c4e365bf, lightroom red:34% blue:53% green:43% filmgrain_minimal|texture:+25%|cl
 c4f33c50, rcnz_hqr style
 c50044af, interior|modern living room
 c534c25d, 1girl
+c5414591, realistic
 c558ad6a, soft_nai|soft
 c55e0d84, virtual youtuber|masterpiece|best quality|hololive|lastname name:1.2
 c5831305, best quality
