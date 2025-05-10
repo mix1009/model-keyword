@@ -1934,6 +1934,7 @@
 584f63ab, masterpiece|best quality|anime|realistic, sdxl_vae.safetensors
 584f63ab, masterpiece|best quality|highres|absurdres|amazing quality|very aesthetic, sdxl_vae.safetensors
 584f63ab, masterpiece|score_9|score_8_up|score_7_up|best quality|, sdxl_vae.safetensors
+584f63ab, masterpiece|ultra-detailed|cinematic lighting|highres|soft shadows|global illumination|volumetric lighting|subsurface scattering|bounce lighting|physically accurate lighting|1girl|female focus|pinup|, sdxl_vae.safetensors
 584f63ab, neon|glowing|silhouette, sdxl_vae.safetensors
 584f63ab, realistic, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
@@ -4702,6 +4703,7 @@ dd47c9f1, nabongs|jeongie|hiraimomo|minatozaki sana|godjihyo|myouimina|dubu|chae
 dd539c7c, dsktaro1
 dd74bb1c, gilgamesh|1boy
 dd847c89, oilpainting
+dd929c88, masterpiece|ultra-detailed|cinematic lighting|highres|soft shadows|global illumination|volumetric lighting|subsurface scattering|bounce lighting|physically accurate lighting|1girl|female focus|pinup|
 dd95fcaf, wabori|tatoo
 dda48439, Realistic|Photorealistic
 ddb22bf6, emaiti
