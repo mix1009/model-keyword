@@ -4356,6 +4356,7 @@ cc586421, a realistic photograph of, everclearPNYByZovya_v1VAE.safetensors
 cc586421, realistic photograph of, everclearPNYByZovya_v1.safetensors
 cc5b68d0, lndskp|nvinkpunk|redshift
 cc6f0de7, 3d|by splatfusion, splatFusion_v4PONYXL.safetensors
+cc6f0de7, 3d|splatoon, splatFusionSTYLEEDITION_v20.safetensors
 cc6f0de7, splatoon|inkling|octoling|3d, splatFusion_v10.safetensors
 cc781a63, s
 cca12107, chibi
@@ -5286,6 +5287,7 @@ f77fb4cb, ohwx|ske
 f781810b, by kyoani
 f7a03161, A perfect photo|A poorly lit photo|A perfect closeup photo
 f7ad3dbb, realistic|cosplay
+f7ba1831, TOK
 f7c7a5ea, 3D
 f7fedd57, xl
 f8159da6, ftnadusk3
