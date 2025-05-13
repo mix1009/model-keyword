@@ -4133,6 +4133,7 @@ c0302f10, Gllltchy style|Gllltchy, gllltchy_v1.ckpt
 c0302f10, filmation motu style, filmationMOTU_v1.ckpt
 c055a24d, Game interface|content|buttons|logo|image content|return|stars|flowers
 c0777389, hanfu
+c08225b2, cherrychan
 c09ca9d2, Photo of brk cat
 c09d432b, photorealistic|nvinkpunk|kuvshinov|dreamlikeart|samdoesart|modelshoot style
 c0a703a2, Western Comics
@@ -4146,6 +4147,7 @@ c0e7c884, snthwve style|nvinkpunk
 c0ed7dfb, l4lisa
 c0f32ab1, plushiedsk
 c0fcc9cb, chibi||chibi only|
+c0fd1216, Ghost Creator Content
 c112b482, Master Chief
 c118725f, girl
 c11fb943, modelshoot style
