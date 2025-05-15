@@ -1935,6 +1935,7 @@
 584f63ab, masterpiece|best quality|highres|absurdres|amazing quality|very aesthetic, sdxl_vae.safetensors
 584f63ab, masterpiece|score_9|score_8_up|score_7_up|best quality|, sdxl_vae.safetensors
 584f63ab, masterpiece|ultra-detailed|cinematic lighting|highres|soft shadows|global illumination|volumetric lighting|subsurface scattering|bounce lighting|physically accurate lighting|1girl|female focus|pinup|, sdxl_vae.safetensors
+584f63ab, middlewoman|middleaged|mature female|ladyman|asian|ponytail, sdxl_vae.safetensors
 584f63ab, neon|glowing|silhouette, sdxl_vae.safetensors
 584f63ab, realistic, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up, sdxl_vae.safetensors
@@ -2119,6 +2120,7 @@
 5f8683f1, B3BOO
 5fa1efdd, arien photography|chinese art photography|nfsw
 5fab7659, Master Chief
+5fb1edc7, middlewoman|middleaged|mature female|ladyman|asian|ponytail
 5fb5309d, TheOldSiam
 5fb8c5f9, sks man
 5fc312dd, newvegaschar
@@ -2678,6 +2680,7 @@
 7b5de86f, rose boy
 7b62be5f, empress
 7b70e8f9, sam yang
+7b7a8509, photorealistic
 7b8aff9d, Pokemon
 7b9572be, modelshoot style|mdjrny-v4 style|nousr robot|dreamlikeart|nvinkpunk|snthwve style|charliebo artstyle|holliemengert artstyle|marioalberti artstyle|pepelarraz artstyle|andreasrocha artstyle|jamesdaly artstyle|elden ring style|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 7b9ed6d0, furry|anthro
