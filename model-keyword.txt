@@ -2905,6 +2905,7 @@
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
 88b8d946, desi_fit_girl, realisticFitGirls_desi.safetensors
 88b8d946, goose_fit_girl, realisticFitGirls_goose.safetensors
+88feab1f, anime|character
 88ff0293, evang
 88ff0bad, masterpiece|best_quality
 890cb2e4, photorealistic
@@ -4702,6 +4703,7 @@ dc05355d, sksi object|sksi
 dc234f3c, frozen style|anna frozen|elsa frozen|olaf frozen|sven frozen|kristoff frozen|ice castle|duke of weselton frozen|prince hans frozen
 dc3704cb, Kochergin painting style
 dc3f810f, SEE APPENDIX|见附录部分
+dc524df3, создать карикатуру
 dc7faf57, 3d animation
 dc875717, pixel art|64 bit|32 bit|16 bit
 dca4f494, very awa|masterpiece|best quality|year 2024|newest|highres|absurdres
