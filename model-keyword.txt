@@ -2036,7 +2036,7 @@
 5bc15c26, arosen style|cherrmous style|kuvshinov style|samdoesart style|thepit style|owler style, butterflyEclipse_10.safetensors
 5bc15c26, baglovusel style, paintedReality_10.safetensors
 5bc15c26, basymga style|epcom style, mightToonLegend_10.safetensors
-5bc15c26, buonoir style, babesKissableLips_41Illustrious.safetensors
+5bc15c26, buonoir style, babesKissableLips_41i.safetensors
 5bc15c26, cute|3d|large head|mifletzot style|kdurbasar style|mesubach  style|meraglim style|hiot style, cutest3DIllustrious_10.safetensors
 5bc15c26, cyberpunk style, cyberpunkArt_10.safetensors
 5bc15c26, fisatiltw style|fisatilon style|xvizenin style|mitoleon style|balecxitoo style|tamawipho style|sakdl style|samdoesart style|kuvshinov style|arosen style|cherrmous style|owler style|thepit style|colorful hair|colorful drawing|metahuman style|daz3d style|Emilia|woman, fiveStarsIllustrious_40.safetensors
@@ -4908,6 +4908,7 @@ e49471b9, Digimon
 e494d7b5, takeON
 e4a91381, realistic
 e4bd69b6, Photography|Realistic
+e4c5fdf9, dramatic illumination
 e4d945bf, origtron
 e4ecadde, Luvriel|red jacket|animescreencap|hat|wings|animecoloring
 e4f504f6, chainsaw|indoors|blood|knife|graveyard|cemetery|cabin|haunted|clown|fog|wherehouse|hoverlook|lake|Michael|gaves|crystal|camp|Freddy|spooky|creepy|Jason|abandoned|balloon|carousel|park|school|Chucky|Pinhead|mask|hotel|mountain|buildings|claws|fear|dread|anguish
