@@ -330,7 +330,7 @@
 0ca6716f, cocoart|cocoart animal|vibrant cocoart
 0cdb758d, tea picker
 0cf33d87, PVCstyle, copycatPVC_v10.safetensors
-0cf33d87, masterpiece|best quality, copycatIllustrious_v60.safetensors
+0cf33d87, masterpiece|best quality, dupliCatFlat_illustriousV10.safetensors
 0cf33d87, masterpiece|best_quality, copycat_v30.safetensors
 0cf33d87, score_9|score_8_up|score_7_up, copycatASC_v10.safetensors
 0cf442f0, dakota person
@@ -699,6 +699,7 @@
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 14645aaf, 1girl|realistic|asian|
 1469e47e, pencil|portrait|sketch
+1472b09b, realistic|photorealistic
 14c7d9c9, la-maldita
 14d36354, duskz1
 14d43b89, score_9|score_8_up|score_7_up|score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
@@ -1084,6 +1085,7 @@
 270e37fc, night|dark
 27274a0c, cleareyes
 2731c397, nasolabial_folds
+273efc98, AOC
 27455e1d, Viz
 274d0bb6, trending on artstation|8k|ultra hd|1woman
 276edfa7, evang
