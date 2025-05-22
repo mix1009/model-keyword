@@ -4329,6 +4329,7 @@ ca198d1c, actionauf, actionauf_v10.safetensors
 ca198d1c, alstar, alstar_v10.safetensors
 ca198d1c, chibi, qteamixQ_omegaFp16.safetensors
 ca198d1c, graphicart, graphicArt_15V10.safetensors
+ca198d1c, kevskiesh, hyperportraitI_v10.safetensors
 ca198d1c, paleolithic, paleolithicArt10_paleoartV10.safetensors
 ca198d1c, weirdcore, dreamcoreDiffusion_v10.safetensors
 ca4fcc12, snnmrn|snnmrn woman
