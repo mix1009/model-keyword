@@ -134,7 +134,7 @@
 0375e77f, cool, sd315GB_v10.safetensors
 0375e77f, idk, sd3_v10.safetensors
 03869a26, anime|realism|photo|game|videogame|woman|human
-03b174c1, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
+03b174c1, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 03b7fbc7, hanfu
 03baad84, anime|TzigoAnimeStyle
 03f434be, MTG card art
@@ -189,7 +189,7 @@
 070af006, furry|anthro
 070bb507, pastel
 0714d7da, Warm colors
-0719ddac, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
+0719ddac, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 071b2e26, tk-char|tk-env
 071eb7b2, evang
 0754d880, letitsinkin
@@ -587,7 +587,7 @@
 0fcfe533, wuxia 1girl|best quality
 0fe4ce0a, RA3
 0fead0f4, olivialopes
-1006004a, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
+1006004a, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 100dbe92, Evang, chibi_8000OpenJourney.safetensors
 100dbe92, evang style, beejaydel_beejStickerMORE.safetensors
 100dbe92, evang, lostBearChibiSketch_v10.safetensors
@@ -1575,7 +1575,7 @@
 43e4db69, anime
 43eb72ee, lineart|monochrome
 43ee0452, tail|scaly tail|tufted tail|furry tail|horse tail|fluffy tail
-43f9c234, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
+43f9c234, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 44161706, girl
 4419d708, whiteboard|halloween，pumpkin，full moon，black cat， tree
 442e1b76, style bse
@@ -1903,7 +1903,7 @@
 566842ff, janadefi
 5683b788, Sofia Wylie
 5691137c, HIGH_RESOLUTION_DETAILED_SHOT_OF1 	•	4D_GLOSSY_CRISP_PHOTOREALISTIC_SHOT_OF 	•	SUPER-RESOLUTION_3D_ANAMORPHIC_STYLE 	•	3D_ANAMORPHIC_STYLE 	•	PHOTOREALISTIC_FALLOUT_STYLE 	•	STYLE_L3ONARD0V1 	•	LEONARD0 	•	TROMPE_L_ŒIL1 	•	PHOTOREALISTIC_FALLOUT_STYLE_IMAGE 	•	CAUSTICS1_SUBSURFACE_SCATTERING1|ALEX_GREY_XL_BASE 	•	OPTICAL_ILLUSION 	•	ADD_DETAIL_XL 	•	ARTFULLYENGRAVED 	•	UNREAL_ENGINE_STYLE 	•	T-SHIRT_DESIGN 	•	ARTFULLYLOGO
-56a552e4, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|Jennifer Lawrence|Emma Stone|Emma Watson|Hayley Williams|Lady Gaga|Lana Del Rey|Taylor Swift|Emilia Clarke|Sophie Turner|Charlize Theron|Natalie Portman|Emily Ratajkowski|Gal Gadot|Sienna Miller|Nina Dobrev|Audra Miller|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
+56a552e4, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 56b88092, guigubahuang|chinese style, animeIllustDiffusion_guiguExtract3.safetensors
 56b88092, guigubahuang|chinese style|1girl, animeIllustDiffusion_guiguExtract2.safetensors
 56b88092, guigubahuang|chinese style|oil painting \medium\, kmMIXByproduct_wlopstyleGuiguStyle.safetensors
