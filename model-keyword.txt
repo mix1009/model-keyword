@@ -1937,6 +1937,7 @@
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM, sdxl_vae.safetensors
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM|yutamix-twinkle, sdxl_vae.safetensors
 584f63ab, black eyes, sdxl_vae.safetensors
+584f63ab, lowres|worst quality|low quality|bad anatomy|bad hands|jpeg artifacts|text|patreon logo|patreon username|, sdxl_vae.safetensors
 584f63ab, masterpiece|best quality, sdxl_vae.safetensors
 584f63ab, masterpiece|best quality|anime|realistic, sdxl_vae.safetensors
 584f63ab, masterpiece|best quality|highres|absurdres|amazing quality|very aesthetic, sdxl_vae.safetensors
@@ -4818,6 +4819,7 @@ de9a5c01, yagoboedo
 deacc490, HunyuanDiT-porcelain
 deb6b205, gatto
 debb9b54, v2_lora_TiltDown.ckpt
+ded756a2, lowres|worst quality|low quality|bad anatomy|bad hands|jpeg artifacts|text|patreon logo|patreon username|
 def85d63, pixelart|sprite|8-bit|16-bit
 defd5d73, hkustrb a large red sculpture in the middle of a park|hkustrb
 df2df325, googiearch
