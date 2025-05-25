@@ -2816,6 +2816,7 @@
 83078a1e, 抽象|色块
 830b6ebd, masterpiece|best quality
 8312b529, bigbadejo alien_monster
+8317989e, highres|hi res|best quality|masterpiece||anime coloring|anime screencap||shiny skin|TRexStyle|
 8320ad8c, Subaru|Emilia|Rem|Ram|Beako|Beatrice|Roswaal|Frederica|Garfiel
 83295fd6, mdjrny-pntrt
 832a96e1, masterpiece|best quality|amazing quality|absurdres|
@@ -3419,6 +3420,7 @@
 9e2150be, artistic portrait|beautiful detailed face|looking at the viewer|digital art style|oil painting style|colorful|dynamic lighting|vibrant light|shadow detailed|highly detailed|anime style|speed art|brush strokes|beautiful and aesthetic|masterpiece|ultra wide angle|surrealist|abstract artistic|gradient background
 9e2429cf, elxchavo
 9e2a8f19, girl
+9e351261, nsfw
 9e3883f6, negative prompt only if necessary|see prompts in loras
 9e43c2bf, looking at the viewer|raw|realistic
 9e44904f, the chad smile|the serious gigachad|sitting gigachad lean
