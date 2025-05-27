@@ -125,7 +125,7 @@
 031b21f6, masterpiece|best quality|amazing quality|absurdres, flatpiece.xl.vae.safetensors
 031b21f6, masterpiece|best quality|amazing quality|absurdres|, flatpiece.xl.vae.safetensors
 031b21f6, pixel art|16 bit|32 bit|64 bit, XL_VAE_C1.safetensors
-031b21f6, qualityrate1|flat color|detailed eyes|masterpiece|soft lighting|best quality|amazing quality|very aesthetic|newest|anime coloring|absurdres|, flatpiece.xl.vae.safetensors
+031b21f6, qualityrate1|flat color|detailed eyes|masterpiece|soft lighting|best quality|amazing quality|very aesthetic|newest|anime coloring|absurdres||qualityrate1|flat color|masterpiece|soft lighting|best quality|amazing quality|very aesthetic|newest|anime coloring|absurdres|, flatpiece.xl.vae.safetensors
 0323e306, Bean_Lab|Pure Beauty|1 girl|best quality
 03346468, realistic:1.2|cosplay
 0338061e, modisn disney|modisn disney style
@@ -3938,7 +3938,7 @@ b3aed361, caebhx
 b3b04f77, Yokai style
 b3b73d0d, masterpiece|best quality|virtual youtuber|character:1.2
 b3d63325, zwx art style|oxwbdtmv art style
-b4163e85, qualityrate1|flat color|detailed eyes|masterpiece|soft lighting|best quality|amazing quality|very aesthetic|newest|anime coloring|absurdres|
+b4163e85, qualityrate1|flat color|detailed eyes|masterpiece|soft lighting|best quality|amazing quality|very aesthetic|newest|anime coloring|absurdres||qualityrate1|flat color|masterpiece|soft lighting|best quality|amazing quality|very aesthetic|newest|anime coloring|absurdres|
 b435006c, JasonAldean Person
 b476be4e, RPG|realistic|base model|fantasy|semi-realistic|character
 b478e745, LegendDarkFantasy|Made_of_pieces_of_broken_glass
