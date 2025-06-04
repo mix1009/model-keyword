@@ -2253,6 +2253,7 @@
 65961cf8, forehead|nasolabial folds|realistic nose|acne, Liquid0111vae.safetensors
 65961cf8, nasolabial folds|wrinkles|anime_coloring, Liquid0111vae.safetensors
 65a9683a, chibi
+65ae8f5b, anime_screenshot
 65bb0985, SYAHNK
 65bbd026, pitchmeetgeorge
 6606c451, 1girl
