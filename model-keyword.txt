@@ -700,6 +700,7 @@
 1437ae07, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|background|male|cinematic, albedobaseXL_v01.safetensors
 1437ae07, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|male|cinematic, albedobaseXL_v02.safetensors
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
+146069c1, Myrillene Cristy woman|hand on chest|hand open palm|hand v-sign|hands down|realistic|illustration
 14645aaf, 1girl|realistic|asian|
 1469e47e, pencil|portrait|sketch
 1472b09b, realistic|photorealistic
@@ -4277,7 +4278,8 @@ c4f33c50, rcnz_hqr style
 c50044af, interior|modern living room
 c514f484, OKnekosuke|ookuma nekosuke|
 c534c25d, 1girl
-c5414591, realistic
+c5414591, photograph|cosplay|illustration, realcosplay1536px_v21.safetensors
+c5414591, realistic, realcosplay1024px_realcosplayV10Better.safetensors
 c558ad6a, soft_nai|soft
 c55e0d84, virtual youtuber|masterpiece|best quality|hololive|lastname name:1.2
 c5831305, best quality
