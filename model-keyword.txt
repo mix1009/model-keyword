@@ -5387,6 +5387,7 @@ fa3a1716, hrgiger
 fa4a0103, furry|anthro
 fa4e1a37, none
 fa58f642, Realistic skin:1.4|photo realistic:1.4|Raw Photo
+fa5b59bd, masterpiece|best quality
 fa5e4f28, (tokki girl)
 fa65420e, pvc figure
 fa735519, <lora:conceptscene_b2:1>
