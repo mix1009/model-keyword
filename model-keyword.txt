@@ -2929,7 +2929,8 @@
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
 88b8d946, desi_fit_girl, realisticFitGirls_desi.safetensors
 88b8d946, goose_fit_girl, realisticFitGirls_goose.safetensors
-88feab1f, anime|character
+88feab1f, all natural input will work special to generate sides views|with any vae|1girl, omnicharactermaker15_v10.safetensors
+88feab1f, anime|character, charactermaker15_v10.safetensors
 88ff0293, evang
 88ff0bad, masterpiece|best_quality
 890cb2e4, photorealistic
@@ -4549,6 +4550,7 @@ d3c7eeb4, Fantasy Style|Comic Style|Graphic Novel Style|DND|Fantasy Art|Photorea
 d3cda7e2, PEX_style
 d3d1a929, raw photo|cosplay photo|fashion photo|anime artwork|cotton doll|worst anatomy|worst quality|distortion
 d3e1658b, flowerman2
+d3e3f771, DRCLG \style\
 d3efb13c, comic
 d3f3df02, all|hyperrealistic mix, mixRealisticPhotoV5_v15.ckpt
 d3f3df02, realistic, mixRealisticPhotoV5_15.ckpt
