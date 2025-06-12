@@ -2554,6 +2554,7 @@
 7460a6fa, sk man, kay_11.ckpt
 7475158a, figurine|figure
 747ef805, illustration|comic style|realistic|Comic Poster|Line Art
+748d3c45, Flux Realistic | Asian Female V3-lite
 749bb318, dark atmosphere
 74a12802, futanari
 74d7d300, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
@@ -3234,6 +3235,7 @@
 98682b4a, K I O K I S - Cyberrealistic|real|nsfw|sex|girl|ai|cyber
 98684a1b, jammin
 986c860f, Realistic|Art|Surreal|Experimentell
+98846750, Flux Realistic | Asian Female V3-lite
 98891ea9, an illustration of an isometric city|digital art|highly detailed
 98aca856, digital art|warlockandboobs|cartoon|masterpiece|<SIZE> BREASTS|<size> ass|<size> belly|hyperbreasts|hyperass|flat chest
 98acd4e4, RPG|realistic|base model|fantasy|semi-realistic|character
@@ -4585,6 +4587,7 @@ d53bef23, alphonsestyle
 d5438b80, 1girl
 d565efd1, by walt disney|looney tunes
 d56a53f3, aodai|cotrang
+d56dff6a, anthro|furry
 d57fa787, by hanaarare
 d58ab10e, N/A
 d5ab6701, Evang
