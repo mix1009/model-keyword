@@ -135,6 +135,7 @@
 0375e77f, cool, sd315GB_v10.safetensors
 0375e77f, idk, sd3_v10.safetensors
 03869a26, anime|realism|photo|game|videogame|woman|human
+03a04b2c, masterpiece|best quality|very aesthetic|intricate details|vivid colors|smooth shading|dynamic lighting|professional illustration|soft gradients|balanced composition|elegant pose|high-resolution|sharp focus|8k|hdr|crisp lines|perfect lighting|sharp eyes|detailed eyes|highly detailed
 03b174c1, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 03b27ccd, princess zelda
 03b7fbc7, hanfu
@@ -2532,7 +2533,8 @@
 73c50100, none
 73ca29f4, raw photo
 73d359a0, modelshoot style|analog style|mdjrny-v4 style|nousr robot
-73d3d2c4, style_18
+73d3d2c4, style_18, duchaitenVpredStyle_style18.safetensors
+73d3d2c4, style_26, duchaitenVpredStyle_style26.safetensors
 73d558d7, jakquelynn
 73df0f6b, no trigger word required
 73e1948a, 1girl
