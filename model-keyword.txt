@@ -338,6 +338,7 @@
 0cf33d87, masterpiece|best_quality, copycat_v30.safetensors
 0cf33d87, score_9|score_8_up|score_7_up, copycatASC_v10.safetensors
 0cf442f0, dakota person
+0cf8a55b, VGOGGT|retro artstyle
 0cfa53d7, *read notes*
 0d0abaae, sks human RAW photo
 0d102d86, kawahara
@@ -3238,7 +3239,8 @@
 98682b4a, K I O K I S - Cyberrealistic|real|nsfw|sex|girl|ai|cyber
 98684a1b, jammin
 986c860f, Realistic|Art|Surreal|Experimentell
-98846750, Flux Realistic | Asian Female V3-lite
+98846750, Flux Realistic | Asian Female V3-lite, amenity.ckpt
+98846750, orca tail|fins|orca girl|orca tail|lifting up tail||dolphin tail|fins|dolphin girl|dolphin tail||beluga whale tail|fins|beluga whale girl|beluga whale tail||anklyosaurus tail|anklyosaurus tail club|ankylosaurus girl|ankylosaurus tail||night fury tail|night fury fins|night fury girl|night fury tail|night fury wings|dragon girl|dragon wings|dragon tail||monkey tail|white monkey tail|monkey girl|monkey tail||diplodocus tail|longer tail|diplodocus girl|diplodocus tail||canadian goose wings|big wings|feathers|goose girl|goose wings|, animety.ckpt
 98891ea9, an illustration of an isometric city|digital art|highly detailed
 98aca856, digital art|warlockandboobs|cartoon|masterpiece|<SIZE> BREASTS|<size> ass|<size> belly|hyperbreasts|hyperass|flat chest
 98acd4e4, RPG|realistic|base model|fantasy|semi-realistic|character
