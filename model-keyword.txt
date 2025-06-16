@@ -3163,6 +3163,7 @@
 94ea417f, furry
 950a18d8, sks person
 9518faa2, luna
+9546694d, <lora:PastelSeraFuku:1>
 9549a897, Cult of Cthulhu|giger|Cthulhu|Post-apocalypse|biomechanical|horror|monster|blood|death|terror, etherealmix_terrorV2.safetensors
 9549a897, cult of cthulhu|giger|post-apocalypse|biomechanicals|Cthulhu, terrorModelsComplete_v2Biomachinery.safetensors
 95584b61, shiny skin|curvy
