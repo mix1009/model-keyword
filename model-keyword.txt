@@ -1854,6 +1854,7 @@
 537fce5a, Woman|Portrait
 5386e8fb, demoura artstyle
 538d7157, pcrc style
+538fd6e2, pos: masterwork|masterpiece|best quality|detailed|depth of field|high detail|very aesthetic|neg: lowres|worst quality|low quality|bad anatomy|bad hands
 53917c97, score_9|score_8_up|score_7_up|thick outlines|abstract background|intricate background
 539828f7, 1girl|realistic|sexy
 53a9c48d, @dannysmoura|musician|cinematic|portrait|guitar|worship
@@ -4140,6 +4141,7 @@ be7c545d, darkestdungeon style|darkest dungeon style|clonewars style|clone wars 
 be7ddafc, classic disney style
 be82dca2, Altira|Altira style
 be865cac, 1
+be8f9af5, pos: masterwork|masterpiece|best quality|detailed|depth of field|high detail|very aesthetic|neg: lowres|worst quality|low quality|bad anatomy|bad hands
 be95deed, aesthetic
 be9edd61, SDXL
 bea3d82e, realistic|ultra real|high score|realistic|cocoart real|high score|
