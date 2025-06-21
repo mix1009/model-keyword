@@ -1675,7 +1675,8 @@
 482ff583, poster
 4859814c, TransX
 48823be0, coralchar
-488f085e, sexy
+488f085e, 77oussam-realistic, truevision77_truevisionTurbo77.safetensors
+488f085e, sexy, only_v10.safetensors
 48a12930, Anime Style|4n1v3rs3
 48cc5cd3, realistic|photorealistic
 48d0f413, Mtg art
