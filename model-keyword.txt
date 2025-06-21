@@ -1772,6 +1772,7 @@
 4e80bfb4, splatstyle_3d|3d||splatstyle_2d|no lineart|flat colors|
 4e80d0e0, masterpiece|best qualtiy|ultra high res|RAW photo|intricate details|soft lighting|portrait
 4e89f77b, Heera
+4e91ea9c, chibi|cyber|cyberpnuk|robot joints|bodysuit|cyber city|chinese clothes|chinese dress|hanfu|cheongsam
 4ed71905, sbgchuck
 4ee00b19, photorealistic|textured skin|skin pores|skin imperfections|raw|8k|intricate details
 4ef65125, warrior
@@ -3767,6 +3768,7 @@ ab38b8e3, ouka_studio
 ab48e25c, chibi
 ab4941a7, fantasticmrfox
 ab533a36, 3d|splatoon|inkling|octoling
+ab5ea3ef, cosplay photo|Photograph
 ab5ea887, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base, albedobaseXL_v13.safetensors
 ab5ea887, photo|2d|3d|anime|game|photorealistic|cinematic|design|contemporary|art, albedobaseXLPre_v15pre.safetensors
 ab5ea887, update, update_v10.safetensors
