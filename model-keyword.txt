@@ -703,6 +703,7 @@
 142c3c11, cinematic style|photographic style|analog film|low-angle|dark colors
 1437ae07, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|background|male|cinematic, albedobaseXL_v01.safetensors
 1437ae07, anime|game|illust|photo|3d|2d|photorealistic|realistic|girl|female|male|cinematic, albedobaseXL_v02.safetensors
+1440059d, Studio Ghibli style|retro art style
 14550c43, elden ring style|modelshoot style|dreamlikeart|postapocalypse|analog style|knollingcase|swpunk|synthwave|cyborgdiffusion
 146069c1, Myrillene Cristy woman|hand on chest|hand open palm|hand v-sign|hands down|realistic|illustration
 14645aaf, 1girl|realistic|asian|
