@@ -2283,6 +2283,7 @@
 65bbd026, pitchmeetgeorge
 6606c451, 1girl
 6606d2db, ttw style
+66141fb5, 3d
 6618bdd6, girl|boy|man|woman|robo
 6622b4d7, realistic||photorealism|
 663b7cc5, aodai|3dcharacter|3dcutecharacter|chibi
@@ -4751,6 +4752,7 @@ dab15164, no, dhdhjkfkjjkdfk_v10.ckpt
 dab15164, romanallcoma, romanallcoma_v10.ckpt
 dab15164, wawavawa, model1_ver1.ckpt
 dab3bb51, marblesh|marblee|marblee style
+dab88696, 3d, kl-f8-anime2.safetensors
 dab88696, Oil Painting|Watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn, kl-f8-anime2.safetensors
 dab88696, cat|cartoon style|big green eyes|black fur|blue overalls., kl-f8-anime2.safetensors
 dab88696, futanari|erection|flaccid|puffy nipples, kl-f8-anime2.safetensors
