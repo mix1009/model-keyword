@@ -3402,6 +3402,7 @@
 9afc22f0, __character__ with __color__ __hair__ hair|__color__ eyes|__clothing_style__ clothing|__background__|__expressions__|__pose__|__cosmetics__
 9b1cddb6, detailed_skin|moles|freckles|wet_skin|dark_skin|brown_skin|pink_skin|red_skin|blue_skin|green_skin|grey_skin|veins|veiny_skin
 9b1d06fa, CG|Octane rendering|This is an image of an mature
+9b3605f8, animal
 9b36871e, illustration
 9b395ec4, anime
 9b5251e8, Papercutcraft style, papercutcraft_v1.ckpt
