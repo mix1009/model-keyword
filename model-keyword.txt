@@ -2623,6 +2623,7 @@
 76584d78, masterpiece|best_quality
 7665f8c3, itrobo2022
 7675f1a1, stilovintedois
+767f242a, furry
 767f517f, dmmid style
 768041ed, SEE APPENDIX|见附录
 7685a036, man|homo|clothes
@@ -3972,6 +3973,7 @@ b2896205, score_9|score_8_up|score_7_up|
 b29ef034, analog style
 b2a0766e, zelda|samus|link|luigi|princess peach|princess daisy
 b2ae9510, yuno
+b2b1c23e, Furry
 b2c06b09, natnapinh
 b2c47ed5, LEGOstyle
 b2de9d62, silverfox5213|
@@ -4275,6 +4277,7 @@ c2cd58a3, Evang Style, beejaydel_bjd20000MoreDetail.safetensors
 c2cd58a3, Evang style, chibi_2024ADD.safetensors
 c2cd58a3, Evang, beejdAndSketchMix_v10.safetensors
 c2cd58a3, evang style, madballs_v10.safetensors
+c2eaf647, Furry
 c2ec2bbd, masterpiece|best quality|absurdres|safe
 c30d5962, N/A
 c3246d22, Evang
