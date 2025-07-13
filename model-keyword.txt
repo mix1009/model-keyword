@@ -2330,7 +2330,7 @@
 67c13614, gc_np
 67c24e97, chinese mythology
 67c4904e, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
-67ca9dfa, + PROMPT:|masterpiece|best quality|ultra-detailed|8k resolution|high dynamic range|absurdres|stunningly beautiful|intricate details|sharp focus|detailed eyes|cinematic color grading|high-resolution texture||- PROMPT:|worst quality:2|low quality:2|normal quality:2|bad anatomy|bad proportions|poorly drawn face|poorly drawn hands|missing fingers|extra limbs|blurry|pixelated|distorted|lowres|jpeg artifacts|watermark|signature|text|deformed:1.5|bad hands:1.3|overexposed|underexposed|censored|mutated|extra fingers|cloned face|bad eyes
+67ca9dfa, + PROMPT:|masterpiece|best quality|ultra-detailed|8k resolution|high dynamic range|absurdres|stunningly beautiful|intricate details|sharp focus|detailed eyes|cinematic color grading|high-resolution texture||- PROMPT:|worst quality:2|low quality:2|normal quality:2|bad anatomy|bad proportions|poorly drawn face|poorly drawn hands|missing fingers|extra limbs|blurry|pixelated|distorted|lowres|jpeg artifacts|watermark|signature|text|deformed:1.5|bad hands:1.3|overexposed|underexposed|censored|mutated|extra fingers|cloned face|bad eyes|+ PROMPT alternative addition:|photorealistic portrait|nails|
 67d424fa, niji5|niji6
 67e082c9, half body|closeup
 67e8a0ae, analog style|dreamlikeart|knollingcase|modelshoot style|elden ring style|bf|sci-fi
