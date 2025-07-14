@@ -3489,6 +3489,7 @@
 9e3883f6, negative prompt only if necessary|see prompts in loras
 9e43c2bf, looking at the viewer|raw|realistic
 9e44904f, the chad smile|the serious gigachad|sitting gigachad lean
+9e51a1ab, +prompt example:|masterpiece|best quality|ultra-detailed|8k resolution|high dynamic range|absurdres|stunningly beautiful|intricate details|sharp focus|detailed eyes|cinematic color grading|high-resolution texture||-prompt:|worst quality:2|low quality:2|normal quality:2|bad anatomy|bad proportions|poorly drawn face|poorly drawn hands|missing fingers|extra limbs|blurry|pixelated|distorted|lowres|jpeg artifacts|watermark|signature|text|deformed:1.5|bad hands:1.3|overexposed|underexposed|censored|mutated|extra fingers|cloned face|bad eyes|+prompt optional addition:|photorealistic portrait|nails|
 9e6f914a, armpit
 9e78c9e2, T4nn1aSD
 9e828d82, lqt
