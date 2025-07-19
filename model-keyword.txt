@@ -776,6 +776,7 @@
 18046b2c, photorealistic|detailed
 1814656d, The Polaroid style，
 182440bd, first love
+183d5715, score_9|score_8_up|score_7_up|oil painting|traditional medium
 1848190c, sd-pulp|dime mystery|horror stories|startling mystery|terror tales|thrilling mystery|uncanny tales|vice squad detective|spicy adventure|dime detective|detective short stories
 185142d9, score_9|score_8_up|score_7_up|BREAK
 1861f018, Evang style, colorfulGlow_v6MoreDetails.safetensors
@@ -1199,6 +1200,7 @@
 2c22f207, Use trigger words words from DucHaiten v7.0
 2c28fcaf, a painting by mse
 2c3a4942, kemono|furry
+2c3f7c20, score_9|score_8_up|score_7_up|oil painting|traditional medium
 2c6453bb, Azab style
 2c90d624, woman|sucking|erected penis|man|sex
 2caa7a2f, SEE INTRODUCTION|见模型介绍|導入セクションを見る
@@ -1470,6 +1472,7 @@
 3afdc872, bedroomai
 3b214cf8, style
 3b27ef9d, IRL
+3b30c07b, score_9|score_8_up|score_7_up|oil painting|traditional medium
 3b35f9ee, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
 3b439695, audra miller
 3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
