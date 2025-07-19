@@ -5332,6 +5332,7 @@ f317afa4, sks woman
 f3196d59, carbon|duochrome|holographic
 f32626be, estilovintedois, vintedoisDiffusionV0_v01.ckpt
 f32626be, heixuan furry, kuroteroHeixuanFurry_v10.ckpt
+f33a859a, asian
 f340e618, lyh_niji|anime|1girl|lyh
 f341184d, msfluentui style
 f3653237, anime|anime girl|anime man|anime style, sdxlYamersAnime_ysAnimeV5.safetensors
