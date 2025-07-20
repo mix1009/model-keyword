@@ -205,6 +205,7 @@
 0790598f, realistic
 079b172e, illustration style kurzgesagtish
 079bb56e, country flag
+07bf243e, score_9|score_8_up|score_7_up|oil painting|traditional medium
 07e7dc81, man
 080a6a61, westerpunk|western_punk|ninjapunk|ninja_punk|augments|implants|mechanical_arms|post-apocalypse|post apocalyptic|vikingpunk|viking_punk
 081160b4, Beautiful Asian girls
@@ -365,6 +366,7 @@
 0e725091, 2000s|1990s|1980s|1970s|1960s|1950s|1940s|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jiri tulach style|komrant style|marie dashkova style|olga boyko style|digital art|interior design|macro photography|polaroid style|sucidegirl|wild nature
 0e828029, sks woman|(sks woman)
 0e8747d6, male|female
+0e8bed44, Captain|Risk of Rain 2|Captain Risk of Rain 2
 0e8f2dbe, masterpiece|best quality
 0e98aa3f, InToThe2KGothClub
 0ea17fca, girl
@@ -1053,6 +1055,7 @@
 24c2e368, Evang
 24c69c5a, RAW photo|hyperrealistic photo|seductive|innocent|realistc skin:1.4
 24d6c54a, score_9|score_8_up|score_7_up|source anime|
+24dcab6e, Cnlis|
 24e6e085, furry
 24eee13e, girl
 24f62767, fff
@@ -1075,6 +1078,7 @@
 25e42458, banchan, bananoChan_anythingV3.safetensors
 260133b6, girl
 260ab54a, Photo Realistic
+261a7522, score_9|score_8_up|score_7_up|oil painting|traditional medium
 2622a6d6, Van Gogh|impressionism
 262674b8, cartoon style
 2644427e, sks
@@ -3283,6 +3287,7 @@
 98682b4a, K I O K I S - Cyberrealistic|real|nsfw|sex|girl|ai|cyber
 98684a1b, jammin
 986c860f, Realistic|Art|Surreal|Experimentell
+98846750, Captain|Risk of Rain 2|Captain Risk of Rain 2, animety.ckpt
 98846750, Flux Realistic | Asian Female V3-lite, amenity.ckpt
 98846750, orca tail|fins|orca girl|orca tail|lifting up tail||dolphin tail|fins|dolphin girl|dolphin tail||beluga whale tail|fins|beluga whale girl|beluga whale tail||anklyosaurus tail|anklyosaurus tail club|ankylosaurus girl|ankylosaurus tail||night fury tail|night fury fins|night fury girl|night fury tail|night fury wings|dragon girl|dragon wings|dragon tail||monkey tail|white monkey tail|monkey girl|monkey tail||diplodocus tail|longer tail|diplodocus girl|diplodocus tail||canadian goose wings|big wings|feathers|goose girl|goose wings|, animety.ckpt
 98891ea9, an illustration of an isometric city|digital art|highly detailed
@@ -4699,6 +4704,7 @@ d659f794, rcnz_niji style
 d65a1f08, realistic|anime|toon|cartoon
 d65c923a, 1girl
 d676dd55, deetz1
+d677e166, score_9|score_8_up|score_7_up|oil painting|traditional medium
 d6b2691a, oddlyterrifying
 d6b35a34, anime
 d6e9461b, abd
