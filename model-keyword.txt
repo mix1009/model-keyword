@@ -2225,6 +2225,7 @@
 62117bfd, hikmix
 621c1e6c, merani
 6230efda, [score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up]
+62564cfb, furry|anthro
 62674e43, serok
 627533dc, hwan
 6289075d, DeShanF1
@@ -4424,6 +4425,7 @@ c95c43ce, Mature Female
 c9a2e2a1, GGH23 person
 c9a83c78, furry|anthro
 c9c45d16, Pris
+c9d7865f, Asian|Korea|Thai|China|Vietnam|Japan
 ca1476d6, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 ca198d1c, actionauf, actionauf_v10.safetensors
 ca198d1c, alstar, alstar_v10.safetensors
@@ -5149,6 +5151,7 @@ ea3cb787, monster girl
 ea3deaad, fkey70
 ea861d13, niji5|niji6
 eaabd8c9, negative prompt :|door
+eaaeb7f6, Nishimura Kinu Style
 eabf280f, anthro|monster girl|colored skin|furry
 eac8d83c, score_9|score_8_up|score_7_up|score_6_up
 ead93840, artistic portrait|beautiful detailed face|looking at the viewer|digital art style|oil painting style|colorful|dynamic lighting|vibrant light|shadow detailed|highly detailed|anime style|speed art|brush strokes|beautiful and aesthetic|masterpiece|ultra wide angle|surrealist|abstract artistic|gradient background
