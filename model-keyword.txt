@@ -127,6 +127,7 @@
 031b21f6, pixel art|16 bit|32 bit|64 bit, XL_VAE_C1.safetensors
 031b21f6, qualityrate1|flat color|detailed eyes|masterpiece|soft lighting|best quality|amazing quality|very aesthetic|newest|anime coloring|absurdres||qualityrate1|flat color|masterpiece|soft lighting|best quality|amazing quality|very aesthetic|newest|anime coloring|absurdres|, flatpiece.xl.vae.safetensors
 0323e306, Bean_Lab|Pure Beauty|1 girl|best quality
+032f24b7, oil painting|traditional medium
 03346468, realistic:1.2|cosplay
 0338061e, modisn disney|modisn disney style
 0341fc9b, sexy
@@ -1141,7 +1142,8 @@
 28d20569, sks woman
 28e99b90, See Appendix|见附录部分
 28eeaf79, 1girl|anime
-28efdec8, pos trigger : masterpiece|inad|neg trigger : worst quality|bad quality
+28efdec8, pos trigger : masterpiece|inad|neg trigger : worst quality|bad quality, mokubapoint_v10.safetensors
+28efdec8, traditional_media|devildonia_style, velvetParadox_v1020.safetensors
 28f509c0, raw photo|cosplay photo|fashion photo|anime artwork|cotton doll
 29071f31, Happy new year
 291b67b8, maxwell the cat
@@ -3777,6 +3779,7 @@ aa366209, source4 style, source4V10_v1Safetensors.safetensors
 aa366209, wewulzkz, werewolfDiffusion_1.safetensors
 aa42c89b, A woman|in an elegant white bridal gown with intricate lace details|standing in a neutral background|with an off-the-shoulder design and floral embroidery on the hem|looking at the observer|with a photorealistic appearance
 aa49e01c, anime pencil concept style
+aa5132f3, oil painting|traditional medium
 aa7001cf, COLR_001, coloringBook_.ckpt
 aa7001cf, Nouvis, nouvisPsychedelic_nouvisFor21.ckpt
 aa7001cf, badbunny, benitoBed_v10.ckpt
@@ -3816,6 +3819,7 @@ ab38b8e3, ouka_studio
 ab48e25c, chibi
 ab4941a7, fantasticmrfox
 ab533a36, 3d|splatoon|inkling|octoling
+ab55f8fb, oil painting|traditional medium
 ab5ea3ef, cosplay photo|Photograph
 ab5ea887, all in one|photo|2d|3d|anime|game|photorealistic|cinematic|design|base, albedobaseXL_v13.safetensors
 ab5ea887, photo|2d|3d|anime|game|photorealistic|cinematic|design|contemporary|art, albedobaseXLPre_v15pre.safetensors
