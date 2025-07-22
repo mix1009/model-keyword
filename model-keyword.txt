@@ -659,6 +659,7 @@
 12cc710c, vjt
 12d0e504, chibi
 12ec3add, glock|pistol
+1300e1fe, acuarelin
 1305a1e2, 1girl
 1311b3e9, FUTANARI|NO_TESTICLES|ERECTION|GIRL
 13274be5, furry|anthro
@@ -5349,7 +5350,8 @@ f317afa4, sks woman
 f3196d59, carbon|duochrome|holographic
 f32626be, estilovintedois, vintedoisDiffusionV0_v01.ckpt
 f32626be, heixuan furry, kuroteroHeixuanFurry_v10.ckpt
-f33a859a, asian
+f33a859a, Asian, ianAsian_v20.safetensors
+f33a859a, asian, ivanNova_ivanNovaIllv2.safetensors
 f340e618, lyh_niji|anime|1girl|lyh
 f341184d, msfluentui style
 f3653237, anime|anime girl|anime man|anime style, sdxlYamersAnime_ysAnimeV5.safetensors
@@ -5566,6 +5568,7 @@ fe5aae36, telltale style
 fe5b6b94, 3D
 fe865c53, pamgrier
 fe8c63ee, cartoon|illustration|flat cartoon|realistic illumination|realistic cartoon
+fe9472b1, WD
 feaa3687, furry|anthro
 feb09aa5, verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
