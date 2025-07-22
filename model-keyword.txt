@@ -2584,6 +2584,7 @@
 73d3d2c4, style_18, duchaitenVpredStyle_style18.safetensors
 73d3d2c4, style_26, duchaitenVpredStyle_style26.safetensors
 73d3d2c4, style_27, duchaitenVpredStyle_style27.safetensors
+73d3d2c4, style_45, duchaitenVpredStyle_style45.safetensors
 73d558d7, jakquelynn
 73df0f6b, no trigger word required
 73e1948a, 1girl
@@ -3078,6 +3079,7 @@
 8d9aaa54, nvinkpunk
 8d9f015b, avatar style|avatar style|boy|girl|old man|old woman|woman|man|teen boy
 8d9f6326, highres|raifu
+8dd61b86, oil painting|traditional medium
 8ddabe81, LYH_NIJI|LYH
 8de06375, masterpiece|best quality|amazing quality|very awa|absurdres|
 8de50d7b, Mature female
@@ -3887,6 +3889,7 @@ addf5b58, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photoreali
 ade8bdab, 2d|pixel art|sprite style
 adf18b48, Any
 ae19a9dd, pspp man
+ae224191, oil painting|traditional medium
 ae3342bc, Master Chief
 ae40b48d, cult of cthulhu|giger|Cthulhu|post-apocalypse|biomechanical
 ae5b7b44, AIO|Anthro|ukiyoe|knotwork
@@ -4498,6 +4501,7 @@ cd0db611, cartoon
 cd1f57a4, Anime Edition
 cd22968e, whatif style
 cd3bb82a, furry
+cd4d8648, oil painting|traditional medium
 cd6e3af1, ajapplegate
 cd72665c, sks person
 cda39816, ccdwr artstyle, conceptCharacter_ccdwrArtstyleBV0.safetensors
