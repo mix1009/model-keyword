@@ -1702,6 +1702,7 @@
 481ba411, there are too many please see the description
 482ff583, poster
 4859814c, TransX
+487895a2, anime style
 48823be0, coralchar
 488f085e, 77oussam-realistic, truevision77_truevisionTurbo77.safetensors
 488f085e, sexy, only_v10.safetensors
@@ -5369,6 +5370,7 @@ f38569d1, Anime|adult|2.5D|cross dressing|nasolabial folds|wrinkled skin
 f3a2ad84, rcnz_niji style
 f3ae58c4, 
 f3b011a6, furry
+f3c2f77e, photorealism||realistic|
 f3dae826, BRAV5_Realisianv50_PFv30
 f3ff3ac7, Anime Style
 f44e6e9c, 1boy|young|cute
