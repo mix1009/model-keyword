@@ -2527,6 +2527,7 @@
 7003a758, shuimobysim|shukezouma
 7009ca74, mobian or sonic character name
 700b1fd2, |stylized game icon
+7011bb27, score_9|score_8_up|score_7_up|oil painting|traditional medium|canvas texture
 702eac14, usual|watch pictures
 703f7ff1, high fantasy
 7043784b, realistic
@@ -5478,6 +5479,7 @@ f781810b, by kyoani
 f7a03161, A perfect photo|A poorly lit photo|A perfect closeup photo
 f7ad3dbb, realistic|cosplay
 f7ba1831, TOK
+f7baa342, score_9|score_8_up|score_7_up|oil painting|traditional medium|canvas texture
 f7c7a5ea, 3D
 f7fedd57, xl
 f8159da6, ftnadusk3
