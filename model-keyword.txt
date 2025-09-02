@@ -235,6 +235,7 @@
 092ba51a, dark skin, babesEbonyAshePony_10.safetensors
 092ba51a, gptibli style, hamseenIllustrious_10.safetensors
 092ba51a, threslol style, celestialShine_10.safetensors
+09476ff6, oil painting|traditional medium
 0952387e, 3d|realistic
 0963da31, masterpiece|best quality
 096596d8, pow artstyle
@@ -1135,6 +1136,7 @@
 27ea8c02, snthwve style|nvinkpunk
 27f75a18, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 281b2c70, Gangji
+281d1988, by CA2D|toony
 282b4e08, Fraufembot
 2855347e, score_9|score_8_up|score_7_up||thick outlines
 285548e4, Master Chief
@@ -1574,6 +1576,7 @@
 4166d47f, aodai|style of ...
 416a7f7c, dreamlikeart
 4192fc16, kurzgesagt style
+419c82f5, oil painting|traditional medium
 41c5ded9, 
 41c67857, minchien
 41d50a60, anime|lyh
