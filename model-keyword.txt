@@ -822,6 +822,7 @@
 195d5eb7, liminal|backrooms|abstract|surreal|mall|abandoned mall|abandoned house|abandoned|parking garage|road|street lights|mailbox|beautiful|midnight|night|sunset|sunrise|neighborhood|snow|sky|symmetrical|glass|windows|reflective surface|carpet|walls|ceiling|photograph|depiction|3d
 19643d1f, furry
 197571ec, nai3
+197ba2b1, Furry
 19804fc4, 1girl|moyou
 19872cc2, 1girl|amabilis
 1994138c, ChilloutDiverseMix
@@ -2213,6 +2214,7 @@
 600db6b8, rainerwinkler, winklerDiffusion_v1.safetensors
 6035292d, k4s4
 606224fd, groo_the_wanderer
+6064b085, + PROMPT example:|masterpiece|best quality||- PROMPT example:|worst quality|bad quality|young
 6067746b, ishikeistyle
 606f384c, penis|testicles
 6076842b, nvinkpunk|dreamlikeart|samdoesart|kuvshinov
