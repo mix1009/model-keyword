@@ -4309,6 +4309,7 @@ c0f32ab1, plushiedsk
 c0fcc9cb, chibi||chibi only|
 c0fd1216, Ghost Creator Content
 c112b482, Master Chief
+c1146e54, TS Loli uncle|greyscale|monochrome|
 c118725f, girl
 c11fb943, modelshoot style
 c12e4c21, Evang
@@ -4716,6 +4717,7 @@ d56a53f3, aodai|cotrang
 d56dff6a, anthro|furry
 d57fa787, by hanaarare
 d58ab10e, N/A
+d58b8cb3, yuutenji nyamu \magician of passion\
 d5ab6701, Evang
 d5b1726a, Masterpiece|Best Quality
 d5cea653, gege
@@ -5457,6 +5459,7 @@ f60494f4, Monet|close up|full body|Victorian, noisyElementXL_noisyElementXL.safe
 f60494f4, Victorian|Monet|full body|close up, victorianAnimeArtXL_vaxl.safetensors
 f60494f4, all fours|seiza|wariza|squatting|kneeling|high kick|flying kick|Monet|real life|anime|realistic|Victorian|hand focus|foot focus|full body|close up, noisyElementXL_v25.safetensors
 f60494f4, score_9|score_8_up|score_7_up, copycat_v15.safetensors
+f60cdabc, yahata umiri \moonlight executioner\|animal ears
 f61ceeaf, xao-arab-girl
 f6239527, brtdrpp
 f6355763, Ajm, xxajm_v10.safetensors
