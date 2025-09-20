@@ -2924,6 +2924,7 @@
 832a96e1, masterpiece|best quality|amazing quality|absurdres|
 832c6e6a, analog style|modelshoot style|nsfw|nudity
 833060ae, mdjrny-v4 style|nousr robot
+833f0cbb, granblue fantasy
 834139aa, anime|TzigoAnimeStyle
 83416818, An anime pvc figure of <...>, diffusion_pytorch_model.safetensors
 83416818, LYH_NIJI|LYH, diffusion_pytorch_model.safetensors
