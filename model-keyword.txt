@@ -2002,6 +2002,7 @@
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality|, sdxl_vae.safetensors
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM, sdxl_vae.safetensors
 584f63ab, Score_9|score_8_up|score_7_up|masterpiece|best quality||YTM|yutamix-twinkle, sdxl_vae.safetensors
+584f63ab, beauty, sdxl_vae.safetensors
 584f63ab, black eyes, sdxl_vae.safetensors
 584f63ab, lowres|worst quality|low quality|bad anatomy|bad hands|jpeg artifacts|text|patreon logo|patreon username|, sdxl_vae.safetensors
 584f63ab, masterpiece|best quality, sdxl_vae.safetensors
@@ -2616,6 +2617,7 @@
 73ecef32, edgeofthetoonin3d
 741eefee, fantassified icon
 74284d1c, futanari|erection|flaccid|puffy nipples
+743013e9, beauty
 744098c7, my_dress|1girl|long_hair|makeup|solo|standing
 7441b04e, Stained Glass||SGFS|JGBA|SGFSJGBA
 744ea8e3, dal
@@ -5553,7 +5555,8 @@ fa1b6601, Beautiful detailed portrait
 fa3a1716, hrgiger
 fa4a0103, furry|anthro
 fa4e1a37, none
-fa58f642, Realistic skin:1.4|photo realistic:1.4|Raw Photo
+fa58f642, Realistic skin:1.4|photo realistic:1.4|Raw Photo, animergePonyXL_v60.safetensors
+fa58f642, masterpiece|best quality|highres|absurdres|newest|volumetric lighting|aesthetic, megumixILMerge_.safetensors
 fa5b59bd, masterpiece|best quality
 fa5e4f28, (tokki girl)
 fa65420e, pvc figure
