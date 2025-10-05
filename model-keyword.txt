@@ -4503,6 +4503,7 @@ ca198d1c, graphicart, graphicArt_15V10.safetensors
 ca198d1c, kevskiesh, hyperportraitI_v10.safetensors
 ca198d1c, paleolithic, paleolithicArt10_paleoartV10.safetensors
 ca198d1c, weirdcore, dreamcoreDiffusion_v10.safetensors
+ca297a51, realistic|hiper realistic|photography||photorealistic
 ca4fcc12, snnmrn|snnmrn woman
 ca682192, sjh style
 ca6c800f, 1girl
