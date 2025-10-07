@@ -2020,6 +2020,7 @@
 584f63ab, score_9|score_8_up|score_7_up|realistic, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up|realistic|, sdxl_vae.safetensors
 584f63ab, score_9|score_8_up|score_7_up|score_6_up|detailed, sdxl_vae.safetensors
+584f63ab, very awa|masterpiece|best quality, sdxl_vae.safetensors
 584f63ab, very awa|masterpiece|best quality|year 2024|newest|highres|absurdres, sdxl_vae.safetensors
 584f63ab, watercolor, sdxl_vae.safetensors
 584f63ab, ~*~aesthetic~*~, sdxl_vae.safetensors
@@ -5268,6 +5269,7 @@ ec664923, undercucho
 ec753d6f, test
 ec8cd4c8, BalloonArt
 ec91032d, TOKLOGO
+ec9cc71d, very awa|masterpiece|best quality
 ec9e363a, PERSON
 ec9f8c2e, CharacterChan Style
 ecaa1947, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
@@ -5344,6 +5346,7 @@ efd54274, elden ring style
 efdd9fcf, GAME ICON, gameIconInstitute_v20.safetensors
 efdd9fcf, game icon, gameIconInstitute_v21.safetensors
 efe608ac, Clay Mann
+efef7070, 1girl|1boy
 eff79f53, score_9|score_8_up|score_7_up|
 f0024d93, furry|bara
 f00b92e0, detailed|official art|colorful|accessories|fractal art|aesthetic|chinese clothes
