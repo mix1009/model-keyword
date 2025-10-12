@@ -2711,6 +2711,7 @@
 7746fc20, marongcheng art, mrcV1_.ckpt
 7746fc20, titlefont, titlefontOriental_v10.ckpt
 7746fc20, vector|raster|exaggerate body proportion|big, modill_v10.ckpt
+7767d0f8, furry
 77691103, modern anime style|
 776d02ce, nai3|[ningen_mame]|ciloranko|[sho_sho_lwlw]|[[tianliang duohe fangdongye]]|[[rhasta]]|year 2023|
 7775c5b3, ky_d
