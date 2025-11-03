@@ -230,6 +230,7 @@
 08f7a22d, Papercut
 08fe03fe, by sky-freedom
 09083164, rcnz_niji style
+091262f0, <These is sample prompt>|masterpiece|ultra quality|best|delicate|8K|natural lighting|dynamic|diagonal angle|wind|dramatic|Depth of Field|over emotional|fine|pastel colors|cocoart|cute|simple art|chibi|manga style|sepia sketch|rough art|unfinished|watercolor|vivid color|colorful vector style|noline|flat shade|flat color|pale skin
 092ba51a, belmawon style, sciFiPunkIllustrious_10.safetensors
 092ba51a, cybapunk style, cyberpunkBabes_10.safetensors
 092ba51a, dark skin, babesEbonyAshePony_10.safetensors
@@ -2978,6 +2979,7 @@
 848d7290, Yuuna
 8495185b, girl
 84a18082, sd21turbo
+84d90594, psastyle
 84ec5fea, subaru|1boy
 84f6b9a2, whatif style
 8516254c, girl|woman|sexy
