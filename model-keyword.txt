@@ -29,6 +29,7 @@
 01a6ec8e, ldr
 01b659b9, nomanssky style|starship
 01bc5b9e, cnxianxia
+01c8822a, d3v1ld0n14 st1l3 illustration
 01e48467, anime
 01e58d70, ryokuchamichi|clothed midsection|bottom heavy body|top heavy body|tubefeeding|tubefeeding in mouth|gigantic belly|hyper belly|belly on floor
 01f61612, clonewars style
@@ -230,7 +231,7 @@
 08f7a22d, Papercut
 08fe03fe, by sky-freedom
 09083164, rcnz_niji style
-091262f0, <These is sample prompt>|masterpiece|ultra quality|best|delicate|8K|natural lighting|dynamic|diagonal angle|wind|dramatic|Depth of Field|over emotional|fine|pastel colors|cocoart|cute|simple art|chibi|manga style|sepia sketch|rough art|unfinished|watercolor|vivid color|colorful vector style|noline|flat shade|flat color|pale skin
+091262f0, <These is sample prompt>|animal girl|animal hand|animal leg|true eyes|fine|pastel colors|cocoart|cute|simple art|chibi|masterpiece|ultra quality|best|delicate|true eyes|natural lighting|dynamic|diagonal angle|wind|dramatic|Depth of Field|over emotional|manga style|sepia sketch|rough art|unfinished|watercolor|vivid color|colorful vector style|noline|flat shade|flat color|pale skin
 092ba51a, belmawon style, sciFiPunkIllustrious_10.safetensors
 092ba51a, cybapunk style, cyberpunkBabes_10.safetensors
 092ba51a, dark skin, babesEbonyAshePony_10.safetensors
