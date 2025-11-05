@@ -593,6 +593,7 @@
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
 0ec1ec9e, realistic
 0ec9b738, pixel art
+0ecba5a6, mysterious
 0ed9b4a6, embroidery by embarg
 0ef3d70b, Lao chen
 0efd6582, 2000s|1990s|1980s|1970s|1960s|1950s|1940s|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jiri tulach style|komrant style|marie dashkova style|olga boyko style|digital art|interior design|macro photography|polaroid style|sucidegirl|wild nature
@@ -1384,6 +1385,7 @@
 350d006c, nsfw|amateur|Sex|pov
 35133590, person_in_Jar
 352ceed9, usashiro mani
+35457c4e, mysterious
 356ac2c8, snezhka
 3582eab3, school uniform|1lady|1girl
 3593c0c4, Photograph
@@ -4039,8 +4041,8 @@ b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photoreali
 b1f4f421, 1girl
 b1facb5b, 1girl, nijiDiffusionXlBase1_v10.safetensors
 b1facb5b, Art|Creepy, 2dCreepyArtMonster_v11.safetensors
-b1facb5b, Fantasy|dark fantasy|mysterious|anime|anime style|3D rendering|Realistic, LahMysteriousFlux_v315.safetensors
-b1facb5b, Mysterious|eyes detail|fox girl, LahMysteriousFlux_v251.safetensors
+b1facb5b, Fantasy|dark fantasy|mysterious|anime|anime style|3D rendering|Realistic, LahMysteriousQwen_v315.safetensors
+b1facb5b, Mysterious|eyes detail|fox girl, LahMysteriousQwen_v251.safetensors
 b1facb5b, Sketch art, artsyik_v10.safetensors
 b1facb5b, aesthetic|2d|anime|waifu, simulacrumxl_v10Asuka.safetensors
 b1facb5b, animal|pokemon|LUT|hybrid, chimeramiXL_v10.safetensors
@@ -4050,11 +4052,11 @@ b1facb5b, colorful, copaxTimeless_colorfulV2.safetensors
 b1facb5b, disney cartoon|cute cartoon, LahCuteCartoonSDXL_beta1.safetensors
 b1facb5b, disney cartoon|cute cartoon|cute chinese|chibi chinese, LahCuteCartoonSDXL_alpha.safetensors
 b1facb5b, elemental|effect, soraFocusEffectSDXL_v01.safetensors
-b1facb5b, fantasy|dark fantasy|mysterious|anime|realistic|3d rendering|cyberpunk|cyborg, LahMysteriousFlux_v330.safetensors
-b1facb5b, mysterious, LahMysteriousFlux_v355.safetensors
-b1facb5b, mysterious|fantasy|dark fantasy|3D rendering|anime, LahMysteriousFlux_v30.safetensors
-b1facb5b, mysterious|fantasy|lofi style|anime, LahMysteriousFlux_v295.safetensors
-b1facb5b, mysterious|fantasy|peplos|greek|anime, LahMysteriousFlux_v256.safetensors
+b1facb5b, fantasy|dark fantasy|mysterious|anime|realistic|3d rendering|cyberpunk|cyborg, LahMysteriousQwen_v330.safetensors
+b1facb5b, mysterious, LahMysteriousQwen_v355.safetensors
+b1facb5b, mysterious|fantasy|dark fantasy|3D rendering|anime, LahMysteriousQwen_v30.safetensors
+b1facb5b, mysterious|fantasy|lofi style|anime, LahMysteriousQwen_v295.safetensors
+b1facb5b, mysterious|fantasy|peplos|greek|anime, LahMysteriousQwen_v256.safetensors
 b1facb5b, pores|realistic, copaxTimeless_v22SkinUpdate.safetensors
 b1facb5b, portrait|medium close-up shot|photo|photograph, SDXLPeople_v05.safetensors
 b1facb5b, realistic, copaxTimeless_v2.safetensors
