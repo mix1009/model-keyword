@@ -593,7 +593,6 @@
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
 0ec1ec9e, realistic
 0ec9b738, pixel art
-0ecba5a6, mysterious
 0ed9b4a6, embroidery by embarg
 0ef3d70b, Lao chen
 0efd6582, 2000s|1990s|1980s|1970s|1960s|1950s|1940s|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jiri tulach style|komrant style|marie dashkova style|olga boyko style|digital art|interior design|macro photography|polaroid style|sucidegirl|wild nature
@@ -4561,6 +4560,7 @@ cbef871f, sks
 cc11c0ef, masterpiece|best quality|
 cc30ad23, lamia|harpy|centaur|etc....|most mge girls half work
 cc49ac37, bigbadejo alien_monster
+cc57a381, Cocoart anime style.
 cc586421, a realistic photograph of, everclearPNYByZovya_v1VAE.safetensors
 cc586421, realistic photograph of, everclearPNYByZovya_v1.safetensors
 cc5b68d0, lndskp|nvinkpunk|redshift
