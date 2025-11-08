@@ -1589,6 +1589,7 @@
 41543d33, ned stark|jon snow|catelyn stark|daenerys targaryen|robert baratheon|arya stark|joffrey baratheon|tyrion lannister|jaime lannister|robb stark|petyr baelish|littlefinger|sansa stark|bran stark|cersei lannister|viserys targaryen|jorah mormont|benjen stark|waymar royce|rakharo dothraki|will ranger|jeor mormont|doreah handmaid|irri dothraki|maester luwin|khal drogo|the hound|sandor clegane|lord varys|rast ranger|rodrik cassel|maester aemon|mycah butcher son|grenn ranger|gared ranger|theon greyjoy|ser barristan selmy|jory cassel|ros cook|yoren recruiter|wildling girl|royal steward|catspaw assassin|pypar steward|old nan|illyrio mopatis|ilyn payne|lancel lannister|renly baratheon|mikken blacksmith|alliser thorne|syrio forel|game of thrones
 4166d47f, aodai|style of ...
 416a7f7c, dreamlikeart
+4189650b, Cocoart anime style. The fine illustration of masterpiece|ultra quality|best|delicate|natural lighting|Depth of Field.
 4192fc16, kurzgesagt style
 419c82f5, oil painting|traditional medium
 41c5ded9, 
@@ -4560,7 +4561,7 @@ cbef871f, sks
 cc11c0ef, masterpiece|best quality|
 cc30ad23, lamia|harpy|centaur|etc....|most mge girls half work
 cc49ac37, bigbadejo alien_monster
-cc57a381, Cocoart anime style.
+cc57a381, Cocoart anime style. The fine illustration of masterpiece|ultra quality|best|delicate|natural lighting|Depth of Field.
 cc586421, a realistic photograph of, everclearPNYByZovya_v1VAE.safetensors
 cc586421, realistic photograph of, everclearPNYByZovya_v1.safetensors
 cc5b68d0, lndskp|nvinkpunk|redshift
