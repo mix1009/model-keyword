@@ -940,6 +940,7 @@
 1ebbf368, 1
 1ed6706b, masterpiece|best quality|newest|absurdres|highres|
 1edfcb8d, 1girl|moyou
+1f07bec3, 1girl|solo|lips|slim|asian|brown eyes|pale skin|squinting|realistic|photorealistic|upper body||light smile|parted lips|teeth||medium breasts|medium shot|cowboy shot|
 1f138a80, Delorean|a photo of Dani15 person|
 1f19191c, UnstableDiffusion|unstablephotoreal
 1f258730, dbluth
@@ -3470,6 +3471,7 @@
 99b46941, yae miko from genshin impact|ei from genshin impact
 99bbd4c3, Indonesia Girls
 99be5c6c, newgorillaz
+99c0a493, male|1man|blackcocoart style|abs|big body|
 99cb9fe1, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 99cc51d8, masterpiece, darkPizzaXLOriginXL_v33.safetensors
 99cc51d8, masterpiece|comic, darkPizzaXLOriginXL_v34.safetensors
@@ -3982,6 +3984,7 @@ aebfcabd, 1
 aed630fc, Clip
 aed94a4f, Michiru_Kagemori
 aef3d307, zukki_style
+af098ebd, masterpiece|ultra-detailed|cinematic lighting|soft shadows|global illumination|volumetric lighting|subsurface scattering|bounce lighting|physically accurate lighting|1girl|female focus|
 af0ce122, SEE MODEL INTRODUCTION
 af1ac3ce, banchan
 af43d905, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
