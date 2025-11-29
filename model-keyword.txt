@@ -928,7 +928,6 @@
 1e256684, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity
 1e2b3832, lula
 1e2b7b3e, illust style|digital illustration|anime style|high-quality anime drawing|simple illust style|flat color|solid circle eyes|manga style|monochrome|pc98 style|dithering|jaggy lines
-1e3cd1ab, hanfu
 1e433922, pvc figure
 1e50a350, Nothing
 1e6822b7, comics style|analog style|illustration|lineart
@@ -1113,7 +1112,6 @@
 26945dab, female|male
 269b8567, general
 269de172, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION
-26a4c78b, hanfu
 26acd9f3, furrender style
 26bde476, vrass
 26c85a2d, Nintendo mii|modern_mii|classic_mii|highres|eye_whites|fighting|tennis, nintendoMiiStyle_v11.safetensors
@@ -1406,6 +1404,7 @@
 363ee931, microworld|mdjrny-shttr
 364eb45e, score_9|score_8_up|score_7_up|source anime|, matrixHentai_v170I.safetensors
 364eb45e, score_9|score_8_up|score_7_up|source_anime|, matrixHentaiPony_v170I.safetensors
+36529988, mskm
 365859e2, banchan
 36597c69, outfit
 36606926, jimjorcraflogo art style|dan mumford style
@@ -2253,6 +2252,7 @@
 600db6b8, gerdbaier, grattlerDiffusionViper_v1.safetensors
 600db6b8, rainerwinkler, winklerDiffusion_v1.safetensors
 6035292d, k4s4
+6048b7e5, <These is sample prompt>|realistic|realistic skin|photo realistic|cocoart real|japanese lady||pupils|masterpiece|best|highquality lighting|fine|amazing quality|dynamic|diagonal angle|wind|dramatic||1lady|ultra quality|delicate|lighting|cute|very aesthetic|Depth of Field|pastel|kawaii|animal lady|animal ears||cocoart|slime play|over emotion|yumekawa outfit|puff skirt|simple design|chibi|dotted line|
 606224fd, groo_the_wanderer
 6064b085, + PROMPT example:|masterpiece|best quality||- PROMPT example:|worst quality|bad quality|young
 6067746b, ishikeistyle
@@ -3538,7 +3538,6 @@
 9bdc6717, none|just prompt
 9c036bf5, comic style|illustrated|realistic|2D|fantasy art|photorealistic|line art|sketch|concept art|character design|concept sheet|colored line art|flat color|watercolor|oil painting|cel shaded|comic poster|mature adult
 9c0ae5fd, Master Chief
-9c246bf0, hanfu
 9c3572e7, realistic|best quality|masterpiece
 9c55fd12, mirrormask
 9c57b0a1, mechanical_arms|post-apocalypse|post apocalyptic|vikingpunk|viking_punk
