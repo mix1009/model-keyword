@@ -763,6 +763,7 @@
 15bf7d9d, pixel
 15c86f04, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 15f7afca, retro anime style|retro vibes
+15fd8c37, 3d
 1604613a, muscular
 1630eb1e, graphic design|typography|text: "your  text"
 16527de9, realism|realistic|cinematic|photo realism
@@ -5375,6 +5376,7 @@ ef27e17b, Anime
 ef351c9c, lego mini-figurine|legoman
 ef36509b, high_resolution_detailed_shot_of1|mecha|Style_UE5_Photorealism
 ef36e488, romerorzlucy
+ef438f40, western comics style|hatching texture|marker texture
 ef4be3fb, swpunk|synthwave|paint splatters
 ef54e94e, c
 ef666c80, Senran kagura
