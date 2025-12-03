@@ -5375,7 +5375,8 @@ ef27e17b, Anime
 ef351c9c, lego mini-figurine|legoman
 ef36509b, high_resolution_detailed_shot_of1|mecha|Style_UE5_Photorealism
 ef36e488, romerorzlucy
-ef438f40, western comics style|hatching texture|marker texture
+ef438f40, traditional media|transparent-watercolor|watercolor medium|, illustraversa_aqva.safetensors
+ef438f40, western comics style|hatching texture|marker texture, lineaveris_v3.safetensors
 ef4be3fb, swpunk|synthwave|paint splatters
 ef54e94e, c
 ef666c80, Senran kagura
