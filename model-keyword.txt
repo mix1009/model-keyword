@@ -7,6 +7,7 @@
 004242d3, shelley
 004976fd, none
 005b544a, hanfu
+00762d5b, realistic|cosplay
 007edaa3, clayitization
 009100c7, lenaayad
 0097dd62, audra miller
@@ -4461,7 +4462,7 @@ c50044af, interior|modern living room
 c514f484, OKnekosuke|ookuma nekosuke|
 c534c25d, 1girl
 c5414591, photograph|cosplay|illustration, realcosplay1536px_v21.safetensors
-c5414591, realistic, realcosplay1024px_realcosplayV10Better.safetensors
+c5414591, realistic, realcosplay_V10Illust.safetensors
 c558ad6a, soft_nai|soft
 c55e0d84, virtual youtuber|masterpiece|best quality|hololive|lastname name:1.2
 c5831305, best quality
