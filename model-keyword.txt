@@ -2151,6 +2151,7 @@
 5bc15c26, fleruzy style|fliprizy style|grokify style, auroraFlex_10.safetensors
 5bc15c26, fogatasy style, inkedWithAnime_10.safetensors
 5bc15c26, galena style|scima style|reiq style|omrado style|vanrip style|tsuvid style, galenaBlend_14Illustrious.safetensors
+5bc15c26, gopusesy style, poolsideHeatwave_10.safetensors
 5bc15c26, hand on chest|hand v sign|hand open palm|hand thumb up|hand pointing up|both hands on waist, babes_12p10Pony.safetensors
 5bc15c26, iridescent, iridesciaPrismara_30.safetensors
 5bc15c26, kisliptu style, illustrious10Babes_10.safetensors
@@ -2674,6 +2675,7 @@
 7460a6fa, ik2805, ik2805_v10.ckpt
 7460a6fa, ikmodel, ikmodel_v20.ckpt
 7460a6fa, sk man, kay_11.ckpt
+74688f35, furry
 7475158a, figurine|figure
 747ef805, illustration|comic style|realistic|Comic Poster|Line Art
 748d3c45, Flux Realistic | Asian Female V3-lite
@@ -4335,6 +4337,7 @@ bfc6e6ca, miriabyt
 bfccd521, roypop style
 bfd1ff49, rcnz_niji style
 bfd6d5e4, world
+bfe673fb, skorbz|rough hatching|dynamic linework
 bfe69b94, photo of evang style
 bff9c2fc, POW Style
 bffe0896, 3lys34ly
