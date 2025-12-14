@@ -1101,6 +1101,7 @@
 260133b6, girl
 260ab54a, Photo Realistic
 261a7522, score_9|score_8_up|score_7_up|oil painting|traditional medium
+261f487c, busty|chest|medium breasts|big breasts|huge breasts|massive breasts
 2622a6d6, Van Gogh|impressionism
 262674b8, cartoon style
 2644427e, sks
@@ -2799,6 +2800,7 @@
 79c63bd9, Landscape design
 79cd47fc, pypye
 79d3364b, Anime|Art|studio ghibli|Cartoon
+7a013785, male focus
 7a0fd151, 1111, anything_fp16.safetensors
 7a0fd151, 1girl|realistic, blessed2_fp16.safetensors
 7a0fd151, 1girl|realistic|sexy, blessed2_fp16.safetensors
