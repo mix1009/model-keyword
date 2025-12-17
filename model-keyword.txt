@@ -213,6 +213,7 @@
 079bb56e, country flag
 07bf243e, score_9|score_8_up|score_7_up|oil painting|traditional medium
 07e7dc81, man
+07f880d1, furry
 080a6a61, westerpunk|western_punk|ninjapunk|ninja_punk|augments|implants|mechanical_arms|post-apocalypse|post apocalyptic|vikingpunk|viking_punk
 081160b4, Beautiful Asian girls
 0817babf, sks chessevolved
@@ -274,6 +275,7 @@
 09bcb72f, statue, vae-ft-mse-840000-ema-pruned.safetensors
 09c6d455, JangEunYoung
 09cf07d1, insertNameHere
+09d1ea51, <These is sample prompt>|1lady|masterpiece|best face|fine|delicate|professional lighting|Depth of Field|cocoaface||realistic|realistic skin|photography|cocoaface|japanese girl||1girl|high quality|very aesthetic|pastel colors line|pastel colors|yumekawa outfit|cocoaface|cocoart|simple eyes||cocoa comic style|speech bubble|over emotion|ended face|
 09d7878a, pixarstyle
 09d81b43, t3|model
 09dd2ae4, BDSM model
@@ -4293,6 +4295,7 @@ bda88570, modern disney style
 bdb4b12c, by popqn
 bdd04c5e, noble ai|nobleai|noblemixfix
 bde477d2, junemodel
+bde5e85a, furry
 bdec7588, richevans
 be141210, bakirda|kridaba|DaKriDi|dikrida
 be2cde01, sabrinasalerno
@@ -4612,6 +4615,7 @@ cd22968e, whatif style
 cd3bb82a, furry
 cd4d8648, oil painting|traditional medium
 cd6e3af1, ajapplegate
+cd702e48, furry
 cd72665c, sks person
 cda39816, ccdwr artstyle, conceptCharacter_ccdwrArtstyleBV0.safetensors
 cda39816, ccdwr illustration, conceptCharacter_ccdwrIllustrationBV0.safetensors
@@ -5344,6 +5348,7 @@ ed65d07a, SEE APPENDIX|见附录
 ed6f8245, realistic|photorealistic
 ed790e00, Persona
 ed7ab329, realistic|photorealistic
+ed80da5b, 3d_comic_body
 ed87e89c, tchnclr style
 ed89f73a, big eyes|pale skin|glossy lipstick
 ed977a93, bambaa, bambaa_v10.ckpt
