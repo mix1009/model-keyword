@@ -2883,6 +2883,7 @@
 7e0020ad, Realistic
 7e16fd1a, usfarha
 7e232ae2, none
+7e446878, + quality prompt example:|masterpiece|high_quality|highres||- quality prompt example:|worst_quality|bad_quality
 7e67267b, eldmeisterOG
 7e6c193b, Real|realistics
 7e894e6c, source_anime|anime
