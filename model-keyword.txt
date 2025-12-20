@@ -213,7 +213,6 @@
 079bb56e, country flag
 07bf243e, score_9|score_8_up|score_7_up|oil painting|traditional medium
 07e7dc81, man
-07f880d1, furry
 080a6a61, westerpunk|western_punk|ninjapunk|ninja_punk|augments|implants|mechanical_arms|post-apocalypse|post apocalyptic|vikingpunk|viking_punk
 081160b4, Beautiful Asian girls
 0817babf, sks chessevolved
@@ -2752,6 +2751,7 @@
 7746fc20, marongcheng art, mrcV1_.ckpt
 7746fc20, titlefont, titlefontOriental_v10.ckpt
 7746fc20, vector|raster|exaggerate body proportion|big, modill_v10.ckpt
+77549b38, furry
 7767d0f8, furry
 77691103, modern anime style|
 776d02ce, nai3|[ningen_mame]|ciloranko|[sho_sho_lwlw]|[[tianliang duohe fangdongye]]|[[rhasta]]|year 2023|
@@ -4296,7 +4296,6 @@ bda88570, modern disney style
 bdb4b12c, by popqn
 bdd04c5e, noble ai|nobleai|noblemixfix
 bde477d2, junemodel
-bde5e85a, furry
 bdec7588, richevans
 be141210, bakirda|kridaba|DaKriDi|dikrida
 be2cde01, sabrinasalerno
@@ -4616,7 +4615,6 @@ cd22968e, whatif style
 cd3bb82a, furry
 cd4d8648, oil painting|traditional medium
 cd6e3af1, ajapplegate
-cd702e48, furry
 cd72665c, sks person
 cda39816, ccdwr artstyle, conceptCharacter_ccdwrArtstyleBV0.safetensors
 cda39816, ccdwr illustration, conceptCharacter_ccdwrIllustrationBV0.safetensors
@@ -5498,6 +5496,7 @@ f3ae58c4,
 f3b011a6, furry
 f3c2f77e, photorealism||realistic|
 f3dae826, BRAV5_Realisianv50_PFv30
+f3f202d5, furry
 f3ff3ac7, Anime Style
 f44e6e9c, 1boy|young|cute
 f457c3e6, shiinamashiro
