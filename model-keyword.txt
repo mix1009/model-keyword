@@ -771,6 +771,7 @@
 1630eb1e, graphic design|typography|text: "your  text"
 16527de9, realism|realistic|cinematic|photo realism
 16552af2, sks woman
+168283cd, asian woman|photorealistic|lomoxfilm style
 168f95ca, asim style
 16af7a28, none
 16c2e9fc, longziyan
@@ -1261,6 +1262,7 @@
 2ddbeb01, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 2e4cd82a, looking at the viewer|beautiful detailed face|beautiful detailed eyes|beautiful long hairstyle|vibrant light|shadow detailed|highly detailed|cinematic|film grain|photo|ultrarealistic|HDR|beautiful and aesthetic|masterpiece|ultra wide angle|fujifilm|creative
 2e6bbced, vectorartz
+2e6ef554, Furry
 2e719f2a, CHV3CWrestler|CHV3CReptile|CHV3CAnimal|CHV3CNinja|CHV3CAnthro|CHV3CDino|CHV3CFoodPorn|CHV3CDeepSea|CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDiner|CHV3SGarden|CHV3SFair|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld
 2e924ee9, cocoart
 2ea457e8, evang
@@ -2336,6 +2338,7 @@
 6394fbd4, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 63994174, nasolabial folds|wrinkles|crossdressing
 63b61c91, xplus
+63b6d578, asian woman
 63d09205, latex|latex catsuit|latex corset|bondage|bound|metal collar|metal cuffs|swedish collar|swedish cuffs
 63dc2f31, vintage|book cover|surrealist|text
 63ec42c3, noble ai|noble mix fix|reality|noblemixfix|person|character|photograph
@@ -3043,6 +3046,7 @@
 86443106, ameliaintan
 8644d3fc, realistic
 864e0609, Anime|Manga|Cartoon
+86591cb6, western comics style|watercolor medium
 86613a53, ANIME|SEX
 8663e8f6, photo of geoxor album artwork
 866f9274, sakimi mix
@@ -5217,6 +5221,7 @@ e71fd35b, SEE INTRODUCTION|见介绍部分
 e728ca1e, Mogeko|Okegom|Funamusea
 e7300f3d, modelshoot style|analog style|mdjrny-v4 style|nousr robot|dreamlikeart
 e742f6fb, dal
+e74537e1, masterpiece|best quality|very aesthetic|newest|absurdres|scenery|
 e74dc310, BZ4X
 e757ceb6, [realistic lighting]|[photo]|[photorealistic]
 e767908b, Game illustration|Chinese costume
