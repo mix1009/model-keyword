@@ -771,7 +771,8 @@
 1630eb1e, graphic design|typography|text: "your  text"
 16527de9, realism|realistic|cinematic|photo realism
 16552af2, sks woman
-168283cd, asian woman|photorealistic|lomoxfilm style
+168283cd, asian woman, 2127ZImageAsianUtopian_v15ZSVD.safetensors
+168283cd, asian woman|photorealistic|lomoxfilm style, 2127ZImageAsianUtopian_v10Turbo.safetensors
 168f95ca, asim style
 16af7a28, none
 16c2e9fc, longziyan
@@ -2891,6 +2892,7 @@
 7de2ea0f, ishizuka
 7dfdb9a7, augments|implants|mechanical_arms|post-apocalypse|post apocalyptic|vikingpunk|viking_punk|stillsuit
 7e0020ad, Realistic
+7e1229d6, toon style
 7e16fd1a, usfarha
 7e232ae2, none
 7e446878, + quality prompt example:|masterpiece|high_quality|highres||- quality prompt example:|worst_quality|bad_quality
@@ -2961,6 +2963,7 @@
 81f5123b, 1girl|pinup|female focus|solo|
 81f77d29, HARDblend
 81fa8dc4, dunhuang|dunhuang_background|dunhuang_face
+820320a8, masterpiece|best quality|very aesthetic|absurdres|detailed face|detailed background|
 8206821b, woman
 820c4a3e, by sy4
 8217678b, <niji-se-3d>
