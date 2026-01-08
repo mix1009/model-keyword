@@ -4712,6 +4712,7 @@ d12d9c15, aki|aoki|aoi|nobu|sota
 d14d4d5f, anime in real life|photo background
 d15bbd95, YukimuraAoi|YukimuraAoi Twintail|KuraueHinata|KuraueHinata Hairdown|AobaKokona|KurosakiHonoka|SaitoKaede|SasaharaYuka|SenjuinKoharu|OnozukaHikari|MioYama|TakekanaKasumi|YuriYama|AobaMai|KuraueMai|YukimuraMegumi|YukimuraMakoto|KuraueKenichi|Suusan|KurosakiTaiki
 d164c734, 4x-animesharp
+d164e6e3, Furry
 d1708df8, sd-prohib|broad brushstrokes|medium brushstrokes|fine brushstrocks|painterly|sentimental|pictorial|idealism|family life|romance|adventure|action|1914|1920|1924|1925|1928|1930|1933|1934|1937
 d184f857, bdicon
 d1a17517, Smoooth-0-1
@@ -5501,6 +5502,7 @@ f32626be, estilovintedois, vintedoisDiffusionV0_v01.ckpt
 f32626be, heixuan furry, kuroteroHeixuanFurry_v10.ckpt
 f33a859a, Asian, ianAsian_v20.safetensors
 f33a859a, asian, ivanNova_ivanNovaIllv2.safetensors
+f340a117, 99bsy99
 f340e618, lyh_niji|anime|1girl|lyh
 f341184d, msfluentui style
 f3653237, anime|anime girl|anime man|anime style, sdxlYamersAnime_ysAnimeV5.safetensors
