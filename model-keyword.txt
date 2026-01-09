@@ -771,7 +771,7 @@
 1630eb1e, graphic design|typography|text: "your  text"
 16527de9, realism|realistic|cinematic|photo realism
 16552af2, sks woman
-168283cd, asian woman, 2127ZImageAsianUtopian_v15ZSVD.safetensors
+168283cd, asian woman, 2127ZImageAsianUtopian_v20FF.safetensors
 168283cd, asian woman|photorealistic|lomoxfilm style, 2127ZImageAsianUtopian_v10Turbo.safetensors
 168f95ca, asim style
 16af7a28, none
@@ -1833,6 +1833,7 @@
 4df9b23a, Girl
 4dfa4e45, Ghibli
 4dff2fdc, kazuma_kaneko
+4e083592, asian woman
 4e3a43a0, texts
 4e4a0067, polumna
 4e52f5e9, {anime}|anime screencap|anime coloring
