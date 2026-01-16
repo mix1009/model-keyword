@@ -3273,6 +3273,7 @@
 91f95953, lineart|monochrome|white background|score_9_up|score_8_up|score_7_up|score_6_up
 9207f242, realistic|photorealistic|ultra realistic|photorealism|raw photo|realistic photo|realism|photo|raw picture
 920e21fa, rcnz_hqr
+921060ef, Garden1a
 92144649, yuzu$style
 921ec477, BONDARTS
 92352ab1, chinese hanfu:1.2
