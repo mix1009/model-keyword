@@ -2150,6 +2150,7 @@
 5bc15c26, anipoveby style, nebulaiAzure_10.safetensors
 5bc15c26, arosen style|cherrmous style|kuvshinov style|samdoesart style|thepit style|owler style, butterflyEclipse_10.safetensors
 5bc15c26, baglovusel style, paintedReality_10.safetensors
+5bc15c26, banimi style, cheekyFlarePony_10.safetensors
 5bc15c26, basymga style|epcom style, mightToonLegend_10.safetensors
 5bc15c26, bihyboos style, hyperthickBelles_10.safetensors
 5bc15c26, bogify style, bombshellBliss_10.safetensors
@@ -4457,7 +4458,7 @@ c3ac0992, 1boy|muscle|massive chest|big chest|huge pec|nipples|nude|abs perfect 
 c3b103e8, lvmd aesthetic|3d render
 c3c086d6, artstyle bse
 c3c1dc18, a painting in the style of guidao style, wlopArienwlopstylexl_v10.safetensors
-c3c1dc18, furry, lunoFURRYIllustrious_v10IL.safetensors
+c3c1dc18, furry, rekemono_v10IL.safetensors
 c3c1dc18, score_9|score_8_up|score_7_up, incursiosMemeDiffusion_v27PDXL.safetensors
 c3cfd75d, powa
 c3d52f46, Ayana Fujisawa, ayanaFujisawa_v10.safetensors
