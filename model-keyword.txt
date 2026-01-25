@@ -4876,6 +4876,7 @@ d823e66d, oil painting|watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn
 d8371022, ~*~aesthetic~*~
 d843660f, quinn \(league of legends\), quinnFromLeagueOf_quinnNaiMix.ckpt
 d843660f, star guardian neeko, starGuardianNeeko_sgNeekoWd13.ckpt
+d84837a9, <lora:ppkkmoon_dark-000008:.8>|wlop:.4|sakimichan:0.3|<lora:Realistic_Asian_Beauty:.8>|wlop:.4|sakimichan:0.3|<lora:Realistic_Asian_Beauty:.8><lora:ppkkmoon_dark-000008:.8>|wlop:.4|sakimichan:0.3
 d84b15d9, none
 d85d47f1, styhuke|sgnovelcg|sgzeronovelcg|black rock shooter|shiina mayuri|makise kurisu|faris nyannyan|amane suzuha|shiina kagari|okabe rintarou|no humans
 d85fa716, jac|Jac|Jacki
