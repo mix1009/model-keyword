@@ -2906,7 +2906,7 @@
 7dfdb9a7, augments|implants|mechanical_arms|post-apocalypse|post apocalyptic|vikingpunk|viking_punk|stillsuit
 7e0020ad, Realistic
 7e1229d6, absurdres|photorealistic|8k, realHallucinations_v30.safetensors
-7e1229d6, toon style, tulpaToons_v20.safetensors
+7e1229d6, toon style, tulpaToons_v30.safetensors
 7e16fd1a, usfarha
 7e232ae2, none
 7e446878, + quality prompt example:|masterpiece|high_quality|highres||- quality prompt example:|worst_quality|bad_quality
@@ -4421,6 +4421,7 @@ c181b9bd, kemono|nj5furry
 c1918809, cartoon|illustration|toon
 c19435d3, very awa|masterpiece|best quality|year 2024|newest|highres|absurdres
 c194fe5c, furry:1.2|realistic fur|details down to every fluff|big eyes
+c196f97c, smoothmixanime|smoothmixrealism
 c1a0bbf4, lara croft
 c1a72459, girl
 c1cb5ab4, 1girl|moyou
