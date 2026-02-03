@@ -599,6 +599,7 @@
 0ed9b4a6, embroidery by embarg
 0ef3d70b, Lao chen
 0efd6582, 2000s|1990s|1980s|1970s|1960s|1950s|1940s|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jiri tulach style|komrant style|marie dashkova style|olga boyko style|digital art|interior design|macro photography|polaroid style|sucidegirl|wild nature
+0f0439ac, furry
 0f56d9e2, 1man
 0f63c656, insertNameHere
 0f6e0d4b, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
@@ -2178,6 +2179,7 @@
 5bc15c26, lupexery style, peanutGemPony_10.safetensors
 5bc15c26, mainiga style, curvyBloomWestern_10.safetensors
 5bc15c26, majegary style, forbiddenGarden_10.safetensors
+5bc15c26, megepechy style, peachyPearlPony_10.safetensors
 5bc15c26, natsiwy style, cinematicRender_10.safetensors
 5bc15c26, raneymi eyes style, soulSparkIllustrious_10.safetensors
 5bc15c26, rebawisy style, illustratedArtistic_10.safetensors
@@ -2906,6 +2908,7 @@
 7dfdb9a7, augments|implants|mechanical_arms|post-apocalypse|post apocalyptic|vikingpunk|viking_punk|stillsuit
 7e0020ad, Realistic
 7e1229d6, absurdres|photorealistic|8k, realHallucinations_v30.safetensors
+7e1229d6, painterly|oil painting, tulpainterlyXL_masterworks.safetensors
 7e1229d6, toon style, tulpaToons_v30.safetensors
 7e16fd1a, usfarha
 7e232ae2, none
@@ -4523,6 +4526,7 @@ c5ec95b4, loli
 c6211d26, bedroomai
 c627932e, 1girl
 c63f2567, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
+c653437e, nsfw
 c6678361, gmic_\2dxiantiao\
 c670dcdd, Realistic
 c67fbe37, SEE APPENDIX A|见附录A
@@ -5200,6 +5204,7 @@ e4ecadde, Luvriel|red jacket|animescreencap|hat|wings|animecoloring
 e4f504f6, chainsaw|indoors|blood|knife|graveyard|cemetery|cabin|haunted|clown|fog|wherehouse|hoverlook|lake|Michael|gaves|crystal|camp|Freddy|spooky|creepy|Jason|abandoned|balloon|carousel|park|school|Chucky|Pinhead|mask|hotel|mountain|buildings|claws|fear|dread|anguish
 e516b6bd, samdoesarts
 e528fde6, cartoon|anime|style
+e537661a, flat anime
 e53e123b, sheenaeaston
 e54968cb, clone wars style|ahsoka tano|Anakin Skywalker|Bo-Katan|Captain Rex|Count Dooku|Darth Maul|Mace Windu|Obi-Wan Kenobi|Padme Amidala|Palpatine|Yoda
 e54f7049, T-shirt design|Sticker, tShirtDesignsVectorStyle_v10.safetensors
