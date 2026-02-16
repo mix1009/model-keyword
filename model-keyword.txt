@@ -1249,6 +1249,7 @@
 2cee5111, intjpastel
 2cf88589, irmntro person
 2cf9bf02, raiden mei apho
+2d02dec2, hihipuffyamiyumirules2001
 2d0595dd, portrait, Lumina2Luminette_alpha1.safetensors
 2d0595dd, portrait|retro anime, Lumina2Luminette_alpha5.safetensors
 2d168544, Evang
@@ -2167,6 +2168,7 @@
 5bc15c26, chermy style, lastingAllustration_10.safetensors
 5bc15c26, cute|3d|large head|mifletzot style|kdurbasar style|mesubach  style|meraglim style|hiot style, cutest3DIllustrious_10.safetensors
 5bc15c26, cyberpunk style, cyberpunkArt_10.safetensors
+5bc15c26, dark skin, ebonyBabes_10.safetensors
 5bc15c26, datregsy style, 5dHyperspace_10.safetensors
 5bc15c26, ethfilyn style, pastelFiligree_10.safetensors
 5bc15c26, femgen style, softnaughty_10.safetensors
@@ -2184,6 +2186,7 @@
 5bc15c26, mainiga style, curvyBloomWestern_10.safetensors
 5bc15c26, majegary style, forbiddenGarden_10.safetensors
 5bc15c26, megepechy style, peachyPearlPony_10.safetensors
+5bc15c26, mofimy style, futuristicBeauty_10.safetensors
 5bc15c26, natsiwy style, cinematicRender_10.safetensors
 5bc15c26, raneymi eyes style, soulSparkIllustrious_10.safetensors
 5bc15c26, rebawisy style, illustratedArtistic_10.safetensors
@@ -4352,6 +4355,7 @@ be7ddafc, classic disney style
 be82dca2, Altira|Altira style
 be865cac, 1
 be8f9af5, pos: masterwork|masterpiece|best quality|detailed|depth of field|high detail|very aesthetic|neg: lowres|worst quality|low quality|bad anatomy|bad hands
+be943223, hihipuffyamiyumirules2001
 be95deed, aesthetic
 be9edd61, SDXL
 bea3d82e, realistic|ultra real|high score|realistic|cocoart real|high score|
