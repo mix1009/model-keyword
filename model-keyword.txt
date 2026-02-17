@@ -1249,7 +1249,8 @@
 2cee5111, intjpastel
 2cf88589, irmntro person
 2cf9bf02, raiden mei apho
-2d02dec2, hihipuffyamiyumirules2001
+2d02dec2, Talisin|Far Beyond The World|anthro wolf ranger, sdxl_vae_for_a1111.safetensors
+2d02dec2, hihipuffyamiyumirules2001, sdxl_vae_for_a1111.safetensors
 2d0595dd, portrait, Lumina2Luminette_alpha1.safetensors
 2d0595dd, portrait|retro anime, Lumina2Luminette_alpha5.safetensors
 2d168544, Evang
