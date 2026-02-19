@@ -1213,6 +1213,7 @@
 2ad02959, bdicon
 2ad10456, ttaatt
 2add6091, shinyunbok anime
+2ae7cd22, JoaoGriloChar
 2af6c425, catherinebach
 2b00c81c, 123
 2b059ac7, fldsky1
@@ -4156,6 +4157,7 @@ b2ae9510, yuno
 b2b1c23e, Furry
 b2c06b09, natnapinh
 b2c47ed5, LEGOstyle
+b2c94f5a, anime
 b2de9d62, silverfox5213|
 b2e382b8, Photograph|xxxx Features
 b2e6aef1, aptic|zgambuf
@@ -5443,7 +5445,8 @@ eefa7e96, girl|face|beautiful
 ef01c1e8, Henry Cavill|hnrycvll
 ef18eb8a, realistic|photorealistic|realistic skin texture|detailed
 ef2267bd, LIQUID SPLASH|BRTDRPP|Fruitfusion
-ef25f576, fluxtrait|detailed skin|realistic skin
+ef25f576, fluxtrait, fluxtraitFLUXZImageFor_zImageV2.safetensors
+ef25f576, fluxtrait|detailed skin|realistic skin, fluxtraitFLUXZImageFor_zImageV1.safetensors
 ef27e17b, Anime
 ef351c9c, lego mini-figurine|legoman
 ef36509b, high_resolution_detailed_shot_of1|mecha|Style_UE5_Photorealism
