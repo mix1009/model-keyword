@@ -1037,6 +1037,7 @@
 2258c119, CNDigitalArt Style
 2275f2cf, 90s retro anime style|xx year anime style
 228b3ab5, evang
+228b8476, real photo|amateur phot|candid photo|dispensable|可不写
 22a55888, insertNameHere
 22c22e44, Izumi Kenta|Asian|Suit|Black Hair|Tie
 22ca4aaa, guigubahuang|1girl|chinese style
@@ -1502,6 +1503,7 @@
 39e80e37, duskypie|lisdusk1|lisdusk2|kairowez|mdjrny-v4 style
 39ea8d40, Hepburn, mirageAIFlowers_typeH.safetensors
 39ea8d40, flowers, mirageAIFlowers_mirageAIFlowersGirl.safetensors
+39f44a34, anime
 39fcd9e7, pow style|rick roll|fullbody shot
 3a146071, 1girl|solo
 3a20fde5, Oldjourney
