@@ -829,6 +829,7 @@
 18fcf4d0, score_9|score_8_up|score_7_up||score_9|score_8_up|score_7_up|score_6_up|BREAK|score_9|score_8_up|score_7_up|score_6_up||, pulenkompotPonyxl_lebenicaxl.safetensors
 19014c4a, estiloventidois
 190bc75e, 1girl|mecha|
+190f7064, furry
 191173a0, 1
 191d58cb, masterpiece|best quality|very aesthetic|absurdres|
 194778a2, wkc
@@ -3388,6 +3389,7 @@
 95f8d0a7, portrait, 3d_magmixV10.safetensors
 95f8d0a7, マスターチーフ, chilloutmix_NiPrunedFp32Fix.safetensors
 9600da17, master|chief
+9621429f, asian woman
 9629c708, furry|furry girl|furry man|furry woman|furry boy, Berry's Mix.vae.safetensors
 9629c708, vae, me_v10.safetensors
 962b1617, AIO|Anthro|ukiyoe|knotwork
@@ -5229,6 +5231,7 @@ e4d945bf, origtron
 e4e5d050, anime
 e4ecadde, Luvriel|red jacket|animescreencap|hat|wings|animecoloring
 e4f504f6, chainsaw|indoors|blood|knife|graveyard|cemetery|cabin|haunted|clown|fog|wherehouse|hoverlook|lake|Michael|gaves|crystal|camp|Freddy|spooky|creepy|Jason|abandoned|balloon|carousel|park|school|Chucky|Pinhead|mask|hotel|mountain|buildings|claws|fear|dread|anguish
+e4fc3973, furry
 e516b6bd, samdoesarts
 e528fde6, cartoon|anime|style
 e537661a, flat anime
@@ -5609,6 +5612,7 @@ f5c6687f, masterpiece|score_9|score_8_up|score_7_up|best quality|
 f5c67c94, hanfu
 f5d900ae, d
 f5d9c703, snthwve style
+f5df427d, masterpiece|best quality|amazing quality|very aesthetic|highres|absurdres|expressive|detailed background|outline|
 f5eda2c4, BeyondNegative
 f60494f4, Monet|close up|full body|Victorian, noisyElementXL_noisyElementXL.safetensors
 f60494f4, Victorian|Monet|full body|close up, victorianAnimeArtXL_vaxl.safetensors
