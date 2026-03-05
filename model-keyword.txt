@@ -1929,6 +1929,7 @@
 52395e18, none
 52481371, Master Chief
 52500c41, masterpiece|best quality
+52564a9f, stylized|expressive big eyes
 52624c1f, Allosaurus
 52665586, flat vector art|vector illustration
 52898605, oil painting|palette knife|bold brushstrokes|greg rutkowski
@@ -3717,6 +3718,7 @@ a0eca867, WJQWIZARD|WJQKNIGHT|WJQTITAN|WJQJESTER|WJQAUTOMA|WJQDEMON
 a0f4bc4a, Macro
 a0f4ec91, European|detailed skin
 a0f67308, figma|pvc
+a10b4e16, Kei Kishimoto|skirt|socks|shoes|cardigan|school uniform|black bodysuit
 a10f6a56, None needed|but sometimes "painting" or "background art" helps.
 a149572b, CHV3CBigChief|CHV3CBoxer|CHV3CUrban|CHV3COrc|CHV3CGanesh|CHV3CGolem|CHV3CCyberpunk|CHV3CSamurai|CHV3CRobot|CHV3CZombie|CHV3CBird|CHV3MDragon|CHV3CKnight|CHV3CWizard|CHV3CBarb|CHV3CVehicle|CHV3CTroll|CHV3CReaper|CHV3CRogue|CHV3CAlien|CHV3SDark|CHV3SUrban|CHV3SEldritch|CHV3SLighthouse|CHV3SCute|CHV3SMacro|CHV3SSciFi|CHV3SWorld, charhelperFineTuned_fineTunedV1.safetensors
 a149572b, battlemap|dungeon|outdoor, dDBattlemaps_1024V10.safetensors
