@@ -5622,6 +5622,7 @@ f60494f4, Monet|close up|full body|Victorian, noisyElementXL_noisyElementXL.safe
 f60494f4, Victorian|Monet|full body|close up, victorianAnimeArtXL_vaxl.safetensors
 f60494f4, all fours|seiza|wariza|squatting|kneeling|high kick|flying kick|Monet|real life|anime|realistic|Victorian|hand focus|foot focus|full body|close up, noisyElementXL_v25.safetensors
 f60494f4, score_9|score_8_up|score_7_up, copycat_v15.safetensors
+f60494f4, smoothmixanime|smoothmixrealism, smoothmixUltimate_illustriousV20.safetensors
 f60cdabc, yahata umiri \moonlight executioner\|animal ears
 f61ceeaf, xao-arab-girl
 f6239527, brtdrpp
