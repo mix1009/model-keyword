@@ -1174,6 +1174,7 @@
 28b9b487, masterpiece|top quality|best quality|official art|beautiful and aesthetic:1.2|8k|best quality|masterpiece:1.2|no humans
 28bfe9f2, anthro|furry|female|canine
 28c385a0, Bloodborne Style
+28ca816c, furry|long sleeves|nasolabial folds
 28d20569, sks woman
 28e99b90, See Appendix|见附录部分
 28eeaf79, 1girl|anime
@@ -4139,7 +4140,6 @@ b1c32576, anime pencil concept style
 b1ca5929, handsome
 b1df6170, realistic|photorealistic
 b1e359b0, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
-b1f44b3a, furry|long sleeves|nasolabial folds
 b1f4f421, 1girl
 b1facb5b, 1girl, nijiDiffusionXlBase1_v10.safetensors
 b1facb5b, Art|Creepy, 2dCreepyArtMonster_v11.safetensors
