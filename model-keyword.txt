@@ -670,6 +670,7 @@
 12768458, hanfu
 127a2688, masterpiece|best quality||masterpiece|best quality|very aesthetic|high resolution|ultra-detailed|absurdres|newest||masterpiece|best quality|very awa|amazing quality|4k|very aesthetic|high resolution|ultra-detailed|absurdres|newest|
 127f03e7, gtmg woman
+12a02cb8, fluxtrairt|detailed skin
 12aa363c, briefs|muscles|fixed hands|teeth|long legs
 12b37bbf, Source_anime|IRL|Source_irl|Score_9_anime|score_9_irl|source_astronomy|rating_explicit|Rating_safe
 12c978ba, Shigenori Style
@@ -1252,6 +1253,7 @@
 2caa7a2f, SEE INTRODUCTION|见模型介绍|導入セクションを見る
 2cc9e101, pixarstyle
 2cd4cf48, sjh style
+2cd5e48c, Elwyn
 2cdfd31d, Evang, atomicDreamlook_v10.ckpt
 2cdfd31d, evang, atomiccomicV3_v3.ckpt
 2ce026e5, photorealistic
