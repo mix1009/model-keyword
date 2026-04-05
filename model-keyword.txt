@@ -1556,6 +1556,7 @@
 3c401697, redshift style
 3c752646, snvhs
 3c7538b7, mecha
+3c881921, 99bsy99|
 3c8864a8, shadow flat vector art|Minimalism
 3c9f6061, Raw Photo|Realistic skin:1.4|photo realistic:1.4
 3ca4d0fc, asian woman|photorealistic|lomoxfilm style
@@ -2188,6 +2189,7 @@
 5bc15c26, butmajy style, midnightButterfly_10.safetensors
 5bc15c26, cewsteg costume|hand on chest|hand pointing up|horns|cow print|bell|swimsuit|bikini|thighhighs|gloves|elbow gloves|neck bell|cowbell|cow horns|highleg|highleg bikini|choker|collar|cow girl|cow ears, moooIllustrious_10.safetensors
 5bc15c26, chermy style, lastingAllustration_10.safetensors
+5bc15c26, chowofy style, animesqueEffortlessly_10.safetensors
 5bc15c26, cute|3d|large head|mifletzot style|kdurbasar style|mesubach  style|meraglim style|hiot style, cutest3DIllustrious_10.safetensors
 5bc15c26, cyberpunk style, cyberpunkArt_10.safetensors
 5bc15c26, dark skin, ebonyBabes_10.safetensors
@@ -5649,6 +5651,7 @@ f60494f4, smoothmixanime|smoothmixrealism, smoothmixUltimate_illustriousV20.safe
 f60cdabc, yahata umiri \moonlight executioner\|animal ears
 f61ceeaf, xao-arab-girl
 f6239527, brtdrpp
+f6269dc3, anime coloring:1.1|dramatic lighting|intricate details|depth|masterpiece:1.1|best quality:1.1|newest:1.1|absurdres:1.1|highres:1.1
 f6355763, Ajm, xxajm_v10.safetensors
 f6355763, Evang, beejaydel_bjd20000.safetensors
 f63dafbe, Realistic
