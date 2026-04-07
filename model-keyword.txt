@@ -1429,6 +1429,7 @@
 35d51e2e, RAW photo of
 35dc3dbf, evang
 35e0b3a2, b100 woman
+36165165, asian woman
 361eef19, photo|analog style
 36261d2a, furry
 363af6b3, sks
@@ -5270,6 +5271,7 @@ e54f7049, T-shirt design|Sticker, tShirtDesignsVectorStyle_v10.safetensors
 e54f7049, lineart|monochrome|white background|best quality:0.5|worst quality:0.5, furryLineartXl_v10.safetensors
 e5541f03, by Jean Leon|oil painting, jeanLeon0Ckpt_.ckpt
 e5541f03, midjourneyi, 21SDModernBuildings_midjourneyBuildings.ckpt
+e55931ff, western comics \style\
 e5648ecb, realistic_nose|mole|freckles|anime_coloring
 e56b39fb, <lora:koreandolllikeness_v15:0.7>|ultra detailed|raw photo|best quality|realistic:1.2|1 korean|16k|realistic photography|professional color graded|physically based rendering|highres|b-cup|hair wave|suwon hwaseongmun gate|front|casual suit|f 2.4|35mm
 e5787969, ratatatat74
