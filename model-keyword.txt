@@ -2170,6 +2170,7 @@
 5b8f72ee, photo|digital art|lok artstyle|realistic and detailed render|clonewars artstyle|ghibli artstyle|anime artstyle|disney artstyle|realistic and detailed digital art|darkestdungeon artstyle|turtleofcanada artstyle|full-length|medium-shot|closeup|longshot|headshot|beautiful lighting|from behind|silhouette of|street art of|humanoid animal|half-x half-y hybrid animal|anthro animal person|female x furry|dragon|person with wings|giant woman|miniature woman|person morphing into x|korra|nausicaä|san|kiki|videl|aloy|ahsoka|sadie sink|emma watson|maya hawke|zendaya|millie bobby brown|sweatjacket|supergirl outfit with cape|vdo outfit with cape and helmet|kr outfit|watertribe outfit|probending outfit|earthkingdom outfit|finale outfit|zerodawn outfit|mandalore outfit|nso outfit|mononoke outfit|ko outfit|sidecut hairstyle|ponytail hairstyle|lh hairstyle|sh hairstyle|nora hairstyle|lekku hairstyle|nh hairstyle|kh hairstyle|snh hairstyle
 5b98c2a7, N/A
 5ba11045, TheRPGCharGenEsAFArt
+5ba25b23, Syahnk
 5bb1fddd, 1girl|OD_sword_girl
 5bba7f87, as a t-shirt logo in the style of <magifactory> art
 5bba81f8, 3d product render|product render
@@ -2215,6 +2216,7 @@
 5bc15c26, megepechy style, peachyPearlPony_10.safetensors
 5bc15c26, mofimy style, futuristicBeauty_10.safetensors
 5bc15c26, natsiwy style, cinematicRender_10.safetensors
+5bc15c26, ofberecaigy style, overtimeHours_10.safetensors
 5bc15c26, raneymi eyes style, soulSparkIllustrious_10.safetensors
 5bc15c26, rebawisy style, illustratedArtistic_10.safetensors
 5bc15c26, rehabisy style, emberLantern_10.safetensors
@@ -3413,7 +3415,6 @@
 95f8d0a7, portrait, 3d_magmixV10.safetensors
 95f8d0a7, マスターチーフ, chilloutmix_NiPrunedFp32Fix.safetensors
 9600da17, master|chief
-9609b122, Anime|Illustration
 9621429f, asian woman
 9629c708, furry|furry girl|furry man|furry woman|furry boy, Berry's Mix.vae.safetensors
 9629c708, vae, me_v10.safetensors
@@ -4571,6 +4572,7 @@ c5414591, photograph|cosplay|illustration, realcosplay1536px_v21.safetensors
 c5414591, realistic, realcosplay_V10Illust.safetensors
 c558ad6a, soft_nai|soft
 c55e0d84, virtual youtuber|masterpiece|best quality|hololive|lastname name:1.2
+c5611dc2, Detailed XXXX
 c5831305, best quality
 c58a93db, score_9|score_8_up|score_7_up|source anime|
 c58c8bd0, graycolor_boyish
