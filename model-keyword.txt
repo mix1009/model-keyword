@@ -997,6 +997,7 @@
 202360be, by t6, t6Model_t6V115k.safetensors
 202360be, by vima, vimaModel_vimaV13k.safetensors
 204e44e2, B33Lt
+2054f249, scenery
 205e0248, fking_scifi_v2
 20692aa7, painting|Allen Anderson|Earle Bergey|Frank Frazetta|George Gross|Gil Elvgren|Glen Orbik|Robert Maguire|Robert Stanley|Tom Lovell|scifi|fantasy|western|crime|mystery|pulp style
 206c6d91, polyna
@@ -2198,6 +2199,7 @@
 5bc15c26, cyberpunk style, cyberpunkArt_10.safetensors
 5bc15c26, dark skin, ebonyBabes_10.safetensors
 5bc15c26, datregsy style, 5dHyperspace_10.safetensors
+5bc15c26, eiganify style, masterfulAnimation_10.safetensors
 5bc15c26, ethfilyn style, pastelFiligree_10.safetensors
 5bc15c26, femgen style, softnaughty_10.safetensors
 5bc15c26, fisatiltw style|fisatilon style|xvizenin style|mitoleon style|balecxitoo style|tamawipho style|sakdl style|samdoesart style|kuvshinov style|arosen style|cherrmous style|owler style|thepit style|colorful hair|colorful drawing|metahuman style|daz3d style|Emilia|woman, fiveStarsIllustrious_40.safetensors
