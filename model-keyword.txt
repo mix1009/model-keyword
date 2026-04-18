@@ -1101,6 +1101,7 @@
 250dbb13, lineart|monochrome|white background|score_9|score_8_up|score_7_up
 250e12ad, humanoid robot
 250eb705, watercolor
+2512f998, masterpiece|best quality|score_7|safe|digital comic-style illustration|solo|full_body|1girl|m4rryt4ffy
 251e372f, surreal
 25200a09, checpoint
 2532eb3a, fluxtrait
@@ -2201,6 +2202,7 @@
 5bc15c26, datregsy style, 5dHyperspace_10.safetensors
 5bc15c26, eiganify style, masterfulAnimation_10.safetensors
 5bc15c26, ethfilyn style, pastelFiligree_10.safetensors
+5bc15c26, faipentsy style, paintedMysteryChaos_10.safetensors
 5bc15c26, femgen style, softnaughty_10.safetensors
 5bc15c26, fisatiltw style|fisatilon style|xvizenin style|mitoleon style|balecxitoo style|tamawipho style|sakdl style|samdoesart style|kuvshinov style|arosen style|cherrmous style|owler style|thepit style|colorful hair|colorful drawing|metahuman style|daz3d style|Emilia|woman, fiveStarsIllustrious_40.safetensors
 5bc15c26, fleruzy style|fliprizy style|grokify style, auroraFlex_10.safetensors
@@ -3273,6 +3275,7 @@
 8ed998da, INDOOR RENDERING
 8ef1792d, indoor
 8f0bf53d, battle_map
+8f1ebb0f, Kam1_Do
 8f2e1466, art by Boris Groh
 8f33aee9, vertico
 8f488fb6, seconddusk
@@ -3471,6 +3474,7 @@
 986c860f, Realistic|Art|Surreal|Experimentell
 98846750, Captain|Risk of Rain 2|Captain Risk of Rain 2, animety.ckpt
 98846750, Flux Realistic | Asian Female V3-lite, amenity.ckpt
+98846750, just do, amenity.ckpt
 98846750, orca tail|fins|orca girl|orca tail|lifting up tail||dolphin tail|fins|dolphin girl|dolphin tail||beluga whale tail|fins|beluga whale girl|beluga whale tail||anklyosaurus tail|anklyosaurus tail club|ankylosaurus girl|ankylosaurus tail||night fury tail|night fury fins|night fury girl|night fury tail|night fury wings|dragon girl|dragon wings|dragon tail||monkey tail|white monkey tail|monkey girl|monkey tail||diplodocus tail|longer tail|diplodocus girl|diplodocus tail||canadian goose wings|big wings|feathers|goose girl|goose wings|, animety.ckpt
 98891ea9, an illustration of an isometric city|digital art|highly detailed
 98aca856, digital art|warlockandboobs|cartoon|masterpiece|<SIZE> BREASTS|<size> ass|<size> belly|hyperbreasts|hyperass|flat chest
@@ -3768,6 +3772,8 @@ a150faa4, icon|blender|C4D
 a158de14, 1990s style|1980s style|2000s style|retro artstyle
 a1667951, furry|anthro
 a184fedc, gigafractal artstyle
+a1aa13da, Kam1_Do, v10F_v2d.safetensors
+a1aa13da, just do, v10F_v122.safetensors
 a1d9f84f, ArsMJStyle|Watercolor, arsMidjourneyPony_watercolorPonyV01.safetensors
 a1d9f84f, anime|style|woman, gnomePower_v111.safetensors
 a1d9f84f, huge breasts|gigantic breasts, bNARHBBrightNightAnd_v10.safetensors
