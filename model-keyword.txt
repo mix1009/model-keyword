@@ -2218,6 +2218,7 @@
 5bc15c26, mainiga style, curvyBloomWestern_10.safetensors
 5bc15c26, majegary style, forbiddenGarden_10.safetensors
 5bc15c26, megepechy style, peachyPearlPony_10.safetensors
+5bc15c26, minecraft style, minecraftHomage_10.safetensors
 5bc15c26, mofimy style, futuristicBeauty_10.safetensors
 5bc15c26, natsiwy style, cinematicRender_10.safetensors
 5bc15c26, ofberecaigy style, overtimeHours_10.safetensors
