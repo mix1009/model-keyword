@@ -2436,6 +2436,7 @@
 65961cf8, cartoon|cartoon style, Liquid0111vae.safetensors
 65961cf8, forehead|nasolabial folds|realistic nose|acne, Liquid0111vae.safetensors
 65961cf8, nasolabial folds|wrinkles|anime_coloring, Liquid0111vae.safetensors
+65a6d7c0, western comics \style\
 65a9683a, chibi
 65ae8f5b, anime_screenshot
 65bb0985, SYAHNK
@@ -3867,6 +3868,7 @@ a4932d59, realistic|photorealistic|realistic skin texture|detailed
 a499f7e7, roasted pig
 a4dbc300, pikachu
 a4e4cfcf, lowbrow
+a50e912e, jwsfsgrl|refined woman|sophisticated elegance
 a516c7c0, rotungwoka person
 a5183478, art by better with salt|kipteitei|woot
 a536207b, a painting by mse
