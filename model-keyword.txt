@@ -778,6 +778,8 @@
 16552af2, sks woman
 168283cd, asian woman, 2127ZImageAsianUtopian_v20FF.safetensors
 168283cd, asian woman|photorealistic|lomoxfilm style, 2127ZImageAsianUtopian_v10Turbo.safetensors
+168c33d5, Nasolabial folds|furry|anthro|arthropod|cross dressing, qwenimageVAE_liquid1087.safetensors
+168c33d5, furry|long sleeves|nasolabial folds, qwenimageVAE_liquid1087.safetensors
 168f95ca, asim style
 16af7a28, none
 16c2e9fc, longziyan
@@ -1054,6 +1056,7 @@
 22d51e85, anime|cartoon
 22dd7942, secxyfpi style
 231d588a, photo of benzaki women
+2321f5a9, Nasolabial folds|furry|anthro|arthropod|cross dressing
 23234436, furry
 2323d67c, SLE|mksks style|detailed background
 23245ceb, realistic|realism|photo
