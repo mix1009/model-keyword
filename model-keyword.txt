@@ -779,6 +779,7 @@
 168283cd, asian woman, 2127ZImageAsianUtopian_v20FF.safetensors
 168283cd, asian woman|photorealistic|lomoxfilm style, 2127ZImageAsianUtopian_v10Turbo.safetensors
 168c33d5, Nasolabial folds|furry|anthro|arthropod|cross dressing, qwenimageVAE_liquid1087.safetensors
+168c33d5, anthro|furry|cross dressing|nasolabial folds, qwenimageVAE_liquid1087.safetensors
 168c33d5, furry|long sleeves|nasolabial folds, qwenimageVAE_liquid1087.safetensors
 168f95ca, asim style
 16af7a28, none
@@ -1467,6 +1468,7 @@
 36f1e334, Evang
 3706616b, furry girl
 37114932, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
+37219c20, anthro|furry|cross dressing|nasolabial folds
 372af36f, LOXELFACE
 3734412f, aarakocra|aasimar|air_genasi|centaur|dragonborn|drow|dwarf|earth_genasi|gnome|elf|firbolg|fire_genasi|gith|goblin|goliath|halfling|human|illithid|kenku|kobold|lizardfolk|minotaur|orc|tabaxi|thrikreen|tiefling|tortle|warforged|water_genasi|artificer|bard|barbarian|cleric|fighter|druid|monk|paladin|rogue|ranger|sorcerer|warlock|wizard|noble|townsperson
 3747a99f, iayuso person
@@ -5665,6 +5667,7 @@ f4d8697e, lastname name
 f4dd44ad, svtbuild
 f4e211e8, lora
 f4f5e408, rwx woman
+f4f74b76, chibi
 f506e136, Futuristic city|drone view|
 f529fdc6, surreal
 f536a061, wvyari
