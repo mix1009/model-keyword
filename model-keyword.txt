@@ -1504,6 +1504,7 @@
 384b447c, aimoji
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 385b7e62, score_9|score_8_up|score_7_up|score_6_up
+388a8b02, muscular female
 3894f864, marble
 38ab73a7, game icon institute|game icon, gameiconinstitute_v20.safetensors
 38ab73a7, game icon institute|game icon|Anthropomorphism, gameiconinstitute_v10.safetensors
@@ -5654,7 +5655,8 @@ f3dae826, BRAV5_Realisianv50_PFv30
 f3f202d5, furry
 f3ff3ac7, Anime Style
 f44e6e9c, 1boy|young|cute
-f453bce8, pokemon \anime\|anime coloring
+f453bce8, artist: ixy|artist: akai sashimi, kiwitrainedCKXL_v03.safetensors
+f453bce8, pokemon \anime\|anime coloring, poketrainedXL_v02BetaCKXL.safetensors
 f457c3e6, shiinamashiro
 f465d2bc, score_9|score_8_up|score_7_up|score_6_up
 f4744654, SD 3.5 Large New test
