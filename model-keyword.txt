@@ -168,6 +168,7 @@
 04dc4f68, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|Analog Style|Watercolor
 04dfda4c, Z-Image-De-Turbo|de-distilled
 04e247cb, photo \medium\|high quality|unsplash|flickr|onlyfans|reddit|fansly|instagram||r/gonewild|r/gonewild18|r/nsfw|r/nsfwcosplay|r/realgirls|r/cumsluts|r/legalteens|r/collegesluts|r/asiansgonewild|r/pussy|r/milf|r/adorableporn|r/nude_selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/latinas|r/godpussy|r/amateur|r/xsmallgirls|r/18_19|r/workgonewild|r/palegirls|r/paag|r/ass|r/asstastic|r/asshole|r/assholegonewild|r/upskirt|r/toocuteforporn|r/tinytits|r/altgonewild|r/traps|r/femboys|r/gwcouples|r/cutelittlebutts|r/girlswithglasses|r/petitegonewild
+050864f5, moody photography
 050f0bae, Analog Style|Photorealistic|Realistic|Mature Adult|Fantasy Art|Illustration|Watercolor|Concept Art|Oil Painting|Surrealism|Brush Strokes|Pointillism|Hyperrealistic|Perfect Shading|Masterpiece|Subsurface Scattering|Perfect Lighting|Volumetric Lighting
 0519e070, nerdphoton1, nerdPhoton1_v10.ckpt
 0519e070, nerdphoton2, guttoNerdPhoton2_v20.ckpt
@@ -619,6 +620,7 @@
 100dbe92, evang, lostBearChibiSketch_v10.safetensors
 1016dbcd, Mobian or Sonic character name
 101d2d78, barbieworld
+101dcbfc, moody photography
 10206b6c, clothes_jingju
 10209fd6, dalcefo
 1024463c, realistic|photorealistic
@@ -3196,6 +3198,7 @@
 895f5d25, dal|photo
 89892ec8, dal
 89a3f11a, gatto
+89a8eeca, moody photography
 89abf451, masterpiece|best quality, clearvae_main.safetensors
 89abf451, sugar_rune, clearvae_main2.safetensors
 89e5f84d, Lineart|LineAniAF
