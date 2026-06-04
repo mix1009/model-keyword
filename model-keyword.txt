@@ -243,6 +243,7 @@
 092ba51a, dark skin, babesEbonyAshePony_10.safetensors
 092ba51a, gptibli style, hamseenIllustrious_10.safetensors
 092ba51a, threslol style, celestialShine_10.safetensors
+093463b5, western comics \style\
 09476ff6, oil painting|traditional medium
 0952387e, 3d|realistic
 0963da31, masterpiece|best quality
@@ -787,6 +788,7 @@
 168c33d5, Nasolabial folds|furry|anthro|arthropod|cross dressing, qwenimageVAE_liquid1087.safetensors
 168c33d5, anthro|furry|cross dressing|nasolabial folds, qwenimageVAE_liquid1087.safetensors
 168c33d5, furry|long sleeves|nasolabial folds, qwenimageVAE_liquid1087.safetensors
+168c33d5, nasolabial folds|aged up|crossdressing, qwenimageVAE_liquid1087.safetensors
 168f95ca, asim style
 16af7a28, none
 16c2e9fc, longziyan
@@ -2044,6 +2046,7 @@
 557c4390, raw photo|fashion photo|anime artwork|cotton doll|simple drawing|cosplay photo
 5589cf59, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 55a0737a, 2000s|1990s|1980s|1970s|1960s|1950s|1940s|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jiri tulach style|komrant style|marie dashkova style|olga boyko style|digital art|interior design|macro photography|polaroid style|sucidegirl|wild nature
+55a3d9a6, nasolabial folds|aged up|crossdressing
 55d13021, 3d style
 55e99e63, anime screencap|anime|anime coloring|anime screencap|anime screencap, realSimpleAnime_v10.safetensors
 55e99e63, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up, trueAnimeStylePony_v1.safetensors
@@ -2253,6 +2256,7 @@
 5bc15c26, raneymi eyes style, soulSparkIllustrious_10.safetensors
 5bc15c26, rebawisy style, illustratedArtistic_10.safetensors
 5bc15c26, rehabisy style, emberLantern_10.safetensors
+5bc15c26, sadosebly style, samdoessexyBlend_10.safetensors
 5bc15c26, sagimak style, smokeyGleam_10.safetensors
 5bc15c26, sakdl style|jenreed woman|tinbld woman|korbrw woman|perbld woman|catbrn woman|gilbld woman|amibld woman|betbrn woman|selbld woman|minbld woman|angbrn woman, plasticWaifus_10.safetensors
 5bc15c26, secxyfpi style, sexyToonsFeatPipa_30Illustrious.safetensors
@@ -4750,6 +4754,7 @@ cbdd62b4, realistic
 cbdffc5e, cat
 cbe19f18, chinese|chinese weidness
 cbef871f, sks
+cbf93fe4, c1tr0n|
 cc11c0ef, masterpiece|best quality|
 cc30ad23, lamia|harpy|centaur|etc....|most mge girls half work
 cc49ac37, bigbadejo alien_monster
@@ -5578,6 +5583,7 @@ ef82149e, score_9|score_8_up|score_7_up
 ef91d6a9, Jacey
 efb4f447, furry|Male
 efd54274, elden ring style
+efd663fb, anime|anime_coloring|anime_screenshot
 efdd9fcf, GAME ICON, gameIconInstitute_v20.safetensors
 efdd9fcf, game icon, gameIconInstitute_v21.safetensors
 efe608ac, Clay Mann
