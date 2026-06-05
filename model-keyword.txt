@@ -3200,6 +3200,7 @@
 887478e2, oumeifeng style|redshift style|style of joemadureira|samdoesarts style
 88b8d946, desi_fit_girl, realisticFitGirls_desi.safetensors
 88b8d946, goose_fit_girl, realisticFitGirls_goose.safetensors
+88e2288a, masterpiece|best quality|very aesthetic|absurdres|very awa|cinematic|
 88feab1f, all natural input will work special to generate sides views|with any vae|1girl, omnicharactermaker15_v10.safetensors
 88feab1f, anime|character, charactermaker15_v10.safetensors
 88ff0293, evang
@@ -4514,6 +4515,7 @@ c026097d, LAWDA, tmndmix_v10.safetensors
 c0302f10, Gllltchy style|Gllltchy, gllltchy_v1.ckpt
 c0302f10, filmation motu style, filmationMOTU_v1.ckpt
 c055a24d, Game interface|content|buttons|logo|image content|return|stars|flowers
+c0745cbd, stylized
 c0777389, hanfu
 c08225b2, cherrychan
 c09ca9d2, Photo of brk cat
