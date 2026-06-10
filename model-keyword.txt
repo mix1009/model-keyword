@@ -1430,7 +1430,7 @@
 34a92094, p1xanotherworld, anotherWorldRetro_v20.safetensors
 34a92094, p1xbladerunner, bladeRunnerRetro_v10.safetensors
 34a92094, p1xslavicbeasts, bestiariuszSOwiaSki_v10.safetensors
-34c2215e, masterpiece|best quality|very aesthetic|absurdres|very awa|cinematic|
+34c2215e, masterpiece|best quality|amazing|score_9|score_8|score_7|
 34c64fad, nakamura masumi|blonde hair|blue eyes|white shirt|short sleeves|red ribbon|red skirt|brown skirt
 34cc3331, close up
 34e6f6e6, OSupport
@@ -5523,6 +5523,7 @@ ecf98c5e, valorant style
 ed023c01, score_9|score_8_up|score_7_up|source anime|
 ed0b4125, anime style|illustration|oil painting|analog style|realistic|photorealistic
 ed296396, goldentrig|GTv2
+ed323f96, jwsfsgrl
 ed32f2d8, indie comic style|gouache texture
 ed3f76c1, score_9|score_8_up|score_7_up|score_6_up
 ed5fd74b, chickpea
