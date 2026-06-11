@@ -182,7 +182,8 @@
 05981a2b, chahua
 059e5f2e, anime lineart
 05be6181, a cinccino
-05dc78c1, masterpiece|best quality|highres|absurdres|3d|realistic
+05dc78c1, masterpiece|best quality|highres|absurdres|3d|realistic, qwen_image_vae.safetensors
+05dc78c1, masterpiece|best quality|very aesthetic, qwen_image_vae.safetensors
 05e3efaf, ~*~aesthetic~*~
 05e6c91b, by kokuto
 06055f44, sexy toon
@@ -1511,7 +1512,8 @@
 382d6ed3, sks person
 384b447c, aimoji
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
-3854ec98, masterpiece|best quality|highres|absurdres|3d|realistic
+3854ec98, masterpiece|best quality|highres|absurdres|3d|realistic, blendermixAnima_v1_txt.safetensors
+3854ec98, masterpiece|best quality|very aesthetic, kirazuriAnima_v30AnimaBase1_txt.safetensors
 385b7e62, score_9|score_8_up|score_7_up|score_6_up
 388a8b02, muscular female
 3894f864, marble
@@ -4302,6 +4304,7 @@ b4d010d5, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift
 b4df6423, xdusky1
 b4e2803e, girl
 b4f02391, qianzhi
+b4f49935, masterpiece|best quality|very aesthetic
 b5217013, 1girl|
 b5453f75, DBlinebrush style, linebrushStyle_V21.ckpt
 b5453f75, OOKZAVampire Style, vampireStyle_V20.ckpt
