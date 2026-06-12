@@ -2216,6 +2216,7 @@
 5bc15c26, Vallezzia woman|hand on chest|hand v sign, vallezziaIllustrious_10.safetensors
 5bc15c26, anipoveby style, nebulaiAzure_10.safetensors
 5bc15c26, arosen style|cherrmous style|kuvshinov style|samdoesart style|thepit style|owler style, butterflyEclipse_10.safetensors
+5bc15c26, avesslation style, babes_12i14.safetensors
 5bc15c26, baglovusel style, paintedReality_10.safetensors
 5bc15c26, banimi style, cheekyFlarePony_10.safetensors
 5bc15c26, basthirty style, babes_12i13.safetensors
@@ -3536,7 +3537,8 @@
 98891ea9, an illustration of an isometric city|digital art|highly detailed
 98aca856, digital art|warlockandboobs|cartoon|masterpiece|<SIZE> BREASTS|<size> ass|<size> belly|hyperbreasts|hyperass|flat chest
 98acd4e4, RPG|realistic|base model|fantasy|semi-realistic|character
-98aff837, +prompt:|masterpiece|best quality|-prompt:|worst quality|bad quality|
+98aff837, +prompt:|masterpiece|best quality|-prompt:|worst quality|bad quality|, illustrijEVO_lvl2.safetensors
+98aff837, Flat Color|Pixel Art, toonMouseIllustrious_toonMouseV10.safetensors
 98c37fb6, 美女
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
 98fe4820, score_9|score_8_up|score_7_up
