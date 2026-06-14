@@ -762,6 +762,7 @@
 150aae87, 1girl
 150ed84f, Comic Style|Illustration|Line Art|Comic Poster|Realistic
 15110206, realistic|photorealistic
+151aef9f, Anime
 151f0afb, @Spirited, spiritedAwayGeneralModel_Spirited.ckpt
 151f0afb, mobian, sonicdiffusion_v2Anything.ckpt
 15254b92, analog style|chromav5|nvinkpunk
@@ -1679,6 +1680,7 @@
 4252b916, jeanmessiha person|jeanmessiha
 425952fe, dalcefo
 426cf881, xxmixgirl
+427a3fb6, white|green
 427f2bc6, girl|men
 4283ebdc, GOLDENGLASS|MAXWELL THE CAT|POKEMODEL|ChromaV5
 428509f3, meitu|sailor moon style|anime style|manga
