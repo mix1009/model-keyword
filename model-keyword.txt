@@ -118,6 +118,7 @@
 02f311af, model|nabha, realnabha_v10.ckpt
 02f311af, poggers, pactWithWhitch_v10.ckpt
 02f311af, resha, lyrielWithResha_v10.ckpt
+02f5a868, [score_9_up|score_9|score_8_up|ultra detailed|high quality|source_anime]|
 02faa048, sphx style
 030566be, 1girl
 030933d0, l4lisa
@@ -184,6 +185,7 @@
 05be6181, a cinccino
 05dc78c1, masterpiece|best quality|highres|absurdres|3d|realistic, qwen_image_vae.safetensors
 05dc78c1, masterpiece|best quality|very aesthetic, qwen_image_vae.safetensors
+05dc78c1, score_9|score_8|score_7|amazing quality|awesome|inspiring|cinematic composition|soft shadows|Film grain|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|imperfections|natural|shallow dof|best quality|photorealistic|raw photo|sensitive|ultra detailed|photo background||score_9|score_8|score_7|amazing quality|awesome|cinematic composition|soft shadows|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|natural|best quality|Film grain|photorealistic|raw photo|photo background|sensitive:1.5|ultra detailed|{prompt}|, qwen_image_vae.safetensors
 05e3efaf, ~*~aesthetic~*~
 05e6c91b, by kokuto
 06055f44, sexy toon
@@ -1515,6 +1517,7 @@
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 3854ec98, masterpiece|best quality|highres|absurdres|3d|realistic, blendermixAnima_v1_txt.safetensors
 3854ec98, masterpiece|best quality|very aesthetic, kirazuriAnima_v30AnimaBase1_txt.safetensors
+3854ec98, score_9|score_8|score_7|amazing quality|awesome|inspiring|cinematic composition|soft shadows|Film grain|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|imperfections|natural|shallow dof|best quality|photorealistic|raw photo|sensitive|ultra detailed|photo background||score_9|score_8|score_7|amazing quality|awesome|cinematic composition|soft shadows|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|natural|best quality|Film grain|photorealistic|raw photo|photo background|sensitive:1.5|ultra detailed|{prompt}|, miaomiaoAnimeReality_ani10_txt.safetensors
 385b7e62, score_9|score_8_up|score_7_up|score_6_up
 388a8b02, muscular female
 3894f864, marble
@@ -2500,6 +2503,7 @@
 66ab1e7a, portrait+ style|modelshoot style|analog style|timeless style|lomo style|nsfw|nudity, photomerge_v12.safetensors
 66b4c45e, archer style
 66ba974f, movie|cg
+66bc2971, marv3lspr8y
 66bd3bf0, space nebula|fog|dust|star cluster|space dust
 66c3d376, caebhx|dark purple hair|red eyes
 66c87a89, sybildanning
@@ -2580,6 +2584,7 @@
 6aafdc8d, furry
 6ab06e33, Tifa Lockhart|Cloud Strife|Barret Wallace|aerith gainsborough|midgar city|midgar city business district|midgar city slums district|biggs ff7r|wedge ff7r|jessie rasberry|inside seventh heaven bar|shinra security officer|in the style of midgar city
 6abd9611, score_9|score_8_up|score_7_up|
+6ac68464, score_9|score_8_up|score_7_up|source_anime|B&W|grayscale
 6ac8f9dc, sks person|(sks person)
 6ae1720a, in the artstyle of dd
 6ae9e638, girl
@@ -3502,7 +3507,6 @@
 975e371a, 'anime
 9769f791, realistic
 97730110, chibi|child|
-97767e7e, marv3lspr8y
 97777800, swpunk|synthwave|paint splatters
 977e7ed7, masterpiece|best quality|newest|absurdres|highres
 978e9ff8, h4zza
@@ -4697,6 +4701,7 @@ c7ff699d, anipoma1
 c8078318, Evang
 c8229429, coloring page|b&w|line art|monochrome
 c823af2a, GGH23 person
+c84db880, @blender
 c8627730, inkwash style|xianxia style
 c86334f5, itojunji style
 c867742d, score_9|score_8_up|score_7_up|score_6_up
@@ -4797,6 +4802,7 @@ cd3bb82a, furry
 cd4d8648, oil painting|traditional medium
 cd6e3af1, ajapplegate
 cd72665c, sks person
+cd98ef74, [score_9_up|score_9|score_8_up|ultra detailed|high quality|source_anime]|
 cda39816, ccdwr artstyle, conceptCharacter_ccdwrArtstyleBV0.safetensors
 cda39816, ccdwr illustration, conceptCharacter_ccdwrIllustrationBV0.safetensors
 cda836aa, aimoji
@@ -4982,6 +4988,7 @@ d618bae7, fellatrix style|maidoll style|incase style|mamimi style|momofuki rio s
 d61a0cdc, egardiner
 d62ddc80, furry
 d62f1d54, photorealisitc
+d6322f65, @blender
 d634b8cb, Hina, itshinaInstagramModel_hina.ckpt
 d634b8cb, MRTA23 person, mrta23_v10.ckpt
 d634b8cb, kvn, myModelKevin_v10.ckpt
@@ -5439,6 +5446,7 @@ e881533d, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
 e8a0ce25, by kayahara
 e8a4d49b, elbow gloves|butterfly|navel|dress|wings|headband|black hair|brown eyes|kuroyukihime|flat breasts
 e8aa974a, niji6|niji5
+e8be6185, score_9|score_8|score_7|amazing quality|awesome|inspiring|cinematic composition|soft shadows|Film grain|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|imperfections|natural|shallow dof|best quality|photorealistic|raw photo|sensitive|ultra detailed|photo background||score_9|score_8|score_7|amazing quality|awesome|cinematic composition|soft shadows|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|natural|best quality|Film grain|photorealistic|raw photo|photo background|sensitive:1.5|ultra detailed|{prompt}|
 e8bf8633, DUNHUANG|HANFU
 e8c53893, comicbook style
 e8c8476a, by kayahara
