@@ -118,7 +118,6 @@
 02f311af, model|nabha, realnabha_v10.ckpt
 02f311af, poggers, pactWithWhitch_v10.ckpt
 02f311af, resha, lyrielWithResha_v10.ckpt
-02f5a868, [score_9_up|score_9|score_8_up|ultra detailed|high quality|source_anime]|
 02faa048, sphx style
 030566be, 1girl
 030933d0, l4lisa
@@ -186,6 +185,7 @@
 05dc78c1, masterpiece|best quality|highres|absurdres|3d|realistic, qwen_image_vae.safetensors
 05dc78c1, masterpiece|best quality|very aesthetic, qwen_image_vae.safetensors
 05dc78c1, score_9|score_8|score_7|amazing quality|awesome|inspiring|cinematic composition|soft shadows|Film grain|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|imperfections|natural|shallow dof|best quality|photorealistic|raw photo|sensitive|ultra detailed|photo background||score_9|score_8|score_7|amazing quality|awesome|cinematic composition|soft shadows|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|natural|best quality|Film grain|photorealistic|raw photo|photo background|sensitive:1.5|ultra detailed|{prompt}|, qwen_image_vae.safetensors
+05dc78c1, smoothmixanime|anime style|smoothmixrealism|realistic style, qwen_image_vae.safetensors
 05e3efaf, ~*~aesthetic~*~
 05e6c91b, by kokuto
 06055f44, sexy toon
@@ -1518,6 +1518,7 @@
 3854ec98, masterpiece|best quality|highres|absurdres|3d|realistic, blendermixAnima_v1_txt.safetensors
 3854ec98, masterpiece|best quality|very aesthetic, kirazuriAnima_v30AnimaBase1_txt.safetensors
 3854ec98, score_9|score_8|score_7|amazing quality|awesome|inspiring|cinematic composition|soft shadows|Film grain|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|imperfections|natural|shallow dof|best quality|photorealistic|raw photo|sensitive|ultra detailed|photo background||score_9|score_8|score_7|amazing quality|awesome|cinematic composition|soft shadows|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|natural|best quality|Film grain|photorealistic|raw photo|photo background|sensitive:1.5|ultra detailed|{prompt}|, miaomiaoAnimeReality_ani10_txt.safetensors
+3854ec98, smoothmixanime|anime style|smoothmixrealism|realistic style, smoothmixUltimateAnima_anima_txt.safetensors
 385b7e62, score_9|score_8_up|score_7_up|score_6_up
 388a8b02, muscular female
 3894f864, marble
@@ -5701,6 +5702,7 @@ f3653237, anime|anime style, sdxlYamersAnime_ysAnimeV5VAE.safetensors
 f3694755, modelshoot style
 f37775c3, photo of Evang style
 f38569d1, Anime|adult|2.5D|cross dressing|nasolabial folds|wrinkled skin
+f39701de, smoothmixanime|anime style|smoothmixrealism|realistic style
 f3a2ad84, rcnz_niji style
 f3ae58c4, 
 f3b011a6, furry
@@ -5713,6 +5715,7 @@ f453bce8, 3d, cappysRenderArtist_ckxlV11.safetensors
 f453bce8, artist: ixy|artist: akai sashimi, kiwitrainedCKXL_v03.safetensors
 f453bce8, pokemon \anime\|anime coloring, poketrainedXL_v02BetaCKXL.safetensors
 f457c3e6, shiinamashiro
+f4617619, [score_9_up|score_9|score_8_up|ultra detailed|high quality|source_anime]|
 f465d2bc, score_9|score_8_up|score_7_up|score_6_up
 f4744654, SD 3.5 Large New test
 f47ae1fa, sks woman
@@ -5758,7 +5761,7 @@ f60494f4, Monet|close up|full body|Victorian, noisyElementXL_noisyElementXL.safe
 f60494f4, Victorian|Monet|full body|close up, victorianAnimeArtXL_vaxl.safetensors
 f60494f4, all fours|seiza|wariza|squatting|kneeling|high kick|flying kick|Monet|real life|anime|realistic|Victorian|hand focus|foot focus|full body|close up, noisyElementXL_v25.safetensors
 f60494f4, score_9|score_8_up|score_7_up, copycat_v15.safetensors
-f60494f4, smoothmixanime|smoothmixrealism, smoothmixUltimate_illustriousV20.safetensors
+f60494f4, smoothmixanime|smoothmixrealism, smoothmixUltimateAnima_illustriousV20.safetensors
 f60cdabc, yahata umiri \moonlight executioner\|animal ears
 f61ceeaf, xao-arab-girl
 f6239527, brtdrpp
