@@ -175,6 +175,7 @@
 0519e070, nerdphoton2, guttoNerdPhoton2_v20.ckpt
 053a9feb, Oil Painting|Watercolor|John Singer Sargent|Dean Cornwell|Anders Zorn
 0556ed1e, Master Chief
+056dfcec, score_10_up|score_10|score_9_up|score_9|masterpiece|Anime Style illustration
 0579cceb, pixiv masterpiece
 057f38eb, cumonhands|hanging testicles|blackfemale|whitefemale|redbonefemale|cumfacial|blowjobsex|handjobsex|cumshot|cumonbreasts|man's cock|whiteman|blackman|whitecock|blackcock|nakedoldman|one man|eroticposing
 0586db75, cornflower
@@ -184,6 +185,7 @@
 05be6181, a cinccino
 05dc78c1, masterpiece|best quality|highres|absurdres|3d|realistic, qwen_image_vae.safetensors
 05dc78c1, masterpiece|best quality|very aesthetic, qwen_image_vae.safetensors
+05dc78c1, score_10_up|score_10|score_9_up|score_9|masterpiece|Anime Style illustration, qwen_image_vae.safetensors
 05dc78c1, score_9|score_8|score_7|amazing quality|awesome|inspiring|cinematic composition|soft shadows|Film grain|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|imperfections|natural|shallow dof|best quality|photorealistic|raw photo|sensitive|ultra detailed|photo background||score_9|score_8|score_7|amazing quality|awesome|cinematic composition|soft shadows|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|natural|best quality|Film grain|photorealistic|raw photo|photo background|sensitive:1.5|ultra detailed|{prompt}|, qwen_image_vae.safetensors
 05dc78c1, smoothmixanime|anime style|smoothmixrealism|realistic style, qwen_image_vae.safetensors
 05e3efaf, ~*~aesthetic~*~
@@ -1517,6 +1519,7 @@
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 3854ec98, masterpiece|best quality|highres|absurdres|3d|realistic, blendermixAnima_v1_txt.safetensors
 3854ec98, masterpiece|best quality|very aesthetic, kirazuriAnima_v30AnimaBase1_txt.safetensors
+3854ec98, score_10_up|score_10|score_9_up|score_9|masterpiece|Anime Style illustration, v01dANIANIME_baseV1_txt.safetensors
 3854ec98, score_9|score_8|score_7|amazing quality|awesome|inspiring|cinematic composition|soft shadows|Film grain|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|imperfections|natural|shallow dof|best quality|photorealistic|raw photo|sensitive|ultra detailed|photo background||score_9|score_8|score_7|amazing quality|awesome|cinematic composition|soft shadows|shallow depth of field|high budget|cinemascope|epic|color graded cinematic|atmospheric lighting|natural|best quality|Film grain|photorealistic|raw photo|photo background|sensitive:1.5|ultra detailed|{prompt}|, miaomiaoAnimeReality_ani10_txt.safetensors
 3854ec98, smoothmixanime|anime style|smoothmixrealism|realistic style, smoothmixUltimateAnima_anima_txt.safetensors
 385b7e62, score_9|score_8_up|score_7_up|score_6_up
@@ -4828,6 +4831,7 @@ ceab3f7e, jacquelinebisset
 cebf8122, modelshoot style
 cec357eb, photo of|RAW photo of|Analog photo of
 cec8722d, iayuso person
+ced5843e, masterpiece|best quality|score_9|score_8|score_7|score_6|realistic photo|
 cee1e9c9, Bilibin_illustration|retro_anime
 ceede961, wide hips|narrow waist|cat girl|
 cf1f53d1, realistic
@@ -5028,6 +5032,7 @@ d6e9461b, abd
 d6e9d2b1, dvMJv4
 d7049739, cat
 d7149094, lnkdn photography
+d7253b18, western comics style
 d7372b2d, furry
 d75fa7fc, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 d7a25cd0, realistic|photorealistic|detailed
