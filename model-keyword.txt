@@ -2896,6 +2896,7 @@
 7824a38b, aerialstyle
 783b5105, MBH-Pony still built in
 784d29dc, 孙千
+786229a2, Use any sampler with CFG 1-2 - High CFG will BAKE image
 78632683, v3_sd15_mm.ckpt
 7867176b, laura pausini|ela weber sellerona|barbara d'urso barbarona|claudia pandolfi|paola cortellesi|maria elena boschi meb|michela vittoria brambilla|lorena bianchetti|sabrina ferilli|chiara francini|zia mara venier|virginia raggi|fatima trotta|selvaggia lucarelli|sanna marin|elisa isoardi
 786ec626, photo \medium\|high quality|unsplash|flickr|onlyfans|reddit|fansly|instagram||score_9|score_8_up|score_7_up|r/gonewild|r/gonewild18|r/nsfw|r/nsfwcosplay|r/realgirls|r/cumsluts|r/legalteens|r/collegesluts|r/asiansgonewild|r/pussy|r/milf|r/adorableporn|r/nude_selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/latinas|r/godpussy|r/amateur|r/xsmallgirls|r/18_19|r/workgonewild|r/palegirls|r/paag|r/ass|r/asstastic|r/asshole|r/assholegonewild|r/upskirt|r/toocuteforporn|r/tinytits|r/altgonewild|r/traps|r/femboys|r/gwcouples|r/cutelittlebutts|r/girlswithglasses|r/petitegonewild
@@ -3935,6 +3936,7 @@ a4932d59, realistic|photorealistic|realistic skin texture|detailed
 a499f7e7, roasted pig
 a4dbc300, pikachu
 a4e4cfcf, lowbrow
+a4e5f9ad, anime coloring|anime screencap
 a50e912e, jwsfsgrl|refined woman|sophisticated elegance
 a516c7c0, rotungwoka person
 a5183478, art by better with salt|kipteitei|woot
