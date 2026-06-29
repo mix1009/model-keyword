@@ -622,6 +622,7 @@
 0fd08586, 3d|blender \medium\|splatoon \series\|realistic|
 0fe4ce0a, RA3
 0fead0f4, olivialopes
+0fee0f20, furry|nasolabial folds
 1006004a, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 100dbe92, Evang, chibi_8000OpenJourney.safetensors
 100dbe92, evang style, beejaydel_beejStickerMORE.safetensors
@@ -2299,6 +2300,7 @@
 5c77038b, hanfu, PonyNSFW_sd15V30.safetensors
 5c7e6e88, 80sFashionRobot, 80sFashionRobot_v1.ckpt
 5c7e6e88, 80sfashionrobot, 80sfashionrobot_v10.ckpt
+5c803e0a, furry|nasolabial folds
 5c8376b6, niji style
 5c98e895, 1boy|1girl|futanari|sex|penis|pussy, vae-ft-mse-840000-ema-pruned_fp16.safetensors
 5c98e895, Happy new year, vae-ft-mse-840000-ema-pruned_fp16.safetensors
@@ -2343,6 +2345,7 @@
 5e6c3166, oil painting
 5e7b5d8e, furry|anthro
 5e7d3f17, lgdsgn
+5e842ecf, masterpiece|best quality|highly detail|
 5ea09cf3, sks man
 5eaba4b4, a photo of mabaoguo
 5eae7bb0, realistic|cosplay
