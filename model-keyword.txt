@@ -5579,6 +5579,7 @@ ed977a93, mrkrut, markRutteVVDMuppet_v1.ckpt
 ed977a93, natpok, nataliaPoklonskaya_v11.ckpt
 ed977a93, sinsun, sinsun_v10.ckpt
 ed977a93, tlw, trihighsDreambooth_v31.ckpt
+eda1b73c, flat color|western comics \style\
 eda3e3ec, carbon|duochrome|holographic, neurogenV11_v11.safetensors
 eda3e3ec, close-up|portrait photo|raw|ultra macro, neurogenV11_v10.safetensors
 eda667c4, chaingirldark style
