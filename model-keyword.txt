@@ -202,6 +202,7 @@
 06721445, rifle_robot|rifle_robot|trench coat|giant|robot
 06a9d223, mengersponge|sierpsponge
 06c844cf, 3D|Disney
+06cbb633, pokemon \anime\
 06dcaa2d, glasses|1girl
 070672c1, Pixel Art
 070af006, furry|anthro
@@ -622,7 +623,8 @@
 0fd08586, 3d|blender \medium\|splatoon \series\|realistic|
 0fe4ce0a, RA3
 0fead0f4, olivialopes
-0fee0f20, furry|nasolabial folds
+0fee0f20, furry|nasolabial folds, qwenimageVAE_liquid1127.safetensors
+0fee0f20, furry|nasolabial folds|cross dressing, qwenimageVAE_liquid1127.safetensors
 1006004a, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
 100dbe92, Evang, chibi_8000OpenJourney.safetensors
 100dbe92, evang style, beejaydel_beejStickerMORE.safetensors
@@ -3666,6 +3668,7 @@
 99e78387, SinCityMovie Style
 99ff99fd, BJ_Pure_Realistic, pureRealisticV10_v10.safetensors
 99ff99fd, BJ_Street-photo, streetPhotoV10_v10.safetensors
+9a0d62ad, furry|nasolabial folds|cross dressing
 9a2f1953, 3D modeling|photos|real world
 9a427588, ada wu
 9a46bc81, heart, loveForever_v10.safetensors
@@ -5729,7 +5732,7 @@ f3ff3ac7, Anime Style
 f44e6e9c, 1boy|young|cute
 f453bce8, 3d, cappysRenderArtist_ckxlV11.safetensors
 f453bce8, artist: ixy|artist: akai sashimi, kiwitrainedCKXL_v03.safetensors
-f453bce8, pokemon \anime\|anime coloring, poketrainedXL_v02BetaCKXL.safetensors
+f453bce8, pokemon \anime\|anime coloring, poketrainedXLAnima_v02BetaCKXL.safetensors
 f457c3e6, shiinamashiro
 f4617619, [score_9_up|score_9|score_8_up|ultra detailed|high quality|source_anime]|
 f465d2bc, score_9|score_8_up|score_7_up|score_6_up
