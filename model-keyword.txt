@@ -1957,6 +1957,7 @@
 510c4b84, dal
 510c5845, modelshoot style|nousr robot
 511b3786, furry|anthro
+511c4690, masterpiece|best quality|very aesthetic
 511d6e1f, 11, 11_v10.safetensors
 511d6e1f, 触发词1|触发词2, 眼睛双.safetensors
 513c45fc, 1girl|white skin|CJ|
