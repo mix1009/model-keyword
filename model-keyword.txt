@@ -1651,6 +1651,7 @@
 3f6fbd7f, person prueba, lawillis_v10.ckpt
 3f76682f, Anime|manga|cartoon
 3f9bbd71, score_9|score_8_up|score_7_up|3d-realisticstyle|score_9|score_8_up|score_7_up|2d-animestyle
+3fa41722, pixel art
 3fb6a757, Cute|kawaii|high-angle view
 3ff05333, score_9|score_8_up|score_7_up|score_6_up
 3ff95373, sks woman
@@ -3356,6 +3357,7 @@
 8f0bf53d, battle_map
 8f1ebb0f, Kam1_Do
 8f2e1466, art by Boris Groh
+8f2f6b01, anime screenshot|anime coloring
 8f33aee9, vertico
 8f488fb6, seconddusk
 8f495d3d, shuimobysim|shukezouma
@@ -4276,6 +4278,7 @@ b1facb5b, mysterious|fantasy|peplos|greek|anime, LahMysteriousQwen_v256.safetens
 b1facb5b, pores|realistic, copaxTimeless_v22SkinUpdate.safetensors
 b1facb5b, portrait|medium close-up shot|photo|photograph, SDXLPeople_v05.safetensors
 b1facb5b, realistic, copaxTimeless_v2.safetensors
+b1fc02d5, anime
 b1fd9215, ginkddd
 b2035b44, butterfly sex|blowjob|doggy style|handjob|licking cock|riding cowgirl|reversecowgirl|sidefuck|titty fucking|reverse gang bang|self stroking|undressing|orgasming|foodtease|teasing|cumshot|threesome|foursome|fivesome
 b2066f4d, laracroftsd
@@ -4719,6 +4722,7 @@ c7bd223b, reddit|best quality|medium quality|high quality|best aesthetic|normal 
 c7c786b0, mariluhenner
 c7cb545e, real life
 c7df5d5d, Jinx
+c7e17194, anime
 c7fcb883, score_9|score_8_up|score_7_up|
 c7ff699d, anipoma1
 c8078318, Evang
