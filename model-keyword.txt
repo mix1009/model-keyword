@@ -183,6 +183,7 @@
 05981a2b, chahua
 059e5f2e, anime lineart
 05be6181, a cinccino
+05dc78c1, 1girl|female focus|pin-up|, qwen_image_vae.safetensors
 05dc78c1, masterpiece|best quality|highres|absurdres|3d|realistic, qwen_image_vae.safetensors
 05dc78c1, masterpiece|best quality|very aesthetic, qwen_image_vae.safetensors
 05dc78c1, score_10_up|score_10|score_9_up|score_9|masterpiece|Anime Style illustration, qwen_image_vae.safetensors
@@ -1522,6 +1523,7 @@
 382d6ed3, sks person
 384b447c, aimoji
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
+3854ec98, 1girl|female focus|pin-up|, nectarineNymphsModel_animaV1_txt.safetensors
 3854ec98, masterpiece|best quality|highres|absurdres|3d|realistic, blendermixAnima_v1_txt.safetensors
 3854ec98, masterpiece|best quality|very aesthetic, kirazuriAnima_v30AnimaBase1_txt.safetensors
 3854ec98, score_10_up|score_10|score_9_up|score_9|masterpiece|Anime Style illustration, v01dANIANIME_baseV1_txt.safetensors
@@ -2777,6 +2779,7 @@
 733d605e, Anime Edition
 73547d1c, 1girl
 7354d8f3, Mdastarou
+73648664, 1girl|female focus|pin-up|
 73660c96, fatsman
 73771530, kazuya
 738df5d3, fashion
@@ -3020,6 +3023,7 @@
 7dada922, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|BEST AESTHETIC|NORMAL AESTHETIC|BAD AESTHETIC|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
 7dbd8b97, test
 7dcbacd5, lunarcrisis
+7ddb38ab, 1girl|female focus|pin-up|
 7de2ea0f, ishizuka
 7dfdb9a7, augments|implants|mechanical_arms|post-apocalypse|post apocalyptic|vikingpunk|viking_punk|stillsuit
 7e0020ad, Realistic
@@ -4065,6 +4069,7 @@ aa366209, romcom style, romcomDiffusion_10.safetensors
 aa366209, source4 style, source4V10_v1Safetensors.safetensors
 aa366209, wewulzkz, werewolfDiffusion_1.safetensors
 aa42c89b, A woman|in an elegant white bridal gown with intricate lace details|standing in a neutral background|with an off-the-shoulder design and floral embroidery on the hem|looking at the observer|with a photorealistic appearance
+aa45084d, asian woman
 aa49e01c, anime pencil concept style
 aa5132f3, oil painting|traditional medium
 aa7001cf, COLR_001, coloringBook_.ckpt
