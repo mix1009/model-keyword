@@ -624,6 +624,7 @@
 0fd08586, 3d|blender \medium\|splatoon \series\|realistic|
 0fe4ce0a, RA3
 0fead0f4, olivialopes
+0fee0f20, anthro|furry|Reptilia|amphibian|cross dressing|nasolabial folds, qwenimageVAE_liquid1127.safetensors
 0fee0f20, furry|nasolabial folds, qwenimageVAE_liquid1127.safetensors
 0fee0f20, furry|nasolabial folds|cross dressing, qwenimageVAE_liquid1127.safetensors
 1006004a, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
@@ -1164,6 +1165,7 @@
 269b8567, general
 269de172, BASE MODEL|ANIME|SUPERREAL|SD2.1|WAIFU DIFFUSION
 26acd9f3, furrender style
+26b75a70, lna-ill|green eyes|dark skin
 26bde476, vrass
 26c85a2d, Nintendo mii|modern_mii|classic_mii|highres|eye_whites|fighting|tennis, nintendoMiiStyle_v11.safetensors
 26c85a2d, euro-american equipment icon, westernStyleEquipment_v10.safetensors
@@ -1676,6 +1678,7 @@
 4189650b, Cocoart anime style. The fine illustration of masterpiece|ultra quality|best|delicate|natural lighting|Depth of Field.
 4192fc16, kurzgesagt style
 419c82f5, oil painting|traditional medium
+41a89ad9, pixel art
 41c5ded9, 
 41c67857, minchien
 41d50a60, anime|lyh
@@ -2447,6 +2450,7 @@
 62f533fd, flegau man
 62f93c8a, rcnz_niji style
 6329328a, lds
+6347f94e, anthro|furry|Reptilia|amphibian|cross dressing|nasolabial folds
 634c53b3, landscape
 6360ab7c, angel
 636d9736, shot blond hair
