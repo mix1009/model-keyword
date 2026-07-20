@@ -625,6 +625,7 @@
 0fe4ce0a, RA3
 0fead0f4, olivialopes
 0fee0f20, anthro|furry|Reptilia|amphibian|cross dressing|nasolabial folds, qwenimageVAE_liquid1127.safetensors
+0fee0f20, furry|cross dressing, qwenimageVAE_liquid1127.safetensors
 0fee0f20, furry|nasolabial folds, qwenimageVAE_liquid1127.safetensors
 0fee0f20, furry|nasolabial folds|cross dressing, qwenimageVAE_liquid1127.safetensors
 1006004a, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
@@ -3584,6 +3585,7 @@
 9907dc3a, sanane
 9912cb8d, danmumford style
 99156105, furry
+991f65af, hinagata|oil painting medium|traditional media
 99220af8, sexy|glossy|bimbo|nsfw|thepit bimbo|analog style|dreamlikeart|redshift style|mdjrny-v4 style|studio_ghibli_anime_style style|copeseethemald style|women|anatomical|hardcore|porn|tentacles
 993cd75a, sks woman
 993f2358, Anjana, anjana_v10.ckpt
@@ -3718,6 +3720,7 @@
 9b5251e8, flat|high contrast|color, fluentuiEmoji_sd15.ckpt
 9b5251e8, muppet|kermit|cookie monster|drummer muppet|Miss. Piggy|sesame street|Elmo, muppets_sd15MuppetBlip.ckpt
 9b53a81b, score_9|score_8_up|score_7_up|
+9b57ba64, furry|cross dressing
 9b5926f8, celebrity
 9b69308b, mangadusk1
 9b70df45, sexy toon
@@ -4413,6 +4416,7 @@ b8174a5b, nsfw|woman|amateur|sex|anime
 b81c4a6d, source4 style
 b853964b, nsfw
 b864ebf2, snthwve style|nvinkpunk
+b883a5fd, asian woman
 b88805e9, Fluxtrait
 b895edc4, mdjrny-v4 style
 b8978189, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
