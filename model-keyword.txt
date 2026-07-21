@@ -1715,6 +1715,7 @@
 433f13c6, Light shadow
 43606100, analog style
 436dd50e, 3d product render|product render
+4373100b, anime
 4391d84b, citroen, citroenDS_v10.safetensors
 4391d84b, honda, hondaJazzFit_v10.safetensors
 4391d84b, saab, saab900Coupe_v10.safetensors
@@ -1728,6 +1729,7 @@
 43c1d91f, furry
 43df363d, who
 43e4db69, anime
+43e674d8, Chiyo Mihama
 43eb72ee, lineart|monochrome
 43ee0452, tail|scaly tail|tufted tail|furry tail|horse tail|fluffy tail
 43f9c234, basety style|abbe bi style|sassy style|midjourney style|othalama style|ronidu style|seviechan style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|anime style|wild nature|suicidegirl|interior design|digital art|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style
@@ -4912,6 +4914,7 @@ d05570b1, nieniezi girl|1girl|pink eye|purple eye|demon tail|ahoge|demon wings|h
 d081535b, doang woman
 d0941469, muscular|bodybuilder|large muscles|big muscles|hairy chest|hairy body
 d098dada, dskbbb1
+d09eb94f, anime
 d0a464b0, Disney||Pixar
 d0b457ae, modelshoot style|analog style|mdjrny-v4 style
 d0b5ee5c, man|woman|erected penis|oral|sucking
