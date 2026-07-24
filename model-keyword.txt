@@ -1175,6 +1175,7 @@
 26c85a2d, q skill icon, qSkillIcon_v10.safetensors
 26c85a2d, q style, qStyle_v10.safetensors
 26cf2815, woman|naked|surrealist|planets|sphere|cube|psychedelic|erected penis
+26f82d7a, anime
 270105d2, legendary godzilla
 27023a8d, Realistic|Photorealistic
 270d2690, man|woman|gay
@@ -1604,6 +1605,7 @@
 3c24f797, OHWX PERSON
 3c30b472, analog style|modelshoot style|nsfw|nudity
 3c401697, redshift style
+3c737c58, anime
 3c752646, snvhs
 3c7538b7, mecha
 3c881921, 99bsy99|
