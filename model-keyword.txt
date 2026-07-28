@@ -2333,6 +2333,7 @@
 5cc1bba0, style of ohwx
 5cc891f2, pixar|C4D|blender|3d
 5cc9b7ba, modelshoot style
+5cde05ea, anime
 5cdf5e55, N/A
 5cf5ae06, wasteland
 5d15a423, inpaint
@@ -4556,6 +4557,7 @@ bf08aebb, anime|anime style
 bf158cd4, cartoon
 bf2bf8d9, realistic
 bf52174c, Anthro|Photo
+bf63b21f, asian woman
 bf64b437, BRAV5_RealisianV50
 bf658dda, furry
 bf7386ef, diovasnsc
@@ -5000,6 +5002,7 @@ d3e3f771, DRCLG \style\
 d3efb13c, comic
 d3f3df02, all|hyperrealistic mix, mixRealisticPhotoV5_v15.ckpt
 d3f3df02, realistic, mixRealisticPhotoV5_15.ckpt
+d3f8d034, asian woman
 d4009145, Midjourney
 d4021aa4, art by Boris Groh
 d409472c, kamita
@@ -5110,6 +5113,7 @@ d8892ed6, 1girl|moyou
 d89bc06c, m
 d8c33a91, 1girl
 d8d282fe, modisn|modisn disney|modisn disney style
+d8de765f, anime
 d8e16309, realistic|photorealistic
 d8f1cb00, 1girl
 d902a082, design|interrior|interriordesign
