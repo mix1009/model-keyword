@@ -1756,6 +1756,7 @@
 44bf0551, booru tags
 44c43db2, no
 44d0cf4e, anime|sexy|hentai
+44e222b2, Oka_Ruto|dark blue hair|messy hair|eyebags|bags under eyes|purple eyes|pale skin|light blue-gray spiderweb pattern stockings|light blue-gray spiderweb pattern stockings fingerless gloves|long gloves|black choker|arm gloves|white seifuku|red armband|black pentagram armband|shadow over face|uwabaki shoes|anime screencap|2d||Oka_Ruto|dark blue hair|messy hair|eyebags|bags under eyes|purple eyes|pale skin|light blue-gray spiderweb pattern leggings|light blue-gray spiderweb pattern stockings fingerless gloves|under turtleneck sweater|dark indigo sweater|dark indigo seifuku skirt|black jacket|gold buttons|jacket pockets|shadow over face|uwabaki shoes|anime screencap|2d|
 44fc97be, realistic|sexy|female|male
 4507a9f0, Makima
 4509a913, by mitsudoue
@@ -5079,6 +5080,7 @@ d636e597, ziov, sdxl_vae.safetensors
 d659f794, rcnz_niji style
 d65a1f08, realistic|anime|toon|cartoon
 d65c923a, 1girl
+d6643059, Bradhamel art style
 d676dd55, deetz1
 d677e166, score_9|score_8_up|score_7_up|oil painting|traditional medium
 d6b2691a, oddlyterrifying
