@@ -612,6 +612,7 @@
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
 0ec1ec9e, realistic
 0ec9b738, pixel art
+0ed5c3db, Bradhamel art style
 0ed9b4a6, embroidery by embarg
 0ef3d70b, Lao chen
 0efd6582, 2000s|1990s|1980s|1970s|1960s|1950s|1940s|aleksei gilev style|andrew vasiliev style|elenok ella style|ivan kovalev style|jiri tulach style|komrant style|marie dashkova style|olga boyko style|digital art|interior design|macro photography|polaroid style|sucidegirl|wild nature
@@ -1589,6 +1590,7 @@
 3ab307cb, masterpiece|best quality
 3abff1d7, harayu
 3acefccc, CARTOON|ANIME|3D
+3ae1b199, deepseek|1girl|solo|long_hair|blush|smile|open_mouth|blue_eyes|long_sleeves|dress|bow|animal_ears|standing|blue_hair|ahoge|frills|shoes|socks|puffy_sleeves|bowtie|black_footwear|black_dress|apron|maid|maid_headdress|black_bow|upper_teeth_only|blue_dress|blue_bow|white_socks|frilled_dress|juliet_sleeves|white_apron|waist_apron|maid_apron|mary_janes|frilled_apron|blue_footwear|fins|fish_tail|bobby_socks|frilled_socks|cetacean_tail|solo|blue_eyes|animal_ears|blue_hair|ahoge|maid_headdress|fins|fish_tail|cetacean_tail
 3ae3405f, 70年式
 3ae92812, masterpiece|realistic|best quality
 3afdc872, bedroomai
