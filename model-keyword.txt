@@ -185,6 +185,7 @@
 059e5f2e, anime lineart
 05be6181, a cinccino
 05dc78c1, 1girl|female focus|pin-up|, qwen_image_vae.safetensors
+05dc78c1, furry, qwen_image_vae.safetensors
 05dc78c1, masterpiece|best quality|highres|absurdres|3d|realistic, qwen_image_vae.safetensors
 05dc78c1, masterpiece|best quality|very aesthetic, qwen_image_vae.safetensors
 05dc78c1, score_10_up|score_10|score_9_up|score_9|masterpiece|Anime Style illustration, qwen_image_vae.safetensors
@@ -1538,6 +1539,7 @@
 384b447c, aimoji
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 3854ec98, 1girl|female focus|pin-up|, nectarineNymphsModel_animaV1_txt.safetensors
+3854ec98, furry, reedAnimaFurry_v11_txt.safetensors
 3854ec98, masterpiece|best quality|highres|absurdres|3d|realistic, blendermixAnima_v1_txt.safetensors
 3854ec98, masterpiece|best quality|very aesthetic, kirazuriAnima_v30AnimaBase1_txt.safetensors
 3854ec98, score_10_up|score_10|score_9_up|score_9|masterpiece|Anime Style illustration, v01dANIANIME_baseV1_txt.safetensors
@@ -1668,6 +1670,7 @@
 3f6fbd7f, PERSON, lawillis_v10.ckpt
 3f6fbd7f, person prueba, lawillis_v10.ckpt
 3f76682f, Anime|manga|cartoon
+3f86d174, chealluly style
 3f9bbd71, score_9|score_8_up|score_7_up|3d-realisticstyle|score_9|score_8_up|score_7_up|2d-animestyle
 3fa41722, pixel art
 3fb6a757, Cute|kawaii|high-angle view
@@ -1885,6 +1888,7 @@
 4b715a30, alizee|amy winehouse|ariana grande|audra miller|avril lavigne|billie eilish|camila cabello|charli xcx|christina aguilera|dua lipa|emma stone|emma watson|hayley williams|jennifer lawrence|katy perry|lady gaga|lana del rey|marina diamandis|miley cyrus|p!nk|rihanna|selena gomez|shakira|sophie ellis bextor|taylor swift|heart on cheek|lips piercing|nose piercing|nose stud|nose ring|verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 4b7555d6, nvinkpunk
 4b81e8ef, masterpiece|best quality|photorealistic
+4b88f328, furry
 4bc53419, frozen style|anna frozen|elsa frozen|olaf frozen|sven frozen|kristoff frozen|ice castle|duke of weselton frozen|prince hans frozen
 4bd5788e, chibi
 4bd726cc, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
@@ -1957,6 +1961,7 @@
 4f6f4869, pixiv masterpiece
 4f6f68bf, 无
 4f80c9b9, anime coloring
+4f8ecbf9, realistic
 4fb1bbf3, padoru
 4fb23b6b, wa-vy style
 4fc9f0a6, furry
@@ -2106,6 +2111,7 @@
 564533e5, masterpiece|best quality
 564a5547, chinses ink painting
 564d5ca4, detailed_skin|freckles|brown_skin|dark_skin|green_skin|blue_skin|red_skin|pink_skin
+5657e848, furry
 566842ff, janadefi
 5683b788, Sofia Wylie
 5691137c, HIGH_RESOLUTION_DETAILED_SHOT_OF1 	•	4D_GLOSSY_CRISP_PHOTOREALISTIC_SHOT_OF 	•	SUPER-RESOLUTION_3D_ANAMORPHIC_STYLE 	•	3D_ANAMORPHIC_STYLE 	•	PHOTOREALISTIC_FALLOUT_STYLE 	•	STYLE_L3ONARD0V1 	•	LEONARD0 	•	TROMPE_L_ŒIL1 	•	PHOTOREALISTIC_FALLOUT_STYLE_IMAGE 	•	CAUSTICS1_SUBSURFACE_SCATTERING1|ALEX_GREY_XL_BASE 	•	OPTICAL_ILLUSION 	•	ADD_DETAIL_XL 	•	ARTFULLYENGRAVED 	•	UNREAL_ENGINE_STYLE 	•	T-SHIRT_DESIGN 	•	ARTFULLYLOGO
@@ -5108,6 +5114,7 @@ d7149094, lnkdn photography
 d7253b18, western comics style
 d7372b2d, furry
 d75fa7fc, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
+d76cab5d, photorealistic
 d7a25cd0, realistic|photorealistic|detailed
 d7cc8710, manyakis art style|rabbit girl
 d7d31a4e, motion design|C4D|rendering|light and shadow
