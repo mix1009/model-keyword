@@ -611,6 +611,7 @@
 0eb3318b, withoutfear, djzWithoutFear_v21768.safetensors
 0eb3318b, wwone, djzWwoneV21_0.safetensors
 0eb3318b, yokaihunter, djzYokaiHunter_v21768.safetensors
+0eb41b88, Semi-realistic|Anime style|Metalic colors|Depth of field
 0ec1ec9e, realistic
 0ec9b738, pixel art
 0ed5c3db, Bradhamel art style
@@ -1323,6 +1324,7 @@
 2dd53706, SDArt|agne|ohwx|bnp|atum|aved|bsf|aten|fcu|cees|chor|cna|nrf|elio|gani|pfa|kprc|kuro|asot|elis|bsp|psst|sqm|irgc|byes|dany|lpg|miro|avel|vaw|zaki|guin|pz|reys|crit|doa|suma|taku|ufos|phol|vedi|dds|weho|pte|oxi|yuck|zas
 2dd7cc12, by b-ginga
 2ddbeb01, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
+2de4d448, banimi style
 2e4cd82a, looking at the viewer|beautiful detailed face|beautiful detailed eyes|beautiful long hairstyle|vibrant light|shadow detailed|highly detailed|cinematic|film grain|photo|ultrarealistic|HDR|beautiful and aesthetic|masterpiece|ultra wide angle|fujifilm|creative
 2e6bbced, vectorartz
 2e6ef554, Furry
@@ -2585,6 +2587,7 @@
 67ec2855, 4n1v3rs3
 67ee40e2, Mucha
 68120148, ashenhard style
+6815fdfe, Bradhamel art style
 681f76ba, chibi
 682ba7df, irmntro person
 6844e6c4, Master Chief
@@ -2964,6 +2967,7 @@
 79009b03, Evang
 7906524a, cornflower
 791386b2, shinkai-art|shinkaiart|portrait|shinkai|makoto shinkai
+7922e679, monochrome
 7928fc22, the car
 79347729, pastel color
 7939e798, ChavGirl
@@ -4739,6 +4743,7 @@ c58a93db, score_9|score_8_up|score_7_up|source anime|
 c58c8bd0, graycolor_boyish
 c5943e55, mdjrny-pprct
 c59c7da7, realistic
+c59fcf7f, Anime style|Depth on field|Metalic colors|Semi-realistic
 c5c47935, in the style of AImanhwa
 c5c54e28, dreamlikeart
 c5cbc6a3, anime screencap
