@@ -186,6 +186,7 @@
 05be6181, a cinccino
 05dc78c1, 1girl|female focus|pin-up|, qwen_image_vae.safetensors
 05dc78c1, furry, qwen_image_vae.safetensors
+05dc78c1, masterpiece|best quality|amazing quality|highres|dark atmosphere|anime screenshot|anime coloring:1.6|anime screencap:1.7|, qwen_image_vae.safetensors
 05dc78c1, masterpiece|best quality|highres|absurdres|3d|realistic, qwen_image_vae.safetensors
 05dc78c1, masterpiece|best quality|very aesthetic, qwen_image_vae.safetensors
 05dc78c1, score_10_up|score_10|score_9_up|score_9|masterpiece|Anime Style illustration, qwen_image_vae.safetensors
@@ -193,6 +194,7 @@
 05dc78c1, smoothmixanime|anime style|smoothmixrealism|realistic style, qwen_image_vae.safetensors
 05e3efaf, ~*~aesthetic~*~
 05e6c91b, by kokuto
+05fcce22, smoothmixanime|anime style|smoothmixrealism|realistic style
 06055f44, sexy toon
 0609d8f7, alizee|amy winehouse|ariana grande|audra miller|avril lavigne|billie eilish|camila cabello|charli xcx|christina aguilera|dua lipa|emma stone|emma watson|hayley williams|jennifer lawrence|katy perry|lady gaga|lana del rey|marina diamandis|miley cyrus|p!nk|rihanna|selena gomez|shakira|sophie ellis bextor|taylor swift|heart on cheek|lips piercing|nose piercing|nose stud|nose ring|verism style|samdoesart style|thepit style|owler style|cherrmous style|arosen style|uodenim style|stanleylau style|puffy lips|hoop earrings|thick eyebrows
 061e5178, kk
@@ -1543,6 +1545,7 @@
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 3854ec98, 1girl|female focus|pin-up|, nectarineNymphsModel_animaV1_txt.safetensors
 3854ec98, furry, reedAnimaFurry_v11_txt.safetensors
+3854ec98, masterpiece|best quality|amazing quality|highres|dark atmosphere|anime screenshot|anime coloring:1.6|anime screencap:1.7|, animaCustom_v11_txt.safetensors
 3854ec98, masterpiece|best quality|highres|absurdres|3d|realistic, blendermixAnima_v1_txt.safetensors
 3854ec98, masterpiece|best quality|very aesthetic, kirazuriAnima_v30AnimaBase1_txt.safetensors
 3854ec98, score_10_up|score_10|score_9_up|score_9|masterpiece|Anime Style illustration, v01dANIANIME_baseV1_txt.safetensors
@@ -1687,6 +1690,7 @@
 409d5f37, 1girl
 40ada8c2, watercolor
 40bfa753, harryizquierdo
+40cc95e2, masterpiece|best quality|amazing quality|highres|dark atmosphere|anime screenshot|anime coloring:1.6|anime screencap:1.7|
 40e5672c, Anthro|Photo
 40f03cf4, artistic portrait|beautiful detailed face|looking at the viewer|digital art style|oil painting style|colorful|dynamic lighting|vibrant light|shadow detailed|highly detailed|anime style|speed art|brush strokes|beautiful and aesthetic|masterpiece|ultra wide angle|surrealist|abstract artistic|gradient background
 41358439, furry|anthro
