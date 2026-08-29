@@ -4090,6 +4090,7 @@ a866286f, mtg card art
 a87f66f1, inzaniak
 a8a0e631, masterpiece|best_quality
 a8af5a13, erduh man
+a8b589af, pixelart
 a8bfb6df, hanfu|genshin impact
 a8c7eec2, fking_mtg
 a8d2f3e7, SDArt
@@ -4110,6 +4111,7 @@ aa212ec6, PixelartFSS|PixelartRSS|PixelartBSS|PixelartLSS
 aa220ab4, Evang
 aa28f0e0, ukj person
 aa2b4089, modelshoot style
+aa320d62, chibi
 aa366209, MechBattleTechClassicTR3025, battletechClassic_mechbattletechclassic.safetensors
 aa366209, TheOldShadowrunStyles, theOldShadowRunStyles_theoldshadowrunstyles.safetensors
 aa366209, as a t-shirt logo in the style of <magifactory> art, MAGIFACTORYTShirt_magifactoryTShirtModel.safetensors
@@ -4795,6 +4797,7 @@ c867742d, score_9|score_8_up|score_7_up|score_6_up
 c86a9aca, evang
 c8780143, damarjati
 c8796e4b, tk_char|tk_env
+c8824239, masterpiece|best quality||low quality|
 c88248fa, timor|art by timor|by timor|main trigger word is : timor
 c88e730a, modelshoot style|analog style|mdjrny-v4 style|nousr robot
 c89caee5, 只因jinkesi
