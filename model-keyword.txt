@@ -186,6 +186,7 @@
 05be6181, a cinccino
 05dc78c1, 1girl|female focus|pin-up|, qwen_image_vae.safetensors
 05dc78c1, furry, qwen_image_vae.safetensors
+05dc78c1, masterpiece|best quality|amazing quality|highres|anime screenshot|anime coloring:1.6|anime screencap:1.7|, qwen_image_vae.safetensors
 05dc78c1, masterpiece|best quality|amazing quality|highres|dark atmosphere|anime screenshot|anime coloring:1.6|anime screencap:1.7|, qwen_image_vae.safetensors
 05dc78c1, masterpiece|best quality|highres|absurdres|3d|realistic, qwen_image_vae.safetensors
 05dc78c1, masterpiece|best quality|very aesthetic, qwen_image_vae.safetensors
@@ -1145,6 +1146,7 @@
 25200a09, checpoint
 2532eb3a, fluxtrait
 253ccabe, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
+254a5737, masterpiece|best quality|amazing quality|highres|anime screenshot|anime coloring:1.6|anime screencap:1.7|
 254fb5cd, hasanpiker person
 2566389c, Knollingcase|Beeple Style|Dreamshaper|Voxel-ish|Naturitize|Colorfulsurrealismai Surrealism
 256850b0, KEMONO
@@ -1327,7 +1329,8 @@
 2dd53706, SDArt|agne|ohwx|bnp|atum|aved|bsf|aten|fcu|cees|chor|cna|nrf|elio|gani|pfa|kprc|kuro|asot|elis|bsp|psst|sqm|irgc|byes|dany|lpg|miro|avel|vaw|zaki|guin|pz|reys|crit|doa|suma|taku|ufos|phol|vedi|dds|weho|pte|oxi|yuck|zas
 2dd7cc12, by b-ginga
 2ddbeb01, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
-2de4d448, banimi style
+2de4d448, banimi style, cheekyFlareAnima_10.safetensors
+2de4d448, twimiraty style, twistedMirageAnima_10.safetensors
 2e4cd82a, looking at the viewer|beautiful detailed face|beautiful detailed eyes|beautiful long hairstyle|vibrant light|shadow detailed|highly detailed|cinematic|film grain|photo|ultrarealistic|HDR|beautiful and aesthetic|masterpiece|ultra wide angle|fujifilm|creative
 2e6bbced, vectorartz
 2e6ef554, Furry
@@ -1546,6 +1549,7 @@
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 3854ec98, 1girl|female focus|pin-up|, nectarineNymphsModel_animaV1_txt.safetensors
 3854ec98, furry, reedAnimaFurry_v11_txt.safetensors
+3854ec98, masterpiece|best quality|amazing quality|highres|anime screenshot|anime coloring:1.6|anime screencap:1.7|, animaCustom_v12_txt.safetensors
 3854ec98, masterpiece|best quality|amazing quality|highres|dark atmosphere|anime screenshot|anime coloring:1.6|anime screencap:1.7|, animaCustom_v11_txt.safetensors
 3854ec98, masterpiece|best quality|highres|absurdres|3d|realistic, blendermixAnima_v1_txt.safetensors
 3854ec98, masterpiece|best quality|very aesthetic, kirazuriAnima_v30AnimaBase1_txt.safetensors
