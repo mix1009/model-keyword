@@ -631,6 +631,7 @@
 0fd08586, 3d|blender \medium\|splatoon \series\|realistic|
 0fe4ce0a, RA3
 0fead0f4, olivialopes
+0fee0f20, Nasolabial folds|closs dressing|furry|anthro|exoskeleton, qwenimageVAE_liquid1127.safetensors
 0fee0f20, anthro|furry|Reptilia|amphibian|cross dressing|nasolabial folds, qwenimageVAE_liquid1127.safetensors
 0fee0f20, cross dressing|anthro|furry|nasolabial folds, qwenimageVAE_liquid1127.safetensors
 0fee0f20, furry|cross dressing, qwenimageVAE_liquid1127.safetensors
@@ -1330,6 +1331,7 @@
 2dd7cc12, by b-ginga
 2ddbeb01, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 2de4d448, banimi style, cheekyFlareAnima_10.safetensors
+2de4d448, galena style|scima style|reiq style|omrado style|vanrip style|tsuvid style, galenaBlend_15Anima.safetensors
 2de4d448, twimiraty style, twistedMirageAnima_10.safetensors
 2e4cd82a, looking at the viewer|beautiful detailed face|beautiful detailed eyes|beautiful long hairstyle|vibrant light|shadow detailed|highly detailed|cinematic|film grain|photo|ultrarealistic|HDR|beautiful and aesthetic|masterpiece|ultra wide angle|fujifilm|creative
 2e6bbced, vectorartz
@@ -6054,6 +6056,7 @@ feb09aa5, verism style|samdoesart style|thepit style|owler style|cherrmous style
 fec48964, in OliDisco style|flat color|flat illustration|vectorstyle
 fec684a7, 3d|photo background|photorealistic|film grain|vignette|anime|bloom|, cappysRenderArtist_naiEpsV10.safetensors
 fec684a7, masterpiece|best quality, kiwitrainedCKXL_v02.safetensors
+fee12d4b, Nasolabial folds|closs dressing|furry|anthro|exoskeleton
 feea15f3, equirectangular 360 view|equirectangular|360 view|360 panorama
 ff2a4052, masterpiece|best quality|very awa|absurdres|newest|ultra-HD|cinematic lighting|impressionism|high detail|depth of field|very aesthetic|8k|
 ff2d4341, Cartoon|Cartoon Style
