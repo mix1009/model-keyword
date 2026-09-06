@@ -2011,6 +2011,7 @@
 5141b47d, loli
 514a1db3, rcnz_hqr
 5150ebdd, flat color:1.2
+5156ee22, Bradhamel art style
 515a5199, circetorre
 51748799, analog style|modelshoot style|nsfw|nudity
 51776aaf, statue
@@ -2284,6 +2285,7 @@
 5bc15c26, avesslation style, babes_12i14.safetensors
 5bc15c26, baglovusel style, paintedReality_10.safetensors
 5bc15c26, banimi style, cheekyFlarePony_10.safetensors
+5bc15c26, basixely style, nostalgicBreeze_10.safetensors
 5bc15c26, basthirty style, babes_12i13.safetensors
 5bc15c26, basymga style|epcom style, mightToonLegend_10.safetensors
 5bc15c26, bihyboos style, hyperthickBelles_10.safetensors
@@ -3990,6 +3992,7 @@ a3bb4001, realistic|photorealistic
 a3c00923, Anime
 a3c809ba, pattern
 a3c87961, hanfu
+a3e364e7, Cleveland Brown Jr|Cleveland Brown|Cleveland|Family Guy|fat
 a3e9ec50, painting
 a402810e, 1990 style|retro artstyle|1980 style, newERANewEstheticRetro_retroV21VAE.safetensors
 a402810e, 1990s style|1980 style|retro artstyle, newERANewEstheticRetro_retroV30VAE.safetensors
