@@ -2335,6 +2335,7 @@
 5bc15c26, sakdl style|jenreed woman|tinbld woman|korbrw woman|perbld woman|catbrn woman|gilbld woman|amibld woman|betbrn woman|selbld woman|minbld woman|angbrn woman, plasticWaifus_10.safetensors
 5bc15c26, secxyfpi style, sexyToonsFeatPipa_30Illustrious.safetensors
 5bc15c26, slifunity style, fineToonBalloonPony_10.safetensors
+5bc15c26, stotuveny style, nouveauConfusion_10.safetensors
 5bc15c26, tattoos, babes_12p7.safetensors
 5bc15c26, threslol style|synfage style|boueth style, legendaryComix_10.safetensors
 5bc15c26, volgogy style, targaryenRevenge_10.safetensors
@@ -3637,6 +3638,7 @@
 98acd4e4, RPG|realistic|base model|fantasy|semi-realistic|character
 98aff837, +prompt:|masterpiece|best quality|-prompt:|worst quality|bad quality|, illustrijEVO_lvl2.safetensors
 98aff837, Flat Color|Pixel Art, toonMouseIllustrious_toonMouseV10.safetensors
+98aff837, Pixel Art|Thick lines|Flat Colors|Masterpiece|Best Quality|Amazing Quality|4k|Very Aesthetic|High Resolution|Ultra-Detailed|Absurdres|Newest|, toonMouseIllustrious_toonMouseV15.safetensors
 98c37fb6, 美女
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
 98fe4820, score_9|score_8_up|score_7_up
@@ -3933,6 +3935,7 @@ a149572b, vector-art|pulp-diffusion, vectorArt_pulpVectorBeta.safetensors
 a150faa4, icon|blender|C4D
 a158de14, 1990s style|1980s style|2000s style|retro artstyle
 a1667951, furry|anthro
+a17f20c9, asian woman
 a184fedc, gigafractal artstyle
 a1aa13da, Kam1_Do, v10F_v2d.safetensors
 a1aa13da, just do, v10F_v122.safetensors
