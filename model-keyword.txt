@@ -1334,6 +1334,7 @@
 2ddbeb01, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 2de4d448, banimi style, cheekyFlareAnima_10.safetensors
 2de4d448, galena style|scima style|reiq style|omrado style|vanrip style|tsuvid style, galenaBlend_15Anima.safetensors
+2de4d448, luserakeraly style, exhaustedSketches_10.safetensors
 2de4d448, twimiraty style, twistedMirageAnima_10.safetensors
 2e4cd82a, looking at the viewer|beautiful detailed face|beautiful detailed eyes|beautiful long hairstyle|vibrant light|shadow detailed|highly detailed|cinematic|film grain|photo|ultrarealistic|HDR|beautiful and aesthetic|masterpiece|ultra wide angle|fujifilm|creative
 2e6bbced, vectorartz
@@ -4497,6 +4498,7 @@ b8d8a250, emaiti
 b8d8da4b, duskypie|lisdusk1|redshift style|kairowez|lisdusk2|seconddusk
 b8e63a5d, Evang
 b8e8e6ac, _mohawk_|character
+b8f00e34, RCRSasaki|furry|cat|grey fur|white fur|two-tone fur|cat ears|whiskers|white apron|:3|._.
 b91ca44e, photograph|cosplay
 b934f782, Halloween spooky photo||horror theme photo|jack-o'-lantern|pumpkins|moon|night|outdoors|skulls|ghosts|darkness|horror|autumn leaves|ghosted candles|lanterns|horror dusk|hollow eyes|gothic
 b95bfe75, a photo of a building|sunny|day view|night view|cloudy|rainy|dusk view|overcast|heavy fog|snowy, aargArchitecture_v10.safetensors
