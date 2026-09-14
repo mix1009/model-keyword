@@ -1926,6 +1926,7 @@
 4d05da1c, realstic|photorealistic
 4d1284f9, modern anime style
 4d12a089, sks person
+4d255595, smudge|nasolabial folds|closs-dressing
 4d3efca6, furry
 4d3f92bf, furry
 4d4d1bc5, girl
@@ -3170,7 +3171,8 @@
 8206821b, woman
 820c4a3e, by sy4
 8217678b, <niji-se-3d>
-821ea055, volanisy style
+821ea055, recybery style, cyberErealKrea2Turbo_10.safetensors
+821ea055, volanisy style, voluptuousAnimation_10.safetensors
 822b8799, pepestyle person
 823525d4, pixel
 82402518, balacbk
@@ -4842,8 +4844,10 @@ c91be480, Dloz|Dloz style
 c9291e5c, car interior
 c9462890, Archilab
 c9513c51, Nasolabial folds|Age spots|Flat nose, liquid9745vae.safetensors
+c9513c51, masterpiece|nasolabial folds, liquid9745vae.safetensors
 c9513c51, nasolabial folds|age spots|flat nose, liquid9745vae.safetensors
 c9513c51, nasolabial folds|wrinkles|crossdressing, liquid9745vae.safetensors
+c9513c51, smudge|nasolabial folds|closs-dressing, liquid9745vae.safetensors
 c9513c51, wrinkled|nasolabial fold|anime coloring, liquid9745vae.safetensors
 c951cc0e, sks person
 c9571425, magamikeigo|two-tone hair|black hair|hair between eyes|bangs|olive eyes|bags under eyes
