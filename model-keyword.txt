@@ -3546,6 +3546,7 @@
 948b6f4b, half body|closeup
 94a0aa9d, anime
 94a1df93, Sf
+94b6180f, @fyfnt
 94bc80f2, cafa cardesign
 94c16724, Primav style
 94c7fd10, nayeonnine
@@ -4007,6 +4008,7 @@ a3bb4001, realistic|photorealistic
 a3c00923, Anime
 a3c809ba, pattern
 a3c87961, hanfu
+a3df0ad3, @fyfnt
 a3e364e7, Cleveland Brown Jr|Cleveland Brown|Cleveland|Family Guy|fat
 a3e9ec50, painting
 a402810e, 1990 style|retro artstyle|1980 style, newERANewEstheticRetro_retroV21VAE.safetensors
