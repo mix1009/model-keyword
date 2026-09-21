@@ -365,6 +365,7 @@
 0c9f6d7f, Demi2
 0ca6716f, cocoart|cocoart animal|vibrant cocoart
 0cdb758d, tea picker
+0ce75d10, asian woman
 0cf33d87, PVCstyle, copycatPVC_v10.safetensors
 0cf33d87, masterpiece|best quality, dupliCatFlat_illustriousV10.safetensors
 0cf33d87, masterpiece|best_quality, copycat_v30.safetensors
@@ -806,8 +807,8 @@
 1630eb1e, graphic design|typography|text: "your  text"
 16527de9, realism|realistic|cinematic|photo realism
 16552af2, sks woman
-168283cd, asian woman, 2127ZImageAsianUtopian_v20FF.safetensors
-168283cd, asian woman|photorealistic|lomoxfilm style, 2127ZImageAsianUtopian_v10Turbo.safetensors
+168283cd, asian woman, 2127ZImageAsianUtopian_v20FF_full_fp8.safetensors
+168283cd, asian woman|photorealistic|lomoxfilm style, 2127ZImageAsianUtopian_v10Turbo_full_fp8.safetensors
 168c33d5, Nasolabial folds|furry|anthro|arthropod|cross dressing, qwenimageVAE_liquid1087.safetensors
 168c33d5, anthro|furry|cross dressing|nasolabial folds, qwenimageVAE_liquid1087.safetensors
 168c33d5, furry|long sleeves|nasolabial folds, qwenimageVAE_liquid1087.safetensors
@@ -3294,6 +3295,7 @@
 87758a47, SEE APPENDIX A|见附录A
 878b31dd, art by cc-3d|art by cc-anime
 879054f9, portrait style|selfie photo|casting photo full shot naked|rlfce realistic person|fkfce fake person|closeup photo face
+87937526, asian woman
 87a96eb2, score_9|score_8_up|score_7_up|oil painting|traditional medium|canvas texture
 87c5d24e, dra|vinyl record cover|12-inch|electronic|<decade> album cover|the designers republic
 87dd03b9, young woman
@@ -3368,6 +3370,7 @@
 8bee5e99, muchen+arang
 8bf784bb, Comics style|Comics|Cartoon style|
 8c1772f8, Realistic|Photorealistic|Raw photo|realism|realistic style
+8c28d258, <These is sample prompt>|yamikawa make up|blackcocoart|bold line art|yandere||vivid color|colorful vector art|noline|flat shade||cocoart animal design|flat color||stamp art|manga style|2tone|dot noise||icon style. simple retro design|simple art|2tone colors||cocoa comic style|speech bubble|2panels||yumekawa outfit||mecha|CCMECHA||piloting ROBING with mecha legs||stop|stop pose|open hand||3d|figure||transparent silhouette man||stuck in ground|in 2nd floor|separate body|water||best quality|score_9|score_8|score_7|cocoaface|cocoart|smooth image|depth and field|actuary hands|cocoart sketch|soft touch colors|patterned background with ribbon|
 8c36d946, prism|glow|glowing|glitter|particles|bloom|extra lights|cinematic lights|colorful|glowing white particles|glowing eyes|prism hair|prism eyes
 8c3b86ce, chilloutmix-Ni.safetensors
 8c3ca1c1, score_9|score_8_up|score_7_up||rating_explicit||source_anime|
