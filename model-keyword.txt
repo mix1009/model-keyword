@@ -1618,6 +1618,7 @@
 3b30c07b, score_9|score_8_up|score_7_up|oil painting|traditional medium
 3b35f9ee, comic style|illustrated|line art|colored line art|flat color|2D|watercolor|realistic|photorealistic
 3b439695, audra miller
+3b566cf5, 古装
 3b6d50f6, Concept Art|Fantasy Art|PhotoRealistic|Realistic|Illustration|Oil Painting|Surrealism|HyperRealistic|brush strokes|pointillism|Steampunk|Digital Art|analog style|watercolor|classical art
 3b815a87, TzigoAnimeStyle
 3bb0e1fc, 2D|anim|sex|nsfw|sfw|ai|manga|girl
@@ -1728,6 +1729,7 @@
 421384ab, shinyunbok painting
 42279ad8, claymation|80's anime style
 42321f78, score_9|score_8_up|best quality|masterpiece|4k|uncensored|prefect lighting|rating_explicit|very aesthetic|BREAK
+424ab2e1, matrapu|robot|arm cannon|ammo belt|human|piloting|no human|
 424e3a67, furry|anthro
 42518d2b, geometrix
 42525aa3, furry
@@ -2430,7 +2432,8 @@
 5f67fec1, Primav style
 5f77f3b8, zrpgstyle
 5f8683f1, B3BOO
-5f986b98, MoodyStudioPhotography
+5f986b98, MoodyStudioPhotography, moodyAmateurMixKrea2_4RawStudioShot_nvfp4.safetensors
+5f986b98, 古装, moodyGufengMixKrea2_v10_nvfp4.safetensors
 5fa1efdd, arien photography|chinese art photography|nfsw
 5fab7659, Master Chief
 5fb1edc7, middlewoman|middleaged|mature female|ladyman|asian|ponytail
@@ -3459,6 +3462,7 @@
 8ff32619, Evang style
 8ffb0774, prilosecotc1|burgie|dskfll
 900b847e, shiny skin
+9013fc60, 古装
 90203e33, zwx
 9032b853, digital art|cartoon style|grafitti|spelling|word
 90501ecf, mechanical arms
