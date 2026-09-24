@@ -2012,6 +2012,7 @@
 511c4690, masterpiece|best quality|very aesthetic
 511d6e1f, 11, 11_v10.safetensors
 511d6e1f, 触发词1|触发词2, 眼睛双.safetensors
+51218047, furry
 513c45fc, 1girl|white skin|CJ|
 513cac63, BeyondNegative
 5141b47d, loli
@@ -4052,6 +4053,7 @@ a50e912e, jwsfsgrl|refined woman|sophisticated elegance
 a516c7c0, rotungwoka person
 a5183478, art by better with salt|kipteitei|woot
 a536207b, a painting by mse
+a54bb355, mskmdesi Indian woman
 a55d4071, wgz style
 a571ebca, masterpiece|UHD|RAW photo|perfect face|perfect body|photorealism|cinematic lighting|intricate|detailed face|sweat|glistening skin
 a575eb14, furry
@@ -4835,6 +4837,7 @@ c7ff699d, anipoma1
 c8078318, Evang
 c8229429, coloring page|b&w|line art|monochrome
 c823af2a, GGH23 person
+c8472f7c, mskmdesi Indian woman
 c84db880, @blender
 c8627730, inkwash style|xianxia style
 c86334f5, itojunji style
