@@ -946,6 +946,7 @@
 1c707c42, WJQWIZARD|WJQKNIGHT|WJQDEMON|WJQJESTER|WJQTITAN
 1c83d3db, bldrnrst|analog style|synthwave|sci-fi|postapocalypse|nsfw|sfw|erotic|erotica|3d render
 1c842e26, furry
+1c9cb755, fine art parody
 1ca03455, test
 1caf1146, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up
 1ce7e5dd, Aliljen, alil_v10.ckpt
@@ -2346,6 +2347,7 @@
 5bc15c26, stotuveny style, nouveauConfusion_10.safetensors
 5bc15c26, tattoos, babes_12p7.safetensors
 5bc15c26, threslol style|synfage style|boueth style, legendaryComix_10.safetensors
+5bc15c26, tzumify style, angelicCrown_10.safetensors
 5bc15c26, volgogy style, targaryenRevenge_10.safetensors
 5bc15c26, waprove style, vaporwaveHorizon_10.safetensors
 5bc15c26, wild nature|interior design|simple shape|digital art|colorful|freckles|oiled|suicidegirl|aleksei gilev style|andrew vasiliev style|cenon style|elenok ella style|ivan kovalev style|jack metthey style|jiri tulach style|komrant style|marie dashkova style|mewel style|olga boyko style|Nyzithra woman|Veluntra woman|Azurellith woman|Klythera woman|Zerayna woman|Draxelith woman, bitrealIllustrious_20.safetensors
