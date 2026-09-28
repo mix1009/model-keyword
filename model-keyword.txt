@@ -2436,7 +2436,7 @@
 5f67fec1, Primav style
 5f77f3b8, zrpgstyle
 5f8683f1, B3BOO
-5f986b98, MoodyStudioPhotography, moodyAmateurMixKrea2_4RawStudioShots_nvfp4.safetensors
+5f986b98, MoodyStudioPhotography, moodyAmateurMixFreeKrea2_4RawStudioShots_nvfp4.safetensors
 5f986b98, 古装, moodyGufengMixKrea2_v10_nvfp4.safetensors
 5fa1efdd, arien photography|chinese art photography|nfsw
 5fab7659, Master Chief
