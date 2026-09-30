@@ -1878,6 +1878,7 @@
 4983938e, AniLux Real Perfect
 49962996, nkneghmn
 49b5bcbf, newmarsmix
+49dc6450, score_9|score_8_up|score_7_up||score_6|score_5|score_4|worst quality|low quality|lowres|bad anatomy|text. logo|mark|
 49f53a3b, koh
 49ffbc7e, realistic|photorealistic|detailed
 4a0b8e45, Lysrix|girl|cut hair|cute face
@@ -2334,6 +2335,7 @@
 5bc15c26, minecraft style, minecraftHomage_10.safetensors
 5bc15c26, mofimy style, futuristicBeauty_10.safetensors
 5bc15c26, natsiwy style, cinematicRender_10.safetensors
+5bc15c26, noraciry style, flatNoirIllustrious_10.safetensors
 5bc15c26, ofberecaigy style, overtimeHours_10.safetensors
 5bc15c26, raneymi eyes style, soulSparkIllustrious_10.safetensors
 5bc15c26, rebawisy style, illustratedArtistic_10.safetensors
