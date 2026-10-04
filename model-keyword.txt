@@ -2824,6 +2824,7 @@
 718c368e, mikeidsk1
 719faf9e, Painting of|illustration of|concept art of
 71a00f8d, as cartoon character
+71a65f94, fyfnt
 71b0b5fb, tyznedsk1
 71bcc46d, gbdownrd|gbdownld
 71c4ccc2, 见附录A|See Appendix A
@@ -2937,6 +2938,7 @@
 76511cfa, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up|source_cartoon|source_anime
 76584d78, masterpiece|best_quality
 7665f8c3, itrobo2022
+766ff2a8, <These is sample prompt>|rough sketch|fine line art|thin line||cocoa comic style|manga|Hiragana in speech bubble|3panels|ultra change emotional||mecha|CCMECHA||piloting ROBING with mecha legs||stop|stop pose|open hand||3d|figure|anime||transparent silhouette man||yamikawa make up|blackcocoart|bold line art|yandere||kawaii art. The illustration style is Kawaii art.|vivid color|colorful vector art|noline|flat shade||cocoart animal design|flat color|
 7675f1a1, stilovintedois
 767f242a, furry
 767f517f, dmmid style
@@ -5797,6 +5799,7 @@ f049f78e, Use any sampler with CFG 1-2 - High CFG will BAKE image
 f04ace1a, SpaceEngineersProps
 f04ea465, Bradhamel art style
 f05f9963, lisafrankstyle
+f066998c, fyfnt
 f0770152, Jedtoon
 f0803e20, sjh style
 f0814024, toon
@@ -5848,6 +5851,7 @@ f263e029, Hentai
 f2676846, anime|manga|cartoon
 f26b7ad6, sam yang
 f287b25e, agp
+f2895168, tamawipho style
 f2ab07e5, 4n1m3rg3|4n1v3rs3|4n1t00n|4n1m1cs|Realistic|western comics|american comics|pixar|disney
 f2b82853, junobirch drag queen
 f2c88bf2, photo of zwx ouyangziyu
