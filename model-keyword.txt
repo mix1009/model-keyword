@@ -1935,6 +1935,7 @@
 4d1284f9, modern anime style
 4d12a089, sks person
 4d255595, smudge|nasolabial folds|closs-dressing
+4d3b70ec, VQGAN+CLIP Style
 4d3efca6, furry
 4d3f92bf, furry
 4d4d1bc5, girl
@@ -4717,6 +4718,7 @@ c1cb5ab4, 1girl|moyou
 c203ddb4, sam yang
 c206be84, azhiichigo style，big eyes|thick lines，cute
 c215b332, score_9|score_8_up|score_7_up|
+c229ffb6, VQGAN+CLIP Style
 c2308a73, CameramanPromedio1, cameramanpromedio1_.ckpt
 c2308a73, MagicalCreatureAI, magicalcreatureau_v10.ckpt
 c230a4e3, AK-47-Asiimov|AK-47-Gold-Arabesque|AK-47-Hydroponic|AK-47-Neon-Rider|AK-47-Vulcan|AK-47-X-Ray
