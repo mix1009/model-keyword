@@ -2331,6 +2331,7 @@
 5bc15c26, iridescent, iridesciaPrismara_30.safetensors
 5bc15c26, kisliptu style, illustrious10Babes_10.safetensors
 5bc15c26, kisliptu style|abbe bi style|basety style|sassy style|pomagip|dalle style|midjourney style|thepit style|samdoesart style|owler style|cherrmous style|arosen style|anime style|suicidegirl|digital art|colorful|wild nature, babesKissableLips_36p.safetensors
+5bc15c26, lievgimreny style, pastelOutlines_10.safetensors
 5bc15c26, lijunuy style, basicToons_10.safetensors
 5bc15c26, lupexery style, peanutGemPony_10.safetensors
 5bc15c26, mainiga style, curvyBloomWestern_10.safetensors
@@ -2939,7 +2940,7 @@
 76511cfa, score_9|score_8_up|score_7_up|score_6_up|score_5_up|score_4_up|source_cartoon|source_anime
 76584d78, masterpiece|best_quality
 7665f8c3, itrobo2022
-766ff2a8, <These is sample prompt>|rough sketch|fine line art|thin line||cocoa comic style|manga|Hiragana in speech bubble|3panels|ultra change emotional||mecha|CCMECHA||piloting ROBING with mecha legs||stop|stop pose|open hand||3d|figure|anime||transparent silhouette man||yamikawa make up|blackcocoart|bold line art|yandere||kawaii art. The illustration style is Kawaii art.|vivid color|colorful vector art|noline|flat shade||cocoart animal design|flat color|
+766ff2a8, <These is sample prompt>|cocoa comic style|manga|Hiragana in speech bubble|3panels|ultra change emotional||mecha|CCMECHA||piloting ROBING with mecha legs||stop|stop pose|open hand||3d|figure|anime||transparent silhouette man||yamikawa make up|blackcocoart|bold line art|yandere||kawaii art. The illustration style is Kawaii art.|vivid color|colorful vector art|noline|flat shade||cocoart animal design|flat color|
 7675f1a1, stilovintedois
 767f242a, furry
 767f517f, dmmid style
@@ -3668,6 +3669,7 @@
 98aff837, +prompt:|masterpiece|best quality|-prompt:|worst quality|bad quality|, illustrijEVO_lvl2.safetensors
 98aff837, Flat Color|Pixel Art, toonMouseIllustrious_toonMouseV10.safetensors
 98aff837, Pixel Art|Thick lines|Flat Colors|Masterpiece|Best Quality|Amazing Quality|4k|Very Aesthetic|High Resolution|Ultra-Detailed|Absurdres|Newest|, toonMouseIllustrious_toonMouseV15.safetensors
+98aff837, masterpiece|best quality|amazing quality|, magicMouse_v30.safetensors
 98c37fb6, 美女
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
 98fe4820, score_9|score_8_up|score_7_up
