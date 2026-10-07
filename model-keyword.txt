@@ -3668,7 +3668,7 @@
 98acd4e4, RPG|realistic|base model|fantasy|semi-realistic|character
 98aff837, +prompt:|masterpiece|best quality|-prompt:|worst quality|bad quality|, illustrijEVO_lvl2.safetensors
 98aff837, Flat Color|Pixel Art, toonMouseIllustrious_toonMouseV10.safetensors
-98aff837, Pixel Art|Thick lines|Flat Colors|Masterpiece|Best Quality|Amazing Quality|4k|Very Aesthetic|High Resolution|Ultra-Detailed|Absurdres|Newest|, toonMouseIllustrious_toonMouseV15.safetensors
+98aff837, Pixel Art|Thick lines|Flat Colors|Masterpiece|Best Quality|Amazing Quality|4k|Very Aesthetic|High Resolution|Ultra-Detailed|Absurdres|Newest|, toonMouseIllustrious_v20.safetensors
 98aff837, masterpiece|best quality|amazing quality|, magicMouse_v30.safetensors
 98c37fb6, 美女
 98e7c5f1, dreamlikeart|samdoesart|kuvshinov
@@ -5552,6 +5552,7 @@ e5787969, ratatatat74
 e5795903, chibi
 e58f3d77, sks woman
 e5951679, reddit|best quality|medium quality|high quality|best aesthetic|normal aesthetic|bad aesthetic|r/gonewild|r/nsfw|r/RealGirls|r/cumsluts|r/LegalTeens|r/collegesluts|r/AsiansGoneWild|r/pussy|r/milf|r/adorableporn|r/ass|r/Nude_Selfie|r/pawg|r/boobs|r/celebnsfw|r/bigasses|r/juicyasians|r/Latinas|r/GodPussy|r/Amateur|r/xsmallgirls|r/18_19|r/Gonewild18|r/asshole|r/workgonewild|r/nsfwcosplay|r/palegirls|r/paag|r/asstastic|r/Upskirt|r/TooCuteForPorn|r/TinyTits|r/FitNakedChicks|r/altgonewild|r/traps|r/FemBoys|r/GWCouples|r/Boobies|r/CuteLittleButts|r/GirlswithGlasses|r/assholegonewild|r/PetiteGoneWild|r/BDSM
+e59db928, realistic
 e5a88774, bed room，living room，kitchen，studyroom，
 e5abe8cf, homme
 e5afc733, zrpgstyle
@@ -5855,7 +5856,8 @@ f263e029, Hentai
 f2676846, anime|manga|cartoon
 f26b7ad6, sam yang
 f287b25e, agp
-f2895168, tamawipho style
+f2895168, fashaydy style, shadyFayKrea2Turbo_10.safetensors
+f2895168, tamawipho style, sunKissesKrea2Turbo_10.safetensors
 f2ab07e5, 4n1m3rg3|4n1v3rs3|4n1t00n|4n1m1cs|Realistic|western comics|american comics|pixar|disney
 f2b82853, junobirch drag queen
 f2c88bf2, photo of zwx ouyangziyu
