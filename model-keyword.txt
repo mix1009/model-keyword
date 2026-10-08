@@ -1557,7 +1557,7 @@
 384b447c, aimoji
 38516484, centaur|taur|genie|slime|klingon|trill|twi'lek|tiny|giant|transformation sequence|ashe|zarya|moira|mercy
 3854ec98, 1girl|female focus|pin-up|, nectarineNymphsModel_animaV1_txt.safetensors
-3854ec98, furry, reedAnimaFurry_v11_txt.safetensors
+3854ec98, furry, reedAnimaFurry_v12_txt.safetensors
 3854ec98, masterpiece|best quality|amazing quality|highres|anime screenshot|anime coloring:1.6|anime screencap:1.7|, animaCustom_v12_txt.safetensors
 3854ec98, masterpiece|best quality|amazing quality|highres|dark atmosphere|anime screenshot|anime coloring:1.6|anime screencap:1.7|, animaCustom_v11_txt.safetensors
 3854ec98, masterpiece|best quality|highres|absurdres|3d|realistic, blendermixAnima_v1_txt.safetensors
@@ -4462,6 +4462,7 @@ b5453f75, OOKZAVampire Style, vampireStyle_V20.ckpt
 b5453f75, dbfantasyart style, fantasyArtStyle_fantasyArtStyleV15.ckpt
 b5453f75, dbfantasyart, fantasyArtStyle_fantasyArtStyleV18.ckpt
 b547ccf3, Impasto|digital art
+b54bcc40, furry
 b5564717, dal
 b56daca2, disney pixar style
 b591bf20, masterpiece|best quality
