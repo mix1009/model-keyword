@@ -1294,6 +1294,7 @@
 2b4f63c3, Sara Taylor|Green Sweater|Brown Hair|Green Eyes|Red Sneakers|Ripped Jeans|Black Beanie Hat
 2b694ba7, modelshoot style|nousr robot
 2b6f9ef6, pop art
+2b7d023d, xquess|post-cubist fragmented forms|expressive surrealism|bold gestural brushwork|geometric abstraction|dynamic composition|richly textured oil paint|dramatic contrasts
 2b8dc4ab, flower, testflowerrs_v10.safetensors
 2b8dc4ab, flowerz, flowerzz_177mb.safetensors
 2b95dd0a, polumna
@@ -2075,6 +2076,7 @@
 535bd851, fantasy illustration
 535bde27, anime girl
 536a8e48, mdjrny-v4 style|dreamlikeart
+53733335, asian woman
 537fce5a, Woman|Portrait
 5386e8fb, demoura artstyle
 538d7157, pcrc style
@@ -4312,6 +4314,7 @@ adb316a3, woman|real person|realistic, fluxSDLXAmateurReal_v10.safetensors
 adb822fd, everything
 addf5b58, fantasy|fantasy art|80's fantasy art|90's fantasy art|retro|photorealistic|realistic|watercolor|oil painting|science fiction|scifi|scifi fantasy art|D&D character|fantasy poster|analog|analog style|volumetric lighting|subsurface scattering|photoreal|fantasy character|perfect body|perfect legs|masterpiece|intricate|detailed|hyperrealistic
 ade8bdab, 2d|pixel art|sprite style
+adee6c75, asian woman
 adf18b48, Any
 ae19a9dd, pspp man
 ae224191, oil painting|traditional medium
@@ -5829,6 +5832,7 @@ f00b92e0, detailed|official art|colorful|accessories|fractal art|aesthetic|chine
 f00b95d9, 1girl|moyou
 f00d9299, HighHumanion
 f0279453, best quality|very detailed|high quality|extremely detailed|top quality|detailed background|
+f03b1203, vallezzia woman
 f045de7c, MILF
 f049f78e, Use any sampler with CFG 1-2 - High CFG will BAKE image
 f04ace1a, SpaceEngineersProps
