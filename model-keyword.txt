@@ -2360,6 +2360,7 @@
 5bc15c26, ofberecaigy style, overtimeHours_10.safetensors
 5bc15c26, raneymi eyes style, soulSparkIllustrious_10.safetensors
 5bc15c26, rebawisy style, illustratedArtistic_10.safetensors
+5bc15c26, regumbry style, Wicked_Rift_Illustrious_1.0.safetensors
 5bc15c26, rehabisy style, emberLantern_10.safetensors
 5bc15c26, reinhafy style, dramaQueen_10.safetensors
 5bc15c26, sadosebly style, samdoessexyBlend_10.safetensors
@@ -2739,6 +2740,7 @@
 6c62e23b, Game interface|game mechanics|tags|buttons||currency bar|paper background
 6c7102ea, botw style
 6c725561, stellaris
+6c781dd0, silbriounleashedpixart|stylized 3D feature animation
 6ca4896d, Jessewatters Person
 6cbb8c9b, fashion|man|woman
 6ccf7f6a, furry
@@ -6063,6 +6065,7 @@ f9474efa, masterpiece|best quality|high quality|Raw format|ultrahigh-res|reddit|
 f94d0758, flat color|no lineart|deformed|realistic|chibi|super deformed
 f963b223, REDDIT|BEST QUALITY|MEDIUM QUALITY|HIGH QUALITY|R/Amateur
 f963da04, 3dcharacter|3dcutecharacter|chibi|waves|cloud|gradient background|simple background
+f969752c, silbriounleashedpixart|stylized 3D feature animation
 f9715a85, illustration|fantasy|assassin
 f9718fa8, realistic|photorealistic
 f973721a, jenniferconnelly
